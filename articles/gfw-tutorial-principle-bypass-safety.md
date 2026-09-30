@@ -2,11 +2,11 @@
 
 很多人翻墙就像盲人摸象，复制别人给的配置，一失效就抓瞎。这个视频不是为了给你提供免费订阅，而是为了把抽象的技术对抗还原成底层的运行逻辑。
 
-> 完整图文与持续更新版本：[【小白必看】绝密翻墙科普：1小时懂GFW原理、主流协议、安全防泄漏](https://869hr.uk/2026/tutorials/gfw-tutorial-principle-bypass-safety/)
+> 完整图文与持续更新版本：[【小白必看】绝密翻墙科普：1小时懂GFW原理、主流协议、安全防泄漏](https://869hr.uk/2026/tutorial/gfw-tutorial-principle-bypass-safety/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/gfw-tutorial-principle-bypass-safety/
+- 原文：https://869hr.uk/2026/tutorial/gfw-tutorial-principle-bypass-safety/
 - 更新：2026-04-19
 - 分类：教程
 - 关键词：VPN、网络安全
@@ -506,4 +506,4 @@ dns:
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/gfw-tutorial-principle-bypass-safety/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/gfw-tutorial-principle-bypass-safety/)

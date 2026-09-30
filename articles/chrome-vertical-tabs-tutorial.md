@@ -2,11 +2,11 @@
 
 手把手教你开启 Chrome 垂直标签页：更新版本、Flags 启用 Vertical Tabs、外观设置打开，三步完成，宽屏效率大提升。
 
-> 完整图文与持续更新版本：[Chrome 垂直标签页怎么开？只需三步，保姆级教程：从 Flags 开启到外观设置全流程，狠狠提升效率！](https://869hr.uk/2026/tutorials/chrome-vertical-tabs-tutorial/)
+> 完整图文与持续更新版本：[Chrome 垂直标签页怎么开？只需三步，保姆级教程：从 Flags 开启到外观设置全流程，狠狠提升效率！](https://869hr.uk/2026/tutorial/chrome-vertical-tabs-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/chrome-vertical-tabs-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/chrome-vertical-tabs-tutorial/
 - 更新：2026-03-12
 - 分类：教程
 - 关键词：效率工具
@@ -109,4 +109,4 @@ Chrome 地址栏输入：chrome://flags
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/chrome-vertical-tabs-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/chrome-vertical-tabs-tutorial/)

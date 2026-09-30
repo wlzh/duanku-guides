@@ -2,11 +2,11 @@
 
 本文详细介绍如何利用Cloudflare Workers和KV存储开发无需服务器的微信群永久二维码生成工具，支持自定义样式、密码保护和实时更新，包含完整部署教程和功能扩展建议，帮助开发者快速构建稳定的社群管理工具。
 
-> 完整图文与持续更新版本：[微信群永久二维码生成工具指南 | 2025最新版](https://869hr.uk/2025/tutorials/qrcode-generate/)
+> 完整图文与持续更新版本：[微信群永久二维码生成工具指南 | 2025最新版](https://869hr.uk/2025/tutorial/qrcode-generate/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/qrcode-generate/
+- 原文：https://869hr.uk/2025/tutorial/qrcode-generate/
 - 更新：2025-03-16
 - 分类：教程
 - 关键词：微信、效率工具、Cloudflare、开发工具
@@ -73,7 +73,7 @@ wrangler deploy
 ```html
 <!-- 示例：深色模式模板 -->
 <div class="qrcode-container dark-mode">
-  <img src="https://869hr.uk/2025/tutorials/qrcode-generate/%7B%7Blogo%7D%7D" alt="社群LOGO">
+  <img src="https://869hr.uk/2025/tutorial/qrcode-generate/%7B%7Blogo%7D%7D" alt="社群LOGO">
   <h2>{{title}}</h2>
   <div class="qrcode-wrapper">
     {{> qrcode}}
@@ -137,4 +137,4 @@ async function handlePassword(request) {
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/qrcode-generate/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/qrcode-generate/)

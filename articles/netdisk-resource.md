@@ -2,11 +2,11 @@
 
 本文深度解析8个顶级网盘搜索引擎，涵盖皮卡搜索、奈斯搜索、学霸盘等工具，助您快速获取阿里云盘/百度网盘/夸克网盘等平台的电影、学习资料、电子书资源。包含详细功能解析和直达链接，全网资源一网打尽。
 
-> 完整图文与持续更新版本：[8个超好用的网盘搜索引擎推荐 | 免费查找网盘资源神器大揭秘](https://869hr.uk/2025/online-business/netdisk-resource/)
+> 完整图文与持续更新版本：[8个超好用的网盘搜索引擎推荐 | 免费查找网盘资源神器大揭秘](https://869hr.uk/2025/online-earning/netdisk-resource/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/online-business/netdisk-resource/
+- 原文：https://869hr.uk/2025/online-earning/netdisk-resource/
 - 更新：2025-03-22
 - 分类：网赚项目
 - 关键词：在线工具、免费资源
@@ -134,4 +134,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/online-business/netdisk-resource/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/online-earning/netdisk-resource/)

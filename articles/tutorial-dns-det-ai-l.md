@@ -2,11 +2,11 @@
 
 这期视频带你零基础系统全面地了解DNS域名系统的查询全过程，从根域到权威详解DNS工作原理与安全防篡改
 
-> 完整图文与持续更新版本：[【零基础教程】系统了解DNS查询全过程：从根域到权威，详解DNS工作原理与安全防篡改！](https://869hr.uk/2026/tutorials/tutorial-dns-det-ai-l/)
+> 完整图文与持续更新版本：[【零基础教程】系统了解DNS查询全过程：从根域到权威，详解DNS工作原理与安全防篡改！](https://869hr.uk/2026/tutorial/tutorial-dns-det-ai-l/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/tutorial-dns-det-ai-l/
+- 原文：https://869hr.uk/2026/tutorial/tutorial-dns-det-ai-l/
 - 更新：2026-04-19
 - 分类：教程
 - 关键词：VPN、网络工具、域名、教程
@@ -369,4 +369,4 @@ Internet现行的TCP/IP协议一直有一个没有解决的问题：IP是可以�
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/tutorial-dns-det-ai-l/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/tutorial-dns-det-ai-l/)

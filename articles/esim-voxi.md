@@ -2,11 +2,11 @@
 
 VOXI eSIM，作为Vodafone旗下的创新品牌，为学生党带来了无需KYC、无需开卡费的英国手机卡新选择。本文将手把手教你如何利用教育邮箱免费领取VOXI eSIM，并详细指导激活、eSIM安装、号码查询以及最重要的保号策略。无论你是需要一个英国本地号码用于注册海外服务，还是希望享受零月租的便捷通讯，这篇2025
 
-> 完整图文与持续更新版本：[VOXI eSIM 免费领取与激活全攻略，需要edu学生教育邮箱](https://869hr.uk/2025/tutorials/esim-voxi/)
+> 完整图文与持续更新版本：[VOXI eSIM 免费领取与激活全攻略，需要edu学生教育邮箱](https://869hr.uk/2025/tutorial/esim-voxi/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/esim-voxi/
+- 原文：https://869hr.uk/2025/tutorial/esim-voxi/
 - 更新：2025-08-09
 - 分类：教程
 - 关键词：eSIM、免费资源
@@ -267,4 +267,4 @@ VOXI eSIM，作为Vodafone旗下的创新品牌，为学生党带来了无需KYC
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/esim-voxi/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/esim-voxi/)

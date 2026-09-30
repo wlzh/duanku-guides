@@ -2,11 +2,11 @@
 
 这篇教程围绕币安开户、KYC、人民币买稳定币、稳定币买比特币，以及稳定币再换回人民币的完整流程展开，适合刚入门的新手快速建立整体认知。
 
-> 完整图文与持续更新版本：[【小白必看】5分钟极速上手，如何人民币到稳定币到美金，如何稳定币到美金到人民币，最新最全充值提现买币卖币，币安开户教学](https://869hr.uk/2026/tutorials/binance-rmb-usdt-usd-cashout-guide/)
+> 完整图文与持续更新版本：[【小白必看】5分钟极速上手，如何人民币到稳定币到美金，如何稳定币到美金到人民币，最新最全充值提现买币卖币，币安开户教学](https://869hr.uk/2026/tutorial/binance-rmb-usdt-usd-cashout-guide/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/binance-rmb-usdt-usd-cashout-guide/
+- 原文：https://869hr.uk/2026/tutorial/binance-rmb-usdt-usd-cashout-guide/
 - 更新：2026-03-26
 - 分类：教程
 - 关键词：加密货币、教程
@@ -124,4 +124,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/binance-rmb-usdt-usd-cashout-guide/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/binance-rmb-usdt-usd-cashout-guide/)

@@ -2,11 +2,11 @@
 
 2026最新德国沃达丰eSIM申请全攻略：0开卡费0月租，每年保号仅需约1元。详细演示Wise手动入账和N26自动定时转账两种保号方式，国行手机配合XeSIM写卡器也可使用，保姆级图文教程。
 
-> 完整图文与持续更新版本：[🔥2026最新窗口期0开卡0月租！德国沃达丰eSIM申请全攻略：国产手机秒变eSIM手机，掌握Wise与N26双重入账保号，每年仅需1元 手把手喂饭教程](https://869hr.uk/2026/tutorials/vodafone-esim-wise-n26-guide/)
+> 完整图文与持续更新版本：[🔥2026最新窗口期0开卡0月租！德国沃达丰eSIM申请全攻略：国产手机秒变eSIM手机，掌握Wise与N26双重入账保号，每年仅需1元 手把手喂饭教程](https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/vodafone-esim-wise-n26-guide/
+- 原文：https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/
 - 更新：2026-02-18
 - 分类：教程
 - 关键词：eSIM、Wise、跨境支付
@@ -133,4 +133,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/vodafone-esim-wise-n26-guide/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/)

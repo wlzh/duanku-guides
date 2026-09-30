@@ -2,11 +2,11 @@
 
 详细教程：【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！，涵盖视频教程等知识点
 
-> 完整图文与持续更新版本：[【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！](https://869hr.uk/2026/tutorials/6-chatgpt-plus-tutorial/)
+> 完整图文与持续更新版本：[【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！](https://869hr.uk/2026/tutorial/6-chatgpt-plus-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/6-chatgpt-plus-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/6-chatgpt-plus-tutorial/
 - 更新：2026-04-16
 - 分类：教程
 - 关键词：教程
@@ -166,4 +166,4 @@ AI产品&技术相关专辑 [www.youtube.com](https://www.youtube.com/playlist?l
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/6-chatgpt-plus-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/6-chatgpt-plus-tutorial/)

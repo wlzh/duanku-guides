@@ -9,15 +9,15 @@
 ## 专题导航
 
 - [ai](topics/ai.md)：3 篇
-- [学习资源](topics/learning-resources.md)：3 篇
+- [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇
-- [网赚项目](topics/online-business.md)：3 篇
+- [网赚项目](topics/online-earning.md)：3 篇
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
 - [技术](topics/tech.md)：140 篇
 - [工具](topics/tools.md)：13 篇
-- [教程](topics/tutorials.md)：44 篇
+- [教程](topics/tutorial.md)：44 篇
 - [网络安全](topics/uncategorized.md)：3 篇
 
 ## 最近更新

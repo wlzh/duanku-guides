@@ -2,11 +2,11 @@
 
 还在为海外支付烦恼吗？YPT卡来啦！本文详细介绍YPT卡的注册流程、优势特点以及各种使用场景，更有专属优惠码等你来拿！轻松解决跨境支付难题，畅享全球购物乐趣！超过200字的详细介绍，助力SEO优化。
 
-> 完整图文与持续更新版本：[解锁海外支付新姿势：YPT卡申请全攻略，附专属优惠码！](https://869hr.uk/2025/tutorials/bank-card-ypt/)
+> 完整图文与持续更新版本：[解锁海外支付新姿势：YPT卡申请全攻略，附专属优惠码！](https://869hr.uk/2025/tutorial/bank-card-ypt/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/bank-card-ypt/
+- 原文：https://869hr.uk/2025/tutorial/bank-card-ypt/
 - 更新：2025-08-02
 - 分类：教程
 - 关键词：跨境支付、信用卡、海外应用
@@ -86,4 +86,4 @@ YPT卡作为一种便捷、安全的跨境支付工具，正在改变我们的�
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/bank-card-ypt/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/bank-card-ypt/)

@@ -2,11 +2,11 @@
 
 详细教程：小白必看国产手机拥有保号神卡Giffgaff eSIM卡：giffgaff 免 root 开通及激活全教程，涵盖视频教程等知识点
 
-> 完整图文与持续更新版本：[小白必看国产手机拥有保号神卡Giffgaff eSIM卡：giffgaff 免 root 开通及激活全教程](https://869hr.uk/2026/tutorials/card-giffgaff-esim-root-tutorial/)
+> 完整图文与持续更新版本：[小白必看国产手机拥有保号神卡Giffgaff eSIM卡：giffgaff 免 root 开通及激活全教程](https://869hr.uk/2026/tutorial/card-giffgaff-esim-root-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/card-giffgaff-esim-root-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/card-giffgaff-esim-root-tutorial/
 - 更新：2026-04-17
 - 分类：教程
 - 关键词：教程
@@ -212,4 +212,4 @@ AI产品&技术相关专辑 [www.youtube.com](https://www.youtube.com/playlist?l
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/card-giffgaff-esim-root-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/card-giffgaff-esim-root-tutorial/)

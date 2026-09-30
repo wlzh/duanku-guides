@@ -2,11 +2,11 @@
 
 本教程详解Manus AI全平台资料的获取方式，包含持续更新的技术白皮书、实战教程、券商研报等核心资源，提供最新邀请码申请全流程指引，助您快速掌握AI代理开发与行业应用。教程附夸克网盘资源下载地址，涵盖智能体开发全生命周期文档。
 
-> 完整图文与持续更新版本：[Manus全网最全资料 Manus邀请码申请手把手教程（持续更新中，收藏这一个就够了），多个网盘资源。](https://869hr.uk/2025/tutorials/manus-knowledge/)
+> 完整图文与持续更新版本：[Manus全网最全资料 Manus邀请码申请手把手教程（持续更新中，收藏这一个就够了），多个网盘资源。](https://869hr.uk/2025/tutorial/manus-knowledge/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/manus-knowledge/
+- 原文：https://869hr.uk/2025/tutorial/manus-knowledge/
 - 更新：2025-03-07
 - 分类：教程
 - 关键词：AI工具、技术交流、免费资源、效率工具
@@ -102,4 +102,4 @@ A：关注本文底部「资源维护日志」获取最新链接
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/manus-knowledge/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/manus-knowledge/)

@@ -2,11 +2,11 @@
 
 还在为Google IDX免费VPS的24小时URL过期烦恼吗？本教程是系列第二篇，紧接上一篇的VPS创建，手把手教你利用强大的Cloudflare Zero Trust服务为你的IDX免费VPS搭建一条永久隧道。这意味着你的VPS将拥有一个固定的域名，不再受24小时URL失效的困扰。文章详细讲解了如何在Cloudfl
 
-> 完整图文与持续更新版本：[Google IDX永久免费主机VPS创建及永久隧道视频教程（二）](https://869hr.uk/2025/tutorials/google-idx-vps-register2/)
+> 完整图文与持续更新版本：[Google IDX永久免费主机VPS创建及永久隧道视频教程（二）](https://869hr.uk/2025/tutorial/google-idx-vps-register2/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/google-idx-vps-register2/
+- 原文：https://869hr.uk/2025/tutorial/google-idx-vps-register2/
 - 更新：2025-05-11
 - 分类：教程
 - 关键词：VPS、Google、Cloudflare
@@ -59,4 +59,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/google-idx-vps-register2/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/google-idx-vps-register2/)

@@ -2,11 +2,11 @@
 
 还在为海外应用支付问题烦恼吗？DogPay狗卡帮你轻松解决！本文详细介绍DogPay狗卡的申请流程、充值方式、使用技巧，以及如何加入TG官方群获取最新资讯和技术支持。更有针对苹果用户的港区App Store账号注册攻略，让你畅游海外应用无障碍！字数超过200，满足SEO需求。
 
-> 完整图文与持续更新版本：[告别支付烦恼：DogPay狗卡申请及使用完全指南 | 畅游海外应用，一卡在手](https://869hr.uk/2025/tutorials/bank-card-dogpay/)
+> 完整图文与持续更新版本：[告别支付烦恼：DogPay狗卡申请及使用完全指南 | 畅游海外应用，一卡在手](https://869hr.uk/2025/tutorial/bank-card-dogpay/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/bank-card-dogpay/
+- 原文：https://869hr.uk/2025/tutorial/bank-card-dogpay/
 - 更新：2025-08-10
 - 分类：教程
 - 关键词：跨境支付、海外应用、苹果支付、信用卡
@@ -109,4 +109,4 @@ DogPay狗卡是解决海外支付问题的一大利器，让你畅游海外应�
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/bank-card-dogpay/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/bank-card-dogpay/)

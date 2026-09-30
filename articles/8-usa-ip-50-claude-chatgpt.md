@@ -2,11 +2,11 @@
 
 详细教程：拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略 50次刷新机会，亲测轻松解锁Claude/ChatGPT！，涵盖ip属性、VPN、ChatGPT等知识点
 
-> 完整图文与持续更新版本：[拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略  50次刷新机会，亲测轻松解锁Claude/ChatGPT！](https://869hr.uk/2026/tutorials/8-usa-ip-50-claude-chatgpt/)
+> 完整图文与持续更新版本：[拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略  50次刷新机会，亲测轻松解锁Claude/ChatGPT！](https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/8-usa-ip-50-claude-chatgpt/
+- 原文：https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/
 - 更新：2026-03-22
 - 分类：教程
 - 关键词：ip属性、VPN、ChatGPT、Claude、网络工具
@@ -103,4 +103,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/8-usa-ip-50-claude-chatgpt/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/)

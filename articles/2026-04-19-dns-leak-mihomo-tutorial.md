@@ -2,11 +2,11 @@
 
 本文深入讲解mihomo内核的DNS查询工作方式，详细分析Redir-host和Fake-IP两种DNS模式与SOCKS/HTTP和TUN两种入站方式的四种搭配下的DNS解析流程，找出DNS泄露的根本原因并给出完整的优化配置方案。适合零基础小白理解DNS泄露原理与防护。
 
-> 完整图文与持续更新版本：[为什么加了节点还是被查到？一篇文章带你彻底了解Mihomo DNS查询工作方式，解决DNS泄露](https://869hr.uk/2026/uncategorized/2026-04-19-dns-leak-mihomo-tutorial/)
+> 完整图文与持续更新版本：[为什么加了节点还是被查到？一篇文章带你彻底了解Mihomo DNS查询工作方式，解决DNS泄露](https://869hr.uk/2026/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/2026-04-19-dns-leak-mihomo-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/uncategorized/2026-04-19-dns-leak-mihomo-tutorial/
+- 原文：https://869hr.uk/2026/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/2026-04-19-dns-leak-mihomo-tutorial/
 - 更新：2026-04-19
 - 分类：网络安全
 - 关键词：VPN、网络安全、软件安装
@@ -519,4 +519,4 @@ tun:
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/uncategorized/2026-04-19-dns-leak-mihomo-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/2026-04-19-dns-leak-mihomo-tutorial/)

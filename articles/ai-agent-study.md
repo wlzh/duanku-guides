@@ -2,11 +2,11 @@
 
 还在苦苦寻找AI Agents的学习资料？别找啦！这篇博客为你精选了8个免费又优质的学习资源，从Google白皮书到MIT专业著作，再到Hugging Face实战课程，应有尽有，助你快速掌握AI Agents的核心技能，弯道超车，就在今天！
 
-> 完整图文与持续更新版本：[AI Agents免费学习8个宝藏级资源🚀，不学你就OUT了！](https://869hr.uk/2025/learning-resources/ai-agent-study/)
+> 完整图文与持续更新版本：[AI Agents免费学习8个宝藏级资源🚀，不学你就OUT了！](https://869hr.uk/2025/learning-resource/ai-agent-study/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/learning-resources/ai-agent-study/
+- 原文：https://869hr.uk/2025/learning-resource/ai-agent-study/
 - 更新：2025-02-24
 - 分类：学习资源
 - 关键词：AI工具、AI前沿、知识分享、AI、学习资源
@@ -105,4 +105,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/learning-resources/ai-agent-study/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/learning-resource/ai-agent-study/)

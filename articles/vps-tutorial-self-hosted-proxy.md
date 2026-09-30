@@ -2,11 +2,11 @@
 
 从服务器选购到节点搭建的全流程保姆级教程，涵盖线路选择、IP质量、安全加固、节点搭建、中转分流等内容。
 
-> 完整图文与持续更新版本：[从购买服务器到自建节点的全流程保姆级教程](https://869hr.uk/2026/tutorials/vps-tutorial-self-hosted-proxy/)
+> 完整图文与持续更新版本：[从购买服务器到自建节点的全流程保姆级教程](https://869hr.uk/2026/tutorial/vps-tutorial-self-hosted-proxy/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/vps-tutorial-self-hosted-proxy/
+- 原文：https://869hr.uk/2026/tutorial/vps-tutorial-self-hosted-proxy/
 - 更新：2026-04-18
 - 分类：教程
 - 关键词：VPS、VPN、ip属性
@@ -627,4 +627,4 @@ clash软件的中转和分流功能强大，自建节点脚本可以通过clash�
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/vps-tutorial-self-hosted-proxy/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/vps-tutorial-self-hosted-proxy/)

@@ -2,11 +2,11 @@
 
 Google 正在为符合条件的美国学生提供一项福利：免费获得 15 个月的 Google One AI Premium 订阅。
 
-> 完整图文与持续更新版本：[Google one (Gemini Advanced) 学生15个月免费优惠领取指南](https://869hr.uk/2025/tutorials/google-one-gemini-students/)
+> 完整图文与持续更新版本：[Google one (Gemini Advanced) 学生15个月免费优惠领取指南](https://869hr.uk/2025/tutorial/google-one-gemini-students/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/google-one-gemini-students/
+- 原文：https://869hr.uk/2025/tutorial/google-one-gemini-students/
 - 更新：2025-05-03
 - 分类：教程
 - 关键词：Google
@@ -87,4 +87,4 @@ https://gemini.google/students/
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/google-one-gemini-students/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/google-one-gemini-students/)

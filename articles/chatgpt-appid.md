@@ -2,11 +2,11 @@
 
 想要更便宜地订阅ChatGPT Plus？本文详细介绍了如何通过注册尼日利亚区的Apple ID，以每月仅约$8的价格订阅ChatGPT Plus，相比美区订阅每月$20，能节省一大笔开销。包含修改手机地区、注册Apple ID、购买礼品卡、订阅ChatGPT Plus等详细步骤，让你轻松享受ChatGPT
 
-> 完整图文与持续更新版本：[省钱秘籍：手把手教你用尼日利亚区AppleID订阅 ChatGPT Plus，每月只要$8](https://869hr.uk/2025/tutorials/chatgpt-appid/)
+> 完整图文与持续更新版本：[省钱秘籍：手把手教你用尼日利亚区AppleID订阅 ChatGPT Plus，每月只要$8](https://869hr.uk/2025/tutorial/chatgpt-appid/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/chatgpt-appid/
+- 原文：https://869hr.uk/2025/tutorial/chatgpt-appid/
 - 更新：2025-08-09
 - 分类：教程
 - 关键词：ChatGPT、iOS、Apple ID、账号注册、教程
@@ -112,4 +112,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/chatgpt-appid/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/chatgpt-appid/)

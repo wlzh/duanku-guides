@@ -2,11 +2,11 @@
 
 本文详细介绍了在macOS系统上实现微信(4.0.6.240版)双开的方法，通过复制微信程序、修改唯一标识符、重新签名等步骤，让你轻松拥有多个微信账号，工作生活互不干扰。同时提供了打包命令教程，方便快捷地启动微信分身。适用于需要同时管理多个微信账号的用户。
 
-> 完整图文与持续更新版本：[macOS 微信最新版本(4.0.6.240版)双开及N开教程，主打免安装&原生&安全&可升级](https://869hr.uk/2025/tutorials/wechat-dual-open/)
+> 完整图文与持续更新版本：[macOS 微信最新版本(4.0.6.240版)双开及N开教程，主打免安装&原生&安全&可升级](https://869hr.uk/2025/tutorial/wechat-dual-open/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/wechat-dual-open/
+- 原文：https://869hr.uk/2025/tutorial/wechat-dual-open/
 - 更新：2025-08-17
 - 分类：教程
 - 关键词：微信、软件安装、教程、效率工具
@@ -164,4 +164,4 @@ nohup /Applications/WeChatDual.app/Contents/MacOS/WeChat >/dev/null 2>&1 &
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/wechat-dual-open/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/wechat-dual-open/)

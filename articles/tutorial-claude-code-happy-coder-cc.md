@@ -2,11 +2,11 @@
 
 分享开源项目 Happy Coder，让你用手机远程控制电脑上的 Claude Code，支持全链路 E2EE 加密，无需公网 IP
 
-> 完整图文与持续更新版本：[【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器](https://869hr.uk/2026/tutorials/tutorial-claude-code-happy-coder-cc/)
+> 完整图文与持续更新版本：[【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器](https://869hr.uk/2026/tutorial/tutorial-claude-code-happy-coder-cc/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/tutorial-claude-code-happy-coder-cc/
+- 原文：https://869hr.uk/2026/tutorial/tutorial-claude-code-happy-coder-cc/
 - 更新：2026-04-17
 - 分类：教程
 - 关键词：教程、Claude、开发工具、开源项目
@@ -179,4 +179,4 @@ Claude、OpenAI Codex等充值 [bewild.ai](https://bewild.ai?code=GXJDIAN)
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/tutorial-claude-code-happy-coder-cc/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/tutorial-claude-code-happy-coder-cc/)

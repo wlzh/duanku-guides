@@ -2,11 +2,11 @@
 
 想免费获取各种教育优惠，比如白嫖Gemini高级版？一个美国大学的.edu教育邮箱是你的绝佳敲门砖！本文将手把手教你如何免费注册美国大学的.edu教育邮箱。从准备“美国身份”信息，到全程使用美国节点进行在线申请，再到最后的账户激活步骤，每一步都详细讲解。文章特别强调了需要保存的关键信息以及如何处理申请过程中可能遇到的问
 
-> 完整图文与持续更新版本：[白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](https://869hr.uk/2025/tutorials/edu-asu-invite/)
+> 完整图文与持续更新版本：[白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](https://869hr.uk/2025/tutorial/edu-asu-invite/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/edu-asu-invite/
+- 原文：https://869hr.uk/2025/tutorial/edu-asu-invite/
 - 更新：2025-05-14
 - 分类：教程
 - 关键词：邮箱、免费资源、学习资源、教程
@@ -44,4 +44,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/edu-asu-invite/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/edu-asu-invite/)

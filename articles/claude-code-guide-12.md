@@ -2,11 +2,11 @@
 
 根据账号异常经历整理 Claude Code 使用中的十二项风险控制建议，涵盖登录环境、调用节奏、支付与账号行为的一致性检查。
 
-> 完整图文与持续更新版本：[Claude Code 被封号无数？防封号终极指南，12条硬核规则助你构建'正常人类行为档案'！](https://869hr.uk/2026/tutorials/claude-code-guide-12/)
+> 完整图文与持续更新版本：[Claude Code 被封号无数？防封号终极指南，12条硬核规则助你构建'正常人类行为档案'！](https://869hr.uk/2026/tutorial/claude-code-guide-12/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/claude-code-guide-12/
+- 原文：https://869hr.uk/2026/tutorial/claude-code-guide-12/
 - 更新：2026-04-22
 - 分类：教程
 - 关键词：Claude Code、AI工具、账号安全、防封号、教程
@@ -179,4 +179,4 @@ AI产品&技术相关专辑 [www.youtube.com](https://www.youtube.com/playlist?l
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/claude-code-guide-12/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/claude-code-guide-12/)

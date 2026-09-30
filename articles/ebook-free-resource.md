@@ -2,11 +2,11 @@
 
 还在花钱买书？OUT啦！这份2025年精选的10个免费电子书网站清单，涵盖Project Gutenberg、Open Library等知名平台，让你零成本畅读海量好书，告别书荒，提升自我，赶紧收藏备用！
 
-> 完整图文与持续更新版本：[2025 电子书白嫖指南：10个免费读书网站，不花一分钱读遍全球好书！](https://869hr.uk/2025/learning-resources/ebook-free-resource/)
+> 完整图文与持续更新版本：[2025 电子书白嫖指南：10个免费读书网站，不花一分钱读遍全球好书！](https://869hr.uk/2025/learning-resource/ebook-free-resource/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/learning-resources/ebook-free-resource/
+- 原文：https://869hr.uk/2025/learning-resource/ebook-free-resource/
 - 更新：2025-02-21
 - 分类：学习资源
 - 关键词：免费资源、在线工具、学习资源
@@ -184,4 +184,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/learning-resources/ebook-free-resource/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/learning-resource/ebook-free-resource/)

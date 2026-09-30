@@ -2,11 +2,11 @@
 
 国内用户如何仅用身份证+大陆手机号完成 Wise 开户？本篇整理完整注册与 KYC 认证流程，覆盖跨境收款、海外账户与虚拟卡使用场景。
 
-> 完整图文与持续更新版本：[国内如何拥有一张海外银行卡？完美平替香港卡！Wise免出国极速开户全教程（身份证+国内手机号即可）](https://869hr.uk/2026/tutorials/wise-mainland-phone-id-register-guide/)
+> 完整图文与持续更新版本：[国内如何拥有一张海外银行卡？完美平替香港卡！Wise免出国极速开户全教程（身份证+国内手机号即可）](https://869hr.uk/2026/tutorial/wise-mainland-phone-id-register-guide/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/wise-mainland-phone-id-register-guide/
+- 原文：https://869hr.uk/2026/tutorial/wise-mainland-phone-id-register-guide/
 - 更新：2026-02-23
 - 分类：教程
 - 关键词：Wise、跨境支付、网赚项目
@@ -107,4 +107,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/wise-mainland-phone-id-register-guide/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/wise-mainland-phone-id-register-guide/)

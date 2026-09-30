@@ -2,11 +2,11 @@
 
 这是一份最全的全球免费VPS（虚拟专用服务器）申请指南。本文详细盘点了包括Oracle Cloud（甲骨文云）、Google Cloud（GCP）、AWS、Azure在内的16个提供永久免费或长期试用的云服务器资源。内容涵盖每个VPS的特点、申请要求、注意事项以及直达申请链接。无论你是想学习Linux、搭建个人博客、测
 
-> 完整图文与持续更新版本：[2025年全球免费VPS白嫖指南（16个免费服务器资源大盘点）](https://869hr.uk/2025/tutorials/free-vps/)
+> 完整图文与持续更新版本：[2025年全球免费VPS白嫖指南（16个免费服务器资源大盘点）](https://869hr.uk/2025/tutorial/free-vps/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/free-vps/
+- 原文：https://869hr.uk/2025/tutorial/free-vps/
 - 更新：2025-07-10
 - 分类：教程
 - 关键词：VPS、教程
@@ -140,4 +140,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/free-vps/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/free-vps/)

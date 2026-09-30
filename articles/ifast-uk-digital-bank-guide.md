@@ -2,11 +2,11 @@
 
 手把手带你申请iFAST英国数字银行，0门槛无管理费，活期高达4%年化利率，支持国内身份证/护照，完美衔接Wise和盈透证券，港美股出入金优质通道。
 
-> 完整图文与持续更新版本：[iFAST英国数字银行在线开户：活期4%高息，0门槛0管理费，支持身份证/护照，出海收付款，港美股出入金神器！保姆级教程！](https://869hr.uk/2026/tutorials/ifast-uk-digital-bank-guide/)
+> 完整图文与持续更新版本：[iFAST英国数字银行在线开户：活期4%高息，0门槛0管理费，支持身份证/护照，出海收付款，港美股出入金神器！保姆级教程！](https://869hr.uk/2026/tutorial/ifast-uk-digital-bank-guide/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/ifast-uk-digital-bank-guide/
+- 原文：https://869hr.uk/2026/tutorial/ifast-uk-digital-bank-guide/
 - 更新：2026-03-11
 - 分类：教程
 - 关键词：跨境支付
@@ -129,4 +129,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/ifast-uk-digital-bank-guide/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/ifast-uk-digital-bank-guide/)

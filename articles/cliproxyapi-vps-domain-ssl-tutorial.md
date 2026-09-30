@@ -2,11 +2,11 @@
 
 这篇教程围绕 CLIProxyAPI 的完整部署流程展开，涵盖 VPS 准备、IP 检测、一键部署、Systemd 守护进程、防火墙配置、域名解析、Nginx 反向代理、SSL 证书申请与自动续期的完整流程。
 
-> 完整图文与持续更新版本：[CLIProxyAPI 部署教程：VPS、域名、SSL 与远程调用完整配置](https://869hr.uk/2026/tutorials/cliproxyapi-vps-domain-ssl-tutorial/)
+> 完整图文与持续更新版本：[CLIProxyAPI 部署教程：VPS、域名、SSL 与远程调用完整配置](https://869hr.uk/2026/tutorial/cliproxyapi-vps-domain-ssl-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/cliproxyapi-vps-domain-ssl-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/cliproxyapi-vps-domain-ssl-tutorial/
 - 更新：2026-05-04
 - 分类：教程
 - 关键词：开发工具、VPS、Cloudflare、OpenClaw、SSL证书
@@ -479,4 +479,4 @@ remote-management:
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/cliproxyapi-vps-domain-ssl-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/cliproxyapi-vps-domain-ssl-tutorial/)

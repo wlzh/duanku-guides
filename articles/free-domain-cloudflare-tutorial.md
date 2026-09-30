@@ -2,11 +2,11 @@
 
 目前全网好用的永久免费域名注册方案！不需要绑定任何信用卡，仅需一个常用邮箱，就能一次性注册6个免费域名。
 
-> 完整图文与持续更新版本：[永久免费域名注册绑定全攻略🌐 无需信用卡，完美挂靠Cloudflare，建站/搭节点必备，且可商业化！(一个邮箱白嫖6个) | 零基础喂饭教程](https://869hr.uk/2026/tutorials/free-domain-cloudflare-tutorial/)
+> 完整图文与持续更新版本：[永久免费域名注册绑定全攻略🌐 无需信用卡，完美挂靠Cloudflare，建站/搭节点必备，且可商业化！(一个邮箱白嫖6个) | 零基础喂饭教程](https://869hr.uk/2026/tutorial/free-domain-cloudflare-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/free-domain-cloudflare-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/free-domain-cloudflare-tutorial/
 - 更新：2026-02-22
 - 分类：教程
 - 关键词：域名、Cloudflare、教程、网赚项目、技术交流
@@ -91,4 +91,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/free-domain-cloudflare-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/free-domain-cloudflare-tutorial/)

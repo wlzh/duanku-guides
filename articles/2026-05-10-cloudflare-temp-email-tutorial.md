@@ -2,11 +2,11 @@
 
 2026最新Cloudflare临时邮箱搭建教程，零成本自建域名邮箱，支持无限前缀，D1数据库+KV缓存+Workers+Pages，小白20分钟搞定
 
-> 完整图文与持续更新版本：[【2026最新】零成本自建Cloudflare临时邮箱！无限前缀域名邮箱，小白保姆级教程部署指南](https://869hr.uk/2026/uncategorized/2026-05-10-cloudflare-temp-email-tutorial/)
+> 完整图文与持续更新版本：[【2026最新】零成本自建Cloudflare临时邮箱！无限前缀域名邮箱，小白保姆级教程部署指南](https://869hr.uk/2026/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/2026-05-10-cloudflare-temp-email-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/uncategorized/2026-05-10-cloudflare-temp-email-tutorial/
+- 原文：https://869hr.uk/2026/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/2026-05-10-cloudflare-temp-email-tutorial/
 - 更新：2026-05-10
 - 分类：视频教程
 - 关键词：教程、Cloudflare、开源项目、邮箱
@@ -280,4 +280,4 @@ https://linux.do/t/topic/1801403
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/uncategorized/2026-05-10-cloudflare-temp-email-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/2026-05-10-cloudflare-temp-email-tutorial/)

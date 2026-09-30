@@ -2,11 +2,11 @@
 
 还在羡慕别人用Stripe信用卡丝滑支付？还在为没有香港卡而发愁？别担心！本文为你带来最全Stripe信用卡申请攻略，无论有没有香港卡，都能轻松搞定！更有视频教程加持，小白也能秒变老司机！
 
-> 完整图文与持续更新版本：[个人Stripe信用卡？有无香港卡都可，2025 保姆级教程来啦！💳](https://869hr.uk/2025/tutorials/stripe-account-register/)
+> 完整图文与持续更新版本：[个人Stripe信用卡？有无香港卡都可，2025 保姆级教程来啦！💳](https://869hr.uk/2025/tutorial/stripe-account-register/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/stripe-account-register/
+- 原文：https://869hr.uk/2025/tutorial/stripe-account-register/
 - 更新：2025-02-21
 - 分类：教程
 - 关键词：Stripe、信用卡、跨境支付、教程、苹果支付
@@ -107,4 +107,4 @@ TG社群：[t.me](https://t.me/ytalchemy)
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/stripe-account-register/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/stripe-account-register/)

@@ -2,11 +2,11 @@
 
 详细教程：2025永久免费节点！会用Google搜索即可获取，支持v2ray、Clash、ShadowRocket、Surge、Trojan，全平台可用#翻墙
 
-> 完整图文与持续更新版本：[2025永久免费节点！会用Google搜索即可获取，支持v2ray、Clash、ShadowRocket、Surge、Trojan，全平台可用#翻墙](https://869hr.uk/2025/tutorials/vpn-free/)
+> 完整图文与持续更新版本：[2025永久免费节点！会用Google搜索即可获取，支持v2ray、Clash、ShadowRocket、Surge、Trojan，全平台可用#翻墙](https://869hr.uk/2025/tutorial/vpn-free/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/vpn-free/
+- 原文：https://869hr.uk/2025/tutorial/vpn-free/
 - 更新：2025-04-13
 - 分类：教程
 - 关键词：网络工具、VPN
@@ -34,4 +34,4 @@ inurl: clash/proxies
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/vpn-free/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/vpn-free/)

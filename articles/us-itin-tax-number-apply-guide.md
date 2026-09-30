@@ -2,11 +2,11 @@
 
 详细教程：想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)，涵盖跨境支付等知识点
 
-> 完整图文与持续更新版本：[想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](https://869hr.uk/2026/tutorials/us-itin-tax-number-apply-guide/)
+> 完整图文与持续更新版本：[想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/us-itin-tax-number-apply-guide/
+- 原文：https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/
 - 更新：2026-04-12
 - 分类：教程
 - 关键词：跨境支付
@@ -166,4 +166,4 @@ AI产品&技术相关专辑 [www.youtube.com](https://www.youtube.com/playlist?l
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/us-itin-tax-number-apply-guide/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/)

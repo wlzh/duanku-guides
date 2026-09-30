@@ -2,11 +2,11 @@
 
 从零介绍使用 Tailscale 连接家庭与工作设备的私有网络方案，包含基础组网、国内 DERP 选择、自建节点和连通性验证。
 
-> 完整图文与持续更新版本：[🚀 完美内网穿透方案！Tailscale 私人网络搭建保姆级教程 | 白嫖国内 DERP 到自建节点一次讲透](https://869hr.uk/2026/tutorials/tailscale-private-network-tutorial/)
+> 完整图文与持续更新版本：[🚀 完美内网穿透方案！Tailscale 私人网络搭建保姆级教程 | 白嫖国内 DERP 到自建节点一次讲透](https://869hr.uk/2026/tutorial/tailscale-private-network-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/tailscale-private-network-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/tailscale-private-network-tutorial/
 - 更新：2026-03-15
 - 分类：教程
 - 关键词：VPN、网络工具
@@ -107,4 +107,4 @@ Tailscale 官网: [tailscale.com](https://tailscale.com/)
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/tailscale-private-network-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/tailscale-private-network-tutorial/)

@@ -2,11 +2,11 @@
 
 欢迎来到 Claude Code 零基础小白教程系列第一期，手把手教你在国内免翻墙安装 Trae 国内版与 Z Code 配置，完美使用 Claude Code 进行 AI 编程。
 
-> 完整图文与持续更新版本：[【Claude Code 小白教程-第1期】国内如何完美使用 Claude Code？手把手教你安装 Trae 国内版与 Z Code 配置！](https://869hr.uk/2026/tutorials/claude-code-tutorial---1-how-to-usage/)
+> 完整图文与持续更新版本：[【Claude Code 小白教程-第1期】国内如何完美使用 Claude Code？手把手教你安装 Trae 国内版与 Z Code 配置！](https://869hr.uk/2026/tutorial/claude-code-tutorial---1-how-to-usage/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/claude-code-tutorial---1-how-to-usage/
+- 原文：https://869hr.uk/2026/tutorial/claude-code-tutorial---1-how-to-usage/
 - 更新：2026-04-22
 - 分类：教程
 - 关键词：Claude Code、Trae、Z Code、AI编程、零基础编程
@@ -151,4 +151,4 @@ Z Code 是一个专门帮助国内用户访问 Claude 服务的平台，你可�
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/claude-code-tutorial---1-how-to-usage/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/claude-code-tutorial---1-how-to-usage/)

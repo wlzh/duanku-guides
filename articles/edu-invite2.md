@@ -2,11 +2,11 @@
 
 详细教程：白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱，涵盖邮箱、免费资源、学习资源等知识点
 
-> 完整图文与持续更新版本：[白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](https://869hr.uk/2025/tutorials/edu-invite2/)
+> 完整图文与持续更新版本：[白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](https://869hr.uk/2025/tutorial/edu-invite2/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/edu-invite2/
+- 原文：https://869hr.uk/2025/tutorial/edu-invite2/
 - 更新：2025-05-14
 - 分类：教程
 - 关键词：邮箱、免费资源、学习资源、教程
@@ -408,4 +408,4 @@ image 985×430 6.64 KB
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/edu-invite2/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/edu-invite2/)

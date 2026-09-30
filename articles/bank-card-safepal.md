@@ -2,11 +2,11 @@
 
 还在为海外服务支付发愁？想用国内身份证搞定一张万事达卡？SafePal卡来啦！本文为你带来0成本使用国内身份证注册SafePal万事达卡的超详细保姆级教程，手把手教你如何申请、激活、充值，并实测绑定GCP、Cloudflare等海外服务，让你轻松畅游数字世界。无论是开发者、独立站长还是海外服务爱好者，这篇教程都能帮你解
 
-> 完整图文与持续更新版本：[0成本拥有国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程](https://869hr.uk/2025/tutorials/bank-card-safepal/)
+> 完整图文与持续更新版本：[0成本拥有国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程](https://869hr.uk/2025/tutorial/bank-card-safepal/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/bank-card-safepal/
+- 原文：https://869hr.uk/2025/tutorial/bank-card-safepal/
 - 更新：2025-06-07
 - 分类：教程
 - 关键词：跨境支付、教程、海外应用、信用卡
@@ -115,4 +115,4 @@ SafePal 万事达卡为国内用户提供了一个使用身份证申请海外支
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/bank-card-safepal/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/bank-card-safepal/)

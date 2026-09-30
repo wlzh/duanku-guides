@@ -2,11 +2,11 @@
 
 本文详细解析夸克网盘搬砖的实战操作，包含任推帮平台注册教程、资源分享技巧及收益数据查询方法。揭秘上周末单日收益成果，提供iOS/安卓双端下载链接，助你快速掌握网盘资源变现的完整链路。
 
-> 完整图文与持续更新版本：[副业0成本赚钱：夸克网盘搬砖实战：上周末收益揭秘与完整教程，请收藏，文章内容会持续更新](https://869hr.uk/2025/online-business/netdisk-invite/)
+> 完整图文与持续更新版本：[副业0成本赚钱：夸克网盘搬砖实战：上周末收益揭秘与完整教程，请收藏，文章内容会持续更新](https://869hr.uk/2025/online-earning/netdisk-invite/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/online-business/netdisk-invite/
+- 原文：https://869hr.uk/2025/online-earning/netdisk-invite/
 - 更新：2025-03-13
 - 分类：网赚项目
 - 关键词：网赚项目、免费资源
@@ -51,4 +51,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/online-business/netdisk-invite/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/online-earning/netdisk-invite/)

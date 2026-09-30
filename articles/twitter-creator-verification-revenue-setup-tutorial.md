@@ -2,11 +2,11 @@
 
 想通过内容创作赚钱，却卡在认证和变现的第一步？这期视频是为你准备的终极指南！我们不仅会一步步带你搞定创作者身份认证和收益开通的全流程，还特别附带了普通人推特从零到一运营吸粉的实操经验分享。一次性把所有卡点讲透，让你真正开启内容变现之路！
 
-> 完整图文与持续更新版本：[【全网最全】推特创作者身份认证与收益开通：零基础实操教程 | 开启内容变现，附推特运营吸粉全攻略！](https://869hr.uk/2026/tutorials/twitter-creator-verification-revenue-setup-tutorial/)
+> 完整图文与持续更新版本：[【全网最全】推特创作者身份认证与收益开通：零基础实操教程 | 开启内容变现，附推特运营吸粉全攻略！](https://869hr.uk/2026/tutorial/twitter-creator-verification-revenue-setup-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/twitter-creator-verification-revenue-setup-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/twitter-creator-verification-revenue-setup-tutorial/
 - 更新：2026-03-22
 - 分类：教程
 - 关键词：社交软件、网赚项目
@@ -93,4 +93,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/twitter-creator-verification-revenue-setup-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/twitter-creator-verification-revenue-setup-tutorial/)

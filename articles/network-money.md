@@ -2,11 +2,11 @@
 
 详细教程：副业0成本副业教程：尊牛微信小游戏看广告，重点是腾讯给发钱，涵盖免费资源、网赚项目等知识点
 
-> 完整图文与持续更新版本：[副业0成本副业教程：尊牛微信小游戏看广告，重点是腾讯给发钱](https://869hr.uk/2025/online-business/network-money/)
+> 完整图文与持续更新版本：[副业0成本副业教程：尊牛微信小游戏看广告，重点是腾讯给发钱](https://869hr.uk/2025/online-earning/network-money/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/online-business/network-money/
+- 原文：https://869hr.uk/2025/online-earning/network-money/
 - 更新：2025-04-19
 - 分类：网赚项目
 - 关键词：免费资源、网赚项目
@@ -24,4 +24,4 @@
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/online-business/network-money/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/online-earning/network-money/)

@@ -2,11 +2,11 @@
 
 欢迎回来！Claude Code 小白教程第二期，手把手教你配置智谱 GLM、阿里通义千问，使用 AICodeSwitch 神器一键切换模型，还有免费大模型白嫖教程。
 
-> 完整图文与持续更新版本：[【Claude Code 小白教程-第2期】接入国内大模型！GLM/通义千问配置，AICodeSwitch神器！](https://869hr.uk/2026/tutorials/claude-code-tutorial-2-domestic-ai-models/)
+> 完整图文与持续更新版本：[【Claude Code 小白教程-第2期】接入国内大模型！GLM/通义千问配置，AICodeSwitch神器！](https://869hr.uk/2026/tutorial/claude-code-tutorial-2-domestic-ai-models/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/claude-code-tutorial-2-domestic-ai-models/
+- 原文：https://869hr.uk/2026/tutorial/claude-code-tutorial-2-domestic-ai-models/
 - 更新：2026-04-22
 - 分类：教程
 - 关键词：Claude Code、GLM、通义千问、AICodeSwitch、AI编程
@@ -187,4 +187,4 @@ npm install -g aicodeswitch
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/claude-code-tutorial-2-domestic-ai-models/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/claude-code-tutorial-2-domestic-ai-models/)

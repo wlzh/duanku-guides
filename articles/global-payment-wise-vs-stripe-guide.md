@@ -2,11 +2,11 @@
 
 出海接单收款手续费太高？本教程实测同样收300美金，Wise如何实现零损耗，而Stripe却扣了12美金。保姆级国际发票（Invoice）开具全流程，拆解跨境收款省钱秘籍，小白必看！
 
-> 完整图文与持续更新版本：[手把手教你填写invoice，出海收款零损耗攻略，别踩坑！Stripe扣我12美金，Wise竟然零损耗？](https://869hr.uk/2026/uncategorized/global-payment-wise-vs-stripe-guide/)
+> 完整图文与持续更新版本：[手把手教你填写invoice，出海收款零损耗攻略，别踩坑！Stripe扣我12美金，Wise竟然零损耗？](https://869hr.uk/2026/%E8%B7%A8%E5%A2%83%E6%94%B6%E6%AC%BE/global-payment-wise-vs-stripe-guide/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/uncategorized/global-payment-wise-vs-stripe-guide/
+- 原文：https://869hr.uk/2026/%E8%B7%A8%E5%A2%83%E6%94%B6%E6%AC%BE/global-payment-wise-vs-stripe-guide/
 - 更新：2026-03-11
 - 分类：跨境收款
 - 关键词：跨境支付、Wise、Stripe
@@ -107,4 +107,4 @@ Stripe 发票创建（信用卡支付首选）：[dashboard.stripe.com](https://
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/uncategorized/global-payment-wise-vs-stripe-guide/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/%E8%B7%A8%E5%A2%83%E6%94%B6%E6%AC%BE/global-payment-wise-vs-stripe-guide/)

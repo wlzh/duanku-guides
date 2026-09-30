@@ -2,11 +2,11 @@
 
 從零開始搭建 API 中轉站完整教程，涵蓋 VPS 購買、CPA 配置、New API 部署、Docker Compose、Nginx 反向代理、Cloudflare DNS 與 SSL 證書配置
 
-> 完整图文与持续更新版本：[手把手教你搭建 API 中轉站：VPS+CPA+New API+Docker+Nginx+Cloudflare+SSL+域名配置 保姆級教程](https://869hr.uk/2026/tutorials/api-proxy-station-vps-cpa-tutorial/)
+> 完整图文与持续更新版本：[手把手教你搭建 API 中轉站：VPS+CPA+New API+Docker+Nginx+Cloudflare+SSL+域名配置 保姆級教程](https://869hr.uk/2026/tutorial/api-proxy-station-vps-cpa-tutorial/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2026/tutorials/api-proxy-station-vps-cpa-tutorial/
+- 原文：https://869hr.uk/2026/tutorial/api-proxy-station-vps-cpa-tutorial/
 - 更新：2026-05-10
 - 分类：教程
 - 关键词：教程、VPS、Docker、Cloudflare、建站
@@ -626,4 +626,4 @@ docker compose up -d
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorials/api-proxy-station-vps-cpa-tutorial/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/api-proxy-station-vps-cpa-tutorial/)

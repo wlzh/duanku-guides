@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T03:07:37.406Z",
+  "sourceUpdatedAt": "2026-09-28T14:07:22.000Z",
   "source": "https://869hr.uk",
   "count": 220,
   "articles": [
@@ -98,7 +98,7 @@
       ],
       "publishedAt": "2026-04-19T10:00:00.000Z",
       "updatedAt": "2026-04-19T10:00:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/uncategorized/2026-04-19-dns-leak-mihomo-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/2026-04-19-dns-leak-mihomo-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/2026-04-19-dns-leak-mihomo-tutorial.md",
       "videoUrl": null
     },
@@ -117,7 +117,7 @@
       ],
       "publishedAt": "2026-05-10T13:00:00.000Z",
       "updatedAt": "2026-05-10T13:00:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/uncategorized/2026-05-10-cloudflare-temp-email-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/2026-05-10-cloudflare-temp-email-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/2026-05-10-cloudflare-temp-email-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=Gf2c1TrqYuo"
     },
@@ -211,7 +211,7 @@
       ],
       "publishedAt": "2026-04-16T02:56:43.000Z",
       "updatedAt": "2026-04-16T02:56:43.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/6-chatgpt-plus-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/6-chatgpt-plus-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/6-chatgpt-plus-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=kZqkb9zRO_c"
     },
@@ -271,7 +271,7 @@
       ],
       "publishedAt": "2026-03-22T12:12:42.000Z",
       "updatedAt": "2026-03-22T12:12:42.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/8-usa-ip-50-claude-chatgpt/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/8-usa-ip-50-claude-chatgpt.md",
       "videoUrl": "https://www.youtube.com/watch?v=ggCSZOXEqbE"
     },
@@ -291,7 +291,7 @@
       ],
       "publishedAt": "2025-02-24T07:38:22.000Z",
       "updatedAt": "2025-02-24T07:38:22.000Z",
-      "blogUrl": "https://869hr.uk/2025/learning-resources/ai-agent-study/",
+      "blogUrl": "https://869hr.uk/2025/learning-resource/ai-agent-study/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ai-agent-study.md",
       "videoUrl": null
     },
@@ -423,7 +423,7 @@
       ],
       "publishedAt": "2026-05-10T04:00:00.000Z",
       "updatedAt": "2026-05-10T04:00:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/api-proxy-station-vps-cpa-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/api-proxy-station-vps-cpa-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/api-proxy-station-vps-cpa-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=GxGQPcFOF6s"
     },
@@ -497,7 +497,7 @@
       ],
       "publishedAt": "2025-08-10T06:35:00.000Z",
       "updatedAt": "2025-08-10T06:35:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-dogpay/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/bank-card-dogpay/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-dogpay.md",
       "videoUrl": null
     },
@@ -516,7 +516,7 @@
       ],
       "publishedAt": "2025-06-07T16:30:00.000Z",
       "updatedAt": "2025-06-07T16:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-safepal/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/bank-card-safepal/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-safepal.md",
       "videoUrl": null
     },
@@ -535,7 +535,7 @@
       ],
       "publishedAt": "2025-06-07T16:30:00.000Z",
       "updatedAt": "2025-06-07T16:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-safepal2/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/bank-card-safepal2/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-safepal2.md",
       "videoUrl": null
     },
@@ -553,7 +553,7 @@
       ],
       "publishedAt": "2025-08-02T06:35:00.000Z",
       "updatedAt": "2025-08-02T06:35:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-ypt/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/bank-card-ypt/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-ypt.md",
       "videoUrl": null
     },
@@ -570,7 +570,7 @@
       ],
       "publishedAt": "2026-03-26T14:45:00.000Z",
       "updatedAt": "2026-03-26T14:45:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/binance-rmb-usdt-usd-cashout-guide/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/binance-rmb-usdt-usd-cashout-guide/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/binance-rmb-usdt-usd-cashout-guide.md",
       "videoUrl": "https://www.youtube.com/watch?v=EkGCLiPr3HM"
     },
@@ -619,7 +619,7 @@
       ],
       "publishedAt": "2026-04-17T11:27:28.000Z",
       "updatedAt": "2026-04-17T11:27:28.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/card-giffgaff-esim-root-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/card-giffgaff-esim-root-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/card-giffgaff-esim-root-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=9iw-1PRHwyw"
     },
@@ -677,7 +677,7 @@
       ],
       "publishedAt": "2025-08-09T06:35:22.000Z",
       "updatedAt": "2025-08-09T06:35:22.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/chatgpt-appid/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/chatgpt-appid/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-appid.md",
       "videoUrl": null
     },
@@ -884,7 +884,7 @@
       ],
       "publishedAt": "2026-03-12T12:06:36.000Z",
       "updatedAt": "2026-03-12T12:06:36.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/chrome-vertical-tabs-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/chrome-vertical-tabs-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chrome-vertical-tabs-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=AcyrxbJzBtg"
     },
@@ -924,7 +924,7 @@
       ],
       "publishedAt": "2026-04-22T02:51:10.000Z",
       "updatedAt": "2026-04-22T02:51:10.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/claude-code-guide-12/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/claude-code-guide-12/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-guide-12.md",
       "videoUrl": "https://www.youtube.com/watch?v=osoawZJ3-Wg"
     },
@@ -964,7 +964,7 @@
       ],
       "publishedAt": "2026-04-22T11:18:29.000Z",
       "updatedAt": "2026-04-22T11:18:29.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/claude-code-tutorial---1-how-to-usage/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/claude-code-tutorial---1-how-to-usage/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-tutorial---1-how-to-usage.md",
       "videoUrl": "https://www.youtube.com/watch?v=hJl2RJ3BUYU"
     },
@@ -984,7 +984,7 @@
       ],
       "publishedAt": "2026-04-22T12:00:00.000Z",
       "updatedAt": "2026-04-22T12:00:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/claude-code-tutorial-2-domestic-ai-models/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/claude-code-tutorial-2-domestic-ai-models/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-tutorial-2-domestic-ai-models.md",
       "videoUrl": "https://www.youtube.com/watch?v=ahyKIDcC6nk"
     },
@@ -1080,7 +1080,7 @@
       ],
       "publishedAt": "2026-03-06T16:00:00.000Z",
       "updatedAt": "2026-05-04T16:00:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/cliproxyapi-vps-domain-ssl-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/cliproxyapi-vps-domain-ssl-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cliproxyapi-vps-domain-ssl-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=3KhDHeQ7MJs"
     },
@@ -1403,7 +1403,7 @@
       ],
       "publishedAt": "2025-07-06T17:30:00.000Z",
       "updatedAt": "2025-07-06T17:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/learning-resources/doc.869hr.uk/",
+      "blogUrl": "https://869hr.uk/2025/learning-resource/doc.869hr.uk/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/doc.869hr.uk.md",
       "videoUrl": null
     },
@@ -1459,7 +1459,7 @@
       ],
       "publishedAt": "2025-02-21T00:35:28.000Z",
       "updatedAt": "2025-02-21T00:35:28.000Z",
-      "blogUrl": "https://869hr.uk/2025/learning-resources/ebook-free-resource/",
+      "blogUrl": "https://869hr.uk/2025/learning-resource/ebook-free-resource/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ebook-free-resource.md",
       "videoUrl": null
     },
@@ -1478,7 +1478,7 @@
       ],
       "publishedAt": "2025-05-14T14:30:00.000Z",
       "updatedAt": "2025-05-14T14:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/edu-asu-invite/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/edu-asu-invite/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/edu-asu-invite.md",
       "videoUrl": null
     },
@@ -1513,7 +1513,7 @@
       ],
       "publishedAt": "2025-05-14T14:30:00.000Z",
       "updatedAt": "2025-05-14T14:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/edu-invite2/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/edu-invite2/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/edu-invite2.md",
       "videoUrl": null
     },
@@ -1533,7 +1533,7 @@
       ],
       "publishedAt": "2025-08-02T02:30:00.000Z",
       "updatedAt": "2025-08-02T02:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/edu-invite3/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/edu-invite3/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/edu-invite3.md",
       "videoUrl": null
     },
@@ -1630,7 +1630,7 @@
       ],
       "publishedAt": "2025-08-09T06:30:22.000Z",
       "updatedAt": "2025-08-09T06:30:22.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/esim-voxi/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/esim-voxi/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-voxi.md",
       "videoUrl": null
     },
@@ -1687,7 +1687,7 @@
       ],
       "publishedAt": "2026-02-22T23:55:57.000Z",
       "updatedAt": "2026-02-22T23:55:57.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/free-domain-cloudflare-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/free-domain-cloudflare-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-domain-cloudflare-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=fdIJzHVxevA"
     },
@@ -1817,7 +1817,7 @@
       ],
       "publishedAt": "2025-07-10T15:00:00.000Z",
       "updatedAt": "2025-07-10T15:00:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/free-vps/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/free-vps/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-vps.md",
       "videoUrl": null
     },
@@ -1904,7 +1904,7 @@
       ],
       "publishedAt": "2026-04-19T10:30:00.000Z",
       "updatedAt": "2026-04-19T10:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/gfw-tutorial-principle-bypass-safety/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/gfw-tutorial-principle-bypass-safety/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gfw-tutorial-principle-bypass-safety.md",
       "videoUrl": "https://www.youtube.com/watch?v=FJAI17VsvgM"
     },
@@ -2097,7 +2097,7 @@
       ],
       "publishedAt": "2025-08-03T06:30:22.000Z",
       "updatedAt": "2025-08-03T06:30:22.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/giffgaff/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/giffgaff/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff.md",
       "videoUrl": null
     },
@@ -2135,7 +2135,7 @@
       ],
       "publishedAt": "2026-03-11T12:23:29.000Z",
       "updatedAt": "2026-03-11T12:23:29.000Z",
-      "blogUrl": "https://869hr.uk/2026/uncategorized/global-payment-wise-vs-stripe-guide/",
+      "blogUrl": "https://869hr.uk/2026/%E8%B7%A8%E5%A2%83%E6%94%B6%E6%AC%BE/global-payment-wise-vs-stripe-guide/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/global-payment-wise-vs-stripe-guide.md",
       "videoUrl": "https://www.youtube.com/watch?v=U92xQN0P-5s"
     },
@@ -2153,7 +2153,7 @@
       ],
       "publishedAt": "2025-02-27T15:30:00.000Z",
       "updatedAt": "2025-02-27T15:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/google-account-no-phone/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/google-account-no-phone/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-account-no-phone.md",
       "videoUrl": null
     },
@@ -2172,7 +2172,7 @@
       ],
       "publishedAt": "2025-06-29T14:30:00.000Z",
       "updatedAt": "2025-06-29T14:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/google-change-country-area/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/google-change-country-area/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-change-country-area.md",
       "videoUrl": null
     },
@@ -2227,7 +2227,7 @@
       ],
       "publishedAt": "2025-05-10T15:30:00.000Z",
       "updatedAt": "2025-05-10T15:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/google-idx-vps-register/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/google-idx-vps-register/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-idx-vps-register.md",
       "videoUrl": "https://www.youtube.com/watch?v=YE-IKZ3fM2s"
     },
@@ -2245,7 +2245,7 @@
       ],
       "publishedAt": "2025-05-11T05:30:00.000Z",
       "updatedAt": "2025-05-11T05:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/google-idx-vps-register2/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/google-idx-vps-register2/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-idx-vps-register2.md",
       "videoUrl": "https://www.youtube.com/watch?v=49122fgdhvA"
     },
@@ -2261,7 +2261,7 @@
       ],
       "publishedAt": "2025-05-03T04:12:17.077Z",
       "updatedAt": "2025-05-03T04:12:17.077Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/google-one-gemini-students/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/google-one-gemini-students/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-one-gemini-students.md",
       "videoUrl": null
     },
@@ -2350,7 +2350,7 @@
       ],
       "publishedAt": "2026-03-11T13:30:00.000Z",
       "updatedAt": "2026-03-11T13:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/ifast-uk-digital-bank-guide/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/ifast-uk-digital-bank-guide/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ifast-uk-digital-bank-guide.md",
       "videoUrl": "https://www.youtube.com/watch?v=1vZQPnBOZpc"
     },
@@ -2564,7 +2564,7 @@
       ],
       "publishedAt": "2025-03-03T14:17:00.000Z",
       "updatedAt": "2025-03-03T14:17:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/line-register/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/line-register/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/line-register.md",
       "videoUrl": null
     },
@@ -2603,7 +2603,7 @@
       ],
       "publishedAt": "2025-03-07T17:07:10.793Z",
       "updatedAt": "2025-03-07T17:07:10.793Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/manus-knowledge/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/manus-knowledge/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/manus-knowledge.md",
       "videoUrl": null
     },
@@ -2810,7 +2810,7 @@
       ],
       "publishedAt": "2025-03-13T15:35:31.692Z",
       "updatedAt": "2025-03-13T15:35:31.692Z",
-      "blogUrl": "https://869hr.uk/2025/online-business/netdisk-invite/",
+      "blogUrl": "https://869hr.uk/2025/online-earning/netdisk-invite/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/netdisk-invite.md",
       "videoUrl": null
     },
@@ -2827,7 +2827,7 @@
       ],
       "publishedAt": "2025-03-22T06:06:58.534Z",
       "updatedAt": "2025-03-22T06:06:58.534Z",
-      "blogUrl": "https://869hr.uk/2025/online-business/netdisk-resource/",
+      "blogUrl": "https://869hr.uk/2025/online-earning/netdisk-resource/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/netdisk-resource.md",
       "videoUrl": null
     },
@@ -2844,7 +2844,7 @@
       ],
       "publishedAt": "2025-04-19T18:35:31.692Z",
       "updatedAt": "2025-04-19T18:35:31.692Z",
-      "blogUrl": "https://869hr.uk/2025/online-business/network-money/",
+      "blogUrl": "https://869hr.uk/2025/online-earning/network-money/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/network-money.md",
       "videoUrl": null
     },
@@ -3081,7 +3081,7 @@
       ],
       "publishedAt": "2025-03-16T04:26:16.804Z",
       "updatedAt": "2025-03-16T04:26:16.804Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/qrcode-generate/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/qrcode-generate/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/qrcode-generate.md",
       "videoUrl": null
     },
@@ -3327,7 +3327,7 @@
       ],
       "publishedAt": "2025-02-21T06:45:00.000Z",
       "updatedAt": "2025-02-21T06:45:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/stripe-account-register/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/stripe-account-register/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/stripe-account-register.md",
       "videoUrl": "https://www.youtube.com/watch?v=CHy_2Yz7LI8"
     },
@@ -3344,7 +3344,7 @@
       ],
       "publishedAt": "2026-03-15T02:46:00.000Z",
       "updatedAt": "2026-03-15T02:46:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/tailscale-private-network-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/tailscale-private-network-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/tailscale-private-network-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=SmV8zahYhgI"
     },
@@ -3461,7 +3461,7 @@
       ],
       "publishedAt": "2026-04-17T04:59:30.000Z",
       "updatedAt": "2026-04-17T04:59:30.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/tutorial-claude-code-happy-coder-cc/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/tutorial-claude-code-happy-coder-cc/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/tutorial-claude-code-happy-coder-cc.md",
       "videoUrl": "https://www.youtube.com/watch?v=k35F8cx3J2Y"
     },
@@ -3480,7 +3480,7 @@
       ],
       "publishedAt": "2026-04-19T11:36:33.000Z",
       "updatedAt": "2026-04-19T11:36:33.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/tutorial-dns-det-ai-l/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/tutorial-dns-det-ai-l/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/tutorial-dns-det-ai-l.md",
       "videoUrl": "https://www.youtube.com/watch?v=mAD591hkUAA"
     },
@@ -3497,7 +3497,7 @@
       ],
       "publishedAt": "2026-03-22T02:37:33.000Z",
       "updatedAt": "2026-03-22T02:37:33.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/twitter-creator-verification-revenue-setup-tutorial/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/twitter-creator-verification-revenue-setup-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/twitter-creator-verification-revenue-setup-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=petHW7azHyU"
     },
@@ -3513,7 +3513,7 @@
       ],
       "publishedAt": "2026-04-12T07:07:40.000Z",
       "updatedAt": "2026-04-12T07:07:40.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/us-itin-tax-number-apply-guide/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/us-itin-tax-number-apply-guide.md",
       "videoUrl": "https://www.youtube.com/watch?v=B8gNipUixTo"
     },
@@ -3529,7 +3529,7 @@
       ],
       "publishedAt": "2025-03-23T14:17:00.000Z",
       "updatedAt": "2026-09-12T16:00:00.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/us.kg-domain-callbak/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/us.kg-domain-callbak/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/us.kg-domain-callbak.md",
       "videoUrl": null
     },
@@ -3602,7 +3602,7 @@
       ],
       "publishedAt": "2026-02-18T05:23:52.000Z",
       "updatedAt": "2026-02-18T05:23:52.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/vodafone-esim-wise-n26-guide/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vodafone-esim-wise-n26-guide.md",
       "videoUrl": "https://www.youtube.com/watch?v=aEJm0xcXaxI"
     },
@@ -3619,7 +3619,7 @@
       ],
       "publishedAt": "2025-04-13T06:18:52.000Z",
       "updatedAt": "2025-04-13T06:18:52.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/vpn-free/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/vpn-free/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vpn-free.md",
       "videoUrl": null
     },
@@ -3732,7 +3732,7 @@
       ],
       "publishedAt": "2026-04-18T14:30:00.000Z",
       "updatedAt": "2026-04-18T14:30:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/vps-tutorial-self-hosted-proxy/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/vps-tutorial-self-hosted-proxy/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-tutorial-self-hosted-proxy.md",
       "videoUrl": "https://www.youtube.com/watch?v=FU-9MXyEuJw"
     },
@@ -3829,7 +3829,7 @@
       ],
       "publishedAt": "2025-08-17T15:45:30.000Z",
       "updatedAt": "2025-08-17T15:45:30.000Z",
-      "blogUrl": "https://869hr.uk/2025/tutorials/wechat-dual-open/",
+      "blogUrl": "https://869hr.uk/2025/tutorial/wechat-dual-open/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/wechat-dual-open.md",
       "videoUrl": null
     },
@@ -3980,7 +3980,7 @@
       ],
       "publishedAt": "2026-02-23T08:25:00.000Z",
       "updatedAt": "2026-02-23T08:25:00.000Z",
-      "blogUrl": "https://869hr.uk/2026/tutorials/wise-mainland-phone-id-register-guide/",
+      "blogUrl": "https://869hr.uk/2026/tutorial/wise-mainland-phone-id-register-guide/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/wise-mainland-phone-id-register-guide.md",
       "videoUrl": "https://www.youtube.com/watch?v=AL8cOn49xG8"
     },

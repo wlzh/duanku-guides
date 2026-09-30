@@ -2,11 +2,11 @@
 
 还在为Google账号的地区限制烦恼吗？想体验特定区域的Google服务、应用或优惠（比如传说中的Google One学生优惠）？本文将手把手教你如何通过官方渠道申请修改Google账号的国家或地区。从准备工作到填写申请表单的“小技巧”，再到与Google
 
-> 完整图文与持续更新版本：[Google账号换国家或换区域大法：轻松解锁海外服务与优惠](https://869hr.uk/2025/tutorials/google-change-country-area/)
+> 完整图文与持续更新版本：[Google账号换国家或换区域大法：轻松解锁海外服务与优惠](https://869hr.uk/2025/tutorial/google-change-country-area/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/google-change-country-area/
+- 原文：https://869hr.uk/2025/tutorial/google-change-country-area/
 - 更新：2025-06-29
 - 分类：教程
 - 关键词：教程、账号管理、海外应用、故障处理
@@ -80,4 +80,4 @@ I need to use Claude for work, please help me change to the United States.
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/google-change-country-area/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/google-change-country-area/)

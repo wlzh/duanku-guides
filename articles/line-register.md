@@ -2,11 +2,11 @@
 
 随着跨境电商市场的蓬勃发展，有效的客户沟通途径成为商家们关注的焦点。LINE，这一流行于亚洲的即时通讯工具，已逐渐成为与海外买家建立联系的重要平台。了解如何在国内注册LINE账号对于那些需要依靠社交媒体平台获客的卖家来说很重要，下面将教大家如何注册LINE。
 
-> 完整图文与持续更新版本：[没有手机号如何注册Line？注册LINE需要手机号？无法注册LINE？电脑端无法登录LINE？阉割版LINE无法添加好友、创建群组、发送消息？](https://869hr.uk/2025/tutorials/line-register/)
+> 完整图文与持续更新版本：[没有手机号如何注册Line？注册LINE需要手机号？无法注册LINE？电脑端无法登录LINE？阉割版LINE无法添加好友、创建群组、发送消息？](https://869hr.uk/2025/tutorial/line-register/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/line-register/
+- 原文：https://869hr.uk/2025/tutorial/line-register/
 - 更新：2025-03-03
 - 分类：教程
 - 关键词：line注册
@@ -80,4 +80,4 @@ LINE软件下载地址：官网：https://line.me/en/
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/line-register/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/line-register/)

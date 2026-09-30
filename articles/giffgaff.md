@@ -2,11 +2,11 @@
 
 本文详细介绍了英国giffgaff实体SIM卡的激活步骤、资费详情、保号方法以及eSIM转换教程。无论你是留学生、旅行者还是需要海外号码的用户，这篇2025年最新指南都能帮助你轻松搞定giffgaff手机卡的使用，解决常见问题，并掌握保号技巧。
 
-> 完整图文与持续更新版本：[英国giffgaff实体SIM卡激活使用全攻略](https://869hr.uk/2025/tutorials/giffgaff/)
+> 完整图文与持续更新版本：[英国giffgaff实体SIM卡激活使用全攻略](https://869hr.uk/2025/tutorial/giffgaff/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/giffgaff/
+- 原文：https://869hr.uk/2025/tutorial/giffgaff/
 - 更新：2025-08-03
 - 分类：教程
 - 关键词：eSIM、账号管理
@@ -137,4 +137,4 @@ giffgaff作为英国知名虚拟运营商，以其独特的优势吸引全球用
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/giffgaff/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/giffgaff/)

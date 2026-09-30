@@ -2,11 +2,11 @@
 
 介绍原 US.KG 域名持有者申请恢复域名的资格条件、KYC Key 获取方式、官方联系渠道和提交前需要核对的限制。
 
-> 完整图文与持续更新版本：[💎 你的US.KG域名还能抢回来！ 免费注册，教程来了！](https://869hr.uk/2025/tutorials/us.kg-domain-callbak/)
+> 完整图文与持续更新版本：[💎 你的US.KG域名还能抢回来！ 免费注册，教程来了！](https://869hr.uk/2025/tutorial/us.kg-domain-callbak/)
 
 ## 内容信息
 
-- 原文：https://869hr.uk/2025/tutorials/us.kg-domain-callbak/
+- 原文：https://869hr.uk/2025/tutorial/us.kg-domain-callbak/
 - 更新：2026-09-12
 - 分类：教程
 - 关键词：域名注册
@@ -122,4 +122,4 @@ I promise that this domain name will not be used for phishing, illegal gateways,
 
 ---
 
-来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorials/us.kg-domain-callbak/)
+来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2025/tutorial/us.kg-domain-callbak/)
