@@ -19,7 +19,7 @@
 - [ChatGPT降智识别和解决方案 | 降智定义、检测方法和应对策略](../articles/chatgpt-downgrade.md)：深入解析ChatGPT降级现象的成因、检测方法和解决方案。包含完整的降级识别指南、性能测试方法、IP质量评估和账号恢复方案。提供多种实用工具和专业建议，帮助用户应对ChatGPT性能下降问题。详细介绍官方风控策略、API限制变化，并提供最新的解决方案和优化建议，确保您获得最佳的AI对话体验。
 - [免费领ChatGPT Business 2个月！美区优惠码+长连接脚本教程](../articles/chatgpt-free-business-2-tutorial.md)：免费ChatGPT 2个月 Business 领取 第二期，这次是美区，绑卡用SafePal或者bybit 免费领取ChatGPT Business 2个月
 - [Gmail搞免费GPT账户｜K12空间白嫖ChatGPT Plus全流程 喂饭级教程](../articles/chatgpt-gmail-free-gpt-k12-plus-tutorial.md)：多了登录gpt会报错，脚本中的空间ID现在人数人多，可以自己找最新的gmail的K12空间id，进行替换，linuxdo等很多站很多分享的
-- [2026最新！用Gopay只需5分钟开通ChatGPT Plus，只需接两次码](../articles/chatgpt-gopay-5-plus.md)：log("💰 Plan : ChatGPT Plus（尝试使用 IDR / 印尼盾）"); console
+- [2026最新！用Gopay只需5分钟开通ChatGPT Plus，只需接两次码](../articles/chatgpt-gopay-5-plus.md)：使用印尼 Gopay 开通 ChatGPT Plus 的完整教程，涵盖账号准备、两次接码、印尼盾付款、订阅确认和常见失败问题处理。
 - [48个月半价Team优惠码 一个人50人民币， 英国优惠码（可能是目前最低的），手把手保姆教程](../articles/chatgpt-team--15-1-50--48--promo.md)：本视频实测成功开通 ChatGPT Team 计划，实现目前已知最低价格：15.21/人月付，平均一人每个月50人民币，使用英国优惠码codestonegb获得48个月半价优惠
 - [ChatGPT Team 第五期！买一送一持续48个月，墨西哥18美刀+西班牙+哥伦比亚三国优惠码教程](../articles/chatgpt-team-48-18-tutorial.md)：📺 往期教程： • 第一期：ChatGPT Team 基础注册教程 • 第二期：土耳其/尼日利亚低价区教程 • 第三期：澳大利亚48个月Team优惠码+4种支付方法 • 第四期：英国优惠码半价Team教程 如有任何疑问或不会的操作，请查看前面四期视频教程
 - [YiKa虚拟卡实操攻略：一个邮箱开50张卡，无需KYC订阅ChatGPT和Claude](../articles/chatgpt-yika-virtual-card-50-kyc-claude.md)：想订阅个 ChatGPT Plus 或者 Claude Pro，想给自己的推特点个蓝标，或者开通 Telegram Premium 会员，最大的障碍往往不是那几十美金的费用，而是 你根本没有一张能付得出去的外币卡 。找不认识的人代充？怕黑卡封号；找中介？手续费贵得离谱。

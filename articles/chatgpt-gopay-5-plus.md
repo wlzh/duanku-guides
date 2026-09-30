@@ -1,6 +1,6 @@
 # 2026最新！用Gopay只需5分钟开通ChatGPT Plus，只需接两次码
 
-log("💰 Plan : ChatGPT Plus（尝试使用 IDR / 印尼盾）"); console
+使用印尼 Gopay 开通 ChatGPT Plus 的完整教程，涵盖账号准备、两次接码、印尼盾付款、订阅确认和常见失败问题处理。
 
 > 完整图文与持续更新版本：[2026最新！用Gopay只需5分钟开通ChatGPT Plus，只需接两次码](https://869hr.uk/2026/tech/chatgpt-gopay-5-plus/)
 

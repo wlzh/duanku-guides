@@ -44,7 +44,7 @@
 ## 最近更新
 
 - [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](articles/maya-free-savings-visa-card-tutorial.md)：菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器
-- [菲律宾DITO eSIM手把手教程！每年0.6元人民币低成本保号，微信支付+大陆漫游](articles/dito-esim-0-6-payment-tutorial.md)：菲律宾 DITO eSIM 全流程教程：中国电信参股的菲律宾第三大运营商，89 比索（约10元）开卡，之后每年充 5 比索（约 0
+- [菲律宾DITO eSIM手把手教程！每年0.6元人民币低成本保号，微信支付+大陆漫游](articles/dito-esim-0-6-payment-tutorial.md)：菲律宾 DITO eSIM 全流程教程：介绍购买开卡、实名激活、微信支付充值、大陆漫游与短信接收，以及每年低成本保号的方法。
 - [ITIN申请美国信用卡！Capital One 免年费卡手把手教程，PayPal还款Wise全流程](articles/itin-apply-card-capital-one-paypal-wise-tutorial.md)：「成为美国云居民」系列第六期：用 ITIN 申请 Capital One 免年费信用卡，手把手覆盖预申请、正式申请、电话开卡、PayPal 绑定 Wise 还款全流程
 - [1583认证教程！Anytime Mailbox 在线公证手把手教学，护照+身份证翻译件搞定，25美元完成](articles/1583-anytime-mailbox-25-tutorial.md)：🔗 本视频涉及资源： Anytime Mailbox（邀请链接，双方各得 10 美元亚马逊礼品卡）： 📚 系列往期： ITIN 申请教程： Tello 美国实体手机号： 第四期 租用美国私人地址： 家宽 IP（Webshare）： 完成这一期，你的美国收件地址就 fully ready 了
 - [美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起](articles/anytime-mailbox-9-tutorial.md)：「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址
