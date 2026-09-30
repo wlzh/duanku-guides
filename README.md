@@ -15,7 +15,7 @@
 
 ## 专题导航
 
-- [AI](topics/ai.md)：78 篇
+- [AI](topics/ai.md)：76 篇
 - [跨境收款](topics/cross-border-payments.md)：1 篇
 - [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇

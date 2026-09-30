@@ -59,7 +59,7 @@
 - [不支持eSIM的国产手机，白嫖法国USIMS永久免费流量教程](../articles/esim-mobile-usims-free-tutorial.md)：法国 USIMS 这款应用，实测能领到「1G 高速 + 用完无限 128kbps」的永久免费流量，而且你的手机不需要原生支持 eSIM——先用模块把手机伪装成支持 eSIM，再通过虚拟框架把应用装进去，就能拿到 eSIM 二维码，扫进小白卡正常使用
 - [文件夹加密保护指南2025：保护您的敏感数据安全 | 完整教程](../articles/folder-enp.md)：详细介绍如何使用各种工具和方法对文件夹进行加密保护，确保您的敏感数据安全。包含Windows、Mac和Linux系统的加密方案，以及最佳实践建议。
 - [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
-- [薅羊毛新姿势！DNSHE 永久免费域名申请和cloudflare 手把手接入教程](../articles/free-domain-d53.md)：还在为域名费用发愁？DNSHE为全球开发者、学生和开源爱好者提供免费域名服务，无需信用卡，支持全类型DNS记录解析，让你的项目即时上线。本文详细讲解如何利用DNSHE免费注册域名，并手把手教你将其无缝集成到Cloudflare，享受CDN加速和安全防护。快速搭建你的个人网站、博客或开源项目，彻底告别高昂的域名和托管费用
+- [薅羊毛新姿势！DNSHE 永久免费域名申请和cloudflare 手把手接入教程](../articles/free-domain-d53.md)：DNSHE 免费域名申请与 Cloudflare 接入教程：涵盖域名注册、DNS 记录配置、域名托管、CDN 加速和解析结果验证。
 - [2026最新免费.edu教育邮箱！帕克大学申请保姆教程，手慢无](../articles/free-edu-apply-tutorial.md)：整理帕克大学 .edu 教育邮箱的申请入口、资料填写、邮箱激活和结果验证步骤，并提示活动资格与开放状态可能随时调整。
 - [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
 - [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
