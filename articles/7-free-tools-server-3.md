@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：永久二维码、微信群活码、Cloudflare Workers、serverless、qrcode
 - 视频：https://www.youtube.com/watch?v=YhxnffqiegU
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

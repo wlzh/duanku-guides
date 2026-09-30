@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：N26、虚拟卡、足球虚拟卡、德国银行卡、N26教程
 - 视频：https://www.youtube.com/watch?v=7Vj3E3o-TPs
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

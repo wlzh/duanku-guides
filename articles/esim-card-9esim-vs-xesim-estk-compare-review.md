@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：eSIM对比、9eSIM评测、XeSIM评测、eSTK评测、eSIM卡怎么选
 - 视频：https://www.youtube.com/watch?v=W46dce-LXjM
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：YiKa虚拟卡、ChatGPT订阅、Claude Pro、推特蓝V、USDT充值
 - 视频：https://www.youtube.com/watch?v=XaLeXKu4PTM
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

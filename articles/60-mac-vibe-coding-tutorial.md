@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：小米蓝牙遥控器、RC003、Mac语音输入、Vibe、Coding
 - 视频：https://www.youtube.com/watch?v=1e8gXx3c56w
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

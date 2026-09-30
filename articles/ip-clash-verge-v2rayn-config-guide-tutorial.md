@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：链式代理、机场前置、落地节点、家宽住宅IP、Clash Verge
 - 视频：https://www.youtube.com/watch?v=VGzw5qdGubo
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

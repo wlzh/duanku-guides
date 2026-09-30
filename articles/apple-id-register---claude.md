@@ -12,6 +12,7 @@
 - 专题：软件、AI
 - 关键词：Claude、Apple ID、教程、AI工具
 - 视频：https://www.youtube.com/watch?v=gr3LJNSGYZ4
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)、[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

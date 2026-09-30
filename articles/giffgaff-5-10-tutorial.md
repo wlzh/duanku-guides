@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Giffgaff、Giffgaff退款、Giffgaff教程、英国手机卡、海外手机卡退款
 - 视频：https://www.youtube.com/watch?v=2aJ1DxIOHz4
+- 系列：[英国 Giffgaff 保号系列](../series/giffgaff.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

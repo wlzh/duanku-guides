@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：效率工具、开发工具、Telegram、Skills
 - 视频：https://www.youtube.com/watch?v=s1RhLDOGOfQ
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

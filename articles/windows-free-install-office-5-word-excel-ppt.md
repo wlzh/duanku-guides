@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Office激活、Windows Office、Office免费、Office Tool Plus、Word Excel PPT
 - 视频：https://www.youtube.com/watch?v=u6z0pE_tbKs
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

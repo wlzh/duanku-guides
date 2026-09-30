@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：ChatGPT、免费GPT、K12空间、Gmail别名、ChatGPT Plus
 - 视频：https://www.youtube.com/watch?v=tuPU2TQXNbI
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

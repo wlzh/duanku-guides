@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：教程、VPS、网络工具
 - 视频：https://www.youtube.com/watch?v=88gyLp02bbI
+- 系列：[出海 VPS](../series/vps.md)
 
 ## 正文
 

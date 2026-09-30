@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：嘉信证券、Charles Schwab、W8-BEN、W8BEN、美股税务
 - 视频：https://www.youtube.com/watch?v=hB-agEJ4x-k
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：Atomesus、Atomesus Prime、AI工具、AI图片生成、无限聊天
 - 视频：https://www.youtube.com/watch?v=brK8C8plsJU
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

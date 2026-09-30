@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：2FA、双因素认证、Cloudflare Workers、自托管、开源
 - 视频：https://www.youtube.com/watch?v=fWqjMNN-7ZI
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

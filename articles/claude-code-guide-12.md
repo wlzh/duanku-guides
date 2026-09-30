@@ -12,6 +12,7 @@
 - 专题：教程、AI
 - 关键词：Claude Code、AI工具、账号安全、防封号、教程
 - 视频：https://www.youtube.com/watch?v=osoawZJ3-Wg
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

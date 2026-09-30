@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：ChatGPT Business、ChatGPT Team、ChatGPT 优惠码、ChatGPT 澳大利亚、ChatGPT 订阅
 - 视频：https://www.youtube.com/watch?v=EJnGTrFy5Sk
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

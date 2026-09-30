@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：VPN、网络安全
 - 视频：https://www.youtube.com/watch?v=FJAI17VsvgM
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

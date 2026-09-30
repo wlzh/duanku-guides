@@ -12,6 +12,7 @@
 - 专题：跨境收款
 - 关键词：跨境支付、Wise、Stripe
 - 视频：https://www.youtube.com/watch?v=U92xQN0P-5s
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

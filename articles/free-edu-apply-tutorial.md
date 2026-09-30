@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：edu邮箱、免费教育邮箱、帕克大学、park university、留学生
 - 视频：https://www.youtube.com/watch?v=ceKs7zgfBi8
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

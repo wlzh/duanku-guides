@@ -12,6 +12,7 @@
 - 专题：AI
 - 关键词：Claude Desktop、Claude、Anthropic Claude、自定义API、第三方API
 - 视频：https://www.youtube.com/watch?v=nmBd8bfiEu8
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

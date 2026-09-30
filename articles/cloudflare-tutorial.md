@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Cloudflare优选、CDN加速、网站优化、DNS分地区解析、阿里云DNS
 - 视频：https://www.youtube.com/watch?v=Gi9X3oFqlWE
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

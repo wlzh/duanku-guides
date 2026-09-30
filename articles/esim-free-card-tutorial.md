@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：eSIM、沃达丰、Vodafone、英国、免费
 - 视频：https://www.youtube.com/watch?v=Zl6dHsPtlmg
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

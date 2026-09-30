@@ -12,6 +12,7 @@ Giffgaff 封号退款被拒？余额被捐慈善？教你向 Ofcom 投诉拿回�
 - 专题：技术
 - 关键词：Giffgaff、封号、退款、余额捐赠、短信捐款
 - 视频：https://www.youtube.com/watch?v=bjCo7tkK2iE
+- 系列：[英国 Giffgaff 保号系列](../series/giffgaff.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

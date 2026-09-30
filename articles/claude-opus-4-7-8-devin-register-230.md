@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：Claude Opus 4.7、Claude Opus 4.8、Devin AI、免费Claude、白嫖Claude
 - 视频：https://www.youtube.com/watch?v=UtVq_9s7lxM
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

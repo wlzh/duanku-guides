@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：baibaiAIGC、AI去味、论文降AIGC、AIGC检测、中文论文
 - 视频：https://www.youtube.com/watch?v=wQJ25YhmxGk
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

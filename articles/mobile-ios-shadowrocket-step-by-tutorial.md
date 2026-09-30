@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：iOS定位修改、Shadowrocket、小火箭、iPhone定位、虚拟定位
 - 视频：https://www.youtube.com/watch?v=aQdeFAPeVM8
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

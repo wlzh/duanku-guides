@@ -12,6 +12,7 @@
 - 专题：教程、AI
 - 关键词：跨境支付
 - 视频：https://www.youtube.com/watch?v=B8gNipUixTo
+- 系列：[美国云居民系列](../series/american-cloud-resident.md)、[基础软件与效率工具](../series/software-and-tools.md)、[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

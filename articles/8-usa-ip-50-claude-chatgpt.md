@@ -12,6 +12,7 @@
 - 专题：教程、AI
 - 关键词：ip属性、VPN、ChatGPT、Claude、网络工具
 - 视频：https://www.youtube.com/watch?v=ggCSZOXEqbE
+- 系列：[美国云居民系列](../series/american-cloud-resident.md)、[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

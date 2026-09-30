@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：DITO、菲律宾eSIM、eSIM教程、低成本保号、接码
 - 视频：https://www.youtube.com/watch?v=P-9Z7O-_EyU
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

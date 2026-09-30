@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：AI工具、教程、免费资源
 - 视频：https://www.youtube.com/watch?v=Y_nWx0XUQ9w
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

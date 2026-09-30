@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=Nigo_YH4SGE
+- 系列：[出海网络搭建](../series/overseas-network.md)、[出海 VPS](../series/vps.md)
 
 ## 正文
 

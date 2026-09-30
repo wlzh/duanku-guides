@@ -12,6 +12,7 @@
 - 专题：教程、AI
 - 关键词：教程、Claude、开发工具、开源项目
 - 视频：https://www.youtube.com/watch?v=k35F8cx3J2Y
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=mb77KAfXOVg
+- 系列：[出海 VPS](../series/vps.md)
 
 ## 正文
 

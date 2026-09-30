@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Google Workspace、薅羊毛、域名注册、com域名、土耳其
 - 视频：https://www.youtube.com/watch?v=j3ZouCfNe4Y
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

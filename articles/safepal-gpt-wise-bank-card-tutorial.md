@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：SafePal、Wise、GPT续费、ChatGPT支付、瑞士银行卡
 - 视频：https://www.youtube.com/watch?v=GjMNofKikP8
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

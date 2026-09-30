@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：教程、VPS、Docker、Cloudflare、建站
 - 视频：https://www.youtube.com/watch?v=GxGQPcFOF6s
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)、[出海 VPS](../series/vps.md)
 
 ## 正文
 

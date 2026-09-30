@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：澳门蚂蚁银行、Ant Bank Macau、跨境开户、港美股开户、境外银行账户
 - 视频：https://www.youtube.com/watch?v=lyRGZavzGl8
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

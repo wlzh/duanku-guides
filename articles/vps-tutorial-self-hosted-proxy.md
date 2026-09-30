@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：VPS、VPN、ip属性
 - 视频：https://www.youtube.com/watch?v=FU-9MXyEuJw
+- 系列：[出海网络搭建](../series/overseas-network.md)、[出海 VPS](../series/vps.md)
 
 ## 正文
 

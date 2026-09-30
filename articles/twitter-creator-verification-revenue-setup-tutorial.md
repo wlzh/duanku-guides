@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：社交软件、网赚项目
 - 视频：https://www.youtube.com/watch?v=petHW7azHyU
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

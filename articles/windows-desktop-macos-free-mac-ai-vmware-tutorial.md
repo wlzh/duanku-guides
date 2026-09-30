@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：VMware、macOS、Windows安装macOS、虚拟机、Mac专属AI软件
 - 视频：https://www.youtube.com/watch?v=EToxhFmpbM0
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

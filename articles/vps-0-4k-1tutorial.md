@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=oWzxvgQnALs
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

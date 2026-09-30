@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=3sN7P2t_CeA
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

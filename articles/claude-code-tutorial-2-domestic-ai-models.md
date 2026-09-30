@@ -12,6 +12,7 @@
 - 专题：教程、AI
 - 关键词：Claude Code、GLM、通义千问、AICodeSwitch、AI编程
 - 视频：https://www.youtube.com/watch?v=ahyKIDcC6nk
+- 系列：[Claude Code 小白课程](../series/claude-code-course.md)、[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

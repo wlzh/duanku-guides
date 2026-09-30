@@ -12,6 +12,7 @@ DNSHE免费域名注册教程，ccwu.cc后缀初始10年有效期可无限续期
 - 专题：技术
 - 关键词：教程、VPS、Cloudflare、域名
 - 视频：https://www.youtube.com/watch?v=Q8LXHshuW5M
+- 系列：[出海网络搭建](../series/overseas-network.md)、[出海 VPS](../series/vps.md)
 
 ## 正文
 

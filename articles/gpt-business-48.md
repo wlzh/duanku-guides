@@ -12,6 +12,7 @@ GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，
 - 专题：技术、AI
 - 关键词：GPT Business、ChatGPT Team、优惠码、GPT优惠、ChatGPT优惠
 - 视频：https://www.youtube.com/watch?v=IpT9LHLLVyE
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

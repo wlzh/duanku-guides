@@ -12,6 +12,7 @@ VPS安全加固7大核心策略详解，涵盖禁用Root登录、SSH密钥认证
 - 专题：技术
 - 关键词：VPS、网络安全、教程、开源项目
 - 视频：https://www.youtube.com/watch?v=-uqap0UClnY
+- 系列：[出海 VPS](../series/vps.md)
 
 ## 正文
 

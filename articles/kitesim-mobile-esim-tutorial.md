@@ -12,6 +12,7 @@ KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开�
 - 专题：技术
 - 关键词：KiteSim、实体手机号、免实名、接码、短信验证码
 - 视频：https://www.youtube.com/watch?v=KA4kd5bRgh8
+- 系列：[出海手机号](../series/overseas-mobile.md)、[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

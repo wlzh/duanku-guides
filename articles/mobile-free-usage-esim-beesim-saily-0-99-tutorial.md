@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：eSIM、BeeSIM、Saily、美国手机号、海外号码
 - 视频：https://www.youtube.com/watch?v=XbYOtLjP8fo
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

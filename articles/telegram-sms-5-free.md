@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Telegram、SMS Fee、Telegram登录、Telegram注册、绕过SMS费
 - 视频：https://www.youtube.com/watch?v=ugguWmPE0BI
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)、[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

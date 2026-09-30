@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：PokePay、信用卡、香港虚拟卡、USDT充值、跨境支付
 - 视频：https://www.youtube.com/watch?v=dW8VBXdf__Q
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

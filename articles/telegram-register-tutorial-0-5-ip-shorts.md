@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Telegram、邮箱、ip属性、账号注册、账号管理
 - 视频：https://www.youtube.com/watch?v=m7XT0fW1LAY
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

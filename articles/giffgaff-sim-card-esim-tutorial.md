@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Giffgaff、英国SIM卡、eSIM、保号卡、英国旅游
 - 视频：https://www.youtube.com/watch?v=MbMU5jVCwr8
+- 系列：[英国 Giffgaff 保号系列](../series/giffgaff.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

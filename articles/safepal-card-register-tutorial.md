@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：SafePal、万事达卡、境外银行卡、护照开户、虚拟卡
 - 视频：https://www.youtube.com/watch?v=Awx-r0GtI0I
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

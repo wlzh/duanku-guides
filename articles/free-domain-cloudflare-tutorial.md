@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：域名、Cloudflare、教程、网赚项目、技术交流
 - 视频：https://www.youtube.com/watch?v=fdIJzHVxevA
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

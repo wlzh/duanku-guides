@@ -12,6 +12,7 @@ Mac上实现微信双开到多开的完整教程，使用终端命令复制程�
 - 专题：技术
 - 关键词：Mac微信多开、微信双开Mac、Mac多开微信、WeChat双开、macOS微信
 - 视频：https://www.youtube.com/watch?v=NnfL-Uo3mHU
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

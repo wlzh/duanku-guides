@@ -12,6 +12,7 @@
 - 专题：教程、AI
 - 关键词：开发工具、VPS、Cloudflare、OpenClaw、SSL证书
 - 视频：https://www.youtube.com/watch?v=3KhDHeQ7MJs
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

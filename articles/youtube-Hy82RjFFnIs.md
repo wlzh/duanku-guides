@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：谷歌邮箱、Google账号、邮箱、改邮箱、邮箱地址
 - 视频：https://www.youtube.com/watch?v=Hy82RjFFnIs
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

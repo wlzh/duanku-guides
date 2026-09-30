@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Oracle甲骨文、VPS、Cloud免费套餐、白嫖VPS、Oracle
 - 视频：https://www.youtube.com/watch?v=SZX6dMU1hPI
+- 系列：[出海 VPS](../series/vps.md)
 
 ## 正文
 

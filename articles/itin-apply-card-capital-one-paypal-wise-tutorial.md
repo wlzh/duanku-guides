@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Capital One、ITIN、美国信用卡、免年费信用卡、PayPal还款
 - 视频：https://www.youtube.com/watch?v=ZTr-QzLTT1c
+- 系列：[美国云居民系列](../series/american-cloud-resident.md)
 
 ## 正文
 

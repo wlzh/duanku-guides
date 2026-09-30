@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=FKwp0lBB2ZU
+- 系列：[英国 Giffgaff 保号系列](../series/giffgaff.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

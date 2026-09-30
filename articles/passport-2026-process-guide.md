@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：跨境支付、Wise、eSIM
 - 视频：https://www.youtube.com/watch?v=pfZOxCxA-OQ
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

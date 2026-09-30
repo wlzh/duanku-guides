@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=9iw-1PRHwyw
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

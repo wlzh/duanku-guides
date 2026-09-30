@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Xesim、eSIM、国行iPhone eSIM、iPhone eSIM、出国上网
 - 视频：https://www.youtube.com/watch?v=Mhd2KR8Ydo4
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

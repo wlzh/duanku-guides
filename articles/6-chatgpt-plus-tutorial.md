@@ -12,6 +12,7 @@
 - 专题：教程、AI
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=kZqkb9zRO_c
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)、[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

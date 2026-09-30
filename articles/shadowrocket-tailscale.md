@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Shadowrocket、Tailscale、内网穿透、远程访问、iPhone代理
 - 视频：https://www.youtube.com/watch?v=DOGtAVq9S7Q
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

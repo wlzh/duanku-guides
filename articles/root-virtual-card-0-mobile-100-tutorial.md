@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：企业微信、虚拟定位、免Root、安卓打卡、影梭
 - 视频：https://www.youtube.com/watch?v=cs5TGzWwxpo
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

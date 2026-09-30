@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：Starryblu、跨境支付、全球账户、ChatGPT支付、Claude订阅
 - 视频：https://www.youtube.com/watch?v=NiIswP2iT0c
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

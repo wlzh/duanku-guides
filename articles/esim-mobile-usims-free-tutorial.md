@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：USIMS、eSIM、免费流量、白嫖流量、虚拟eSIM
 - 视频：https://www.youtube.com/watch?v=GM-kNpYAUVI
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

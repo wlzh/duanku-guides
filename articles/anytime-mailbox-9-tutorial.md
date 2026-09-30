@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Anytime Mailbox、美国私人地址、美国云居民、美国住宅地址、CMRA
 - 视频：https://www.youtube.com/watch?v=SWee72CYsDE
+- 系列：[美国云居民系列](../series/american-cloud-resident.md)
 
 ## 正文
 

@@ -12,6 +12,7 @@
 - 专题：视频教程
 - 关键词：教程、Cloudflare、开源项目、邮箱
 - 视频：https://www.youtube.com/watch?v=Gf2c1TrqYuo
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

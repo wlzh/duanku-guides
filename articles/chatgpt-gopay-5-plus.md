@@ -12,6 +12,7 @@ log("💰 Plan : ChatGPT Plus（尝试使用 IDR / 印尼盾）"); console
 - 专题：技术、AI
 - 关键词：ChatGPT Plus、Gopay、GPT Plus 开通、ChatGPT 订阅、印尼支付
 - 视频：https://www.youtube.com/watch?v=xf4uBgeK158
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

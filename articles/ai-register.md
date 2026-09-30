@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：浏览器自动化、AI编程、零基础教程、注册机、Claude Code
 - 视频：https://www.youtube.com/watch?v=Rd0nEHsvIXY
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Talkatone、美国手机号、实体手机号、虚拟手机号检测、保号
 - 视频：https://www.youtube.com/watch?v=3QjFYx6Mfpg
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

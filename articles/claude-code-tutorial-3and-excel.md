@@ -12,6 +12,7 @@ Claude Code 零基础小白教程第3期，手把手教你文案生成、文档�
 - 专题：技术、AI
 - 关键词：Claude、AI工具、教程
 - 视频：https://www.youtube.com/watch?v=ae6xFUzJuJU
+- 系列：[Claude Code 小白课程](../series/claude-code-course.md)、[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

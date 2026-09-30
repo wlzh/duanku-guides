@@ -5,8 +5,8 @@
 ## 关注与订阅
 
 - 完整博客：[869hr.uk](https://869hr.uk/)
-- YouTube：[短裤AI分享](https://www.youtube.com/@duanku)
-- YouTube：[M. 的视频频道](https://youtube.com/@gxjdian)
+- YouTube：[短裤AI分享](https://youtube.com/@gxjdian)
+- 资源总站：[大坝的资源收集站](https://doc.869hr.uk/)
 - X / Twitter：[@gxjdian](https://x.com/gxjdian)
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
@@ -28,6 +28,18 @@
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
+
+## YouTube 视频系列
+
+- [美国云居民系列](series/american-cloud-resident.md)：6 个视频
+- [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
+- [基础软件与效率工具](series/software-and-tools.md)：17 个视频
+- [Claude Code 小白课程](series/claude-code-course.md)：5 个视频
+- [AI 产品与技术](series/ai-products-and-technology.md)：49 个视频
+- [出海手机号](series/overseas-mobile.md)：26 个视频
+- [出海网络搭建](series/overseas-network.md)：26 个视频
+- [出海 VPS](series/vps.md)：12 个视频
+- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：24 个视频
 
 ## 最近更新
 

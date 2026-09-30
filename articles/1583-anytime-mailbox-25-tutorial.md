@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：1583认证、Anytime Mailbox、在线公证、美国私人地址、美国云居民
 - 视频：https://www.youtube.com/watch?v=QJzgy0_Xb4w
+- 系列：[美国云居民系列](../series/american-cloud-resident.md)
 
 ## 正文
 

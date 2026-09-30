@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：Zo2API、Claude Opus4.7、GPT5.5、API逆向代理、免费AI
 - 视频：https://www.youtube.com/watch?v=Zl4PBq8z5vU
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

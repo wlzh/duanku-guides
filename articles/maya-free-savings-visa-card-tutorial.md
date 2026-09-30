@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Maya、菲律宾银行、免费开户、VISA卡、银行账单
 - 视频：https://www.youtube.com/watch?v=79OhJVQvGyc
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：教程、eSIM、VoHive、大疆4G模块、Mac教程
 - 视频：https://www.youtube.com/watch?v=PZRkoggXFco
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

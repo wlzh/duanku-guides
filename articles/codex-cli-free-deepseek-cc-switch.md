@@ -12,6 +12,7 @@
 - 专题：技术、AI
 - 关键词：Codex、DeepSeek、CC Switch、API路由、协议转换
 - 视频：https://www.youtube.com/watch?v=3C7YQRjnZzY
+- 系列：[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

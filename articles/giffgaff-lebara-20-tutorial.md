@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Giffgaff、Lebara、携号转网、英国手机卡、eSIM
 - 视频：https://www.youtube.com/watch?v=c9e3gmjXc8k
+- 系列：[英国 Giffgaff 保号系列](../series/giffgaff.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

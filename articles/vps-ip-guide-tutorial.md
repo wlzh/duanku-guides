@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：VPS、IP质量、IP检测、家宽IP、原生IP
 - 视频：https://www.youtube.com/watch?v=Vq-KLwXPcGw
+- 系列：[出海网络搭建](../series/overseas-network.md)、[出海 VPS](../series/vps.md)
 
 ## 正文
 

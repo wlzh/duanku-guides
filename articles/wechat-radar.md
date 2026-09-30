@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：WeChat Radar、微信看板、群聊管理、开源项目、微信情报
 - 视频：https://www.youtube.com/watch?v=mqk9ViLo4M8
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

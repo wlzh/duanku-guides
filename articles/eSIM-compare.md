@@ -12,6 +12,7 @@
 - 专题：工具
 - 关键词：eSIM、数据安全、VPN
 - 视频：https://www.youtube.com/watch?v=W46dce-LXjM
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

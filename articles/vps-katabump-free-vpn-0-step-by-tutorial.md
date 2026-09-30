@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：KataBump、VPS、VPN、法国节点、Singbox
 - 视频：https://www.youtube.com/watch?v=aST_Cs_d6_I
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

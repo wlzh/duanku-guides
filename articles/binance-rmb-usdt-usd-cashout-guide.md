@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：加密货币、教程
 - 视频：https://www.youtube.com/watch?v=EkGCLiPr3HM
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

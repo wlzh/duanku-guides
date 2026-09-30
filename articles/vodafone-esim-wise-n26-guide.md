@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：eSIM、Wise、跨境支付
 - 视频：https://www.youtube.com/watch?v=aEJm0xcXaxI
+- 系列：[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

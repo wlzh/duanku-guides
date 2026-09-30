@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Apple ID、App Store、iOS、教程
 - 视频：https://www.youtube.com/watch?v=-C1mrsx1TkQ
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

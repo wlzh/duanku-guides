@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Neverless、加密交易所、注册教程、出入金、0手续费
 - 视频：https://www.youtube.com/watch?v=4aFwSHXv090
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

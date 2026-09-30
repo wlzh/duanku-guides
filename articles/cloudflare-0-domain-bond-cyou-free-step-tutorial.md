@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：域名、0元域名、顶级域名、nicnames、doma protocol
 - 视频：https://www.youtube.com/watch?v=qUU4B33XmJs
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

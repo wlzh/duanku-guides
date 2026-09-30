@@ -12,6 +12,7 @@ Claude Code 零基础小白教程第4期高阶进阶篇，教你提示词技巧�
 - 专题：技术、AI
 - 关键词：Claude、AI工具、教程
 - 视频：https://www.youtube.com/watch?v=c5Xs8gceiCM
+- 系列：[Claude Code 小白课程](../series/claude-code-course.md)、[AI 产品与技术](../series/ai-products-and-technology.md)
 
 ## 正文
 

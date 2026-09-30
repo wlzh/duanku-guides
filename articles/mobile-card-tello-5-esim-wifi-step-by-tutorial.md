@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Tello、美国手机卡、美国实体手机号、eSIM、WiFi Calling
 - 视频：https://www.youtube.com/watch?v=cnkK6RQ4j74
+- 系列：[美国云居民系列](../series/american-cloud-resident.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

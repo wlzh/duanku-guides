@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Giffgaff、英国手机卡、保号、海外手机号、0月租
 - 视频：https://www.youtube.com/watch?v=HcU0iXtOL80
+- 系列：[英国 Giffgaff 保号系列](../series/giffgaff.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

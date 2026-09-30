@@ -12,6 +12,7 @@ Cloudflare 临时邮箱搭建教程，覆盖域名托管、邮件路由、D1、K
 - 专题：技术
 - 关键词：域名、永久域名、免费二级域名、Cloudflare、KataBump
 - 视频：https://www.youtube.com/watch?v=NS24Ne_rP1M
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 

@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：VoWiFi、海外卡、教程
 - 视频：https://www.youtube.com/watch?v=3lYgUUBEstI
+- 系列：[英国 Giffgaff 保号系列](../series/giffgaff.md)、[出海手机号](../series/overseas-mobile.md)
 
 ## 正文
 

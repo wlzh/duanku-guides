@@ -12,6 +12,7 @@
 - 专题：教程
 - 关键词：Wise、跨境支付、网赚项目
 - 视频：https://www.youtube.com/watch?v=AL8cOn49xG8
+- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

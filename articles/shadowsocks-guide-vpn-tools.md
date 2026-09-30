@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：Shadowsocks、VPN、小火箭、ClashX、Shadowrocket
 - 视频：https://www.youtube.com/watch?v=NHCgLZNDvDw
+- 系列：[出海网络搭建](../series/overseas-network.md)
 
 ## 正文
 
