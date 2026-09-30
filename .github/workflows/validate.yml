@@ -1,0 +1,34 @@
+name: Validate knowledge base
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate repository structure
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s README.md
+          test -s catalog.json
+          test -d articles
+          test -d topics
+          article_count="$(find articles -type f -name '*.md' | wc -l | tr -d ' ')"
+          catalog_count="$(node -e "const c=require('./catalog.json'); process.stdout.write(String(c.count))")"
+          test "$article_count" = "$catalog_count"
+          if grep -R -n -E '\{%|<iframe|<script' articles topics; then
+            echo 'Unsupported Hexo or active HTML markup remains' >&2
+            exit 1
+          fi
+          if grep -R -n -E -- '-----BEGIN (RSA |EC |OPENSSH )?PRIVATE KEY-----|gh[pousr]_[A-Za-z0-9]{20,}|AIza[A-Za-z0-9_-]{30,}' articles topics README.md catalog.json; then
+            echo 'Possible credential detected' >&2
+            exit 1
+          fi

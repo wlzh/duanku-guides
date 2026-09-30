@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">M. 中文技术教程与自动化知识库</title>
+  <desc id="desc">AI 工具、自动化、部署、macOS 与 YouTube 内容生产实用教程</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071b22"/>
+      <stop offset="0.58" stop-color="#123b3a"/>
+      <stop offset="1" stop-color="#c55a32"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#dff7ef" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="640" rx="28" fill="url(#grid)"/>
+  <circle cx="1110" cy="128" r="172" fill="#f5c552" fill-opacity=".16"/>
+  <circle cx="1164" cy="542" r="260" fill="#061419" fill-opacity=".32"/>
+  <path d="M82 104h110" stroke="#f5c552" stroke-width="10" stroke-linecap="round"/>
+  <text x="82" y="236" fill="#f7fbf8" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="70" font-weight="800">M. 中文技术教程</text>
+  <text x="82" y="325" fill="#f7fbf8" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="70" font-weight="800">与自动化知识库</text>
+  <text x="86" y="410" fill="#d7eee7" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="500">AI 工具 · 自动化 · 部署 · macOS · YouTube</text>
+  <rect x="82" y="478" width="326" height="68" rx="34" fill="#f5c552"/>
+  <text x="245" y="523" fill="#102426" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="28" font-weight="700">github.com/wlzh</text>
+  <g transform="translate(940 286)" fill="none" stroke="#f7fbf8" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 0h176v176H0z" opacity=".26"/>
+    <path d="M42 54h92M42 88h92M42 122h62"/>
+  </g>
+</svg>
