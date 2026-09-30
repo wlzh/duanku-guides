@@ -1,6 +1,6 @@
 # AI
 
-本专题收录 76 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 78 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
@@ -45,6 +45,7 @@
 - [小白手把手自建纯净家宽节点+中转站全流程：DMIT配合VIRCS部署CPA，彻底解决AI风控！](../articles/dmitvircsdeploycpa-ai.md)：基于"第一性原理"构建的自建纯净家宽节点与中转站完整流水线教程 由于当前各大 AI 模型（如 Claude、ChatGPT 等）风控日益严格，普通机场 IP 经常面临降智、封号或频繁弹验证码的问题
 - [宝藏网站推荐：大坝的资源收集站 - 你的100T+数字图书馆](../articles/doc.869hr.uk.md)：大坝的资源收集站使用指南：介绍 AI 知识、课程、影视、音乐、电子书和健康资料等资源分类，以及站内搜索与内容查找方法。
 - [Deepseek官网报错解决方案2025，一篮子解决方案，持续更新中 | 完整教程，含多个满血版R1推理模型三方服务](../articles/ds-option.md)：全面解决Deepseek官网报错问题的一篮子解决方案，包括本地部署、第三方服务和云端部署等多种方案。提供最新的满血版R1推理模型三方服务列表，详细的故障排除指南和性能优化建议。持续更新的完整教程，助您享受流畅的AI对话体验。
+- [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-asu-invite.md)：美国大学 .edu 教育邮箱申请教程：涵盖申请前准备、在线注册、信息保存、账户激活和常见问题，并说明教育优惠的适用条件。
 - [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
 - [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
 - [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
@@ -73,6 +74,7 @@
 - [【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器](../articles/tutorial-claude-code-happy-coder-cc.md)：分享开源项目 Happy Coder，让你用手机远程控制电脑上的 Claude Code，支持全链路 E2EE 加密，无需公网 IP
 - [想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](../articles/us-itin-tax-number-apply-guide.md)：详细教程：想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)，涵盖跨境支付等知识点
 - [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
+- [野卡(WildCard)虚拟信用卡：海外订阅支付神器，告别支付壁垒！（20250712跑路）](../articles/virtual-bank-card-register-guide.md)：野卡 WildCard 虚拟信用卡历史教程，记录其注册、开卡和海外订阅支付流程；该服务已于 2025 年 7 月停止运营，仅供资料参考。
 - [Warp AI终端工具使用指南：告别传统，拥抱智能高效](../articles/warp-ai.md)：本文详细介绍了 Warp 终端工具的使用方法，包括下载安装、普通命令模式、AI模式、沉浸式交互等多个方面。通过实际案例演示了 Warp 的 AI 命令建议、命令块分享、参数化工作流等亮点功能，帮助开发者快速上手，提升工作效率。Warp 终端结合了命令行界面的强大功能和人工智能的智能辅助，旨在提高开发人员的工作效率。
 - [Windows 一键部署 Hermes AI Agent 小白也能玩转 NousResearch 大模型！](../articles/windows-deploy-hermes-ai-agent.md)：想在 Windows 上体验强大的 NousResearch Hermes AI Agent，却被 WSL2 和复杂的环境配置劝退
 - [Windows电脑安装macOS系统完整教程，免费使用Mac专属AI软件VMware虚拟机手把手教学](../articles/windows-desktop-macos-free-mac-ai-vmware-tutorial.md)：介绍在 Windows 电脑中使用 VMware 安装 macOS 的准备条件、虚拟机配置、系统安装和常见故障排查，用于体验 Mac 专属软件。

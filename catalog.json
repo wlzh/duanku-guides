@@ -2285,7 +2285,8 @@
         "教程"
       ],
       "topics": [
-        "tutorial"
+        "tutorial",
+        "ai"
       ],
       "playlistIds": [],
       "publishedAt": "2025-05-14T14:30:00.000Z",
@@ -5007,7 +5008,8 @@
         "教程"
       ],
       "topics": [
-        "tools"
+        "tools",
+        "ai"
       ],
       "playlistIds": [],
       "publishedAt": "2025-04-16T15:10:25.000Z",

@@ -9,7 +9,7 @@
 - 原文：https://869hr.uk/2025/tools/virtual-bank-card-register-guide/
 - 更新：2024-04-16
 - 分类：工具
-- 专题：工具
+- 专题：工具、AI
 - 关键词：跨境支付、信用卡、教程
 
 ## 正文
