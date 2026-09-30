@@ -49,14 +49,14 @@
 - [1583认证教程！Anytime Mailbox 在线公证手把手教学，护照+身份证翻译件搞定，25美元完成](articles/1583-anytime-mailbox-25-tutorial.md)：🔗 本视频涉及资源： Anytime Mailbox（邀请链接，双方各得 10 美元亚马逊礼品卡）： 📚 系列往期： ITIN 申请教程： Tello 美国实体手机号： 第四期 租用美国私人地址： 家宽 IP（Webshare）： 完成这一期，你的美国收件地址就 fully ready 了
 - [美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起](articles/anytime-mailbox-9-tutorial.md)：「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址
 - [不支持eSIM的国产手机，白嫖法国USIMS永久免费流量教程](articles/esim-mobile-usims-free-tutorial.md)：法国 USIMS 这款应用，实测能领到「1G 高速 + 用完无限 128kbps」的永久免费流量，而且你的手机不需要原生支持 eSIM——先用模块把手机伪装成支持 eSIM，再通过虚拟框架把应用装进去，就能拿到 eSIM 二维码，扫进小白卡正常使用
-- [美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md)：几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+- [美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md)：Tello 美国手机卡与 eSIM 配置教程：介绍套餐选择、注册购买、安装激活和 WiFi Calling 设置，以及长期保号与短信收发的注意事项。
 - [Window Layout Memory：Mac 切换单双屏后自动恢复窗口位置的开源工具](articles/window-layout-memory.md)：Window Layout Memory 是开源 macOS 窗口布局记忆工具，可按显示器组合保存窗口大小、位置和归属，并通过保守匹配、候选确认、历史回退与例外规则降低误恢复风险。
 - [WatermarkFlow：Mac 剪贴板图片一键加水印，开源原生批量平铺工具](articles/watermark-flow-mac.md)：WatermarkFlow 是开源原生 macOS 水印工具，支持剪贴板、拖放与文件导入，提供文字、Logo、单个和满屏平铺水印、自动对比、模板及全局快捷键。
 - [Sound Guard：Mac 长时间无声自动归零音量，避免突然外放的开源工具](articles/sound-guard-mac.md)：Sound Guard 是一款开源 macOS 菜单栏音量保护工具：设备长时间没有播放活动时自动将输出音量归零，并通过设备白名单、保守检测和确认式恢复降低突然外放风险。
 - [💎 你的US.KG域名还能抢回来！ 免费注册，教程来了！](articles/us.kg-domain-callbak.md)：介绍原 US.KG 域名持有者申请恢复域名的资格条件、KYC Key 获取方式、官方联系渠道和提交前需要核对的限制。
 - [0元白嫖两个顶级域名！.bond/.cyou首年免费+Cloudflare托管保姆级教程](articles/cloudflare-0-domain-bond-cyou-free-step-tutorial.md)：还支持自定义NS，可无缝接入Cloudflare托管，免费域名+免费CDN+免费SSL一起打通，个人项目上线基本0成本
 - [海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题](articles/app-register-tutorial.md)：本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题
-- [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](articles/60-mac-vibe-coding-tutorial.md)：几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+- [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](articles/60-mac-vibe-coding-tutorial.md)：用小米蓝牙遥控器 RC003 和 SayAll 实现 Mac 无线语音输入与快捷键控制，涵盖安装、配对、权限授权、按键映射和 Vibe Coding 使用方法。
 - [KiteSim免实名实体手机号教程：美国/加拿大/英国号码+接码+保号+eSIM流量一站式开通](articles/kitesim-mobile-esim-tutorial.md)：KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开通美国、加拿大、英国独享实体号码，号码干净不触发风控，支持长期续费保号、随时接收短信验证码，注册海外服务更安全
 - [DeepSeek放出一头黑鲸！同一个模型干活成本差4倍，答案全在模型外面](articles/deepseek-4.md)：本期拆解DeepSeek Harness黑鲸开源智能体运行系统：一切皆插件架构、四种运行模式、Composio实测同一模型成本差4倍、MIT协议可自部署。
 - [Giffgaff携号转网VOXI教程：无需WiFi Calling，国行安卓也能轻松搞定第六期](articles/giffgaff-voxi-wifi-calling-tutorial.md)：本期教你从Giffgaff携号转网到英国沃达丰VOXI，全程无需WiFi Calling，国行安卓使用Xesim激活eSIM，手把手APN设置教程

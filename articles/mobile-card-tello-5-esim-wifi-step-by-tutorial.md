@@ -1,6 +1,6 @@
 # 美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程
 
-几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+Tello 美国手机卡与 eSIM 配置教程：介绍套餐选择、注册购买、安装激活和 WiFi Calling 设置，以及长期保号与短信收发的注意事项。
 
 > 完整图文与持续更新版本：[美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](https://869hr.uk/2026/tech/mobile-card-tello-5-esim-wifi-step-by-tutorial/)
 

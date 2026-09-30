@@ -10,7 +10,7 @@
 - [2026最新免费域名！免绑信用卡，初始给10年还可无限续期，手把手教你托管Cloudflare全流程](../articles/2026freedomaincard-10-cloudflare.md)：DNSHE免费域名注册教程，ccwu.cc后缀初始10年有效期可无限续期，手把手教你托管到Cloudflare，适合VPS面板、NAS远程访问、自建博客。
 - [3分钟解锁欧洲交易所！Neverless注册出入金全教程，0手续费+送20USD](../articles/3-neverless-register-0-20usd-tutorial.md)：介绍 Neverless 的账户注册、身份验证、入金、交易与出金流程，并提示奖励、费用、地区资格和监管信息需在操作前核对官方页面。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
-- [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](../articles/60-mac-vibe-coding-tutorial.md)：几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+- [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](../articles/60-mac-vibe-coding-tutorial.md)：用小米蓝牙遥控器 RC003 和 SayAll 实现 Mac 无线语音输入与快捷键控制，涵盖安装、配对、权限授权、按键映射和 Vibe Coding 使用方法。
 - [微信群二维码7天过期？用这个开源免费工具生成永久二维码，无需服务器，3分钟搞定！](../articles/7-free-tools-server-3.md)：众所周知，微信群二维码只有 7天有效期，对于一些玩私域的朋友，稳住一个二维码使用完全没招，要么只能忍受，要么市面上有付费使用的，要么免费的总有弹窗广告来维持不变的二维码。
 - [论文去AI味神器！baibaiAIGC开源工具完整教程｜多轮降AIGC痕迹 支持docx和txt](../articles/ai-baibaiaigc-tools-aigc-docx-txt-tutorial.md)：介绍 baibaiAIGC 开源工具的安装、API 配置、模型选择、docx 与 txt 处理流程，并说明多轮改写、切块校验和常见报错排查。
 - [2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南](../articles/ai-beginner-guide.md)：🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新
@@ -92,7 +92,7 @@
 - [Mac微信多开教程｜一键脚本实现双开到多开，支持Telegram、WhatsApp等所有APP](../articles/mac-telegram-whatsapp-app-tutorial.md)：Mac上实现微信双开到多开的完整教程，使用终端命令复制程序、修改标识符、重新签名，配合Automator打包成一键启动应用。支持微信、Telegram、WhatsApp等所有Mac APP多开，无需第三方软件，可升级、纯原生。
 - [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](../articles/maya-free-savings-visa-card-tutorial.md)：菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器
 - [MCP支持流式HTTP传输协议解析：构建下一代无状态服务架构](../articles/mcp-http-sse-update.md)：深入解析Model Context Protocol最新引入的可流式HTTP传输机制，详解其如何通过改进SSE实现无状态服务架构，对比WebSocket方案的技术选型考量，并给出三种典型服务器实现场景的工程实践方案。全文包含协议演进动机、技术优势解读及实际应用场景演示。
-- [美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](../articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md)：几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+- [美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](../articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md)：Tello 美国手机卡与 eSIM 配置教程：介绍套餐选择、注册购买、安装激活和 WiFi Calling 设置，以及长期保号与短信收发的注意事项。
 - [国内任意手机免费使用eSIM！BeeSIM蓝牙读写+Saily美国实体号月租0.99美元完整教程](../articles/mobile-free-usage-esim-beesim-saily-0-99-tutorial.md)：介绍普通手机通过 BeeSIM 蓝牙读写器使用 eSIM，并演示 Saily 美国手机号套餐的开通、写入、保号和费用核对流程。
 - [苹果手机iOS定位修改到世界任何地方｜Shadowrocket小火箭保姆级教程 无需越狱](../articles/mobile-ios-shadowrocket-step-by-tutorial.md)：本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方， 无需越狱、无需电脑、无需开发者账号 。跟着一步步做即可。
 - [零成本保号美国实体手机号！Talkatone注册教程及虚拟号检测方法](../articles/mobile-talkatone-register-virtual-tutorial.md)：手把手演示 Talkatone 注册美国手机号的准备条件、下载安装、网络环境和号码检测方法，并说明保号与虚拟号识别注意事项。

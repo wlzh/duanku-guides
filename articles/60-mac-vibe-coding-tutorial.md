@@ -1,6 +1,6 @@
 # 60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程
 
-几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+用小米蓝牙遥控器 RC003 和 SayAll 实现 Mac 无线语音输入与快捷键控制，涵盖安装、配对、权限授权、按键映射和 Vibe Coding 使用方法。
 
 > 完整图文与持续更新版本：[60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](https://869hr.uk/2026/tech/60-mac-vibe-coding-tutorial/)
 
