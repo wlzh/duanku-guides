@@ -5,7 +5,7 @@
 - YouTube：[连续观看完整系列](https://www.youtube.com/playlist?list=PLpBi3Wpk7OYj6r0d5AhVJXVwwA_Y0AZiu)
 - 博客：[系列图文页](https://869hr.uk/series/software-and-tools/)
 - 配套资源：[大坝资源收集站](https://doc.869hr.uk/tools/)
-- 当前视频：17 个
+- 当前视频：16 个
 
 ## 系列目录
 
@@ -20,9 +20,8 @@
 9. [YouTube视频创作与变现完全指南：从零开通AdSense到收益最大化](../articles/youtube-guide-adsense.md) · [博客原文](https://869hr.uk/2026/tech/youtube-guide-adsense/) · [YouTube](https://www.youtube.com/watch?v=la4oJiG4yvM)
 10. [部署在 Cloudflare Workers 上的免费自托管 2FA 管理器，支持 20+ 格式互导](../articles/cloudflare-deploy-workers-free-2fa-20.md) · [博客原文](https://869hr.uk/2026/tech/cloudflare-deploy-workers-free-2fa-20/) · [YouTube](https://www.youtube.com/watch?v=fWqjMNN-7ZI)
 11. [WeChat Radar 微信群聊情报看板｜一键聚合群消息、话题、链接和趋势，本地运行零上传](../articles/wechat-radar.md) · [博客原文](https://869hr.uk/2026/tech/wechat-radar/) · [YouTube](https://www.youtube.com/watch?v=mqk9ViLo4M8)
-12. [Windows电脑安装macOS系统完整教程，免费使用Mac专属AI软件（VMware虚拟机手把手教学）](../articles/windows-desktop-macos-free-mac-ai-vmware-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/windows-desktop-macos-free-mac-ai-vmware-tutorial/) · [YouTube](https://www.youtube.com/watch?v=EToxhFmpbM0)
-13. [Windows免费安装激活Office全套！无需购买激活码，5分钟搞定Word/Excel/PPT](../articles/windows-free-install-office-5-word-excel-ppt.md) · [博客原文](https://869hr.uk/2026/tech/windows-free-install-office-5-word-excel-ppt/) · [YouTube](https://www.youtube.com/watch?v=u6z0pE_tbKs)
-14. [Telegram登录要收SMS费？5种方法免费绕过，亲测有效！](../articles/telegram-sms-5-free.md) · [博客原文](https://869hr.uk/2026/tech/telegram-sms-5-free/) · [YouTube](https://www.youtube.com/watch?v=ugguWmPE0BI)
-15. [2026最新！5分钟速创美区Apple ID教程🇺🇸 免绑卡0成本，App Store无验证码秒切账号！](../articles/20265apple-idtutorial-card0-app-store.md) · [博客原文](https://869hr.uk/2026/tech/20265apple-idtutorial-card0-app-store/) · [YouTube](https://www.youtube.com/watch?v=-C1mrsx1TkQ)
-16. [想要Claude等AI支付稳？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](../articles/us-itin-tax-number-apply-guide.md) · [博客原文](https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/) · [YouTube](https://www.youtube.com/watch?v=B8gNipUixTo)
-17. [2026护照办理全流程揭秘：只需跑一次，120元搞定！海外生活、留学、开户必备身份证明](../articles/passport-2026-process-guide.md) · [博客原文](https://869hr.uk/2026/tech/passport-2026-process-guide/) · [YouTube](https://www.youtube.com/watch?v=pfZOxCxA-OQ)
+12. [Windows免费安装激活Office全套！无需购买激活码，5分钟搞定Word/Excel/PPT](../articles/windows-free-install-office-5-word-excel-ppt.md) · [博客原文](https://869hr.uk/2026/tech/windows-free-install-office-5-word-excel-ppt/) · [YouTube](https://www.youtube.com/watch?v=u6z0pE_tbKs)
+13. [Telegram登录要收SMS费？5种方法免费绕过，亲测有效！](../articles/telegram-sms-5-free.md) · [博客原文](https://869hr.uk/2026/tech/telegram-sms-5-free/) · [YouTube](https://www.youtube.com/watch?v=ugguWmPE0BI)
+14. [2026最新！5分钟速创美区Apple ID教程🇺🇸 免绑卡0成本，App Store无验证码秒切账号！](../articles/20265apple-idtutorial-card0-app-store.md) · [博客原文](https://869hr.uk/2026/tech/20265apple-idtutorial-card0-app-store/) · [YouTube](https://www.youtube.com/watch?v=-C1mrsx1TkQ)
+15. [想要Claude等AI支付稳？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](../articles/us-itin-tax-number-apply-guide.md) · [博客原文](https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/) · [YouTube](https://www.youtube.com/watch?v=B8gNipUixTo)
+16. [2026护照办理全流程揭秘：只需跑一次，120元搞定！海外生活、留学、开户必备身份证明](../articles/passport-2026-process-guide.md) · [博客原文](https://869hr.uk/2026/tech/passport-2026-process-guide/) · [YouTube](https://www.youtube.com/watch?v=pfZOxCxA-OQ)

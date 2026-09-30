@@ -99,7 +99,7 @@
       "blogUrl": "https://869hr.uk/series/software-and-tools/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/software-and-tools.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 17,
+      "itemCount": 16,
       "videoIds": [
         "1e8gXx3c56w",
         "NnfL-Uo3mHU",
@@ -112,7 +112,6 @@
         "la4oJiG4yvM",
         "fWqjMNN-7ZI",
         "mqk9ViLo4M8",
-        "EToxhFmpbM0",
         "u6z0pE_tbKs",
         "ugguWmPE0BI",
         "-C1mrsx1TkQ",
@@ -129,9 +128,8 @@
       "blogUrl": "https://869hr.uk/series/claude-code-course/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/claude-code-course.md",
       "resourceUrl": "https://doc.869hr.uk/AIknowledge/",
-      "itemCount": 5,
+      "itemCount": 4,
       "videoIds": [
-        "JV_WmhYU-RY",
         "c5Xs8gceiCM",
         "ae6xFUzJuJU",
         "ahyKIDcC6nk",
@@ -147,7 +145,7 @@
       "blogUrl": "https://869hr.uk/series/ai-products-and-technology/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/ai-products-and-technology.md",
       "resourceUrl": "https://doc.869hr.uk/AIknowledge/",
-      "itemCount": 49,
+      "itemCount": 48,
       "videoIds": [
         "80u2rwxpTqA",
         "wQJ25YhmxGk",
@@ -171,7 +169,6 @@
         "gQLkDdOIzQM",
         "KQck0xwjHAw",
         "NlYVZjOBkOw",
-        "JV_WmhYU-RY",
         "yv1HFb79Yus",
         "cEdCN_cY8mI",
         "Y_nWx0XUQ9w",
@@ -1584,10 +1581,7 @@
         "tech",
         "ai"
       ],
-      "playlistIds": [
-        "PLpBi3Wpk7OYjAW3ZA3xju2VyBnupCRWUN",
-        "PLpBi3Wpk7OYinOdd8WbQ_gbuSVMNgBLlI"
-      ],
+      "playlistIds": [],
       "publishedAt": "2026-05-11T16:53:26.000Z",
       "updatedAt": "2026-05-11T16:53:26.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/claude-code-happy-mobile-remote-control-tutorial/",
@@ -5478,9 +5472,7 @@
         "tech",
         "ai"
       ],
-      "playlistIds": [
-        "PLpBi3Wpk7OYj6r0d5AhVJXVwwA_Y0AZiu"
-      ],
+      "playlistIds": [],
       "publishedAt": "2026-05-25T09:05:43.000Z",
       "updatedAt": "2026-05-25T09:05:43.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/windows-desktop-macos-free-mac-ai-vmware-tutorial/",
