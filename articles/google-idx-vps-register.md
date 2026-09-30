@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tutorial/google-idx-vps-register/
 - 更新：2025-05-10
 - 分类：教程
+- 专题：教程
 - 关键词：Google、VPS
 - 视频：https://www.youtube.com/watch?v=YE-IKZ3fM2s
 

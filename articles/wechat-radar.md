@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/wechat-radar/
 - 更新：2026-05-26
 - 分类：技术
+- 专题：技术
 - 关键词：WeChat Radar、微信看板、群聊管理、开源项目、微信情报
 - 视频：https://www.youtube.com/watch?v=mqk9ViLo4M8
 

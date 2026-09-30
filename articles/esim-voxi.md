@@ -9,6 +9,7 @@ VOXI eSIM，作为Vodafone旗下的创新品牌，为学生党带来了无需KYC
 - 原文：https://869hr.uk/2025/tutorial/esim-voxi/
 - 更新：2025-08-09
 - 分类：教程
+- 专题：教程
 - 关键词：eSIM、免费资源
 
 ## 正文

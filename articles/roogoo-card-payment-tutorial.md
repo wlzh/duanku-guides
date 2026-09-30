@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/roogoo-card-payment-tutorial/
 - 更新：2026-06-17
 - 分类：技术
+- 专题：技术
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=UPRT8d9iGJA
 

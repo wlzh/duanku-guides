@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/claude-opus-4-7-8-devin-register-230/
 - 更新：2026-05-29
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Claude Opus 4.7、Claude Opus 4.8、Devin AI、免费Claude、白嫖Claude
 - 视频：https://www.youtube.com/watch?v=UtVq_9s7lxM
 

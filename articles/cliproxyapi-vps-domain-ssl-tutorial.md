@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/cliproxyapi-vps-domain-ssl-tutorial/
 - 更新：2026-05-04
 - 分类：教程
+- 专题：教程、AI
 - 关键词：开发工具、VPS、Cloudflare、OpenClaw、SSL证书
 - 视频：https://www.youtube.com/watch?v=3KhDHeQ7MJs
 

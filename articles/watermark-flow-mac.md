@@ -9,6 +9,7 @@ WatermarkFlow 是开源原生 macOS 水印工具，支持剪贴板、拖放与�
 - 原文：https://869hr.uk/2026/tech/watermark-flow-mac/
 - 更新：2026-09-14
 - 分类：技术
+- 专题：技术
 - 关键词：macOS、开源工具、图片水印、效率工具、内容创作
 
 ## 正文

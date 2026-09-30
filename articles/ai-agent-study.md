@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/learning-resource/ai-agent-study/
 - 更新：2025-02-24
 - 分类：学习资源
+- 专题：学习资源、AI
 - 关键词：AI工具、AI前沿、知识分享、AI、学习资源
 
 ## 正文

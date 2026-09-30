@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tutorial/stripe-account-register/
 - 更新：2025-02-21
 - 分类：教程
+- 专题：教程
 - 关键词：Stripe、信用卡、跨境支付、教程、苹果支付
 - 视频：https://www.youtube.com/watch?v=CHy_2Yz7LI8
 

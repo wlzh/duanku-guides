@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tutorial/google-account-no-phone/
 - 更新：2025-02-27
 - 分类：教程
+- 专题：教程
 - 关键词：邮箱、账号注册、教程
 
 ## 正文

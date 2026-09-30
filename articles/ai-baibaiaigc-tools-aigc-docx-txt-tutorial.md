@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/ai-baibaiaigc-tools-aigc-docx-txt-tutorial/
 - 更新：2026-07-11
 - 分类：技术
+- 专题：技术、AI
 - 关键词：baibaiAIGC、AI去味、论文降AIGC、AIGC检测、中文论文
 - 视频：https://www.youtube.com/watch?v=wQJ25YhmxGk
 

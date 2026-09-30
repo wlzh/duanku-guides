@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/chrome-vertical-tabs-tutorial/
 - 更新：2026-03-12
 - 分类：教程
+- 专题：教程
 - 关键词：效率工具
 - 视频：https://www.youtube.com/watch?v=AcyrxbJzBtg
 

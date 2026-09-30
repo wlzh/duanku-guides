@@ -1,7 +1,82 @@
-# ai
+# AI
 
-本专题收录 3 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 78 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
+- [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
+- [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
+- [【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！](../articles/6-chatgpt-plus-tutorial.md)：详细教程：【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！，涵盖视频教程等知识点
+- [拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略  50次刷新机会，亲测轻松解锁Claude/ChatGPT！](../articles/8-usa-ip-50-claude-chatgpt.md)：详细教程：拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略 50次刷新机会，亲测轻松解锁Claude/ChatGPT！，涵盖ip属性、VPN、ChatGPT等知识点
+- [AI Agents免费学习8个宝藏级资源🚀，不学你就OUT了！](../articles/ai-agent-study.md)：还在苦苦寻找AI Agents的学习资料？别找啦！这篇博客为你精选了8个免费又优质的学习资源，从Google白皮书到MIT专业著作，再到Hugging Face实战课程，应有尽有，助你快速掌握AI Agents的核心技能，弯道超车，就在今天！
+- [论文去AI味神器！baibaiAIGC开源工具完整教程｜多轮降AIGC痕迹 支持docx和txt](../articles/ai-baibaiaigc-tools-aigc-docx-txt-tutorial.md)：介绍 baibaiAIGC 开源工具的安装、API 配置、模型选择、docx 与 txt 处理流程，并说明多轮改写、切块校验和常见报错排查。
+- [2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南](../articles/ai-beginner-guide.md)：🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新
+- [真香！AI订阅、支付卡，Bybit Card 国内身份证秒开，0开卡费，USDT 支付宝/微信随便刷](../articles/ai-payment-card-bybit-0-usdt.md)：中国身份证就能秒开虚拟卡 + 实体卡，支付宝、微信、Apple Pay 随便绑，日常买咖啡、付房租都能直接刷 [USDT]
+- [零基础用AI写浏览器自动化！手把手教你做注册机](../articles/ai-register.md)：面向零代码基础读者演示如何借助 AI 编写浏览器自动化注册脚本，包含需求拆解、元素定位、运行调试和失败处理方法。
+- [三方API登录下用手机远控Codex，手把手小白教程](../articles/api-mobile-codex-beginner-tutorial.md)：介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。
+- [【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！](../articles/apple-id-register---claude.md)：详细教程：【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！，涵盖Claude、Apple ID、教程等知识点
+- [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](../articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。
+- [省钱秘籍：手把手教你用尼日利亚区AppleID订阅 ChatGPT Plus，每月只要$8](../articles/chatgpt-appid.md)：想要更便宜地订阅ChatGPT Plus？本文详细介绍了如何通过注册尼日利亚区的Apple ID，以每月仅约$8的价格订阅ChatGPT Plus，相比美区订阅每月$20，能节省一大笔开销。包含修改手机地区、注册Apple ID、购买礼品卡、订阅ChatGPT Plus等详细步骤，让你轻松享受ChatGPT
+- [ChatGPT Business 第三期｜澳大利亚48个月Team优惠码$17.8/月，4种支付含PayPal](../articles/chatgpt-business-48-team-17-8-4-payment-paypal.md)：本文介绍 ChatGPT Business 澳大利亚 Team 优惠的适用条件、价格与四种支付方式，并补充 PayPal 付款步骤和开通前核对事项。
+- [ChatGPT降智识别和解决方案 | 降智定义、检测方法和应对策略](../articles/chatgpt-downgrade.md)：深入解析ChatGPT降级现象的成因、检测方法和解决方案。包含完整的降级识别指南、性能测试方法、IP质量评估和账号恢复方案。提供多种实用工具和专业建议，帮助用户应对ChatGPT性能下降问题。详细介绍官方风控策略、API限制变化，并提供最新的解决方案和优化建议，确保您获得最佳的AI对话体验。
+- [免费领ChatGPT Business 2个月！美区优惠码+长连接脚本教程](../articles/chatgpt-free-business-2-tutorial.md)：免费ChatGPT 2个月 Business 领取 第二期，这次是美区，绑卡用SafePal或者bybit 免费领取ChatGPT Business 2个月
+- [Gmail搞免费GPT账户｜K12空间白嫖ChatGPT Plus全流程 喂饭级教程](../articles/chatgpt-gmail-free-gpt-k12-plus-tutorial.md)：多了登录gpt会报错，脚本中的空间ID现在人数人多，可以自己找最新的gmail的K12空间id，进行替换，linuxdo等很多站很多分享的
+- [2026最新！用Gopay只需5分钟开通ChatGPT Plus，只需接两次码](../articles/chatgpt-gopay-5-plus.md)：log("💰 Plan : ChatGPT Plus（尝试使用 IDR / 印尼盾）"); console
+- [48个月半价Team优惠码 一个人50人民币， 英国优惠码（可能是目前最低的），手把手保姆教程](../articles/chatgpt-team--15-1-50--48--promo.md)：本视频实测成功开通 ChatGPT Team 计划，实现目前已知最低价格：15.21/人月付，平均一人每个月50人民币，使用英国优惠码codestonegb获得48个月半价优惠
+- [ChatGPT Team 第五期！买一送一持续48个月，墨西哥18美刀+西班牙+哥伦比亚三国优惠码教程](../articles/chatgpt-team-48-18-tutorial.md)：📺 往期教程： • 第一期：ChatGPT Team 基础注册教程 • 第二期：土耳其/尼日利亚低价区教程 • 第三期：澳大利亚48个月Team优惠码+4种支付方法 • 第四期：英国优惠码半价Team教程 如有任何疑问或不会的操作，请查看前面四期视频教程
+- [YiKa虚拟卡实操攻略：一个邮箱开50张卡，无需KYC订阅ChatGPT和Claude](../articles/chatgpt-yika-virtual-card-50-kyc-claude.md)：想订阅个 ChatGPT Plus 或者 Claude Pro，想给自己的推特点个蓝标，或者开通 Telegram Premium 会员，最大的障碍往往不是那几十美金的费用，而是 你根本没有一张能付得出去的外币卡 。找不认识的人代充？怕黑卡封号；找中介？手续费贵得离谱。
+- [🚨你的硬盘被偷吃了？Chrome/Edge暗中下载4GB大模型！教你彻底关闭并删除本地AI【保姆级教程】](../articles/chrome-edge-delete-local-ai-model.md)：最近C盘空间莫名其妙少了几个G？罪魁祸首可能是Chrome或Edge浏览器！Google和微软正悄悄在后台下载接近4GB的本地AI模型，教你彻底删除和禁用。
+- [🚀一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效](../articles/chrome-gemini-ai-win-mac-shorts.md)：详细教程：一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效
+- [Claude Code 被封号无数？防封号终极指南，12条硬核规则助你构建'正常人类行为档案'！](../articles/claude-code-guide-12.md)：根据账号异常经历整理 Claude Code 使用中的十二项风险控制建议，涵盖登录环境、调用节奏、支付与账号行为的一致性检查。
+- [2026最新！手机远程控制Claude Code：Happy安装配置全教程](../articles/claude-code-happy-mobile-remote-control-tutorial.md)：Happy 安装配置教程：用手机远程控制 Claude Code，覆盖安装配对、会话管理、国内网络问题和自建中继。
+- [【Claude Code 小白教程-第1期】国内如何完美使用 Claude Code？手把手教你安装 Trae 国内版与 Z Code 配置！](../articles/claude-code-tutorial---1-how-to-usage.md)：欢迎来到 Claude Code 零基础小白教程系列第一期，手把手教你在国内免翻墙安装 Trae 国内版与 Z Code 配置，完美使用 Claude Code 进行 AI 编程。
+- [【Claude Code 小白教程-第2期】接入国内大模型！GLM/通义千问配置，AICodeSwitch神器！](../articles/claude-code-tutorial-2-domestic-ai-models.md)：欢迎回来！Claude Code 小白教程第二期，手把手教你配置智谱 GLM、阿里通义千问，使用 AICodeSwitch 神器一键切换模型，还有免费大模型白嫖教程。
+- [【Claude Code 小白教程-第3期】打工人提效神器！文案生成、文档批量处理与 Excel 数据自动化实战全攻略！](../articles/claude-code-tutorial-3and-excel.md)：Claude Code 零基础小白教程第3期，手把手教你文案生成、文档批量处理、Excel数据分析与图表生成，打工人提效神器实战全攻略
+- [【Claude Code 小白教程-第4期】从入门到大神！高阶提示词技巧、培养编程思维与打造专属AI自动化工作流！](../articles/claude-code-tutorial-4-advanced-workflow.md)：Claude Code 零基础小白教程第4期高阶进阶篇，教你提示词技巧、编程思维、自定义自动化工作流与AI知识库构建
 - [Claude Pro用不起？教你如何给 Claude Desktop 接入自定义第三方 API！](../articles/claude-desktop-custom-api-tutorial.md)：解决 Claude Pro 订阅消耗太快的问题，通过接入自定义第三方 API 来大幅省钱。本教程综合了 LINUX DO 社区大佬的经验，手把手教你如何为 Claude Desktop 配置第三方 API 中转，开启开发者模式，配置中转地址和 API Key。
+- [白嫖Claude Opus 4.7/4.8！Devin注册送$230额度，手慢无！](../articles/claude-opus-4-7-8-devin-register-230.md)：如果你想用本地ide的方式或者之类的可以关联 windsurf 使用但是必须要绑卡才能使用高级模型（包括14天免费试用） 如果不想绑卡，可以直接把代码和文档上传到 Github 直接 通过 Devin 云端用（在web直接处理） 注册结束
+- [CLIProxyAPI 部署教程：VPS、域名、SSL 与远程调用完整配置](../articles/cliproxyapi-vps-domain-ssl-tutorial.md)：这篇教程围绕 CLIProxyAPI 的完整部署流程展开，涵盖 VPS 准备、IP 检测、一键部署、Systemd 守护进程、防火墙配置、域名解析、Nginx 反向代理、SSL 证书申请与自动续期的完整流程。
+- [Codex CLI 免费接入 DeepSeek！CC Switch 本地路由三步搞定](../articles/codex-cli-free-deepseek-cc-switch.md)：1:15721） 3️⃣ 切换供应商，重启 Codex（即可使用 DeepSeek V4 Flash 等模型） 整个过程对 Codex 完全透明，API Key 保存在 CC Switch 里不暴露给 Codex 配置文件，安全又方便
+- [Codex 申请免费 Plus 正确姿势：从域名申请到免费订阅全流程教学](../articles/codex-free-plus-complete-tutorial.md)：小白也能上！本视频带来最详尽的 Codex 申请免费 Plus 全流程教学，手把手教你如何通过正确姿势获取免费订阅。从域名申请、企业邮箱设置、模拟器配置到 VPN 使用，完整覆盖所有步骤。
+- [【新鲜出炉】无限量白嫖 Codex GPT-5.4 模型！全自动批量注册 Chrome 插件教程，只需配置 CPA，高效率 0 手工！](../articles/codex-gpt54-auto-register-chrome-extension.md)：手把手教你无限量白嫖 Codex GPT-5.4 账号，利用 Chrome 自动化插件，只需简单配置 CPA，实现全自动批量注册，零门槛高效率。
+- [解释及澄清关于DeepSeek的最近几个传闻](../articles/deepseek-20250208.md)：深入解析关于DeepSeek的六大关键传闻，包括GPU数量、训练成本、数据来源、计算需求等热点问题。基于最新行业数据和专业分析，为读者揭示真相，提供准确可靠的技术洞察。本文将帮助你全面了解DeepSeek的发展现状和未来趋势。
+- [DeepSeek放出一头黑鲸！同一个模型干活成本差4倍，答案全在模型外面](../articles/deepseek-4.md)：本期拆解DeepSeek Harness黑鲸开源智能体运行系统：一切皆插件架构、四种运行模式、Composio实测同一模型成本差4倍、MIT协议可自部署。
+- [Deepseek内容转换工具2025：一键生成精美PDF文档 | 支持图床上传](../articles/deepseek-converter.md)：2025年全新Deepseek内容转换工具，支持一键将AI生成内容转换为精美PDF文档。内置专业图床上传功能，支持自定义标题、格式和样式。完全免费、无需安装、跨平台支持，是处理AI内容的必备工具。提供详细的使用教程和优化建议，让文档处理更轻松高效。
+- [DeepSeek视频教程及全套安装包 | 2025年最新资源，持续更新中](../articles/deepseek-study.md)：2025年最新DeepSeek本地部署视频教程及全套安装包资源，包含详细的安装指南、视频教程、大模型文件和丰富的使用技巧文档。从零开始掌握DeepSeek的本地部署与高效使用，内含ollama+dify搭建本地知识库教程，适合初学者和进阶用户。
+- [测试你的电脑能跑多大的DeepSeek模型 | 硬件配置检测工具](../articles/deepseek-test-gpu.md)：专业的DeepSeek模型硬件配置检测工具，支持Windows、Mac和Linux系统。快速评估您的设备是否适合运行DeepSeek大语言模型，提供详细的性能报告和优化建议。包含完整的硬件要求说明和性能提升指南，助您轻松部署AI模型。
+- [小白手把手自建纯净家宽节点+中转站全流程：DMIT配合VIRCS部署CPA，彻底解决AI风控！](../articles/dmitvircsdeploycpa-ai.md)：基于"第一性原理"构建的自建纯净家宽节点与中转站完整流水线教程 由于当前各大 AI 模型（如 Claude、ChatGPT 等）风控日益严格，普通机场 IP 经常面临降智、封号或频繁弹验证码的问题
+- [宝藏网站推荐：大坝的资源收集站 - 你的100T+数字图书馆](../articles/doc.869hr.uk.md)：发现一个惊人的宝藏网站——大坝的资源收集站！这个网站汇集了超过100T的各类资源，包括但不限于AI知识、课程资料、影视媒体、无损音乐、电子书籍、健康养生、健身教程等。最重要的是，它提供强大的搜索功能，让你能在这片浩瀚的数字海洋中精准定位所需。本文将带你全面了解这个堪称数字图书馆的资源聚集地，无论你是学生、研究者还是终身
+- [Deepseek官网报错解决方案2025，一篮子解决方案，持续更新中 | 完整教程，含多个满血版R1推理模型三方服务](../articles/ds-option.md)：全面解决Deepseek官网报错问题的一篮子解决方案，包括本地部署、第三方服务和云端部署等多种方案。提供最新的满血版R1推理模型三方服务列表，详细的故障排除指南和性能优化建议。持续更新的完整教程，助您享受流畅的AI对话体验。
+- [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-asu-invite.md)：想免费获取各种教育优惠，比如白嫖Gemini高级版？一个美国大学的.edu教育邮箱是你的绝佳敲门砖！本文将手把手教你如何免费注册美国大学的.edu教育邮箱。从准备“美国身份”信息，到全程使用美国节点进行在线申请，再到最后的账户激活步骤，每一步都详细讲解。文章特别强调了需要保存的关键信息以及如何处理申请过程中可能遇到的问
+- [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
+- [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
+- [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
+- [免费白嫖Super Grok一年会员全流程保姆级教程！Amazon Pay上车亲测有效](../articles/free-super-grok-tutorial-amazon-pay.md)：Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟信用卡白嫖SuperGrok一年会员，亲测有效。
+- [Gemini Pro掉权益别慌！SheerID认证申诉全流程手把手教程](../articles/gemini-pro-sheerid-tutorial.md)：介绍 Gemini Pro 学生权益失效后的 SheerID 重新认证与申诉流程，包含材料准备、提交步骤、结果确认和常见失败原因。
+- [GitHub学生认证10分钟速通教程｜免费领Pro包年+AI工具](../articles/github-10-free-pro-ai-tools-tutorial.md)：演示 GitHub Student 学生认证的材料准备、网络与设备配合、提交和复核流程，以及认证后领取 Pro 和开发者工具权益的方法。
+- [Google Gemini Pixel一年Pro免费领取，手把手教程](../articles/google-gemini-pixel-pro-free-tutorial.md)：介绍通过符合条件的 Google Pixel 权益领取一年 Gemini Pro 的验证入口、操作步骤和订阅确认方法，并说明资格与地区限制。
 - [2025最新Gemini Pro学生认证薅羊毛教程及教育邮箱二验教程 | 无需学校资料快速通过验证](../articles/google-gemini-students2.md)：本文详细介绍2025年最新Gemini Pro学生认证方法，无需填写真实学校资料，通过1key.me网站快速解析验证链接即可通过认证。包含完整步骤说明、注意事项、网络环境要求以及信用卡绑定指南，适合所有想要免费延长Gemini Pro使用期限的用户。
+- [Google one (Gemini Advanced) 学生15个月免费优惠领取指南](../articles/google-one-gemini-students.md)：Google 正在为符合条件的美国学生提供一项福利：免费获得 15 个月的 Google One AI Premium 订阅。
+- [GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！](../articles/gpt-business-48.md)：GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！教程，整理核心步骤、配置方法、常见问题和参考链接。
+- [GPT Plus太贵？教你用土区礼品卡超低价订阅！国内手机号可注册，无需海外信用卡（附3大购卡渠道对比）](../articles/gpt-plus-turkey-apple-gift-card-tutorial.md)：最近ChatGPT Plus特惠途径几乎覆没，美区20美元有些小贵？本教程教你通过土耳其区Apple ID+礼品卡方式，只需约78元人民币轻松订阅GPT Plus！零门槛，国内手机号即可注册，部分渠道直接支持支付宝付款，无需海外信用卡。
 - [GPT Pro 超低价手把手小白订阅教程 20x 150U / 5x 88U](../articles/gpt-pro-low-price-subscription-tutorial.md)：OpenAI GPT Pro 20x 实付 149.55 美元约 1035 元，Pro 5x 实付 88 美元约 603 元。脚本免 IP 直达菲律宾区和埃及区低价支付页面，支持 Fiat24、N26 等卡种，小白也能轻松操作。
+- [✨ Magic Resume ✨ 免费在线简历制作神器，多套模板让你的简历像魔法一样吸引HR！](../articles/jianli.md)：还在为简历发愁？Magic Resume 是一款免费的在线简历编辑器，基于Next.js和Framer Motion构建，拥有炫酷动画和自定义主题，支持实时预览和PDF导出。更有AI辅助编写等路线图，让你的简历制作事半功倍，轻松斩获心仪Offer！
+- [Manus全网最全资料 Manus邀请码申请手把手教程（持续更新中，收藏这一个就够了），多个网盘资源。](../articles/manus-knowledge.md)：本教程详解Manus AI全平台资料的获取方式，包含持续更新的技术白皮书、实战教程、券商研报等核心资源，提供最新邀请码申请全流程指引，助您快速掌握AI代理开发与行业应用。教程附夸克网盘资源下载地址，涵盖智能体开发全生命周期文档。
+- [MCP支持流式HTTP传输协议解析：构建下一代无状态服务架构](../articles/mcp-http-sse-update.md)：深入解析Model Context Protocol最新引入的可流式HTTP传输机制，详解其如何通过改进SSE实现无状态服务架构，对比WebSocket方案的技术选型考量，并给出三种典型服务器实现场景的工程实践方案。全文包含协议演进动机、技术优势解读及实际应用场景演示。
+- [MCP协议：AI员工带你飞向Web4.0时代？打工人翻身做老板的秘密武器！](../articles/mcp-web4.0.md)：深入解读MCP协议如何开启AI员工互联网时代，探索Agent互联网的Web4.0革命。手把手教你使用Agent浏览器，体验AI员工的强大生产力，更有未来趋势预测，助你把握时代脉搏，不被AI浪潮落下！
+- [如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程](../articles/ollama-gguf.md)：详细教程：如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程，涵盖LLM、AI工具、本地部署等知识点
+- [OpenAI GPT Pro 5x 怎么买最省钱？5大渠道全对比｜官方 vs 低价代充终极指南](../articles/openai-gpt-pro-5x-5-compare-vs-guide.md)：既然都要花 ¥700+，不如自己花 10 分钟用 PockytShop 充 ¥685，零中间商零风险 GPT Pro 5x 到底怎么买最划算
+- [用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！🤖](../articles/openclaw-ai-youmind.md)：详细教程：用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！，涵盖视频教程等知识点
+- [🔥 OpenClaw火力，利用TG Topics实现多任务高并发：任务同时下发，告别AI反应慢 小白喂饭级配置](../articles/openclaw-tg-topics--ai-config.md)：本期视频解决OpenClaw最大的痛点：AI反应慢卡住后续任务。想同时安排十件事？用Telegram Topics功能开启OpenClaw的"多线程并发"模式，让一个群变成你的千军万马指挥部。
+- [PayPal无卡开通GPT Plus全流程教程｜无需信用卡｜2026最新方法](../articles/paypal-card-gpt-plus-tutorial.md)：介绍无需信用卡、通过 PayPal 开通 ChatGPT Plus 的完整流程，重点说明试用资格检查、账号准备、支付绑定和失败排查。
+- [重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持](../articles/qqbot-openclaw-official-api-tutorial.md)：这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。
+- [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](../articles/safepal-gpt-wise-bank-card-tutorial.md)：这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示
+- [OpenAI CEO Sam Altman：三点观察解析 | AGI时代与AI经济学](../articles/sam-altman-three-observations.md)：OpenAI CEO Sam Altman在最新博文中探讨了AGI时代和AI经济学的三大观察，分析了人工智能对社会经济的深远影响。本文详细解析了这些观察的意义，并探讨了未来可能带来的变化。
+- [对决MCP的SLOP协议：以HTTP为核心的下一代AI协作框架 | 2025完全指南](../articles/slop-introduce.md)：深度解析SLOP协议的设计理念与技术架构，揭秘其如何通过HTTP标准化接口实现AI工具的互联互通。包含GitHub开源项目地址、开发者快速接入指南以及与传统MCP协议的对比分析，助您掌握未来AI协作新范式。
+- [【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器](../articles/tutorial-claude-code-happy-coder-cc.md)：分享开源项目 Happy Coder，让你用手机远程控制电脑上的 Claude Code，支持全链路 E2EE 加密，无需公网 IP
+- [想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](../articles/us-itin-tax-number-apply-guide.md)：详细教程：想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)，涵盖跨境支付等知识点
+- [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
+- [野卡(WildCard)虚拟信用卡：海外订阅支付神器，告别支付壁垒！（20250712跑路）](../articles/virtual-bank-card-register-guide.md)：还在为订阅ChatGPT Plus、Midjourney、OnlyFans等海外服务支付碰壁？野卡(WildCard)虚拟信用卡平台专为此而生！本文将带你深入了解虚拟信用卡的基础知识，详细介绍野卡平台的一站式服务、支持支付宝快速开卡、海外手机号及邮箱等增值服务。更有手把手注册教程（含邀请码P9Q2HDRG的2美金开卡优
+- [Warp AI终端工具使用指南：告别传统，拥抱智能高效](../articles/warp-ai.md)：本文详细介绍了 Warp 终端工具的使用方法，包括下载安装、普通命令模式、AI模式、沉浸式交互等多个方面。通过实际案例演示了 Warp 的 AI 命令建议、命令块分享、参数化工作流等亮点功能，帮助开发者快速上手，提升工作效率。Warp 终端结合了命令行界面的强大功能和人工智能的智能辅助，旨在提高开发人员的工作效率。
+- [Windows 一键部署 Hermes AI Agent 小白也能玩转 NousResearch 大模型！](../articles/windows-deploy-hermes-ai-agent.md)：想在 Windows 上体验强大的 NousResearch Hermes AI Agent，却被 WSL2 和复杂的环境配置劝退
+- [Windows电脑安装macOS系统完整教程，免费使用Mac专属AI软件VMware虚拟机手把手教学](../articles/windows-desktop-macos-free-mac-ai-vmware-tutorial.md)：介绍在 Windows 电脑中使用 VMware 安装 macOS 的准备条件、虚拟机配置、系统安装和常见故障排查，用于体验 Mac 专属软件。
+- [WorkBuddy 保姆级入门教程：从安装及注册到完成第一个游戏任务](../articles/workbuddy-beginner-install-register-tutorial.md)：面向新手介绍 WorkBuddy 桌面 AI 助理的下载安装、账号注册、基础配置和首个游戏任务执行流程，并说明权限与结果检查。
+- [Zo2API逆向代理：免费白嫖Claude Opus4.7和GPT5.5，支持工具调用](../articles/zo2api-free-claude-opus4-7-gpt5-5-tools.md)：介绍 Zo2API 逆向代理的部署、账号与模型配置、工具调用和额度验证流程，并提示第三方服务、绑卡、可用性和合规风险。

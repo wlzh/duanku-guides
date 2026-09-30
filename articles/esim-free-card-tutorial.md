@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/esim-free-card-tutorial/
 - 更新：2026-08-02
 - 分类：技术
+- 专题：技术
 - 关键词：eSIM、沃达丰、Vodafone、英国、免费
 - 视频：https://www.youtube.com/watch?v=Zl6dHsPtlmg
 

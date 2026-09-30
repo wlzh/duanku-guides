@@ -2,15 +2,24 @@
 
 面向中文开发者与创作者的实用知识库，收录 AI 工具、自动化、部署、macOS、YouTube 内容生产及跨境技术实践。每篇内容均链接到持续更新的博客原文，含视频时同时提供 YouTube 入口。
 
-- 完整博客：[869hr.uk](https://869hr.uk)
+## 关注与订阅
+
+- 完整博客：[869hr.uk](https://869hr.uk/)
 - YouTube：[短裤AI分享](https://www.youtube.com/@duanku)
+- YouTube：[M. 的视频频道](https://youtube.com/@gxjdian)
+- X / Twitter：[@gxjdian](https://x.com/gxjdian)
+- Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
+- 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
+- RSS：[订阅最新文章](https://869hr.uk/atom.xml)
 - 当前收录：220 篇
 
 ## 专题导航
 
-- [ai](topics/ai.md)：3 篇
+- [AI](topics/ai.md)：78 篇
+- [跨境收款](topics/cross-border-payments.md)：1 篇
 - [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇
+- [网络安全](topics/network-security.md)：1 篇
 - [网赚项目](topics/online-earning.md)：3 篇
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
@@ -18,7 +27,7 @@
 - [技术](topics/tech.md)：140 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
-- [网络安全](topics/uncategorized.md)：3 篇
+- [视频教程](topics/video-tutorials.md)：1 篇
 
 ## 最近更新
 

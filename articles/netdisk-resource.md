@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/online-earning/netdisk-resource/
 - 更新：2025-03-22
 - 分类：网赚项目
+- 专题：网赚项目
 - 关键词：在线工具、免费资源
 
 ## 正文

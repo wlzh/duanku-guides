@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/
 - 更新：2026-04-12
 - 分类：教程
+- 专题：教程、AI
 - 关键词：跨境支付
 - 视频：https://www.youtube.com/watch?v=B8gNipUixTo
 

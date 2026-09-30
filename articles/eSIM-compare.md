@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tools/eSIM-compare/
 - 更新：2026-06-15
 - 分类：工具
+- 专题：工具
 - 关键词：eSIM、数据安全、VPN
 - 视频：https://www.youtube.com/watch?v=W46dce-LXjM
 

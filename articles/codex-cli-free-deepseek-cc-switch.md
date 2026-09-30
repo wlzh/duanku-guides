@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/codex-cli-free-deepseek-cc-switch/
 - 更新：2026-06-01
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Codex、DeepSeek、CC Switch、API路由、协议转换
 - 视频：https://www.youtube.com/watch?v=3C7YQRjnZzY
 

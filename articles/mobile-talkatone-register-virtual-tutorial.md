@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/mobile-talkatone-register-virtual-tutorial/
 - 更新：2026-05-28
 - 分类：技术
+- 专题：技术
 - 关键词：Talkatone、美国手机号、实体手机号、虚拟手机号检测、保号
 - 视频：https://www.youtube.com/watch?v=3QjFYx6Mfpg
 

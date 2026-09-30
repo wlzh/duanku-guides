@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/tutorial-claude-code-happy-coder-cc/
 - 更新：2026-04-17
 - 分类：教程
+- 专题：教程、AI
 - 关键词：教程、Claude、开发工具、开源项目
 - 视频：https://www.youtube.com/watch?v=k35F8cx3J2Y
 

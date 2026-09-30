@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tools/search-engine-submission/
 - 更新：2025-03-05
 - 分类：工具
+- 专题：工具
 - 关键词：SEO
 
 ## 正文

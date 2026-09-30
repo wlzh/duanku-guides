@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/ai-register/
 - 更新：2026-05-26
 - 分类：技术
+- 专题：技术、AI
 - 关键词：浏览器自动化、AI编程、零基础教程、注册机、Claude Code
 - 视频：https://www.youtube.com/watch?v=Rd0nEHsvIXY
 

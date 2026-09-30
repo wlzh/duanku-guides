@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/support/ios-app-update-old-id/
 - 更新：2025-02-04
 - 分类：技术支持
+- 专题：技术支持
 - 关键词：iOS、App Store、Apple ID、软件安装、账号管理
 
 ## 正文

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/mobile-card-tello-5-esim-wifi-step-by-tutorial/
 - 更新：2026-09-15
 - 分类：技术
+- 专题：技术
 - 关键词：Tello、美国手机卡、美国实体手机号、eSIM、WiFi Calling
 - 视频：https://www.youtube.com/watch?v=cnkK6RQ4j74
 

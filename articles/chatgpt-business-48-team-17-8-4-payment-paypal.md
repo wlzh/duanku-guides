@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/chatgpt-business-48-team-17-8-4-payment-paypal/
 - 更新：2026-05-15
 - 分类：技术
+- 专题：技术、AI
 - 关键词：ChatGPT Business、ChatGPT Team、ChatGPT 优惠码、ChatGPT 澳大利亚、ChatGPT 订阅
 - 视频：https://www.youtube.com/watch?v=EJnGTrFy5Sk
 

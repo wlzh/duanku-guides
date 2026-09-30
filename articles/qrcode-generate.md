@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tutorial/qrcode-generate/
 - 更新：2025-03-16
 - 分类：教程
+- 专题：教程
 - 关键词：微信、效率工具、Cloudflare、开发工具
 
 ## 正文

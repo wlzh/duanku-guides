@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/giffgaff-sim-card-esim-tutorial/
 - 更新：2026-06-01
 - 分类：技术
+- 专题：技术
 - 关键词：Giffgaff、英国SIM卡、eSIM、保号卡、英国旅游
 - 视频：https://www.youtube.com/watch?v=MbMU5jVCwr8
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/openai-gpt-pro-5x-5-compare-vs-guide/
 - 更新：2026-05-29
 - 分类：技术
+- 专题：技术、AI
 - 关键词：GPT Pro 5x、OpenAI、ChatGPT、购买教程、低价渠道
 - 视频：https://www.youtube.com/watch?v=_eKgRtqpTYg
 

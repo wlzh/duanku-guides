@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/free-domain-d53/
 - 更新：2026-01-27
 - 分类：技术
+- 专题：技术
 - 关键词：域名、Cloudflare、建站、开源项目、开发工具
 - 视频：https://www.youtube.com/watch?v=49cnfnvQxBU
 

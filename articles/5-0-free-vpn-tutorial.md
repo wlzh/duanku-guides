@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/5-0-free-vpn-tutorial/
 - 更新：2026-05-15
 - 分类：技术
+- 专题：技术、AI
 - 关键词：VPN、Cloudflare、零成本、Workers、edgetunnel
 - 视频：https://www.youtube.com/watch?v=HLqqF0QZcec
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/youtube-Hy82RjFFnIs/
 - 更新：2026-07-05
 - 分类：技术
+- 专题：技术
 - 关键词：谷歌邮箱、Google账号、邮箱、改邮箱、邮箱地址
 - 视频：https://www.youtube.com/watch?v=Hy82RjFFnIs
 

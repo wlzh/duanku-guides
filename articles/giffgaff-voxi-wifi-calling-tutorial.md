@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/giffgaff-voxi-wifi-calling-tutorial/
 - 更新：2026-08-13
 - 分类：技术
+- 专题：技术
 - 关键词：Giffgaff、VOXI、携号转网、Vodafone、英国手机卡
 - 视频：https://www.youtube.com/watch?v=2guMwlnoSjE
 

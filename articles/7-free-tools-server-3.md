@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/7-free-tools-server-3/
 - 更新：2026-07-18
 - 分类：技术
+- 专题：技术
 - 关键词：永久二维码、微信群活码、Cloudflare Workers、serverless、qrcode
 - 视频：https://www.youtube.com/watch?v=YhxnffqiegU
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/mobile-ios-shadowrocket-step-by-tutorial/
 - 更新：2026-07-11
 - 分类：技术
+- 专题：技术
 - 关键词：iOS定位修改、Shadowrocket、小火箭、iPhone定位、虚拟定位
 - 视频：https://www.youtube.com/watch?v=aQdeFAPeVM8
 

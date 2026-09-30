@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/chatgpt-0-starryblu-claude-v-card-tutorial/
 - 更新：2026-07-15
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Starryblu、跨境支付、全球账户、ChatGPT支付、Claude订阅
 - 视频：https://www.youtube.com/watch?v=NiIswP2iT0c
 

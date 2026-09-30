@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/workbuddy-beginner-install-register-tutorial/
 - 更新：2026-07-05
 - 分类：技术
+- 专题：技术、AI
 - 关键词：AI工具、效率工具、教程
 - 视频：https://www.youtube.com/watch?v=MmH4Y7goEqs
 

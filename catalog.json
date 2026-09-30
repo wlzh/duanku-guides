@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUpdatedAt": "2026-09-28T14:07:22.000Z",
   "source": "https://869hr.uk",
   "count": 220,
@@ -17,6 +17,9 @@
         "保号",
         "海外手机号",
         "0月租"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-19T06:48:35.000Z",
       "updatedAt": "2026-06-19T06:48:35.000Z",
@@ -38,6 +41,10 @@
         "AI图片生成",
         "无限聊天"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-06-22T10:54:01.000Z",
       "updatedAt": "2026-06-22T10:54:01.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/1-free-atomesus-prime-tutorial/",
@@ -57,6 +64,9 @@
         "域名注册",
         "com域名",
         "土耳其"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-02T13:23:20.000Z",
       "updatedAt": "2026-06-02T13:23:20.000Z",
@@ -78,6 +88,9 @@
         "美国私人地址",
         "美国云居民"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-25T10:36:52.000Z",
       "updatedAt": "2026-09-25T10:36:52.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/1583-anytime-mailbox-25-tutorial/",
@@ -95,6 +108,9 @@
         "VPN",
         "网络安全",
         "软件安装"
+      ],
+      "topics": [
+        "network-security"
       ],
       "publishedAt": "2026-04-19T10:00:00.000Z",
       "updatedAt": "2026-04-19T10:00:00.000Z",
@@ -115,6 +131,9 @@
         "开源项目",
         "邮箱"
       ],
+      "topics": [
+        "video-tutorials"
+      ],
       "publishedAt": "2026-05-10T13:00:00.000Z",
       "updatedAt": "2026-05-10T13:00:00.000Z",
       "blogUrl": "https://869hr.uk/2026/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/2026-05-10-cloudflare-temp-email-tutorial/",
@@ -134,6 +153,9 @@
         "iOS",
         "教程"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-09T11:31:07.000Z",
       "updatedAt": "2026-05-09T11:31:07.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/20265apple-idtutorial-card0-app-store/",
@@ -152,6 +174,9 @@
         "VPS",
         "Cloudflare",
         "域名"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-05-10T05:55:30.000Z",
       "updatedAt": "2026-05-10T05:55:30.000Z",
@@ -173,6 +198,9 @@
         "出入金",
         "0手续费"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-06-20T15:10:05.000Z",
       "updatedAt": "2026-06-20T15:10:05.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/3-neverless-register-0-20usd-tutorial/",
@@ -193,6 +221,10 @@
         "Workers",
         "edgetunnel"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-15T02:53:16.000Z",
       "updatedAt": "2026-05-15T02:53:16.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/5-0-free-vpn-tutorial/",
@@ -208,6 +240,10 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tutorial",
+        "ai"
       ],
       "publishedAt": "2026-04-16T02:56:43.000Z",
       "updatedAt": "2026-04-16T02:56:43.000Z",
@@ -229,6 +265,9 @@
         "Vibe",
         "Coding"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-08-29T05:15:33.000Z",
       "updatedAt": "2026-08-29T05:15:33.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/60-mac-vibe-coding-tutorial/",
@@ -248,6 +287,9 @@
         "Cloudflare Workers",
         "serverless",
         "qrcode"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-07-18T13:48:23.000Z",
       "updatedAt": "2026-07-18T13:48:23.000Z",
@@ -269,6 +311,10 @@
         "Claude",
         "网络工具"
       ],
+      "topics": [
+        "tutorial",
+        "ai"
+      ],
       "publishedAt": "2026-03-22T12:12:42.000Z",
       "updatedAt": "2026-03-22T12:12:42.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/",
@@ -288,6 +334,10 @@
         "知识分享",
         "AI",
         "学习资源"
+      ],
+      "topics": [
+        "learning-resource",
+        "ai"
       ],
       "publishedAt": "2025-02-24T07:38:22.000Z",
       "updatedAt": "2025-02-24T07:38:22.000Z",
@@ -309,6 +359,10 @@
         "AIGC检测",
         "中文论文"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-07-11T01:37:16.000Z",
       "updatedAt": "2026-07-11T01:37:16.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/ai-baibaiaigc-tools-aigc-docx-txt-tutorial/",
@@ -325,6 +379,10 @@
       "tags": [
         "教程"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-06-02T00:58:23.000Z",
       "updatedAt": "2026-06-02T00:58:23.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/ai-beginner-guide/",
@@ -340,6 +398,10 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-03-27T03:16:38.000Z",
       "updatedAt": "2026-03-27T03:16:38.000Z",
@@ -361,6 +423,10 @@
         "注册机",
         "Claude Code"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-26T09:37:23.000Z",
       "updatedAt": "2026-05-26T09:37:23.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/ai-register/",
@@ -380,6 +446,9 @@
         "美国云居民",
         "美国住宅地址",
         "CMRA"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-09-24T03:12:21.000Z",
       "updatedAt": "2026-09-24T03:12:21.000Z",
@@ -401,6 +470,10 @@
         "手机远控",
         "ChatGPT"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-06-13T04:55:36.000Z",
       "updatedAt": "2026-06-13T04:55:36.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/api-mobile-codex-beginner-tutorial/",
@@ -420,6 +493,9 @@
         "Docker",
         "Cloudflare",
         "建站"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-05-10T04:00:00.000Z",
       "updatedAt": "2026-05-10T04:00:00.000Z",
@@ -441,6 +517,9 @@
         "万里汇",
         "WorldFirst"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-03T02:38:31.000Z",
       "updatedAt": "2026-09-03T02:38:31.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/app-register-tutorial/",
@@ -456,6 +535,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-03-21T15:14:05.000Z",
       "updatedAt": "2026-03-21T15:14:05.000Z",
@@ -476,6 +558,10 @@
         "教程",
         "AI工具"
       ],
+      "topics": [
+        "software",
+        "ai"
+      ],
       "publishedAt": "2026-04-15T15:17:28.000Z",
       "updatedAt": "2026-04-15T15:17:28.000Z",
       "blogUrl": "https://869hr.uk/2026/software/apple-id-register---claude/",
@@ -494,6 +580,9 @@
         "海外应用",
         "苹果支付",
         "信用卡"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-08-10T06:35:00.000Z",
       "updatedAt": "2025-08-10T06:35:00.000Z",
@@ -514,6 +603,9 @@
         "海外应用",
         "信用卡"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-06-07T16:30:00.000Z",
       "updatedAt": "2025-06-07T16:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/bank-card-safepal/",
@@ -533,6 +625,9 @@
         "海外应用",
         "信用卡"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-06-07T16:30:00.000Z",
       "updatedAt": "2025-06-07T16:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/bank-card-safepal2/",
@@ -551,6 +646,9 @@
         "信用卡",
         "海外应用"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-08-02T06:35:00.000Z",
       "updatedAt": "2025-08-02T06:35:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/bank-card-ypt/",
@@ -568,6 +666,9 @@
         "加密货币",
         "教程"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2026-03-26T14:45:00.000Z",
       "updatedAt": "2026-03-26T14:45:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/binance-rmb-usdt-usd-cashout-guide/",
@@ -583,6 +684,9 @@
       ],
       "tags": [
         "闲谈"
+      ],
+      "topics": [
+        "life"
       ],
       "publishedAt": "2025-02-05T04:00:00.000Z",
       "updatedAt": "2025-02-05T04:00:00.000Z",
@@ -601,6 +705,9 @@
       "tags": [
         "免费资源"
       ],
+      "topics": [
+        "tools"
+      ],
       "publishedAt": "2025-03-03T14:30:00.000Z",
       "updatedAt": "2025-03-03T14:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tools/car-music-free-resource/",
@@ -616,6 +723,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-04-17T11:27:28.000Z",
       "updatedAt": "2026-04-17T11:27:28.000Z",
@@ -634,6 +744,9 @@
         "VoWiFi",
         "海外卡",
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-05-05T15:21:32.000Z",
       "updatedAt": "2026-05-05T15:21:32.000Z",
@@ -655,6 +768,10 @@
         "ChatGPT支付",
         "Claude订阅"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-07-15T22:24:15.000Z",
       "updatedAt": "2026-07-15T22:24:15.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chatgpt-0-starryblu-claude-v-card-tutorial/",
@@ -674,6 +791,10 @@
         "Apple ID",
         "账号注册",
         "教程"
+      ],
+      "topics": [
+        "tutorial",
+        "ai"
       ],
       "publishedAt": "2025-08-09T06:35:22.000Z",
       "updatedAt": "2025-08-09T06:35:22.000Z",
@@ -695,6 +816,10 @@
         "ChatGPT 澳大利亚",
         "ChatGPT 订阅"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-15T15:32:59.000Z",
       "updatedAt": "2026-05-15T15:32:59.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chatgpt-business-48-team-17-8-4-payment-paypal/",
@@ -712,6 +837,10 @@
         "AI工具",
         "ChatGPT",
         "账号管理"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2025-02-10T07:02:50.000Z",
       "updatedAt": "2025-02-10T07:02:50.000Z",
@@ -733,6 +862,10 @@
         "优惠码",
         "AI"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-13T15:03:30.000Z",
       "updatedAt": "2026-05-13T15:03:30.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chatgpt-free-business-2-tutorial/",
@@ -752,6 +885,10 @@
         "K12空间",
         "Gmail别名",
         "ChatGPT Plus"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-07-03T15:49:03.000Z",
       "updatedAt": "2026-07-03T15:49:03.000Z",
@@ -773,6 +910,10 @@
         "ChatGPT 订阅",
         "印尼支付"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-31T11:52:06.000Z",
       "updatedAt": "2026-05-31T11:52:06.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chatgpt-gopay-5-plus/",
@@ -790,6 +931,10 @@
         "ChatGPT",
         "跨境支付",
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-05-10T05:15:03.000Z",
       "updatedAt": "2026-05-10T05:15:03.000Z",
@@ -811,6 +956,10 @@
         "promo code",
         "优惠码"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-25T13:35:23.000Z",
       "updatedAt": "2026-05-25T13:35:23.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chatgpt-team-48-18-tutorial/",
@@ -831,6 +980,10 @@
         "推特蓝V",
         "USDT充值"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-06-12T17:00:02.000Z",
       "updatedAt": "2026-06-13T01:02:48.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chatgpt-yika-virtual-card-50-kyc-claude/",
@@ -850,6 +1003,10 @@
         "Google",
         "数据安全"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-09T23:20:26.000Z",
       "updatedAt": "2026-05-09T23:20:26.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chrome-edge-delete-local-ai-model/",
@@ -866,6 +1023,10 @@
       "tags": [
         "教程"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-04-18T08:55:45.000Z",
       "updatedAt": "2026-04-18T08:55:45.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/chrome-gemini-ai-win-mac-shorts/",
@@ -881,6 +1042,9 @@
       ],
       "tags": [
         "效率工具"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-03-12T12:06:36.000Z",
       "updatedAt": "2026-03-12T12:06:36.000Z",
@@ -902,6 +1066,9 @@
         "分流规则",
         "DNS配置"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-23T00:31:44.000Z",
       "updatedAt": "2026-05-23T00:31:44.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/clash-config-detail-dns/",
@@ -921,6 +1088,10 @@
         "账号安全",
         "防封号",
         "教程"
+      ],
+      "topics": [
+        "tutorial",
+        "ai"
       ],
       "publishedAt": "2026-04-22T02:51:10.000Z",
       "updatedAt": "2026-04-22T02:51:10.000Z",
@@ -942,6 +1113,10 @@
         "AI编程",
         "远程开发"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-11T16:53:26.000Z",
       "updatedAt": "2026-05-11T16:53:26.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/claude-code-happy-mobile-remote-control-tutorial/",
@@ -961,6 +1136,10 @@
         "Z Code",
         "AI编程",
         "零基础编程"
+      ],
+      "topics": [
+        "tutorial",
+        "ai"
       ],
       "publishedAt": "2026-04-22T11:18:29.000Z",
       "updatedAt": "2026-04-22T11:18:29.000Z",
@@ -982,6 +1161,10 @@
         "AICodeSwitch",
         "AI编程"
       ],
+      "topics": [
+        "tutorial",
+        "ai"
+      ],
       "publishedAt": "2026-04-22T12:00:00.000Z",
       "updatedAt": "2026-04-22T12:00:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/claude-code-tutorial-2-domestic-ai-models/",
@@ -999,6 +1182,10 @@
         "Claude",
         "AI工具",
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-04-23T03:15:09.000Z",
       "updatedAt": "2026-04-23T03:15:09.000Z",
@@ -1018,6 +1205,10 @@
         "AI工具",
         "教程"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-04-23T04:25:00.000Z",
       "updatedAt": "2026-04-23T04:25:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/claude-code-tutorial-4-advanced-workflow/",
@@ -1029,7 +1220,7 @@
       "title": "Claude Pro用不起？教你如何给 Claude Desktop 接入自定义第三方 API！",
       "description": "解决 Claude Pro 订阅消耗太快的问题，通过接入自定义第三方 API 来大幅省钱。本教程综合了 LINUX DO 社区大佬的经验，手把手教你如何为 Claude Desktop 配置第三方 API 中转，开启开发者模式，配置中转地址和 API Key。",
       "category": [
-        "ai"
+        "AI"
       ],
       "tags": [
         "Claude Desktop",
@@ -1037,6 +1228,9 @@
         "Anthropic Claude",
         "自定义API",
         "第三方API"
+      ],
+      "topics": [
+        "ai"
       ],
       "publishedAt": "2026-05-04T01:30:00.000Z",
       "updatedAt": "2026-05-04T01:30:00.000Z",
@@ -1058,6 +1252,10 @@
         "免费Claude",
         "白嫖Claude"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-29T15:59:34.000Z",
       "updatedAt": "2026-05-29T15:59:34.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/claude-opus-4-7-8-devin-register-230/",
@@ -1077,6 +1275,10 @@
         "Cloudflare",
         "OpenClaw",
         "SSL证书"
+      ],
+      "topics": [
+        "tutorial",
+        "ai"
       ],
       "publishedAt": "2026-03-06T16:00:00.000Z",
       "updatedAt": "2026-05-04T16:00:00.000Z",
@@ -1098,6 +1300,9 @@
         "nicnames",
         "doma protocol"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-12T04:38:58.000Z",
       "updatedAt": "2026-09-12T04:38:58.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/cloudflare-0-domain-bond-cyou-free-step-tutorial/",
@@ -1117,6 +1322,9 @@
         "免费二级域名",
         "Cloudflare",
         "KataBump"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-09T11:47:37.000Z",
       "updatedAt": "2026-06-09T11:47:37.000Z",
@@ -1138,6 +1346,9 @@
         "TOTP",
         "验证器"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-15T08:30:06.000Z",
       "updatedAt": "2026-05-15T08:30:06.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/cloudflare-2fa-deploy-workers-free/",
@@ -1158,6 +1369,9 @@
         "自托管",
         "开源"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-16T09:58:15.000Z",
       "updatedAt": "2026-05-16T09:58:15.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/cloudflare-deploy-workers-free-2fa-20/",
@@ -1173,6 +1387,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-02-13T12:54:50.000Z",
       "updatedAt": "2026-02-13T12:54:50.000Z",
@@ -1194,6 +1411,9 @@
         "DNS分地区解析",
         "阿里云DNS"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-20T11:42:22.000Z",
       "updatedAt": "2026-05-20T13:43:01.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/cloudflare-tutorial/",
@@ -1214,6 +1434,10 @@
         "API路由",
         "协议转换"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-06-01T05:40:16.000Z",
       "updatedAt": "2026-06-01T05:40:16.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/codex-cli-free-deepseek-cc-switch/",
@@ -1231,6 +1455,10 @@
         "AI工具",
         "教程",
         "免费资源"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-05-07T12:11:04.000Z",
       "updatedAt": "2026-05-07T12:11:04.000Z",
@@ -1250,6 +1478,10 @@
         "效率工具",
         "CPA配置",
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-04-07T16:30:00.000Z",
       "updatedAt": "2026-04-07T16:30:00.000Z",
@@ -1271,6 +1503,10 @@
         "AI",
         "技术交流"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2025-02-08T11:17:24.000Z",
       "updatedAt": "2025-02-08T11:17:24.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/deepseek-20250208/",
@@ -1290,6 +1526,10 @@
         "AI Agent",
         "智能体",
         "一切皆插件"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-08-16T02:50:27.000Z",
       "updatedAt": "2026-08-16T02:50:27.000Z",
@@ -1311,6 +1551,10 @@
         "在线工具",
         "开发工具"
       ],
+      "topics": [
+        "tools",
+        "ai"
+      ],
       "publishedAt": "2025-02-07T05:17:12.000Z",
       "updatedAt": "2025-02-07T05:17:12.000Z",
       "blogUrl": "https://869hr.uk/2025/tools/deepseek-converter/",
@@ -1330,6 +1574,10 @@
         "AI工具",
         "软件安装"
       ],
+      "topics": [
+        "software",
+        "ai"
+      ],
       "publishedAt": "2025-02-13T22:57:25.000Z",
       "updatedAt": "2025-02-13T22:57:25.000Z",
       "blogUrl": "https://869hr.uk/2025/software/deepseek-study/",
@@ -1347,6 +1595,10 @@
         "DeepSeek",
         "效率工具",
         "AI工具"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2025-02-10T23:15:19.000Z",
       "updatedAt": "2025-02-10T23:15:19.000Z",
@@ -1368,6 +1620,9 @@
         "低成本保号",
         "接码"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-27T22:44:21.000Z",
       "updatedAt": "2026-09-27T22:44:21.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/dito-esim-0-6-payment-tutorial/",
@@ -1383,6 +1638,10 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-05-05T14:38:17.000Z",
       "updatedAt": "2026-05-05T14:38:17.000Z",
@@ -1400,6 +1659,10 @@
       "tags": [
         "免费资源",
         "在线工具"
+      ],
+      "topics": [
+        "learning-resource",
+        "ai"
       ],
       "publishedAt": "2025-07-06T17:30:00.000Z",
       "updatedAt": "2025-07-06T17:30:00.000Z",
@@ -1421,6 +1684,10 @@
         "教程",
         "AI工具"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2025-02-05T09:00:00.000Z",
       "updatedAt": "2025-02-05T09:00:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/ds-option/",
@@ -1439,6 +1706,9 @@
         "数据安全",
         "VPN"
       ],
+      "topics": [
+        "tools"
+      ],
       "publishedAt": "2025-08-27T14:35:00.000Z",
       "updatedAt": "2026-06-15T14:35:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tools/eSIM-compare/",
@@ -1456,6 +1726,9 @@
         "免费资源",
         "在线工具",
         "学习资源"
+      ],
+      "topics": [
+        "learning-resource"
       ],
       "publishedAt": "2025-02-21T00:35:28.000Z",
       "updatedAt": "2025-02-21T00:35:28.000Z",
@@ -1476,6 +1749,10 @@
         "学习资源",
         "教程"
       ],
+      "topics": [
+        "tutorial",
+        "ai"
+      ],
       "publishedAt": "2025-05-14T14:30:00.000Z",
       "updatedAt": "2025-05-14T14:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/edu-asu-invite/",
@@ -1491,6 +1768,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-02-14T15:14:11.000Z",
       "updatedAt": "2026-02-14T15:14:11.000Z",
@@ -1510,6 +1790,9 @@
         "免费资源",
         "学习资源",
         "教程"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-05-14T14:30:00.000Z",
       "updatedAt": "2025-05-14T14:30:00.000Z",
@@ -1531,6 +1814,9 @@
         "账号注册",
         "账号管理"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-08-02T02:30:00.000Z",
       "updatedAt": "2025-08-02T02:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/edu-invite3/",
@@ -1550,6 +1836,9 @@
         "XeSIM评测",
         "eSTK评测",
         "eSIM卡怎么选"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-05-13T05:07:38.000Z",
       "updatedAt": "2026-05-13T05:07:38.000Z",
@@ -1571,6 +1860,9 @@
         "大疆4G模块",
         "Mac教程"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-04T05:26:17.000Z",
       "updatedAt": "2026-07-04T05:26:17.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial/",
@@ -1590,6 +1882,9 @@
         "Vodafone",
         "英国",
         "免费"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-08-02T02:20:12.000Z",
       "updatedAt": "2026-08-02T02:20:12.000Z",
@@ -1611,6 +1906,9 @@
         "白嫖流量",
         "虚拟eSIM"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-20T09:01:22.000Z",
       "updatedAt": "2026-09-20T09:01:22.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/esim-mobile-usims-free-tutorial/",
@@ -1628,6 +1926,9 @@
         "eSIM",
         "免费资源"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-08-09T06:30:22.000Z",
       "updatedAt": "2025-08-09T06:30:22.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/esim-voxi/",
@@ -1644,6 +1945,9 @@
       "tags": [
         "数据安全",
         "效率工具"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2025-02-07T01:56:44.000Z",
       "updatedAt": "2025-02-07T01:56:44.000Z",
@@ -1665,6 +1969,10 @@
         "Kiro注册教程",
         "AI工具推荐"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-12T05:36:56.000Z",
       "updatedAt": "2026-05-12T06:32:27.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/free-20-kiro-pro-claude-opus-4-7/",
@@ -1684,6 +1992,9 @@
         "教程",
         "网赚项目",
         "技术交流"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-02-22T23:55:57.000Z",
       "updatedAt": "2026-02-22T23:55:57.000Z",
@@ -1705,6 +2016,9 @@
         "开源项目",
         "开发工具"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-01-27T15:30:00.000Z",
       "updatedAt": "2026-01-27T15:30:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/free-domain-d53/",
@@ -1725,6 +2039,9 @@
         "park university",
         "留学生"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-06-28T03:28:53.000Z",
       "updatedAt": "2026-06-28T03:28:53.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/free-edu-apply-tutorial/",
@@ -1744,6 +2061,10 @@
         "VPN",
         "VPS"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-07T12:40:35.000Z",
       "updatedAt": "2026-05-07T12:40:35.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/free-gpt-55tutorial-cpa--cc-switch--claude-code--s/",
@@ -1759,6 +2080,10 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-04-01T14:46:52.000Z",
       "updatedAt": "2026-04-01T14:46:52.000Z",
@@ -1780,6 +2105,9 @@
         "免费SIM卡",
         "eSIM"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-06-14T13:12:16.000Z",
       "updatedAt": "2026-06-14T13:12:16.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/free-mobile-kyc-tutorial/",
@@ -1798,6 +2126,10 @@
         "AI工具",
         "跨境支付"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-04-03T15:06:00.000Z",
       "updatedAt": "2026-04-03T15:06:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/free-super-grok-tutorial-amazon-pay/",
@@ -1814,6 +2146,9 @@
       "tags": [
         "VPS",
         "教程"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-07-10T15:00:00.000Z",
       "updatedAt": "2025-07-10T15:00:00.000Z",
@@ -1833,6 +2168,9 @@
         "VPS",
         "网络工具"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-03-06T16:00:00.000Z",
       "updatedAt": "2026-03-06T16:00:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/gcp-free-vps-cdn-bypass-part3/",
@@ -1849,6 +2187,9 @@
       "tags": [
         "教程"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-02-20T11:56:47.000Z",
       "updatedAt": "2026-02-20T11:56:47.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/gcpfreedeploy-config/",
@@ -1864,6 +2205,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-02-22T06:10:58.000Z",
       "updatedAt": "2026-02-22T06:10:58.000Z",
@@ -1885,6 +2229,10 @@
         "Google Gemini",
         "Gemini Pro学生权益"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-22T16:18:14.000Z",
       "updatedAt": "2026-05-22T16:18:14.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/gemini-pro-sheerid-tutorial/",
@@ -1901,6 +2249,9 @@
       "tags": [
         "VPN",
         "网络安全"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-04-19T10:30:00.000Z",
       "updatedAt": "2026-04-19T10:30:00.000Z",
@@ -1922,6 +2273,9 @@
         "英国手机卡",
         "海外手机卡退款"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-28T16:04:35.000Z",
       "updatedAt": "2026-07-28T16:04:35.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/giffgaff-5-10-tutorial/",
@@ -1942,6 +2296,9 @@
         "CTExcel",
         "英国手机卡"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-28T07:38:44.000Z",
       "updatedAt": "2026-07-28T07:38:44.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/giffgaff-apply-voxi-ctexcel-tutorial/",
@@ -1957,6 +2314,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-03-25T13:37:02.000Z",
       "updatedAt": "2026-03-25T13:37:02.000Z",
@@ -1978,6 +2338,9 @@
         "Ombudsman仲裁",
         "英国通信仲裁"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-29T03:34:19.000Z",
       "updatedAt": "2026-07-29T03:34:19.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/giffgaff-guide-ombudsman/",
@@ -1997,6 +2360,9 @@
         "携号转网",
         "英国手机卡",
         "eSIM"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-08-11T15:27:37.000Z",
       "updatedAt": "2026-08-11T15:27:37.000Z",
@@ -2018,6 +2384,9 @@
         "余额捐赠",
         "短信捐款"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-30T05:54:26.000Z",
       "updatedAt": "2026-07-30T05:54:26.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/giffgaff-ofcom/",
@@ -2037,6 +2406,9 @@
         "eSIM",
         "保号卡",
         "英国旅游"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-01T09:43:29.000Z",
       "updatedAt": "2026-06-01T09:43:29.000Z",
@@ -2058,6 +2430,9 @@
         "Vodafone",
         "英国手机卡"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-08-13T08:13:11.000Z",
       "updatedAt": "2026-08-13T08:13:11.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/giffgaff-voxi-wifi-calling-tutorial/",
@@ -2078,6 +2453,9 @@
         "保号",
         "eSIM"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-29T02:59:42.000Z",
       "updatedAt": "2026-05-29T02:59:42.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/giffgaff-wi-fi-calling-3-tutorial/",
@@ -2094,6 +2472,9 @@
       "tags": [
         "eSIM",
         "账号管理"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-08-03T06:30:22.000Z",
       "updatedAt": "2025-08-03T06:30:22.000Z",
@@ -2115,6 +2496,10 @@
         "GitHub Pro免费",
         "编程福利"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-17T14:34:51.000Z",
       "updatedAt": "2026-05-17T14:34:51.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/github-10-free-pro-ai-tools-tutorial/",
@@ -2132,6 +2517,9 @@
         "跨境支付",
         "Wise",
         "Stripe"
+      ],
+      "topics": [
+        "cross-border-payments"
       ],
       "publishedAt": "2026-03-11T12:23:29.000Z",
       "updatedAt": "2026-03-11T12:23:29.000Z",
@@ -2151,6 +2539,9 @@
         "账号注册",
         "教程"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-02-27T15:30:00.000Z",
       "updatedAt": "2025-02-27T15:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/google-account-no-phone/",
@@ -2169,6 +2560,9 @@
         "账号管理",
         "海外应用",
         "故障处理"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-06-29T14:30:00.000Z",
       "updatedAt": "2025-06-29T14:30:00.000Z",
@@ -2190,6 +2584,10 @@
         "免费订阅",
         "教程"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-23T15:08:47.000Z",
       "updatedAt": "2026-05-23T15:08:47.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/google-gemini-pixel-pro-free-tutorial/",
@@ -2201,12 +2599,15 @@
       "title": "2025最新Gemini Pro学生认证薅羊毛教程及教育邮箱二验教程 | 无需学校资料快速通过验证",
       "description": "本文详细介绍2025年最新Gemini Pro学生认证方法，无需填写真实学校资料，通过1key.me网站快速解析验证链接即可通过认证。包含完整步骤说明、注意事项、网络环境要求以及信用卡绑定指南，适合所有想要免费延长Gemini Pro使用期限的用户。",
       "category": [
-        "ai"
+        "AI"
       ],
       "tags": [
         "Google",
         "免费资源",
         "AI工具"
+      ],
+      "topics": [
+        "ai"
       ],
       "publishedAt": "2025-08-07T14:20:00.000Z",
       "updatedAt": "2025-08-07T14:20:00.000Z",
@@ -2224,6 +2625,9 @@
       "tags": [
         "Google",
         "VPS"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-05-10T15:30:00.000Z",
       "updatedAt": "2025-05-10T15:30:00.000Z",
@@ -2243,6 +2647,9 @@
         "Google",
         "Cloudflare"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-05-11T05:30:00.000Z",
       "updatedAt": "2025-05-11T05:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/google-idx-vps-register2/",
@@ -2258,6 +2665,10 @@
       ],
       "tags": [
         "Google"
+      ],
+      "topics": [
+        "tutorial",
+        "ai"
       ],
       "publishedAt": "2025-05-03T04:12:17.077Z",
       "updatedAt": "2025-05-03T04:12:17.077Z",
@@ -2279,6 +2690,10 @@
         "GPT优惠",
         "ChatGPT优惠"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-17T08:25:08.000Z",
       "updatedAt": "2026-05-17T08:25:08.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/gpt-business-48/",
@@ -2297,6 +2712,10 @@
         "教程",
         "跨境支付"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-04T12:40:00.000Z",
       "updatedAt": "2026-05-04T12:40:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/gpt-plus-turkey-apple-gift-card-tutorial/",
@@ -2308,13 +2727,16 @@
       "title": "GPT Pro 超低价手把手小白订阅教程 20x 150U / 5x 88U",
       "description": "OpenAI GPT Pro 20x 实付 149.55 美元约 1035 元，Pro 5x 实付 88 美元约 603 元。脚本免 IP 直达菲律宾区和埃及区低价支付页面，支持 Fiat24、N26 等卡种，小白也能轻松操作。",
       "category": [
-        "ai"
+        "AI"
       ],
       "tags": [
         "ChatGPT",
         "教程",
         "跨境支付",
         "AI工具"
+      ],
+      "topics": [
+        "ai"
       ],
       "publishedAt": "2026-05-02T11:20:00.000Z",
       "updatedAt": "2026-05-02T11:20:00.000Z",
@@ -2332,6 +2754,9 @@
       "tags": [
         "效率工具"
       ],
+      "topics": [
+        "tools"
+      ],
       "publishedAt": "2025-03-05T15:23:09.731Z",
       "updatedAt": "2025-03-05T15:23:09.731Z",
       "blogUrl": "https://869hr.uk/2025/tools/handwriting-generation/",
@@ -2347,6 +2772,9 @@
       ],
       "tags": [
         "跨境支付"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-03-11T13:30:00.000Z",
       "updatedAt": "2026-03-11T13:30:00.000Z",
@@ -2368,6 +2796,9 @@
         "跨境支付",
         "Stripe"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2025-02-05T03:41:57.000Z",
       "updatedAt": "2025-02-05T03:41:57.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/indie-dev-payment/",
@@ -2388,6 +2819,9 @@
         "软件安装",
         "账号管理"
       ],
+      "topics": [
+        "support"
+      ],
       "publishedAt": "2025-02-04T13:05:46.000Z",
       "updatedAt": "2025-02-04T13:05:46.000Z",
       "blogUrl": "https://869hr.uk/2025/support/ios-app-update-old-id/",
@@ -2406,6 +2840,9 @@
         "网络工具",
         "网络安全",
         "在线工具"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2025-02-07T17:35:10.000Z",
       "updatedAt": "2025-02-07T17:35:10.000Z",
@@ -2427,6 +2864,9 @@
         "家宽住宅IP",
         "Clash Verge"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-13T13:02:04.000Z",
       "updatedAt": "2026-05-13T13:02:04.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/ip-clash-verge-v2rayn-config-guide-tutorial/",
@@ -2446,6 +2886,9 @@
         "国行iPhone eSIM",
         "iPhone eSIM",
         "出国上网"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-07T13:37:50.000Z",
       "updatedAt": "2026-06-07T13:37:50.000Z",
@@ -2467,6 +2910,9 @@
         "免年费信用卡",
         "PayPal还款"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-27T03:01:44.000Z",
       "updatedAt": "2026-09-27T03:01:44.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/itin-apply-card-capital-one-paypal-wise-tutorial/",
@@ -2487,6 +2933,9 @@
         "App Store",
         "苹果支付"
       ],
+      "topics": [
+        "support"
+      ],
       "publishedAt": "2025-02-04T13:05:46.000Z",
       "updatedAt": "2025-02-04T13:05:46.000Z",
       "blogUrl": "https://869hr.uk/2025/support/itunes-payment-support/",
@@ -2505,6 +2954,10 @@
         "效率工具",
         "AI工具",
         "免费资源"
+      ],
+      "topics": [
+        "tools",
+        "ai"
       ],
       "publishedAt": "2025-03-02T02:30:00.000Z",
       "updatedAt": "2025-03-02T02:30:00.000Z",
@@ -2526,6 +2979,9 @@
         "效率工具",
         "无需安装"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2025-02-07T01:56:44.000Z",
       "updatedAt": "2025-02-07T01:56:44.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/jianying/",
@@ -2546,6 +3002,9 @@
         "接码",
         "短信验证码"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-08-27T05:03:12.000Z",
       "updatedAt": "2026-08-27T05:03:12.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/kitesim-mobile-esim-tutorial/",
@@ -2561,6 +3020,9 @@
       ],
       "tags": [
         "line注册"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-03-03T14:17:00.000Z",
       "updatedAt": "2025-03-03T14:17:00.000Z",
@@ -2582,6 +3044,9 @@
         "WeChat双开",
         "macOS微信"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-26T12:57:51.000Z",
       "updatedAt": "2026-07-26T12:57:51.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/mac-telegram-whatsapp-app-tutorial/",
@@ -2601,6 +3066,10 @@
         "免费资源",
         "效率工具"
       ],
+      "topics": [
+        "tutorial",
+        "ai"
+      ],
       "publishedAt": "2025-03-07T17:07:10.793Z",
       "updatedAt": "2025-03-07T17:07:10.793Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/manus-knowledge/",
@@ -2617,6 +3086,9 @@
       "tags": [
         "软件安装",
         "开源项目"
+      ],
+      "topics": [
+        "software"
       ],
       "publishedAt": "2025-03-05T04:28:10.845Z",
       "updatedAt": "2025-03-05T04:28:10.845Z",
@@ -2638,6 +3110,9 @@
         "VISA卡",
         "银行账单"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-28T14:07:22.000Z",
       "updatedAt": "2026-09-28T14:07:22.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/maya-free-savings-visa-card-tutorial/",
@@ -2655,6 +3130,10 @@
         "网络工具",
         "VPS"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2025-03-17T19:33:37.000Z",
       "updatedAt": "2025-03-17T19:33:37.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/mcp-http-sse-update/",
@@ -2671,6 +3150,10 @@
       ],
       "tags": [
         "AI工具"
+      ],
+      "topics": [
+        "study",
+        "ai"
       ],
       "publishedAt": "2025-02-23T15:25:00.000Z",
       "updatedAt": "2025-02-23T15:25:00.000Z",
@@ -2692,6 +3175,9 @@
         "eSIM",
         "WiFi Calling"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-15T09:04:24.000Z",
       "updatedAt": "2026-09-15T09:04:24.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/mobile-card-tello-5-esim-wifi-step-by-tutorial/",
@@ -2711,6 +3197,9 @@
         "Saily",
         "美国手机号",
         "海外号码"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-07-15T10:32:16.000Z",
       "updatedAt": "2026-07-15T10:32:16.000Z",
@@ -2732,6 +3221,9 @@
         "iPhone定位",
         "虚拟定位"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-11T13:20:09.000Z",
       "updatedAt": "2026-07-11T13:20:09.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/mobile-ios-shadowrocket-step-by-tutorial/",
@@ -2751,6 +3243,9 @@
         "实体手机号",
         "虚拟手机号检测",
         "保号"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-05-28T12:05:24.000Z",
       "updatedAt": "2026-05-28T12:05:24.000Z",
@@ -2772,6 +3267,9 @@
         "德国银行卡",
         "N26教程"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-06-16T03:24:16.000Z",
       "updatedAt": "2026-06-16T03:24:16.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/n26-free-5-virtual-card-6-tutorial/",
@@ -2791,6 +3289,9 @@
         "软件安装",
         "本地部署"
       ],
+      "topics": [
+        "tools"
+      ],
       "publishedAt": "2025-03-02T02:30:00.000Z",
       "updatedAt": "2025-03-02T02:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tools/net-disk/",
@@ -2807,6 +3308,9 @@
       "tags": [
         "网赚项目",
         "免费资源"
+      ],
+      "topics": [
+        "online-earning"
       ],
       "publishedAt": "2025-03-13T15:35:31.692Z",
       "updatedAt": "2025-03-13T15:35:31.692Z",
@@ -2825,6 +3329,9 @@
         "在线工具",
         "免费资源"
       ],
+      "topics": [
+        "online-earning"
+      ],
       "publishedAt": "2025-03-22T06:06:58.534Z",
       "updatedAt": "2025-03-22T06:06:58.534Z",
       "blogUrl": "https://869hr.uk/2025/online-earning/netdisk-resource/",
@@ -2841,6 +3348,9 @@
       "tags": [
         "免费资源",
         "网赚项目"
+      ],
+      "topics": [
+        "online-earning"
       ],
       "publishedAt": "2025-04-19T18:35:31.692Z",
       "updatedAt": "2025-04-19T18:35:31.692Z",
@@ -2862,6 +3372,9 @@
         "文件传输",
         "效率工具"
       ],
+      "topics": [
+        "tools"
+      ],
       "publishedAt": "2025-02-21T01:35:28.000Z",
       "updatedAt": "2025-02-21T01:35:28.000Z",
       "blogUrl": "https://869hr.uk/2025/tools/network-search-resource/",
@@ -2878,6 +3391,9 @@
       "tags": [
         "网络工具",
         "网络安全"
+      ],
+      "topics": [
+        "software"
       ],
       "publishedAt": "2025-02-13T21:54:30.000Z",
       "updatedAt": "2025-02-13T21:54:30.000Z",
@@ -2896,6 +3412,10 @@
         "LLM",
         "AI工具",
         "本地部署"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2025-02-07T17:23:57.000Z",
       "updatedAt": "2025-02-07T17:23:57.000Z",
@@ -2917,6 +3437,9 @@
         "效率工具",
         "跨平台工具"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2025-02-07T02:24:20.000Z",
       "updatedAt": "2025-02-07T02:24:20.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/online-share-tool/",
@@ -2937,6 +3460,10 @@
         "购买教程",
         "低价渠道"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-29T11:42:42.000Z",
       "updatedAt": "2026-05-29T11:42:42.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/openai-gpt-pro-5x-5-compare-vs-guide/",
@@ -2952,6 +3479,10 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-02-19T01:57:41.000Z",
       "updatedAt": "2026-02-19T01:57:41.000Z",
@@ -2969,6 +3500,10 @@
       "tags": [
         "教程"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-02-07T11:50:59.000Z",
       "updatedAt": "2026-02-07T11:50:59.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/openclaw-tg-topics--ai-config/",
@@ -2984,6 +3519,9 @@
       ],
       "tags": [
         "VPS"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2025-02-15T06:47:17.000Z",
       "updatedAt": "2025-02-15T06:47:17.000Z",
@@ -3002,6 +3540,9 @@
         "跨境支付",
         "Wise",
         "eSIM"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-02-25T04:15:46.000Z",
       "updatedAt": "2026-02-25T04:15:46.000Z",
@@ -3023,6 +3564,10 @@
         "无信用卡开通",
         "ChatGPT教程"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-19T16:40:07.000Z",
       "updatedAt": "2026-05-19T16:40:07.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/paypal-card-gpt-plus-tutorial/",
@@ -3043,6 +3588,9 @@
         "USDT充值",
         "跨境支付"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-06-21T05:36:00.000Z",
       "updatedAt": "2026-06-21T05:36:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/pokepay-virtual-card-apply-tutorial/",
@@ -3059,6 +3607,10 @@
       "tags": [
         "开发工具",
         "AI工具"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-03-07T16:00:00.000Z",
       "updatedAt": "2026-03-07T16:00:00.000Z",
@@ -3079,6 +3631,9 @@
         "Cloudflare",
         "开发工具"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-03-16T04:26:16.804Z",
       "updatedAt": "2025-03-16T04:26:16.804Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/qrcode-generate/",
@@ -3097,6 +3652,9 @@
         "开发工具",
         "Telegram",
         "Skills"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-03-14T10:10:00.000Z",
       "updatedAt": "2026-03-14T10:10:00.000Z",
@@ -3118,6 +3676,9 @@
         "账号注册",
         "海外应用"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2025-02-07T09:03:00.000Z",
       "updatedAt": "2025-02-07T09:03:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/register-iosid-foreign/",
@@ -3133,6 +3694,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-17T13:32:59.000Z",
       "updatedAt": "2026-06-17T13:32:59.000Z",
@@ -3154,6 +3718,9 @@
         "安卓打卡",
         "影梭"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-18T05:04:12.000Z",
       "updatedAt": "2026-07-18T05:04:12.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/root-virtual-card-0-mobile-100-tutorial/",
@@ -3173,6 +3740,9 @@
         "境外银行卡",
         "护照开户",
         "虚拟卡"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-02T08:13:39.000Z",
       "updatedAt": "2026-06-02T08:13:39.000Z",
@@ -3194,6 +3764,10 @@
         "ChatGPT支付",
         "瑞士银行卡"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-08-10T08:11:16.000Z",
       "updatedAt": "2026-08-10T08:11:16.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/safepal-gpt-wise-bank-card-tutorial/",
@@ -3211,6 +3785,10 @@
         "AI",
         "AI工具"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2025-02-12T04:02:37.000Z",
       "updatedAt": "2025-02-12T04:02:37.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/sam-altman-three-observations/",
@@ -3226,6 +3804,9 @@
       ],
       "tags": [
         "SEO"
+      ],
+      "topics": [
+        "tools"
       ],
       "publishedAt": "2025-03-05T14:12:17.077Z",
       "updatedAt": "2025-03-05T14:12:17.077Z",
@@ -3247,6 +3828,9 @@
         "远程访问",
         "iPhone代理"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-13T06:47:24.000Z",
       "updatedAt": "2026-07-13T06:47:24.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/shadowrocket-tailscale/",
@@ -3267,6 +3851,9 @@
         "ClashX",
         "Shadowrocket"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-08-02T17:20:55.000Z",
       "updatedAt": "2026-08-02T17:20:55.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/shadowsocks-guide-vpn-tools/",
@@ -3284,6 +3871,10 @@
         "开源项目",
         "开发工具",
         "AI工具"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2025-03-08T00:01:42.234Z",
       "updatedAt": "2025-03-08T00:01:42.234Z",
@@ -3305,6 +3896,9 @@
         "音量管理",
         "隐私保护"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-14T09:20:00.000Z",
       "updatedAt": "2026-09-14T09:20:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/sound-guard-mac/",
@@ -3325,6 +3919,9 @@
         "教程",
         "苹果支付"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-02-21T06:45:00.000Z",
       "updatedAt": "2025-02-21T06:45:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/stripe-account-register/",
@@ -3341,6 +3938,9 @@
       "tags": [
         "VPN",
         "网络工具"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-03-15T02:46:00.000Z",
       "updatedAt": "2026-03-15T02:46:00.000Z",
@@ -3361,6 +3961,9 @@
         "软件汉化",
         "社交软件"
       ],
+      "topics": [
+        "software"
+      ],
       "publishedAt": "2025-02-04T13:05:46.000Z",
       "updatedAt": "2025-02-04T13:05:46.000Z",
       "blogUrl": "https://869hr.uk/2025/software/telegram-chinese-pack/",
@@ -3379,6 +3982,9 @@
         "即时通讯",
         "软件汉化",
         "邮箱"
+      ],
+      "topics": [
+        "software"
       ],
       "publishedAt": "2025-02-20T06:35:28.000Z",
       "updatedAt": "2025-02-20T06:35:28.000Z",
@@ -3400,6 +4006,9 @@
         "账号注册",
         "账号管理"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-04-10T15:32:10.000Z",
       "updatedAt": "2026-04-10T15:32:10.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/telegram-register-tutorial-0-5-ip-shorts/",
@@ -3419,6 +4028,9 @@
         "Telegram登录",
         "Telegram注册",
         "绕过SMS费"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-05-16T08:17:09.000Z",
       "updatedAt": "2026-05-16T08:17:09.000Z",
@@ -3440,6 +4052,9 @@
         "免费登录",
         "绕过付费"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-16T04:43:59.000Z",
       "updatedAt": "2026-05-16T04:43:59.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/telegram-sms-fee-free/",
@@ -3458,6 +4073,10 @@
         "Claude",
         "开发工具",
         "开源项目"
+      ],
+      "topics": [
+        "tutorial",
+        "ai"
       ],
       "publishedAt": "2026-04-17T04:59:30.000Z",
       "updatedAt": "2026-04-17T04:59:30.000Z",
@@ -3478,6 +4097,9 @@
         "域名",
         "教程"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2026-04-19T11:36:33.000Z",
       "updatedAt": "2026-04-19T11:36:33.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/tutorial-dns-det-ai-l/",
@@ -3495,6 +4117,9 @@
         "社交软件",
         "网赚项目"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2026-03-22T02:37:33.000Z",
       "updatedAt": "2026-03-22T02:37:33.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/twitter-creator-verification-revenue-setup-tutorial/",
@@ -3511,6 +4136,10 @@
       "tags": [
         "跨境支付"
       ],
+      "topics": [
+        "tutorial",
+        "ai"
+      ],
       "publishedAt": "2026-04-12T07:07:40.000Z",
       "updatedAt": "2026-04-12T07:07:40.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/us-itin-tax-number-apply-guide/",
@@ -3526,6 +4155,9 @@
       ],
       "tags": [
         "域名注册"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2025-03-23T14:17:00.000Z",
       "updatedAt": "2026-09-12T16:00:00.000Z",
@@ -3544,6 +4176,9 @@
         "效率工具",
         "在线工具",
         "开发工具"
+      ],
+      "topics": [
+        "tools"
       ],
       "publishedAt": "2026-01-31T07:30:00.000Z",
       "updatedAt": "2026-01-31T07:30:00.000Z",
@@ -3564,6 +4199,10 @@
         "Skills",
         "Claude"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-05T02:40:39.000Z",
       "updatedAt": "2026-05-05T02:40:39.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/vibe-coding--usage-prd-manager-8---ai--codingdeplo/",
@@ -3581,6 +4220,10 @@
         "跨境支付",
         "信用卡",
         "教程"
+      ],
+      "topics": [
+        "tools",
+        "ai"
       ],
       "publishedAt": "2025-04-16T15:10:25.000Z",
       "updatedAt": "2024-04-16T15:10:25.000Z",
@@ -3600,6 +4243,9 @@
         "Wise",
         "跨境支付"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2026-02-18T05:23:52.000Z",
       "updatedAt": "2026-02-18T05:23:52.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/",
@@ -3617,6 +4263,9 @@
         "网络工具",
         "VPN"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-04-13T06:18:52.000Z",
       "updatedAt": "2025-04-13T06:18:52.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/vpn-free/",
@@ -3632,6 +4281,9 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-02-03T01:45:53.000Z",
       "updatedAt": "2026-02-03T01:45:53.000Z",
@@ -3653,6 +4305,9 @@
         "白嫖VPS",
         "Oracle"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-21T10:01:29.000Z",
       "updatedAt": "2026-07-21T10:01:29.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/vps-free-oracle-apply-2c12g-server-tutorial/",
@@ -3672,6 +4327,9 @@
         "IP检测",
         "家宽IP",
         "原生IP"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-05-17T05:15:24.000Z",
       "updatedAt": "2026-05-17T07:31:13.000Z",
@@ -3693,6 +4351,9 @@
         "法国节点",
         "Singbox"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-06-07T23:54:31.000Z",
       "updatedAt": "2026-06-07T23:54:31.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/vps-katabump-free-vpn-0-step-by-tutorial/",
@@ -3712,6 +4373,9 @@
         "教程",
         "开源项目"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-04-24T03:30:00.000Z",
       "updatedAt": "2026-04-24T03:30:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/vps-security-hardening-skill-tutorial/",
@@ -3729,6 +4393,9 @@
         "VPS",
         "VPN",
         "ip属性"
+      ],
+      "topics": [
+        "tutorial"
       ],
       "publishedAt": "2026-04-18T14:30:00.000Z",
       "updatedAt": "2026-04-18T14:30:00.000Z",
@@ -3750,6 +4417,9 @@
         "海外券商",
         "美股开户"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-25T06:29:11.000Z",
       "updatedAt": "2026-05-25T06:29:11.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/w-8ben-tutorial/",
@@ -3770,6 +4440,9 @@
         "W8BEN",
         "美股税务"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-25T10:00:30.000Z",
       "updatedAt": "2026-05-25T10:00:30.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/w8-ben-24-10-tutorial/",
@@ -3787,6 +4460,10 @@
         "效率工具",
         "开发工具",
         "AI工具"
+      ],
+      "topics": [
+        "tools",
+        "ai"
       ],
       "publishedAt": "2025-08-03T07:00:00.000Z",
       "updatedAt": "2025-08-03T07:00:00.000Z",
@@ -3808,6 +4485,9 @@
         "效率工具",
         "内容创作"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-14T09:22:00.000Z",
       "updatedAt": "2026-09-14T09:22:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/watermark-flow-mac/",
@@ -3827,6 +4507,9 @@
         "教程",
         "效率工具"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2025-08-17T15:45:30.000Z",
       "updatedAt": "2025-08-17T15:45:30.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/wechat-dual-open/",
@@ -3844,6 +4527,9 @@
         "微信",
         "效率工具",
         "账号管理"
+      ],
+      "topics": [
+        "tools"
       ],
       "publishedAt": "2025-02-28T16:30:00.000Z",
       "updatedAt": "2025-02-28T16:30:00.000Z",
@@ -3865,6 +4551,9 @@
         "开源项目",
         "微信情报"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-26T02:05:31.000Z",
       "updatedAt": "2026-05-26T02:05:31.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/wechat-radar/",
@@ -3883,6 +4572,9 @@
         "个人资料",
         "性别设置",
         "地区设置"
+      ],
+      "topics": [
+        "software"
       ],
       "publishedAt": "2025-02-15T01:09:20.000Z",
       "updatedAt": "2025-02-15T01:09:20.000Z",
@@ -3904,6 +4596,9 @@
         "多显示器",
         "效率工具"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-09-14T09:24:00.000Z",
       "updatedAt": "2026-09-14T09:24:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/window-layout-memory/",
@@ -3919,6 +4614,10 @@
       ],
       "tags": [
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-04-17T14:54:56.000Z",
       "updatedAt": "2026-04-17T14:54:56.000Z",
@@ -3940,6 +4639,10 @@
         "虚拟机",
         "Mac专属AI软件"
       ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
       "publishedAt": "2026-05-25T09:05:43.000Z",
       "updatedAt": "2026-05-25T09:05:43.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/windows-desktop-macos-free-mac-ai-vmware-tutorial/",
@@ -3960,6 +4663,9 @@
         "Office Tool Plus",
         "Word Excel PPT"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-14T08:48:33.000Z",
       "updatedAt": "2026-05-14T08:48:33.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/windows-free-install-office-5-word-excel-ppt/",
@@ -3978,6 +4684,9 @@
         "跨境支付",
         "网赚项目"
       ],
+      "topics": [
+        "tutorial"
+      ],
       "publishedAt": "2026-02-23T08:25:00.000Z",
       "updatedAt": "2026-02-23T08:25:00.000Z",
       "blogUrl": "https://869hr.uk/2026/tutorial/wise-mainland-phone-id-register-guide/",
@@ -3995,6 +4704,10 @@
         "AI工具",
         "效率工具",
         "教程"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-07-05T12:17:35.000Z",
       "updatedAt": "2026-07-05T12:17:35.000Z",
@@ -4016,6 +4729,9 @@
         "网络工具",
         "苹果"
       ],
+      "topics": [
+        "tools"
+      ],
       "publishedAt": "2025-08-16T02:52:00.000Z",
       "updatedAt": "2026-04-13T02:52:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tools/xesim/",
@@ -4033,6 +4749,9 @@
         "教程",
         "Twitter",
         "网赚项目"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-05-01T14:11:17.000Z",
       "updatedAt": "2026-05-01T14:11:17.000Z",
@@ -4054,6 +4773,9 @@
         "改邮箱",
         "邮箱地址"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-07-05T08:50:36.000Z",
       "updatedAt": "2026-07-05T08:50:36.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/youtube-Hy82RjFFnIs/",
@@ -4073,6 +4795,9 @@
         "YPP",
         "创作者收入",
         "YouTube教程"
+      ],
+      "topics": [
+        "tech"
       ],
       "publishedAt": "2026-06-27T10:45:24.000Z",
       "updatedAt": "2026-06-27T10:45:24.000Z",
@@ -4094,6 +4819,9 @@
         "DNS",
         "网络结构"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-05-15T12:18:50.000Z",
       "updatedAt": "2026-05-15T12:18:50.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/youtube-izpBS4FW6jM/",
@@ -4114,6 +4842,9 @@
         "港美股开户",
         "境外银行账户"
       ],
+      "topics": [
+        "tech"
+      ],
       "publishedAt": "2026-06-19T15:20:12.000Z",
       "updatedAt": "2026-06-19T15:20:12.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/youtube-lyRGZavzGl8/",
@@ -4133,6 +4864,10 @@
         "GPT5.5",
         "API逆向代理",
         "免费AI"
+      ],
+      "topics": [
+        "tech",
+        "ai"
       ],
       "publishedAt": "2026-05-20T16:18:32.000Z",
       "updatedAt": "2026-05-20T16:18:32.000Z",

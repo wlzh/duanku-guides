@@ -9,6 +9,7 @@ Claude Code 零基础小白教程第3期，手把手教你文案生成、文档�
 - 原文：https://869hr.uk/2026/tech/claude-code-tutorial-3and-excel/
 - 更新：2026-04-23
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Claude、AI工具、教程
 - 视频：https://www.youtube.com/watch?v=ae6xFUzJuJU
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/telegram-sms-fee-free/
 - 更新：2026-05-16
 - 分类：技术
+- 专题：技术
 - 关键词：Telegram、SMS Fee、Telegram登录、免费登录、绕过付费
 - 视频：https://www.youtube.com/watch?v=I2opyeIrq_s
 

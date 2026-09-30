@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/openclaw-ai-youmind/
 - 更新：2026-02-19
 - 分类：技术
+- 专题：技术、AI
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=qqWcNFEIyRQ
 

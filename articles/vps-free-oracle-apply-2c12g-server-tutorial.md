@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/vps-free-oracle-apply-2c12g-server-tutorial/
 - 更新：2026-07-21
 - 分类：技术
+- 专题：技术
 - 关键词：Oracle甲骨文、VPS、Cloud免费套餐、白嫖VPS、Oracle
 - 视频：https://www.youtube.com/watch?v=SZX6dMU1hPI
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/passport-2026-process-guide/
 - 更新：2026-02-25
 - 分类：技术
+- 专题：技术
 - 关键词：跨境支付、Wise、eSIM
 - 视频：https://www.youtube.com/watch?v=pfZOxCxA-OQ
 

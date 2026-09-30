@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/card-giffgaff-esim-root-tutorial/
 - 更新：2026-04-17
 - 分类：教程
+- 专题：教程
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=9iw-1PRHwyw
 

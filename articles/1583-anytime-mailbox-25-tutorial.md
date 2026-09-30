@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/1583-anytime-mailbox-25-tutorial/
 - 更新：2026-09-25
 - 分类：技术
+- 专题：技术
 - 关键词：1583认证、Anytime Mailbox、在线公证、美国私人地址、美国云居民
 - 视频：https://www.youtube.com/watch?v=QJzgy0_Xb4w
 

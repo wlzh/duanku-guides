@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/giffgaff-apply-voxi-ctexcel-tutorial/
 - 更新：2026-07-28
 - 分类：技术
+- 专题：技术
 - 关键词：Giffgaff、携号转网、VOXI、CTExcel、英国手机卡
 - 视频：https://www.youtube.com/watch?v=eMz8HW1dPzk
 

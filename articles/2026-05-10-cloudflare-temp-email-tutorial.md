@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/2026-05-10-cloudflare-temp-email-tutorial/
 - 更新：2026-05-10
 - 分类：视频教程
+- 专题：视频教程
 - 关键词：教程、Cloudflare、开源项目、邮箱
 - 视频：https://www.youtube.com/watch?v=Gf2c1TrqYuo
 

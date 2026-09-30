@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/%E8%B7%A8%E5%A2%83%E6%94%B6%E6%AC%BE/global-payment-wise-vs-stripe-guide/
 - 更新：2026-03-11
 - 分类：跨境收款
+- 专题：跨境收款
 - 关键词：跨境支付、Wise、Stripe
 - 视频：https://www.youtube.com/watch?v=U92xQN0P-5s
 

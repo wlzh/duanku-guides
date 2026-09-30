@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/0-card-giffgaff-03-20-free-200/
 - 更新：2026-06-19
 - 分类：技术
+- 专题：技术
 - 关键词：Giffgaff、英国手机卡、保号、海外手机号、0月租
 - 视频：https://www.youtube.com/watch?v=HcU0iXtOL80
 

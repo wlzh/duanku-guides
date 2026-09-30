@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/safepal-card-register-tutorial/
 - 更新：2026-06-02
 - 分类：技术
+- 专题：技术
 - 关键词：SafePal、万事达卡、境外银行卡、护照开户、虚拟卡
 - 视频：https://www.youtube.com/watch?v=Awx-r0GtI0I
 

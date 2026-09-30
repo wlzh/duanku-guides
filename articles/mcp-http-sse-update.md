@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tech/mcp-http-sse-update/
 - 更新：2025-03-17
 - 分类：技术
+- 专题：技术、AI
 - 关键词：网络工具、VPS
 
 ## 正文

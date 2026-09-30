@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/binance-rmb-usdt-usd-cashout-guide/
 - 更新：2026-03-26
 - 分类：教程
+- 专题：教程
 - 关键词：加密货币、教程
 - 视频：https://www.youtube.com/watch?v=EkGCLiPr3HM
 

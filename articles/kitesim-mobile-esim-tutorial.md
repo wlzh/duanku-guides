@@ -9,6 +9,7 @@ KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开�
 - 原文：https://869hr.uk/2026/tech/kitesim-mobile-esim-tutorial/
 - 更新：2026-08-27
 - 分类：技术
+- 专题：技术
 - 关键词：KiteSim、实体手机号、免实名、接码、短信验证码
 - 视频：https://www.youtube.com/watch?v=KA4kd5bRgh8
 

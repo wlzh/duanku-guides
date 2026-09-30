@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/study/mcp-web4.0/
 - 更新：2025-02-23
 - 分类：学习 / 技术
+- 专题：学习、AI
 - 关键词：AI工具
 - 视频：https://www.youtube.com/watch?v=D8WmBOBrgAU
 

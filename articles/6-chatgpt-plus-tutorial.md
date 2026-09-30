@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/6-chatgpt-plus-tutorial/
 - 更新：2026-04-16
 - 分类：教程
+- 专题：教程、AI
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=kZqkb9zRO_c
 

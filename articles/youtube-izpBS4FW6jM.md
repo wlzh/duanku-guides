@@ -9,6 +9,7 @@ DNS 泄露、IPv6、UDP、规则匹配为什么会导致'网页能开、软件�
 - 原文：https://869hr.uk/2026/tech/youtube-izpBS4FW6jM/
 - 更新：2026-05-15
 - 分类：技术
+- 专题：技术
 - 关键词：网络基础、VPN、代理、DNS、网络结构
 - 视频：https://www.youtube.com/watch?v=izpBS4FW6jM
 

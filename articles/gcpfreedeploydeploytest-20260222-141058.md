@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/gcpfreedeploydeploytest-20260222-141058/
 - 更新：2026-02-22
 - 分类：技术
+- 专题：技术
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=Tml8qPNAELI
 

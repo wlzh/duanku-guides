@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/claude-code-tutorial---1-how-to-usage/
 - 更新：2026-04-22
 - 分类：教程
+- 专题：教程、AI
 - 关键词：Claude Code、Trae、Z Code、AI编程、零基础编程
 - 视频：https://www.youtube.com/watch?v=hJl2RJ3BUYU
 

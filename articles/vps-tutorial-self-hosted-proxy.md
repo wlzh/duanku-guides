@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/vps-tutorial-self-hosted-proxy/
 - 更新：2026-04-18
 - 分类：教程
+- 专题：教程
 - 关键词：VPS、VPN、ip属性
 - 视频：https://www.youtube.com/watch?v=FU-9MXyEuJw
 

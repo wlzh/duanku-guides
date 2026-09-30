@@ -9,6 +9,7 @@ VPS安全加固7大核心策略详解，涵盖禁用Root登录、SSH密钥认证
 - 原文：https://869hr.uk/2026/tech/vps-security-hardening-skill-tutorial/
 - 更新：2026-04-24
 - 分类：技术
+- 专题：技术
 - 关键词：VPS、网络安全、教程、开源项目
 - 视频：https://www.youtube.com/watch?v=-uqap0UClnY
 

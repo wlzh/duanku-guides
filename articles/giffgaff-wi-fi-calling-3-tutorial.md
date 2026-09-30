@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/giffgaff-wi-fi-calling-3-tutorial/
 - 更新：2026-05-29
 - 分类：技术
+- 专题：技术
 - 关键词：Giffgaff、Wi-Fi Calling、英国手机卡、保号、eSIM
 - 视频：https://www.youtube.com/watch?v=Dmu4lwRyro8
 

@@ -8,7 +8,8 @@ OpenAI GPT Pro 20x 实付 149.55 美元约 1035 元，Pro 5x 实付 88 美元约
 
 - 原文：https://869hr.uk/2026/AI/gpt-pro-low-price-subscription-tutorial/
 - 更新：2026-05-02
-- 分类：ai
+- 分类：AI
+- 专题：AI
 - 关键词：ChatGPT、教程、跨境支付、AI工具
 - 视频：https://www.youtube.com/watch?v=N5qh78XZXoI
 

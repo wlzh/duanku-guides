@@ -9,6 +9,7 @@ OpenAI CEO Sam Altman在最新博文中探讨了AGI时代和AI经济学的三大
 - 原文：https://869hr.uk/2025/tech/sam-altman-three-observations/
 - 更新：2025-02-12
 - 分类：技术
+- 专题：技术、AI
 - 关键词：AI、AI工具
 
 ## 正文

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/ip-clash-verge-v2rayn-config-guide-tutorial/
 - 更新：2026-05-13
 - 分类：技术
+- 专题：技术
 - 关键词：链式代理、机场前置、落地节点、家宽住宅IP、Clash Verge
 - 视频：https://www.youtube.com/watch?v=VGzw5qdGubo
 

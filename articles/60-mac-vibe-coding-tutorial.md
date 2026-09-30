@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/60-mac-vibe-coding-tutorial/
 - 更新：2026-08-29
 - 分类：技术
+- 专题：技术
 - 关键词：小米蓝牙遥控器、RC003、Mac语音输入、Vibe、Coding
 - 视频：https://www.youtube.com/watch?v=1e8gXx3c56w
 

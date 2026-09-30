@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/free-20-kiro-pro-claude-opus-4-7/
 - 更新：2026-05-12
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Kiro Pro 免费会员、Claude Opus 4.7、免费AI模型、Kiro注册教程、AI工具推荐
 - 视频：https://www.youtube.com/watch?v=NlYVZjOBkOw
 

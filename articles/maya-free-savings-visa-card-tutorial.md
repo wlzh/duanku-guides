@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/maya-free-savings-visa-card-tutorial/
 - 更新：2026-09-28
 - 分类：技术
+- 专题：技术
 - 关键词：Maya、菲律宾银行、免费开户、VISA卡、银行账单
 - 视频：https://www.youtube.com/watch?v=79OhJVQvGyc
 

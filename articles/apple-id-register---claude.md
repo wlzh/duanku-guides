@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/software/apple-id-register---claude/
 - 更新：2026-04-15
 - 分类：软件
+- 专题：软件、AI
 - 关键词：Claude、Apple ID、教程、AI工具
 - 视频：https://www.youtube.com/watch?v=gr3LJNSGYZ4
 

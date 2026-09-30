@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/free-mobile-kyc-tutorial/
 - 更新：2026-06-14
 - 分类：技术
+- 专题：技术
 - 关键词：沃达丰、Vodafone、英国手机号、免费SIM卡、eSIM
 - 视频：https://www.youtube.com/watch?v=3vk8vxaJZys
 

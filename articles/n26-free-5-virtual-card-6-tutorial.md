@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/n26-free-5-virtual-card-6-tutorial/
 - 更新：2026-06-16
 - 分类：技术
+- 专题：技术
 - 关键词：N26、虚拟卡、足球虚拟卡、德国银行卡、N26教程
 - 视频：https://www.youtube.com/watch?v=7Vj3E3o-TPs
 

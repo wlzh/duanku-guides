@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/wise-mainland-phone-id-register-guide/
 - 更新：2026-02-23
 - 分类：教程
+- 专题：教程
 - 关键词：Wise、跨境支付、网赚项目
 - 视频：https://www.youtube.com/watch?v=AL8cOn49xG8
 

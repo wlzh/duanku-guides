@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/twitter-creator-verification-revenue-setup-tutorial/
 - 更新：2026-03-22
 - 分类：教程
+- 专题：教程
 - 关键词：社交软件、网赚项目
 - 视频：https://www.youtube.com/watch?v=petHW7azHyU
 

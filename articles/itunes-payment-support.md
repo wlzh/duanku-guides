@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/support/itunes-payment-support/
 - 更新：2025-02-04
 - 分类：技术支持
+- 专题：技术支持
 - 关键词：苹果、iOS、跨境支付、App Store、苹果支付
 
 ## 正文

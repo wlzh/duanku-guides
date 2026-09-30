@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/codex-gpt54-auto-register-chrome-extension/
 - 更新：2026-04-07
 - 分类：技术
+- 专题：技术、AI
 - 关键词：ChatGPT、效率工具、CPA配置、教程
 - 视频：https://www.youtube.com/watch?v=7ShCkeSvL98
 

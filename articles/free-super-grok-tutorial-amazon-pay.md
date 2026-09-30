@@ -9,6 +9,7 @@ Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟�
 - 原文：https://869hr.uk/2026/tech/free-super-grok-tutorial-amazon-pay/
 - 更新：2026-04-03
 - 分类：技术
+- 专题：技术、AI
 - 关键词：教程、AI工具、跨境支付
 - 视频：https://www.youtube.com/watch?v=lQHwsrVYD9I
 

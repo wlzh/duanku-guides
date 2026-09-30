@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/esim-mobile-usims-free-tutorial/
 - 更新：2026-09-20
 - 分类：技术
+- 专题：技术
 - 关键词：USIMS、eSIM、免费流量、白嫖流量、虚拟eSIM
 - 视频：https://www.youtube.com/watch?v=GM-kNpYAUVI
 

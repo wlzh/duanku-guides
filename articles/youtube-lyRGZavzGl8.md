@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/youtube-lyRGZavzGl8/
 - 更新：2026-06-19
 - 分类：技术
+- 专题：技术
 - 关键词：澳门蚂蚁银行、Ant Bank Macau、跨境开户、港美股开户、境外银行账户
 - 视频：https://www.youtube.com/watch?v=lyRGZavzGl8
 

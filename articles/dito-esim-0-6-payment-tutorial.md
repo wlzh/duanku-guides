@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/dito-esim-0-6-payment-tutorial/
 - 更新：2026-09-27
 - 分类：技术
+- 专题：技术
 - 关键词：DITO、菲律宾eSIM、eSIM教程、低成本保号、接码
 - 视频：https://www.youtube.com/watch?v=P-9Z7O-_EyU
 

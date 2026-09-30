@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/dmitvircsdeploycpa-ai/
 - 更新：2026-05-05
 - 分类：技术
+- 专题：技术、AI
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=Nigo_YH4SGE
 

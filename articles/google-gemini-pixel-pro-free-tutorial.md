@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/google-gemini-pixel-pro-free-tutorial/
 - 更新：2026-05-23
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Google Gemini、Gemini Pro、Pixel验证、免费订阅、教程
 - 视频：https://www.youtube.com/watch?v=UfiAHUi8yN8
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/3-neverless-register-0-20usd-tutorial/
 - 更新：2026-06-20
 - 分类：技术
+- 专题：技术
 - 关键词：Neverless、加密交易所、注册教程、出入金、0手续费
 - 视频：https://www.youtube.com/watch?v=4aFwSHXv090
 

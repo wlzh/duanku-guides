@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/cloudflare-2fa-deploy-workers-free/
 - 更新：2026-05-15
 - 分类：技术
+- 专题：技术
 - 关键词：2FA、Cloudflare Workers、自托管、TOTP、验证器
 - 视频：https://www.youtube.com/watch?v=9ivKtK818vI
 

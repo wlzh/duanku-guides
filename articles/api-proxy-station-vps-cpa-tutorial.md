@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/api-proxy-station-vps-cpa-tutorial/
 - 更新：2026-05-10
 - 分类：教程
+- 专题：教程
 - 关键词：教程、VPS、Docker、Cloudflare、建站
 - 视频：https://www.youtube.com/watch?v=GxGQPcFOF6s
 

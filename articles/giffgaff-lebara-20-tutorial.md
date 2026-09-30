@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/giffgaff-lebara-20-tutorial/
 - 更新：2026-08-11
 - 分类：技术
+- 专题：技术
 - 关键词：Giffgaff、Lebara、携号转网、英国手机卡、eSIM
 - 视频：https://www.youtube.com/watch?v=c9e3gmjXc8k
 

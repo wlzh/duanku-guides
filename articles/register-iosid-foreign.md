@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tech/register-iosid-foreign/
 - 更新：2025-02-07
 - 分类：技术
+- 专题：技术
 - 关键词：App Store、iOS、Apple ID、账号注册、海外应用
 
 ## 正文

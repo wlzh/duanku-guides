@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/qqbot-openclaw-official-api-tutorial/
 - 更新：2026-03-07
 - 分类：技术
+- 专题：技术、AI
 - 关键词：开发工具、AI工具
 - 视频：https://www.youtube.com/watch?v=HO3PaAUX8bs
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tools/deepseek-converter/
 - 更新：2025-02-07
 - 分类：工具
+- 专题：工具、AI
 - 关键词：AI工具、DeepSeek、效率工具、在线工具、开发工具
 
 ## 正文

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/gcp-free-vps-cdn-bypass-part3/
 - 更新：2026-03-06
 - 分类：技术
+- 专题：技术
 - 关键词：教程、VPS、网络工具
 - 视频：https://www.youtube.com/watch?v=88gyLp02bbI
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/shadowsocks-guide-vpn-tools/
 - 更新：2026-08-02
 - 分类：技术
+- 专题：技术
 - 关键词：Shadowsocks、VPN、小火箭、ClashX、Shadowrocket
 - 视频：https://www.youtube.com/watch?v=NHCgLZNDvDw
 

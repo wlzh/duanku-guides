@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/claude-code-tutorial-2-domestic-ai-models/
 - 更新：2026-04-22
 - 分类：教程
+- 专题：教程、AI
 - 关键词：Claude Code、GLM、通义千问、AICodeSwitch、AI编程
 - 视频：https://www.youtube.com/watch?v=ahyKIDcC6nk
 

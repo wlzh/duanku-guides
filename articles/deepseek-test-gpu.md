@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tech/deepseek-test-gpu/
 - 更新：2025-02-10
 - 分类：技术
+- 专题：技术、AI
 - 关键词：DeepSeek、效率工具、AI工具
 
 ## 正文

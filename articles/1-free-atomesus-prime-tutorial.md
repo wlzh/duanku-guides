@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/1-free-atomesus-prime-tutorial/
 - 更新：2026-06-22
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Atomesus、Atomesus Prime、AI工具、AI图片生成、无限聊天
 - 视频：https://www.youtube.com/watch?v=brK8C8plsJU
 

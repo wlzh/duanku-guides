@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial/
 - 更新：2026-07-04
 - 分类：技术
+- 专题：技术
 - 关键词：教程、eSIM、VoHive、大疆4G模块、Mac教程
 - 视频：https://www.youtube.com/watch?v=PZRkoggXFco
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/clash-config-detail-dns/
 - 更新：2026-05-23
 - 分类：技术
+- 专题：技术
 - 关键词：Clash、Clash配置、代理工具、分流规则、DNS配置
 - 视频：https://www.youtube.com/watch?v=OT_tlDDMNB4
 

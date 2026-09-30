@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/learning-resource/ebook-free-resource/
 - 更新：2025-02-21
 - 分类：学习资源
+- 专题：学习资源
 - 关键词：免费资源、在线工具、学习资源
 
 ## 正文

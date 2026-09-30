@@ -9,6 +9,7 @@ Claude Code 零基础小白教程第4期高阶进阶篇，教你提示词技巧�
 - 原文：https://869hr.uk/2026/tech/claude-code-tutorial-4-advanced-workflow/
 - 更新：2026-04-23
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Claude、AI工具、教程
 - 视频：https://www.youtube.com/watch?v=c5Xs8gceiCM
 

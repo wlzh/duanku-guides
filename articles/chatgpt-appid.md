@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tutorial/chatgpt-appid/
 - 更新：2025-08-09
 - 分类：教程
+- 专题：教程、AI
 - 关键词：ChatGPT、iOS、Apple ID、账号注册、教程
 
 ## 正文

@@ -8,7 +8,8 @@
 
 - 原文：https://869hr.uk/2026/AI/claude-desktop-custom-api-tutorial/
 - 更新：2026-05-04
-- 分类：ai
+- 分类：AI
+- 专题：AI
 - 关键词：Claude Desktop、Claude、Anthropic Claude、自定义API、第三方API
 - 视频：https://www.youtube.com/watch?v=nmBd8bfiEu8
 

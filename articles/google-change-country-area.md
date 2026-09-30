@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tutorial/google-change-country-area/
 - 更新：2025-06-29
 - 分类：教程
+- 专题：教程
 - 关键词：教程、账号管理、海外应用、故障处理
 
 ## 正文

@@ -9,6 +9,7 @@ Window Layout Memory 是开源 macOS 窗口布局记忆工具，可按显示器�
 - 原文：https://869hr.uk/2026/tech/window-layout-memory/
 - 更新：2026-09-14
 - 分类：技术
+- 专题：技术
 - 关键词：macOS、开源工具、窗口管理、多显示器、效率工具
 
 ## 正文

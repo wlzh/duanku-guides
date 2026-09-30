@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/chatgpt-team--15-1-50--48--promo/
 - 更新：2026-05-10
 - 分类：技术
+- 专题：技术、AI
 - 关键词：ChatGPT、跨境支付、教程
 - 视频：https://www.youtube.com/watch?v=yv1HFb79Yus
 

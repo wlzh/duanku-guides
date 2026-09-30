@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/vps-ip-guide-tutorial/
 - 更新：2026-05-17
 - 分类：技术
+- 专题：技术
 - 关键词：VPS、IP质量、IP检测、家宽IP、原生IP
 - 视频：https://www.youtube.com/watch?v=Vq-KLwXPcGw
 

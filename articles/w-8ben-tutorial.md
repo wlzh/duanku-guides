@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/w-8ben-tutorial/
 - 更新：2026-05-25
 - 分类：技术
+- 专题：技术
 - 关键词：嘉信券商、嘉信开户、Charles Schwab、海外券商、美股开户
 - 视频：https://www.youtube.com/watch?v=5-c30GPKEaM
 

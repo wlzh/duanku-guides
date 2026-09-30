@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/chatgpt-gmail-free-gpt-k12-plus-tutorial/
 - 更新：2026-07-03
 - 分类：技术
+- 专题：技术、AI
 - 关键词：ChatGPT、免费GPT、K12空间、Gmail别名、ChatGPT Plus
 - 视频：https://www.youtube.com/watch?v=tuPU2TQXNbI
 

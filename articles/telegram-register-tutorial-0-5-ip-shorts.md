@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/telegram-register-tutorial-0-5-ip-shorts/
 - 更新：2026-04-10
 - 分类：技术
+- 专题：技术
 - 关键词：Telegram、邮箱、ip属性、账号注册、账号管理
 - 视频：https://www.youtube.com/watch?v=m7XT0fW1LAY
 

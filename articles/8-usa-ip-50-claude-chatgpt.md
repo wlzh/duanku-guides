@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/
 - 更新：2026-03-22
 - 分类：教程
+- 专题：教程、AI
 - 关键词：ip属性、VPN、ChatGPT、Claude、网络工具
 - 视频：https://www.youtube.com/watch?v=ggCSZOXEqbE
 

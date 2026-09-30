@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/windows-desktop-macos-free-mac-ai-vmware-tutorial/
 - 更新：2026-05-25
 - 分类：技术
+- 专题：技术、AI
 - 关键词：VMware、macOS、Windows安装macOS、虚拟机、Mac专属AI软件
 - 视频：https://www.youtube.com/watch?v=EToxhFmpbM0
 

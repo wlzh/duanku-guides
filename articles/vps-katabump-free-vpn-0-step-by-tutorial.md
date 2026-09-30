@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/vps-katabump-free-vpn-0-step-by-tutorial/
 - 更新：2026-06-07
 - 分类：技术
+- 专题：技术
 - 关键词：KataBump、VPS、VPN、法国节点、Singbox
 - 视频：https://www.youtube.com/watch?v=aST_Cs_d6_I
 

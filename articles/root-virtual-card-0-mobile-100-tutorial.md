@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/root-virtual-card-0-mobile-100-tutorial/
 - 更新：2026-07-18
 - 分类：技术
+- 专题：技术
 - 关键词：企业微信、虚拟定位、免Root、安卓打卡、影梭
 - 视频：https://www.youtube.com/watch?v=cs5TGzWwxpo
 

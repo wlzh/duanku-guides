@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/14-com-domain-google-workspace-tutorial/
 - 更新：2026-06-02
 - 分类：技术
+- 专题：技术
 - 关键词：Google Workspace、薅羊毛、域名注册、com域名、土耳其
 - 视频：https://www.youtube.com/watch?v=j3ZouCfNe4Y
 

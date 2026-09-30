@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tools/warp-ai/
 - 更新：2025-08-03
 - 分类：工具
+- 专题：工具、AI
 - 关键词：效率工具、开发工具、AI工具
 - 视频：https://www.youtube.com/watch?v=c1Cq-AoPH6Y
 

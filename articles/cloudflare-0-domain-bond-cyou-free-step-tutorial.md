@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/cloudflare-0-domain-bond-cyou-free-step-tutorial/
 - 更新：2026-09-12
 - 分类：技术
+- 专题：技术
 - 关键词：域名、0元域名、顶级域名、nicnames、doma protocol
 - 视频：https://www.youtube.com/watch?v=qUU4B33XmJs
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/chrome-edge-delete-local-ai-model/
 - 更新：2026-05-09
 - 分类：技术
+- 专题：技术、AI
 - 关键词：教程、AI、Google、数据安全
 - 视频：https://www.youtube.com/watch?v=KQck0xwjHAw
 

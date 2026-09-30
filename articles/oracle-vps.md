@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tech/oracle-vps/
 - 更新：2025-02-15
 - 分类：技术
+- 专题：技术
 - 关键词：VPS
 - 视频：https://www.youtube.com/watch?v=aDBLhbT6esM
 

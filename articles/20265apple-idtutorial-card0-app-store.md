@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/20265apple-idtutorial-card0-app-store/
 - 更新：2026-05-09
 - 分类：技术
+- 专题：技术
 - 关键词：Apple ID、App Store、iOS、教程
 - 视频：https://www.youtube.com/watch?v=-C1mrsx1TkQ
 

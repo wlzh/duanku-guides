@@ -9,6 +9,7 @@ Google 正在为符合条件的美国学生提供一项福利：免费获得 15 
 - 原文：https://869hr.uk/2025/tutorial/google-one-gemini-students/
 - 更新：2025-05-03
 - 分类：教程
+- 专题：教程、AI
 - 关键词：Google
 
 ## 正文

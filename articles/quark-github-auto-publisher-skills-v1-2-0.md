@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/quark-github-auto-publisher-skills-v1-2-0/
 - 更新：2026-03-14
 - 分类：技术
+- 专题：技术
 - 关键词：效率工具、开发工具、Telegram、Skills
 - 视频：https://www.youtube.com/watch?v=s1RhLDOGOfQ
 

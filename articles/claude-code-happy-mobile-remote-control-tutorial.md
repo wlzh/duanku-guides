@@ -9,6 +9,7 @@ Happy 安装配置教程：用手机远程控制 Claude Code，覆盖安装配�
 - 原文：https://869hr.uk/2026/tech/claude-code-happy-mobile-remote-control-tutorial/
 - 更新：2026-05-11
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Claude Code、Happy、手机远程控制、AI编程、远程开发
 - 视频：https://www.youtube.com/watch?v=JV_WmhYU-RY
 

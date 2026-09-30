@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tech/indie-dev-payment/
 - 更新：2025-02-05
 - 分类：技术
+- 专题：技术
 - 关键词：App Store、开发工具、iOS、跨境支付、Stripe
 
 ## 正文

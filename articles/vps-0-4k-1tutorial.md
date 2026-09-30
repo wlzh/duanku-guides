@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/vps-0-4k-1tutorial/
 - 更新：2026-02-03
 - 分类：技术
+- 专题：技术
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=oWzxvgQnALs
 

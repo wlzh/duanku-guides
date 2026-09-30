@@ -9,6 +9,7 @@ YouTube 由 Google 运营，因此创建 YouTube 频道的前提是拥有一个 
 - 原文：https://869hr.uk/2026/tech/youtube-guide-adsense/
 - 更新：2026-06-27
 - 分类：技术
+- 专题：技术
 - 关键词：YouTube变现、AdSense、YPP、创作者收入、YouTube教程
 - 视频：https://www.youtube.com/watch?v=la4oJiG4yvM
 

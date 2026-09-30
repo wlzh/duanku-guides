@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tutorial/us.kg-domain-callbak/
 - 更新：2026-09-12
 - 分类：教程
+- 专题：教程
 - 关键词：域名注册
 
 ## 正文

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/free-domain-cloudflare-tutorial/
 - 更新：2026-02-22
 - 分类：教程
+- 专题：教程
 - 关键词：域名、Cloudflare、教程、网赚项目、技术交流
 - 视频：https://www.youtube.com/watch?v=fdIJzHVxevA
 

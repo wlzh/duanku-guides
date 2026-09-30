@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/pokepay-virtual-card-apply-tutorial/
 - 更新：2026-06-21
 - 分类：技术
+- 专题：技术
 - 关键词：PokePay、信用卡、香港虚拟卡、USDT充值、跨境支付
 - 视频：https://www.youtube.com/watch?v=dW8VBXdf__Q
 

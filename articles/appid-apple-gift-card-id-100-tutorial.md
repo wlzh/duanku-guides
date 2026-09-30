@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/appid-apple-gift-card-id-100-tutorial/
 - 更新：2026-03-21
 - 分类：技术
+- 专题：技术
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=ytcCkyztNNQ
 

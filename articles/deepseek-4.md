@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/deepseek-4/
 - 更新：2026-08-16
 - 分类：技术
+- 专题：技术、AI
 - 关键词：DeepSeek Harness、DeepSeek、AI Agent、智能体、一切皆插件
 - 视频：https://www.youtube.com/watch?v=80u2rwxpTqA
 

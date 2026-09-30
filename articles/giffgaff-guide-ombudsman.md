@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/giffgaff-guide-ombudsman/
 - 更新：2026-07-29
 - 分类：技术
+- 专题：技术
 - 关键词：Giffgaff、Giffgaff封号、Giffgaff退款、Ombudsman仲裁、英国通信仲裁
 - 视频：https://www.youtube.com/watch?v=CVqW_WXLMO0
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/w8-ben-24-10-tutorial/
 - 更新：2026-05-25
 - 分类：技术
+- 专题：技术
 - 关键词：嘉信证券、Charles Schwab、W8-BEN、W8BEN、美股税务
 - 视频：https://www.youtube.com/watch?v=hB-agEJ4x-k
 

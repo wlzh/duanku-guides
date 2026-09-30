@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/windows-free-install-office-5-word-excel-ppt/
 - 更新：2026-05-14
 - 分类：技术
+- 专题：技术
 - 关键词：Office激活、Windows Office、Office免费、Office Tool Plus、Word Excel PPT
 - 视频：https://www.youtube.com/watch?v=u6z0pE_tbKs
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/chatgpt-free-business-2-tutorial/
 - 更新：2026-05-13
 - 分类：技术
+- 专题：技术、AI
 - 关键词：ChatGPT、免费、Business、优惠码、AI
 - 视频：https://www.youtube.com/watch?v=gQLkDdOIzQM
 

@@ -9,6 +9,7 @@ Cloudflare 临时邮箱搭建教程，覆盖域名托管、邮件路由、D1、K
 - 原文：https://869hr.uk/2026/tech/cloudflare-1-register-free-domain-card-2/
 - 更新：2026-06-09
 - 分类：技术
+- 专题：技术
 - 关键词：域名、永久域名、免费二级域名、Cloudflare、KataBump
 - 视频：https://www.youtube.com/watch?v=NS24Ne_rP1M
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/github-10-free-pro-ai-tools-tutorial/
 - 更新：2026-05-17
 - 分类：技术
+- 专题：技术、AI
 - 关键词：GitHub学生认证、GitHub Education、学生开发者包、GitHub Pro免费、编程福利
 - 视频：https://www.youtube.com/watch?v=rDcs1BRd4lM
 

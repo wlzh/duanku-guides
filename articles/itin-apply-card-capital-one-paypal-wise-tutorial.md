@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/itin-apply-card-capital-one-paypal-wise-tutorial/
 - 更新：2026-09-27
 - 分类：技术
+- 专题：技术
 - 关键词：Capital One、ITIN、美国信用卡、免年费信用卡、PayPal还款
 - 视频：https://www.youtube.com/watch?v=ZTr-QzLTT1c
 

@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/safepal-gpt-wise-bank-card-tutorial/
 - 更新：2026-08-10
 - 分类：技术
+- 专题：技术、AI
 - 关键词：SafePal、Wise、GPT续费、ChatGPT支付、瑞士银行卡
 - 视频：https://www.youtube.com/watch?v=GjMNofKikP8
 

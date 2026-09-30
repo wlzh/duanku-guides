@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/esim-card-9esim-vs-xesim-estk-compare-review/
 - 更新：2026-05-13
 - 分类：技术
+- 专题：技术
 - 关键词：eSIM对比、9eSIM评测、XeSIM评测、eSTK评测、eSIM卡怎么选
 - 视频：https://www.youtube.com/watch?v=W46dce-LXjM
 

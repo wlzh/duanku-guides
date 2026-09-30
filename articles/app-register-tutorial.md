@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/app-register-tutorial/
 - 更新：2026-09-03
 - 分类：技术
+- 专题：技术
 - 关键词：海外地址证明、地址证明、Proof of Address、万里汇、WorldFirst
 - 视频：https://www.youtube.com/watch?v=DnOKC9uBw00
 

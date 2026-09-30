@@ -9,6 +9,7 @@ Mac上实现微信双开到多开的完整教程，使用终端命令复制程�
 - 原文：https://869hr.uk/2026/tech/mac-telegram-whatsapp-app-tutorial/
 - 更新：2026-07-26
 - 分类：技术
+- 专题：技术
 - 关键词：Mac微信多开、微信双开Mac、Mac多开微信、WeChat双开、macOS微信
 - 视频：https://www.youtube.com/watch?v=NnfL-Uo3mHU
 

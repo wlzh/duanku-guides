@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/free-hr-ai-tools-0-offer/
 - 更新：2026-04-01
 - 分类：技术
+- 专题：技术、AI
 - 关键词：教程
 - 视频：https://www.youtube.com/watch?v=GUAAtdzi__c
 

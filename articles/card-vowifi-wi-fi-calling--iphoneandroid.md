@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/card-vowifi-wi-fi-calling--iphoneandroid/
 - 更新：2026-05-05
 - 分类：技术
+- 专题：技术
 - 关键词：VoWiFi、海外卡、教程
 - 视频：https://www.youtube.com/watch?v=3lYgUUBEstI
 

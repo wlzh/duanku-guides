@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/free-edu-apply-tutorial/
 - 更新：2026-06-28
 - 分类：技术
+- 专题：技术
 - 关键词：edu邮箱、免费教育邮箱、帕克大学、park university、留学生
 - 视频：https://www.youtube.com/watch?v=ceKs7zgfBi8
 

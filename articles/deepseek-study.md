@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/software/deepseek-study/
 - 更新：2025-02-13
 - 分类：软件
+- 专题：软件、AI
 - 关键词：DeepSeek、本地部署、AI工具、软件安装
 
 ## 正文

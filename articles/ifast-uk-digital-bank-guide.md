@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/ifast-uk-digital-bank-guide/
 - 更新：2026-03-11
 - 分类：教程
+- 专题：教程
 - 关键词：跨境支付
 - 视频：https://www.youtube.com/watch?v=1vZQPnBOZpc
 

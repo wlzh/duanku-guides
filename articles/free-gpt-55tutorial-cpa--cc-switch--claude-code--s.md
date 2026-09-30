@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/free-gpt-55tutorial-cpa--cc-switch--claude-code--s/
 - 更新：2026-05-07
 - 分类：技术
+- 专题：技术、AI
 - 关键词：教程、AI工具、VPN、VPS
 - 视频：https://www.youtube.com/watch?v=cEdCN_cY8mI
 

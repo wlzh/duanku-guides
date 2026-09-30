@@ -8,7 +8,8 @@
 
 - 原文：https://869hr.uk/2025/ai/google-gemini-students2/
 - 更新：2025-08-07
-- 分类：ai
+- 分类：AI
+- 专题：AI
 - 关键词：Google、免费资源、AI工具
 
 ## 正文

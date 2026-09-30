@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/tech/chatgpt-downgrade/
 - 更新：2025-02-10
 - 分类：技术
+- 专题：技术、AI
 - 关键词：AI工具、ChatGPT、账号管理
 
 ## 正文

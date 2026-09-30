@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/chatgpt-yika-virtual-card-50-kyc-claude/
 - 更新：2026-06-13
 - 分类：技术
+- 专题：技术、AI
 - 关键词：YiKa虚拟卡、ChatGPT订阅、Claude Pro、推特蓝V、USDT充值
 - 视频：https://www.youtube.com/watch?v=XaLeXKu4PTM
 

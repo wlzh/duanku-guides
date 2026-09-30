@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/
 - 更新：2026-02-18
 - 分类：教程
+- 专题：教程
 - 关键词：eSIM、Wise、跨境支付
 - 视频：https://www.youtube.com/watch?v=aEJm0xcXaxI
 

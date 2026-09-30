@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2025/software/telegram-chinese-pack/
 - 更新：2025-02-04
 - 分类：软件
+- 专题：软件
 - 关键词：Telegram、即时通讯、软件汉化、社交软件
 
 ## 正文

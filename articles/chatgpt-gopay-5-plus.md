@@ -9,6 +9,7 @@ log("💰 Plan : ChatGPT Plus（尝试使用 IDR / 印尼盾）"); console
 - 原文：https://869hr.uk/2026/tech/chatgpt-gopay-5-plus/
 - 更新：2026-05-31
 - 分类：技术
+- 专题：技术、AI
 - 关键词：ChatGPT Plus、Gopay、GPT Plus 开通、ChatGPT 订阅、印尼支付
 - 视频：https://www.youtube.com/watch?v=xf4uBgeK158
 

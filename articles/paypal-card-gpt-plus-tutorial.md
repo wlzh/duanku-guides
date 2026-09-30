@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/paypal-card-gpt-plus-tutorial/
 - 更新：2026-05-19
 - 分类：技术
+- 专题：技术、AI
 - 关键词：ChatGPT Plus、PayPal支付、GPT Plus开通、无信用卡开通、ChatGPT教程
 - 视频：https://www.youtube.com/watch?v=5X30EtiQiDU
 

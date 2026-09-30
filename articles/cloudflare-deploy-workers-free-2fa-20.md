@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/cloudflare-deploy-workers-free-2fa-20/
 - 更新：2026-05-16
 - 分类：技术
+- 专题：技术
 - 关键词：2FA、双因素认证、Cloudflare Workers、自托管、开源
 - 视频：https://www.youtube.com/watch?v=fWqjMNN-7ZI
 

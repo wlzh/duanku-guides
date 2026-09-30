@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/zo2api-free-claude-opus4-7-gpt5-5-tools/
 - 更新：2026-05-20
 - 分类：技术
+- 专题：技术、AI
 - 关键词：Zo2API、Claude Opus4.7、GPT5.5、API逆向代理、免费AI
 - 视频：https://www.youtube.com/watch?v=Zl4PBq8z5vU
 

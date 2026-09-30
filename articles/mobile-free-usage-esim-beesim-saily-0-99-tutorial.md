@@ -9,6 +9,7 @@
 - 原文：https://869hr.uk/2026/tech/mobile-free-usage-esim-beesim-saily-0-99-tutorial/
 - 更新：2026-07-15
 - 分类：技术
+- 专题：技术
 - 关键词：eSIM、BeeSIM、Saily、美国手机号、海外号码
 - 视频：https://www.youtube.com/watch?v=XbYOtLjP8fo
 
