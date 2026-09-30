@@ -1,0 +1,48 @@
+# 教程
+
+本专题收录 44 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+
+- [【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！](../articles/6-chatgpt-plus-tutorial.md)：详细教程：【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！，涵盖视频教程等知识点
+- [拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略  50次刷新机会，亲测轻松解锁Claude/ChatGPT！](../articles/8-usa-ip-50-claude-chatgpt.md)：详细教程：拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略 50次刷新机会，亲测轻松解锁Claude/ChatGPT！，涵盖ip属性、VPN、ChatGPT等知识点
+- [手把手教你搭建 API 中轉站：VPS+CPA+New API+Docker+Nginx+Cloudflare+SSL+域名配置 保姆級教程](../articles/api-proxy-station-vps-cpa-tutorial.md)：從零開始搭建 API 中轉站完整教程，涵蓋 VPS 購買、CPA 配置、New API 部署、Docker Compose、Nginx 反向代理、Cloudflare DNS 與 SSL 證書配置
+- [告别支付烦恼：DogPay狗卡申请及使用完全指南 | 畅游海外应用，一卡在手](../articles/bank-card-dogpay.md)：还在为海外应用支付问题烦恼吗？DogPay狗卡帮你轻松解决！本文详细介绍DogPay狗卡的申请流程、充值方式、使用技巧，以及如何加入TG官方群获取最新资讯和技术支持。更有针对苹果用户的港区App Store账号注册攻略，让你畅游海外应用无障碍！字数超过200，满足SEO需求。
+- [0成本拥有国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程](../articles/bank-card-safepal.md)：还在为海外服务支付发愁？想用国内身份证搞定一张万事达卡？SafePal卡来啦！本文为你带来0成本使用国内身份证注册SafePal万事达卡的超详细保姆级教程，手把手教你如何申请、激活、充值，并实测绑定GCP、Cloudflare等海外服务，让你轻松畅游数字世界。无论是开发者、独立站长还是海外服务爱好者，这篇教程都能帮你解
+- [0成本拥有国内身份证注册SafePal万事达卡教程详细指南](../articles/bank-card-safepal2.md)：还在为海外服务支付发愁？想用国内身份证搞定一张万事达卡？SafePal卡来啦！本文为你带来0成本使用国内身份证注册SafePal万事达卡的超详细保姆级教程，手把手教你如何申请、激活、充值，并实测绑定GCP、Cloudflare等海外服务，让你轻松畅游数字世界。无论是开发者、独立站长还是海外服务爱好者，这篇教程都能帮你解
+- [解锁海外支付新姿势：YPT卡申请全攻略，附专属优惠码！](../articles/bank-card-ypt.md)：还在为海外支付烦恼吗？YPT卡来啦！本文详细介绍YPT卡的注册流程、优势特点以及各种使用场景，更有专属优惠码等你来拿！轻松解决跨境支付难题，畅享全球购物乐趣！超过200字的详细介绍，助力SEO优化。
+- [【小白必看】5分钟极速上手，如何人民币到稳定币到美金，如何稳定币到美金到人民币，最新最全充值提现买币卖币，币安开户教学](../articles/binance-rmb-usdt-usd-cashout-guide.md)：这篇教程围绕币安开户、KYC、人民币买稳定币、稳定币买比特币，以及稳定币再换回人民币的完整流程展开，适合刚入门的新手快速建立整体认知。
+- [小白必看国产手机拥有保号神卡Giffgaff eSIM卡：giffgaff 免 root 开通及激活全教程](../articles/card-giffgaff-esim-root-tutorial.md)：详细教程：小白必看国产手机拥有保号神卡Giffgaff eSIM卡：giffgaff 免 root 开通及激活全教程，涵盖视频教程等知识点
+- [省钱秘籍：手把手教你用尼日利亚区AppleID订阅 ChatGPT Plus，每月只要$8](../articles/chatgpt-appid.md)：想要更便宜地订阅ChatGPT Plus？本文详细介绍了如何通过注册尼日利亚区的Apple ID，以每月仅约$8的价格订阅ChatGPT Plus，相比美区订阅每月$20，能节省一大笔开销。包含修改手机地区、注册Apple ID、购买礼品卡、订阅ChatGPT Plus等详细步骤，让你轻松享受ChatGPT
+- [Chrome 垂直标签页怎么开？只需三步，保姆级教程：从 Flags 开启到外观设置全流程，狠狠提升效率！](../articles/chrome-vertical-tabs-tutorial.md)：手把手教你开启 Chrome 垂直标签页：更新版本、Flags 启用 Vertical Tabs、外观设置打开，三步完成，宽屏效率大提升。
+- [Claude Code 被封号无数？防封号终极指南，12条硬核规则助你构建'正常人类行为档案'！](../articles/claude-code-guide-12.md)：根据账号异常经历整理 Claude Code 使用中的十二项风险控制建议，涵盖登录环境、调用节奏、支付与账号行为的一致性检查。
+- [【Claude Code 小白教程-第1期】国内如何完美使用 Claude Code？手把手教你安装 Trae 国内版与 Z Code 配置！](../articles/claude-code-tutorial---1-how-to-usage.md)：欢迎来到 Claude Code 零基础小白教程系列第一期，手把手教你在国内免翻墙安装 Trae 国内版与 Z Code 配置，完美使用 Claude Code 进行 AI 编程。
+- [【Claude Code 小白教程-第2期】接入国内大模型！GLM/通义千问配置，AICodeSwitch神器！](../articles/claude-code-tutorial-2-domestic-ai-models.md)：欢迎回来！Claude Code 小白教程第二期，手把手教你配置智谱 GLM、阿里通义千问，使用 AICodeSwitch 神器一键切换模型，还有免费大模型白嫖教程。
+- [CLIProxyAPI 部署教程：VPS、域名、SSL 与远程调用完整配置](../articles/cliproxyapi-vps-domain-ssl-tutorial.md)：这篇教程围绕 CLIProxyAPI 的完整部署流程展开，涵盖 VPS 准备、IP 检测、一键部署、Systemd 守护进程、防火墙配置、域名解析、Nginx 反向代理、SSL 证书申请与自动续期的完整流程。
+- [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-asu-invite.md)：想免费获取各种教育优惠，比如白嫖Gemini高级版？一个美国大学的.edu教育邮箱是你的绝佳敲门砖！本文将手把手教你如何免费注册美国大学的.edu教育邮箱。从准备“美国身份”信息，到全程使用美国节点进行在线申请，再到最后的账户激活步骤，每一步都详细讲解。文章特别强调了需要保存的关键信息以及如何处理申请过程中可能遇到的问
+- [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-invite2.md)：详细教程：白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱，涵盖邮箱、免费资源、学习资源等知识点
+- [免费获取美国教育邮箱（.edu）终极指南 | 轻松解锁学生福利](../articles/edu-invite3.md)：还在为各种软件订阅、云服务、甚至是一些独家资源的高昂费用而烦恼吗？拥有一个免费的美国教育邮箱（.edu email）或许能帮你打开新世界的大门！本文将为你提供一份超详细、手把手的教程，教你如何从零开始，利用虚拟身份和干净的美国IP，成功申请到属于自己的美国大学教育邮箱。从生成个人信息、注册Outlook邮箱，到申请大学
+- [VOXI eSIM 免费领取与激活全攻略，需要edu学生教育邮箱](../articles/esim-voxi.md)：VOXI eSIM，作为Vodafone旗下的创新品牌，为学生党带来了无需KYC、无需开卡费的英国手机卡新选择。本文将手把手教你如何利用教育邮箱免费领取VOXI eSIM，并详细指导激活、eSIM安装、号码查询以及最重要的保号策略。无论你是需要一个英国本地号码用于注册海外服务，还是希望享受零月租的便捷通讯，这篇2025
+- [永久免费域名注册绑定全攻略🌐 无需信用卡，完美挂靠Cloudflare，建站/搭节点必备，且可商业化！(一个邮箱白嫖6个) | 零基础喂饭教程](../articles/free-domain-cloudflare-tutorial.md)：目前全网好用的永久免费域名注册方案！不需要绑定任何信用卡，仅需一个常用邮箱，就能一次性注册6个免费域名。
+- [2025年全球免费VPS白嫖指南（16个免费服务器资源大盘点）](../articles/free-vps.md)：这是一份最全的全球免费VPS（虚拟专用服务器）申请指南。本文详细盘点了包括Oracle Cloud（甲骨文云）、Google Cloud（GCP）、AWS、Azure在内的16个提供永久免费或长期试用的云服务器资源。内容涵盖每个VPS的特点、申请要求、注意事项以及直达申请链接。无论你是想学习Linux、搭建个人博客、测
+- [【小白必看】绝密翻墙科普：1小时懂GFW原理、主流协议、安全防泄漏](../articles/gfw-tutorial-principle-bypass-safety.md)：很多人翻墙就像盲人摸象，复制别人给的配置，一失效就抓瞎。这个视频不是为了给你提供免费订阅，而是为了把抽象的技术对抗还原成底层的运行逻辑。
+- [英国giffgaff实体SIM卡激活使用全攻略](../articles/giffgaff.md)：本文详细介绍了英国giffgaff实体SIM卡的激活步骤、资费详情、保号方法以及eSIM转换教程。无论你是留学生、旅行者还是需要海外号码的用户，这篇2025年最新指南都能帮助你轻松搞定giffgaff手机卡的使用，解决常见问题，并掌握保号技巧。
+- [2025年最新在中国大陆注册Gmail的办法：如何跳过手机号验证](../articles/google-account-no-phone.md)：还在为注册Gmail需要手机号验证而头疼吗？本文为你带来2025年在中国大陆注册Gmail的最新实测方法，重点揭秘如何通过优化网络环境（高纯净度IP、低欺诈值）和浏览器设置（Chrome无痕模式、英文语言）来巧妙跳过手机号验证。详细步骤和IP检测工具推荐，让你轻松拥有自己的Gmail账号，告别繁琐验证！这篇教程将手把手
+- [Google账号换国家或换区域大法：轻松解锁海外服务与优惠](../articles/google-change-country-area.md)：还在为Google账号的地区限制烦恼吗？想体验特定区域的Google服务、应用或优惠（比如传说中的Google One学生优惠）？本文将手把手教你如何通过官方渠道申请修改Google账号的国家或地区。从准备工作到填写申请表单的“小技巧”，再到与Google
+- [Google免费高配云主机震撼来袭！16核64G内存300G硬盘，视频教程（一）](../articles/google-idx-vps-register.md)：震惊！Google 推出 Project IDX 免费云开发环境，配置高达16核CPU、64GB内存、300GB硬盘，实测网络速度惊人，下载轻松突破4000MB/s。本文将带你一探究竟，看看这台“白嫖神机”是否能满足你“学习研究”的需求，并附上搭建节点的测试过程。这羊毛不薅，简直对不起咱这颗爱折腾的心！
+- [Google IDX永久免费主机VPS创建及永久隧道视频教程（二）](../articles/google-idx-vps-register2.md)：还在为Google IDX免费VPS的24小时URL过期烦恼吗？本教程是系列第二篇，紧接上一篇的VPS创建，手把手教你利用强大的Cloudflare Zero Trust服务为你的IDX免费VPS搭建一条永久隧道。这意味着你的VPS将拥有一个固定的域名，不再受24小时URL失效的困扰。文章详细讲解了如何在Cloudfl
+- [Google one (Gemini Advanced) 学生15个月免费优惠领取指南](../articles/google-one-gemini-students.md)：Google 正在为符合条件的美国学生提供一项福利：免费获得 15 个月的 Google One AI Premium 订阅。
+- [iFAST英国数字银行在线开户：活期4%高息，0门槛0管理费，支持身份证/护照，出海收付款，港美股出入金神器！保姆级教程！](../articles/ifast-uk-digital-bank-guide.md)：手把手带你申请iFAST英国数字银行，0门槛无管理费，活期高达4%年化利率，支持国内身份证/护照，完美衔接Wise和盈透证券，港美股出入金优质通道。
+- [没有手机号如何注册Line？注册LINE需要手机号？无法注册LINE？电脑端无法登录LINE？阉割版LINE无法添加好友、创建群组、发送消息？](../articles/line-register.md)：随着跨境电商市场的蓬勃发展，有效的客户沟通途径成为商家们关注的焦点。LINE，这一流行于亚洲的即时通讯工具，已逐渐成为与海外买家建立联系的重要平台。了解如何在国内注册LINE账号对于那些需要依靠社交媒体平台获客的卖家来说很重要，下面将教大家如何注册LINE。
+- [Manus全网最全资料 Manus邀请码申请手把手教程（持续更新中，收藏这一个就够了），多个网盘资源。](../articles/manus-knowledge.md)：本教程详解Manus AI全平台资料的获取方式，包含持续更新的技术白皮书、实战教程、券商研报等核心资源，提供最新邀请码申请全流程指引，助您快速掌握AI代理开发与行业应用。教程附夸克网盘资源下载地址，涵盖智能体开发全生命周期文档。
+- [微信群永久二维码生成工具指南 | 2025最新版](../articles/qrcode-generate.md)：本文详细介绍如何利用Cloudflare Workers和KV存储开发无需服务器的微信群永久二维码生成工具，支持自定义样式、密码保护和实时更新，包含完整部署教程和功能扩展建议，帮助开发者快速构建稳定的社群管理工具。
+- [个人Stripe信用卡？有无香港卡都可，2025 保姆级教程来啦！💳](../articles/stripe-account-register.md)：还在羡慕别人用Stripe信用卡丝滑支付？还在为没有香港卡而发愁？别担心！本文为你带来最全Stripe信用卡申请攻略，无论有没有香港卡，都能轻松搞定！更有视频教程加持，小白也能秒变老司机！
+- [🚀 完美内网穿透方案！Tailscale 私人网络搭建保姆级教程 | 白嫖国内 DERP 到自建节点一次讲透](../articles/tailscale-private-network-tutorial.md)：从零介绍使用 Tailscale 连接家庭与工作设备的私有网络方案，包含基础组网、国内 DERP 选择、自建节点和连通性验证。
+- [【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器](../articles/tutorial-claude-code-happy-coder-cc.md)：分享开源项目 Happy Coder，让你用手机远程控制电脑上的 Claude Code，支持全链路 E2EE 加密，无需公网 IP
+- [【零基础教程】系统了解DNS查询全过程：从根域到权威，详解DNS工作原理与安全防篡改！](../articles/tutorial-dns-det-ai-l.md)：这期视频带你零基础系统全面地了解DNS域名系统的查询全过程，从根域到权威详解DNS工作原理与安全防篡改
+- [【全网最全】推特创作者身份认证与收益开通：零基础实操教程 | 开启内容变现，附推特运营吸粉全攻略！](../articles/twitter-creator-verification-revenue-setup-tutorial.md)：想通过内容创作赚钱，却卡在认证和变现的第一步？这期视频是为你准备的终极指南！我们不仅会一步步带你搞定创作者身份认证和收益开通的全流程，还特别附带了普通人推特从零到一运营吸粉的实操经验分享。一次性把所有卡点讲透，让你真正开启内容变现之路！
+- [想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](../articles/us-itin-tax-number-apply-guide.md)：详细教程：想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)，涵盖跨境支付等知识点
+- [💎 你的US.KG域名还能抢回来！ 免费注册，教程来了！](../articles/us.kg-domain-callbak.md)：介绍原 US.KG 域名持有者申请恢复域名的资格条件、KYC Key 获取方式、官方联系渠道和提交前需要核对的限制。
+- [🔥2026最新窗口期0开卡0月租！德国沃达丰eSIM申请全攻略：国产手机秒变eSIM手机，掌握Wise与N26双重入账保号，每年仅需1元 手把手喂饭教程](../articles/vodafone-esim-wise-n26-guide.md)：2026最新德国沃达丰eSIM申请全攻略：0开卡费0月租，每年保号仅需约1元。详细演示Wise手动入账和N26自动定时转账两种保号方式，国行手机配合XeSIM写卡器也可使用，保姆级图文教程。
+- [2025永久免费节点！会用Google搜索即可获取，支持v2ray、Clash、ShadowRocket、Surge、Trojan，全平台可用#翻墙](../articles/vpn-free.md)：详细教程：2025永久免费节点！会用Google搜索即可获取，支持v2ray、Clash、ShadowRocket、Surge、Trojan，全平台可用#翻墙
+- [从购买服务器到自建节点的全流程保姆级教程](../articles/vps-tutorial-self-hosted-proxy.md)：从服务器选购到节点搭建的全流程保姆级教程，涵盖线路选择、IP质量、安全加固、节点搭建、中转分流等内容。
+- [macOS 微信最新版本(4.0.6.240版)双开及N开教程，主打免安装&原生&安全&可升级](../articles/wechat-dual-open.md)：本文详细介绍了在macOS系统上实现微信(4.0.6.240版)双开的方法，通过复制微信程序、修改唯一标识符、重新签名等步骤，让你轻松拥有多个微信账号，工作生活互不干扰。同时提供了打包命令教程，方便快捷地启动微信分身。适用于需要同时管理多个微信账号的用户。
+- [国内如何拥有一张海外银行卡？完美平替香港卡！Wise免出国极速开户全教程（身份证+国内手机号即可）](../articles/wise-mainland-phone-id-register-guide.md)：国内用户如何仅用身份证+大陆手机号完成 Wise 开户？本篇整理完整注册与 KYC 认证流程，覆盖跨境收款、海外账户与虚拟卡使用场景。

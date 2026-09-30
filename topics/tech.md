@@ -1,0 +1,144 @@
+# 技术
+
+本专题收录 140 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+
+- [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
+- [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
+- [14元/年买.com顶级域名！Google Workspace土耳其区薅羊毛教程续费同价](../articles/14-com-domain-google-workspace-tutorial.md)：介绍通过 Google Workspace 土耳其区购买和续费 .com 域名的操作流程、里拉计价方式、实际成本及需要注意的账户和支付条件。
+- [1583认证教程！Anytime Mailbox 在线公证手把手教学，护照+身份证翻译件搞定，25美元完成](../articles/1583-anytime-mailbox-25-tutorial.md)：🔗 本视频涉及资源： Anytime Mailbox（邀请链接，双方各得 10 美元亚马逊礼品卡）： 📚 系列往期： ITIN 申请教程： Tello 美国实体手机号： 第四期 租用美国私人地址： 家宽 IP（Webshare）： 完成这一期，你的美国收件地址就 fully ready 了
+- [2026最新！5分钟速创美区Apple ID教程 免绑卡0成本，App Store无验证码秒切账号！](../articles/20265apple-idtutorial-card0-app-store.md)：2026年最新5分钟速创美区Apple ID保姆级教程，全程0成本免绑卡，分享无验证码切换技巧及解决自动跳回国区Bug方案
+- [2026最新免费域名！免绑信用卡，初始给10年还可无限续期，手把手教你托管Cloudflare全流程](../articles/2026freedomaincard-10-cloudflare.md)：DNSHE免费域名注册教程，ccwu.cc后缀初始10年有效期可无限续期，手把手教你托管到Cloudflare，适合VPS面板、NAS远程访问、自建博客。
+- [3分钟解锁欧洲交易所！Neverless注册出入金全教程，0手续费+送20USD](../articles/3-neverless-register-0-20usd-tutorial.md)：介绍 Neverless 的账户注册、身份验证、入金、交易与出金流程，并提示奖励、费用、地区资格和监管信息需在操作前核对官方页面。
+- [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
+- [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](../articles/60-mac-vibe-coding-tutorial.md)：几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+- [微信群二维码7天过期？用这个开源免费工具生成永久二维码，无需服务器，3分钟搞定！](../articles/7-free-tools-server-3.md)：众所周知，微信群二维码只有 7天有效期，对于一些玩私域的朋友，稳住一个二维码使用完全没招，要么只能忍受，要么市面上有付费使用的，要么免费的总有弹窗广告来维持不变的二维码。
+- [论文去AI味神器！baibaiAIGC开源工具完整教程｜多轮降AIGC痕迹 支持docx和txt](../articles/ai-baibaiaigc-tools-aigc-docx-txt-tutorial.md)：介绍 baibaiAIGC 开源工具的安装、API 配置、模型选择、docx 与 txt 处理流程，并说明多轮改写、切块校验和常见报错排查。
+- [2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南](../articles/ai-beginner-guide.md)：🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新
+- [真香！AI订阅、支付卡，Bybit Card 国内身份证秒开，0开卡费，USDT 支付宝/微信随便刷](../articles/ai-payment-card-bybit-0-usdt.md)：中国身份证就能秒开虚拟卡 + 实体卡，支付宝、微信、Apple Pay 随便绑，日常买咖啡、付房租都能直接刷 [USDT]
+- [零基础用AI写浏览器自动化！手把手教你做注册机](../articles/ai-register.md)：面向零代码基础读者演示如何借助 AI 编写浏览器自动化注册脚本，包含需求拆解、元素定位、运行调试和失败处理方法。
+- [美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起](../articles/anytime-mailbox-9-tutorial.md)：「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址
+- [三方API登录下用手机远控Codex，手把手小白教程](../articles/api-mobile-codex-beginner-tutorial.md)：介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。
+- [海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题](../articles/app-register-tutorial.md)：本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题
+- [苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝"无法完成购买"！](../articles/appid-apple-gift-card-id-100-tutorial.md)：详细教程：苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝"无法完成购买"！
+- [【海外卡保号】海外 VoWiFi (Wi-Fi Calling) 开启全流程：iPhone、Android、代理规则](../articles/card-vowifi-wi-fi-calling--iphoneandroid.md)：本视频严格依据论坛指南，为您带来亲测有效的 VoWiFi 开启全流程教程。涵盖美国卡、英国卡、德国卡、香港卡等不同地区的开启方法，iPhone 和 Android 设备实操，以及 Surge/Clash 代理规则配置。
+- [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](../articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。
+- [ChatGPT Business 第三期｜澳大利亚48个月Team优惠码$17.8/月，4种支付含PayPal](../articles/chatgpt-business-48-team-17-8-4-payment-paypal.md)：本文介绍 ChatGPT Business 澳大利亚 Team 优惠的适用条件、价格与四种支付方式，并补充 PayPal 付款步骤和开通前核对事项。
+- [ChatGPT降智识别和解决方案 | 降智定义、检测方法和应对策略](../articles/chatgpt-downgrade.md)：深入解析ChatGPT降级现象的成因、检测方法和解决方案。包含完整的降级识别指南、性能测试方法、IP质量评估和账号恢复方案。提供多种实用工具和专业建议，帮助用户应对ChatGPT性能下降问题。详细介绍官方风控策略、API限制变化，并提供最新的解决方案和优化建议，确保您获得最佳的AI对话体验。
+- [免费领ChatGPT Business 2个月！美区优惠码+长连接脚本教程](../articles/chatgpt-free-business-2-tutorial.md)：免费ChatGPT 2个月 Business 领取 第二期，这次是美区，绑卡用SafePal或者bybit 免费领取ChatGPT Business 2个月
+- [Gmail搞免费GPT账户｜K12空间白嫖ChatGPT Plus全流程 喂饭级教程](../articles/chatgpt-gmail-free-gpt-k12-plus-tutorial.md)：多了登录gpt会报错，脚本中的空间ID现在人数人多，可以自己找最新的gmail的K12空间id，进行替换，linuxdo等很多站很多分享的
+- [2026最新！用Gopay只需5分钟开通ChatGPT Plus，只需接两次码](../articles/chatgpt-gopay-5-plus.md)：log("💰 Plan : ChatGPT Plus（尝试使用 IDR / 印尼盾）"); console
+- [48个月半价Team优惠码 一个人50人民币， 英国优惠码（可能是目前最低的），手把手保姆教程](../articles/chatgpt-team--15-1-50--48--promo.md)：本视频实测成功开通 ChatGPT Team 计划，实现目前已知最低价格：15.21/人月付，平均一人每个月50人民币，使用英国优惠码codestonegb获得48个月半价优惠
+- [ChatGPT Team 第五期！买一送一持续48个月，墨西哥18美刀+西班牙+哥伦比亚三国优惠码教程](../articles/chatgpt-team-48-18-tutorial.md)：📺 往期教程： • 第一期：ChatGPT Team 基础注册教程 • 第二期：土耳其/尼日利亚低价区教程 • 第三期：澳大利亚48个月Team优惠码+4种支付方法 • 第四期：英国优惠码半价Team教程 如有任何疑问或不会的操作，请查看前面四期视频教程
+- [YiKa虚拟卡实操攻略：一个邮箱开50张卡，无需KYC订阅ChatGPT和Claude](../articles/chatgpt-yika-virtual-card-50-kyc-claude.md)：想订阅个 ChatGPT Plus 或者 Claude Pro，想给自己的推特点个蓝标，或者开通 Telegram Premium 会员，最大的障碍往往不是那几十美金的费用，而是 你根本没有一张能付得出去的外币卡 。找不认识的人代充？怕黑卡封号；找中介？手续费贵得离谱。
+- [🚨你的硬盘被偷吃了？Chrome/Edge暗中下载4GB大模型！教你彻底关闭并删除本地AI【保姆级教程】](../articles/chrome-edge-delete-local-ai-model.md)：最近C盘空间莫名其妙少了几个G？罪魁祸首可能是Chrome或Edge浏览器！Google和微软正悄悄在后台下载接近4GB的本地AI模型，教你彻底删除和禁用。
+- [🚀一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效](../articles/chrome-gemini-ai-win-mac-shorts.md)：详细教程：一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效
+- [Clash配置文件详解｜从零搞懂DNS、策略组、分流规则附实战](../articles/clash-config-detail-dns.md)：逐项解析 Clash 配置文件中的 mixed-port、mode、DNS、策略组和分流规则，并结合示例说明常见配置错误与验证方法。
+- [2026最新！手机远程控制Claude Code：Happy安装配置全教程](../articles/claude-code-happy-mobile-remote-control-tutorial.md)：Happy 安装配置教程：用手机远程控制 Claude Code，覆盖安装配对、会话管理、国内网络问题和自建中继。
+- [【Claude Code 小白教程-第3期】打工人提效神器！文案生成、文档批量处理与 Excel 数据自动化实战全攻略！](../articles/claude-code-tutorial-3and-excel.md)：Claude Code 零基础小白教程第3期，手把手教你文案生成、文档批量处理、Excel数据分析与图表生成，打工人提效神器实战全攻略
+- [【Claude Code 小白教程-第4期】从入门到大神！高阶提示词技巧、培养编程思维与打造专属AI自动化工作流！](../articles/claude-code-tutorial-4-advanced-workflow.md)：Claude Code 零基础小白教程第4期高阶进阶篇，教你提示词技巧、编程思维、自定义自动化工作流与AI知识库构建
+- [白嫖Claude Opus 4.7/4.8！Devin注册送$230额度，手慢无！](../articles/claude-opus-4-7-8-devin-register-230.md)：如果你想用本地ide的方式或者之类的可以关联 windsurf 使用但是必须要绑卡才能使用高级模型（包括14天免费试用） 如果不想绑卡，可以直接把代码和文档上传到 Github 直接 通过 Devin 云端用（在web直接处理） 注册结束
+- [0元白嫖两个顶级域名！.bond/.cyou首年免费+Cloudflare托管保姆级教程](../articles/cloudflare-0-domain-bond-cyou-free-step-tutorial.md)：还支持自定义NS，可无缝接入Cloudflare托管，免费域名+免费CDN+免费SSL一起打通，个人项目上线基本0成本
+- [只需1分钟注册永久免费域名！有邮箱即可，不需绑卡，1个邮箱可得到2个域名，且可托管Cloudflare](../articles/cloudflare-1-register-free-domain-card-2.md)：Cloudflare 临时邮箱搭建教程，覆盖域名托管、邮件路由、D1、KV、Workers、Pages 部署和常见配置。
+- [2FA密钥自己管！部署在Cloudflare Workers上的免费自托管验证器](../articles/cloudflare-2fa-deploy-workers-free.md)：2FA密钥管理器，部署在Cloudflare Workers上，免费自托管，AES-GCM加密，支持20+格式互导
+- [部署在 Cloudflare Workers 上的免费自托管 2FA 管理器，支持 20+ 格式互导](../articles/cloudflare-deploy-workers-free-2fa-20.md)：这个开源项目让你用 Cloudflare Workers 免费自托管 2FA 管理器，零成本、数据完全自主可控
+- [🔥零成本5分钟搞定！Cloudflare Tunnel + Docker容器化搭建长期稳定节点 手把手喂饭教程](../articles/cloudflare-tunnel-docker-tutorial.md)：详细教程：零成本5分钟搞定！Cloudflare Tunnel + Docker容器化搭建长期稳定节点 手把手喂饭教程，涵盖视频教程等知识点
+- [零基础 Cloudflare 优选教程｜网站速度翻倍提升](../articles/cloudflare-tutorial.md)：面向零基础读者介绍 Cloudflare 优选 IP 的原理、测速筛选、线路配置和结果验证，重点说明不同运营商的延迟与丢包差异。
+- [Codex CLI 免费接入 DeepSeek！CC Switch 本地路由三步搞定](../articles/codex-cli-free-deepseek-cc-switch.md)：1:15721） 3️⃣ 切换供应商，重启 Codex（即可使用 DeepSeek V4 Flash 等模型） 整个过程对 Codex 完全透明，API Key 保存在 CC Switch 里不暴露给 Codex 配置文件，安全又方便
+- [Codex 申请免费 Plus 正确姿势：从域名申请到免费订阅全流程教学](../articles/codex-free-plus-complete-tutorial.md)：小白也能上！本视频带来最详尽的 Codex 申请免费 Plus 全流程教学，手把手教你如何通过正确姿势获取免费订阅。从域名申请、企业邮箱设置、模拟器配置到 VPN 使用，完整覆盖所有步骤。
+- [【新鲜出炉】无限量白嫖 Codex GPT-5.4 模型！全自动批量注册 Chrome 插件教程，只需配置 CPA，高效率 0 手工！](../articles/codex-gpt54-auto-register-chrome-extension.md)：手把手教你无限量白嫖 Codex GPT-5.4 账号，利用 Chrome 自动化插件，只需简单配置 CPA，实现全自动批量注册，零门槛高效率。
+- [解释及澄清关于DeepSeek的最近几个传闻](../articles/deepseek-20250208.md)：深入解析关于DeepSeek的六大关键传闻，包括GPU数量、训练成本、数据来源、计算需求等热点问题。基于最新行业数据和专业分析，为读者揭示真相，提供准确可靠的技术洞察。本文将帮助你全面了解DeepSeek的发展现状和未来趋势。
+- [DeepSeek放出一头黑鲸！同一个模型干活成本差4倍，答案全在模型外面](../articles/deepseek-4.md)：本期拆解DeepSeek Harness黑鲸开源智能体运行系统：一切皆插件架构、四种运行模式、Composio实测同一模型成本差4倍、MIT协议可自部署。
+- [测试你的电脑能跑多大的DeepSeek模型 | 硬件配置检测工具](../articles/deepseek-test-gpu.md)：专业的DeepSeek模型硬件配置检测工具，支持Windows、Mac和Linux系统。快速评估您的设备是否适合运行DeepSeek大语言模型，提供详细的性能报告和优化建议。包含完整的硬件要求说明和性能提升指南，助您轻松部署AI模型。
+- [菲律宾DITO eSIM手把手教程！每年0.6元人民币低成本保号，微信支付+大陆漫游](../articles/dito-esim-0-6-payment-tutorial.md)：菲律宾 DITO eSIM 全流程教程：中国电信参股的菲律宾第三大运营商，89 比索（约10元）开卡，之后每年充 5 比索（约 0
+- [小白手把手自建纯净家宽节点+中转站全流程：DMIT配合VIRCS部署CPA，彻底解决AI风控！](../articles/dmitvircsdeploycpa-ai.md)：基于"第一性原理"构建的自建纯净家宽节点与中转站完整流水线教程 由于当前各大 AI 模型（如 Claude、ChatGPT 等）风控日益严格，普通机场 IP 经常面临降智、封号或频繁弹验证码的问题
+- [Deepseek官网报错解决方案2025，一篮子解决方案，持续更新中 | 完整教程，含多个满血版R1推理模型三方服务](../articles/ds-option.md)：全面解决Deepseek官网报错问题的一篮子解决方案，包括本地部署、第三方服务和云端部署等多种方案。提供最新的满血版R1推理模型三方服务列表，详细的故障排除指南和性能优化建议。持续更新的完整教程，助您享受流畅的AI对话体验。
+- [🔥 2026最新白嫖神器！0成本注册美国edu教育邮箱手把手喂饭级教程](../articles/edu-email-register-2026.md)：介绍申请美国 .edu 教育邮箱的材料准备、注册步骤、验证流程和常见失败原因，并提醒资格与可用权益可能随学校政策变化。
+- [eSIM卡怎么选？9eSIM vs XeSIM vs eSTK 全面对比评测](../articles/esim-card-9esim-vs-xesim-estk-compare-review.md)：9eSIM、XeSIM、eSTK三款eSIM产品全面对比评测！从内存容量、价格、苹果安卓兼容性、隐私安全等维度详细分析，帮你选出最适合自己的eSIM卡。国产手机也能秒变eSIM手机！
+- [eSIM卡免手机保号收发短信！几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程](../articles/esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial.md)：几十块的大疆4G模块硬件底子是移远 EG25-G，本教程教你用 AT 指令把 USB 身份永久改写为移远 EC25，并在 Mac 上用 UTM 一键部署 VoHive，实现 eSIM 免手机保号收发短信。
+- [英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程](../articles/esim-free-card-tutorial.md)：介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。
+- [不支持eSIM的国产手机，白嫖法国USIMS永久免费流量教程](../articles/esim-mobile-usims-free-tutorial.md)：法国 USIMS 这款应用，实测能领到「1G 高速 + 用完无限 128kbps」的永久免费流量，而且你的手机不需要原生支持 eSIM——先用模块把手机伪装成支持 eSIM，再通过虚拟框架把应用装进去，就能拿到 eSIM 二维码，扫进小白卡正常使用
+- [文件夹加密保护指南2025：保护您的敏感数据安全 | 完整教程](../articles/folder-enp.md)：详细介绍如何使用各种工具和方法对文件夹进行加密保护，确保您的敏感数据安全。包含Windows、Mac和Linux系统的加密方案，以及最佳实践建议。
+- [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
+- [薅羊毛新姿势！DNSHE 永久免费域名申请和cloudflare 手把手接入教程](../articles/free-domain-d53.md)：还在为域名费用发愁？DNSHE为全球开发者、学生和开源爱好者提供免费域名服务，无需信用卡，支持全类型DNS记录解析，让你的项目即时上线。本文详细讲解如何利用DNSHE免费注册域名，并手把手教你将其无缝集成到Cloudflare，享受CDN加速和安全防护。快速搭建你的个人网站、博客或开源项目，彻底告别高昂的域名和托管费用
+- [2026最新免费.edu教育邮箱！帕克大学申请保姆教程，手慢无](../articles/free-edu-apply-tutorial.md)：整理帕克大学 .edu 教育邮箱的申请入口、资料填写、邮箱激活和结果验证步骤，并提示活动资格与开放状态可能随时调整。
+- [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
+- [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
+- [限时免费获取沃达丰英国手机号！不需KYC，手把手保姆教程，手慢无](../articles/free-mobile-kyc-tutorial.md)：介绍 Vodafone UK 限时手机号活动的申请条件、页面操作、金额确认、邮件激活和结果验证，并提示地区、资格与活动时效限制。
+- [免费白嫖Super Grok一年会员全流程保姆级教程！Amazon Pay上车亲测有效](../articles/free-super-grok-tutorial-amazon-pay.md)：Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟信用卡白嫖SuperGrok一年会员，亲测有效。
+- [🔥GCP谷歌云永久免费新玩法（三）！开通及部署一键脚本，实战操练课程（小白喂饭级）](../articles/gcp-free-vps-cdn-bypass-part3.md)：这篇文章整理了 GCP 谷歌云永久免费系列第三期的完整实操内容，包括 CDN 扣费原理、节点部署、dae 分流、代理链路、防火墙配置和相关资源链接。
+- [🔥GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级](../articles/gcpfreedeploy-config.md)：详细教程：GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级，涵盖视频教程等知识点
+- [🔥GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级](../articles/gcpfreedeploydeploytest-20260222-141058.md)：详细教程：GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级，涵盖视频教程等知识点
+- [Gemini Pro掉权益别慌！SheerID认证申诉全流程手把手教程](../articles/gemini-pro-sheerid-tutorial.md)：介绍 Gemini Pro 学生权益失效后的 SheerID 重新认证与申诉流程，包含材料准备、提交步骤、结果确认和常见失败原因。
+- [Giffgaff 退款教程！5天内10英镑到账，附退款申诉邮件模板](../articles/giffgaff-5-10-tutorial.md)：介绍 Giffgaff 停用账号或不再使用服务时申请余额退款的条件、操作步骤和英文申诉模板，并说明处理时间与到账验证方法。
+- [GiffGaff携号转网及申请余额退款全流程手把手教程VOXI/CTExcel双方案](../articles/giffgaff-apply-voxi-ctexcel-tutorial.md)：本视频手把手教你完整携号转网流程，从获取PAC码到转入VOXI或CTExcel UK，再到申请退还GiffGaff账户余额，每一步都有实操演示
+- [🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址](../articles/giffgaff-card-1-0-5-tutorial-free.md)：本视频详细介绍🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址，帮助你快速了解和掌握相关知识点。
+- [Giffgaff封号退款维权终极指南｜英国Ombudsman仲裁，倒逼官方退钱！](../articles/giffgaff-guide-ombudsman.md)：介绍 Giffgaff 封号或退款争议升级至英国 Communications Ombudsman 的完整流程，包含 deadlock letter 申请、证据整理和申诉模板。
+- [Giffgaff封号不要慌！携号转网Lebara 一年不到20元保住英国号手把手喂饭教程](../articles/giffgaff-lebara-20-tutorial.md)：本视频手把手教你把英国号携号转网到Lebara，一年保号成本不到20元人民币。包含适用条件、操作步骤、结果验证和常见问题。
+- [Giffgaff 封号退款被拒？余额捐慈善 + 向 Ofcom 投诉全攻略第四期](../articles/giffgaff-ofcom.md)：Giffgaff 封号退款被拒？余额被捐慈善？教你向 Ofcom 投诉拿回余额的完整流程：携号转网、申诉邮件模板、Ombudsman 仲裁实战全攻略。
+- [giffgaff英国SIM卡激活+转eSIM完整教程｜手把手教你保号神卡](../articles/giffgaff-sim-card-esim-tutorial.md)：介绍 Giffgaff 英国 SIM 卡从激活、充值、套餐选择到转换 eSIM 的完整流程，并说明设备兼容、保号、漫游和使用限制。
+- [Giffgaff携号转网VOXI教程：无需WiFi Calling，国行安卓也能轻松搞定第六期](../articles/giffgaff-voxi-wifi-calling-tutorial.md)：本期教你从Giffgaff携号转网到英国沃达丰VOXI，全程无需WiFi Calling，国行安卓使用Xesim激活eSIM，手把手APN设置教程
+- [Giffgaff最新Wi-Fi Calling开启教程｜国内激活免漫游费，保号成本降低3倍](../articles/giffgaff-wi-fi-calling-3-tutorial.md)：1磅，充值10英镑有20年保号，立马变成60年保号 这期，我们将Giffgaff最新开启Wi-Fi Calling教程，开启后让您的使用成本变得更低，保号成本降低3倍，开卡10欧，由20年保号变为保号60年 1
+- [GitHub学生认证10分钟速通教程｜免费领Pro包年+AI工具](../articles/github-10-free-pro-ai-tools-tutorial.md)：演示 GitHub Student 学生认证的材料准备、网络与设备配合、提交和复核流程，以及认证后领取 Pro 和开发者工具权益的方法。
+- [Google Gemini Pixel一年Pro免费领取，手把手教程](../articles/google-gemini-pixel-pro-free-tutorial.md)：介绍通过符合条件的 Google Pixel 权益领取一年 Gemini Pro 的验证入口、操作步骤和订阅确认方法，并说明资格与地区限制。
+- [GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！](../articles/gpt-business-48.md)：GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！教程，整理核心步骤、配置方法、常见问题和参考链接。
+- [GPT Plus太贵？教你用土区礼品卡超低价订阅！国内手机号可注册，无需海外信用卡（附3大购卡渠道对比）](../articles/gpt-plus-turkey-apple-gift-card-tutorial.md)：最近ChatGPT Plus特惠途径几乎覆没，美区20美元有些小贵？本教程教你通过土耳其区Apple ID+礼品卡方式，只需约78元人民币轻松订阅GPT Plus！零门槛，国内手机号即可注册，部分渠道直接支持支付宝付款，无需海外信用卡。
+- [纯干货：独立开发者|独立小团队如何在一周内搞定所有的资质开始在App Store/Steam/Stripe收款](../articles/indie-dev-payment.md)：详细指导独立开发者和小团队如何快速高效地完成公司注册、银行开户、邓白氏申请等流程，一周内搞定 App Store、Steam 和 Stripe 收款资质，助你快速开始创业之路。
+- [推荐几个折腾常用的检查IP各种属性的网站，包括检测住宅IP、检查延迟、路由信息、伪装检测等](../articles/ip-check-dns.md)：推荐常用的IP检查工具网站，支持检测住宅IP、延迟、路由信息、伪装、风险值等多种属性，帮助您全面分析IP情况。
+- [机场前置+落地家宽住宅IP链式代理搭建教程｜Clash Verge与V2rayN配置指南](../articles/ip-clash-verge-v2rayn-config-guide-tutorial.md)：实测对比：V2rayN比Clash Verge Rev更稳定 前置节点负责提供稳定低延迟的国际出口通道，落地节点负责提供原生干净的最终出口IP
+- [国行iPhone秒变eSIM！Xesim卡手把手喂饭教程，出国留学旅行必备](../articles/iphone-esim-xesim-card-tutorial.md)：介绍国行 iPhone 使用 Xesim 实体载体管理 eSIM 的准备条件、写卡、套餐下载和切换流程，并说明兼容机型与出行使用限制。
+- [ITIN申请美国信用卡！Capital One 免年费卡手把手教程，PayPal还款Wise全流程](../articles/itin-apply-card-capital-one-paypal-wise-tutorial.md)：「成为美国云居民」系列第六期：用 ITIN 申请 Capital One 免年费信用卡，手把手覆盖预申请、正式申请、电话开卡、PayPal 绑定 Wise 还款全流程
+- [剪映破解绿色版：全面解析与使用指南 | 技术教程](../articles/jianying.md)：详细介绍剪映破解绿色版的功能、使用方法及注意事项，帮助用户安全合法地使用软件，包含下载链接、安装步骤和详细教程。
+- [KiteSim免实名实体手机号教程：美国/加拿大/英国号码+接码+保号+eSIM流量一站式开通](../articles/kitesim-mobile-esim-tutorial.md)：KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开通美国、加拿大、英国独享实体号码，号码干净不触发风控，支持长期续费保号、随时接收短信验证码，注册海外服务更安全
+- [Mac微信多开教程｜一键脚本实现双开到多开，支持Telegram、WhatsApp等所有APP](../articles/mac-telegram-whatsapp-app-tutorial.md)：Mac上实现微信双开到多开的完整教程，使用终端命令复制程序、修改标识符、重新签名，配合Automator打包成一键启动应用。支持微信、Telegram、WhatsApp等所有Mac APP多开，无需第三方软件，可升级、纯原生。
+- [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](../articles/maya-free-savings-visa-card-tutorial.md)：菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器
+- [MCP支持流式HTTP传输协议解析：构建下一代无状态服务架构](../articles/mcp-http-sse-update.md)：深入解析Model Context Protocol最新引入的可流式HTTP传输机制，详解其如何通过改进SSE实现无状态服务架构，对比WebSocket方案的技术选型考量，并给出三种典型服务器实现场景的工程实践方案。全文包含协议演进动机、技术优势解读及实际应用场景演示。
+- [美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](../articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md)：几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。
+- [国内任意手机免费使用eSIM！BeeSIM蓝牙读写+Saily美国实体号月租0.99美元完整教程](../articles/mobile-free-usage-esim-beesim-saily-0-99-tutorial.md)：介绍普通手机通过 BeeSIM 蓝牙读写器使用 eSIM，并演示 Saily 美国手机号套餐的开通、写入、保号和费用核对流程。
+- [苹果手机iOS定位修改到世界任何地方｜Shadowrocket小火箭保姆级教程 无需越狱](../articles/mobile-ios-shadowrocket-step-by-tutorial.md)：本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方， 无需越狱、无需电脑、无需开发者账号 。跟着一步步做即可。
+- [零成本保号美国实体手机号！Talkatone注册教程及虚拟号检测方法](../articles/mobile-talkatone-register-virtual-tutorial.md)：手把手演示 Talkatone 注册美国手机号的准备条件、下载安装、网络环境和号码检测方法，并说明保号与虚拟号识别注意事项。
+- [你有足球热吗？德国N26免费领5张足球虚拟卡！共6张永久卡号，手把手教程](../articles/n26-free-5-virtual-card-6-tutorial.md)：介绍 N26 足球主题虚拟卡活动的领取条件和操作步骤，并补充开户后地址设置、ATM 取现及日常消费费用的核对方法。
+- [如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程](../articles/ollama-gguf.md)：详细教程：如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程，涵盖LLM、AI工具、本地部署等知识点
+- [PairDrop使用指南2025：免费无需安装的跨平台文件传输神器 | 附其他工具推荐](../articles/online-share-tool.md)：精选2025年最实用的在线文件分享工具，支持大文件传输、临时存储和加密分享等多种功能。包含详细的平台对比、速度测试报告和安全性评估。提供不同场景下的最佳工具推荐，包括商业应用和个人使用建议。特别关注数据安全和隐私保护，助你安全高效地完成文件分享任务。
+- [OpenAI GPT Pro 5x 怎么买最省钱？5大渠道全对比｜官方 vs 低价代充终极指南](../articles/openai-gpt-pro-5x-5-compare-vs-guide.md)：既然都要花 ¥700+，不如自己花 10 分钟用 PockytShop 充 ¥685，零中间商零风险 GPT Pro 5x 到底怎么买最划算
+- [用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！🤖](../articles/openclaw-ai-youmind.md)：详细教程：用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！，涵盖视频教程等知识点
+- [🔥 OpenClaw火力，利用TG Topics实现多任务高并发：任务同时下发，告别AI反应慢 小白喂饭级配置](../articles/openclaw-tg-topics--ai-config.md)：本期视频解决OpenClaw最大的痛点：AI反应慢卡住后续任务。想同时安排十件事？用Telegram Topics功能开启OpenClaw的"多线程并发"模式，让一个群变成你的千军万马指挥部。
+- [甲骨文云永久免费VPS成功申请指南 | 详细资源配置与步骤解析](../articles/oracle-vps.md)：2025年最新Oracle Cloud免费服务器申请教程，包含完整的注册流程、信用卡绑定技巧和服务器配置指南。详细介绍如何避免常见的审核问题，优化服务器性能，配置安全组和网络设置。提供多地区服务器测评、性能对比和使用建议，帮助你最大化利用Oracle免费服务器资源，打造自己的云端服务。
+- [2026护照办理全流程揭秘：只需跑一次，120元搞定！海外生活、留学、开户必备身份证明](../articles/passport-2026-process-guide.md)：2026护照办理最新流程详解，覆盖预约、材料、费用、领取与海外开户/eSIM应用场景，附完整实操截图与视频说明。
+- [PayPal无卡开通GPT Plus全流程教程｜无需信用卡｜2026最新方法](../articles/paypal-card-gpt-plus-tutorial.md)：介绍无需信用卡、通过 PayPal 开通 ChatGPT Plus 的完整流程，重点说明试用资格检查、账号准备、支付绑定和失败排查。
+- [玩转香港PokePay虚拟卡：申请开卡、充值全攻略+返现活动  零成本开卡教程](../articles/pokepay-virtual-card-apply-tutorial.md)：本视频详细演示PokePay虚拟卡的注册、KYC身份认证、USDT充值、开卡、实体卡申请及绑定支付宝/微信全流程
+- [重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持](../articles/qqbot-openclaw-official-api-tutorial.md)：这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。
+- [【资源运营神器Skills】完全开源，夸克网盘+GitHub一条龙全自动发布工具 (v1.2.0)！转存、归类、TG通知、站点更新一键搞定！手把手小白教程：从转存到发布全流程](../articles/quark-github-auto-publisher-skills-v1-2-0.md)：夸克网盘+GitHub一条龙自动化发布工具 v1.2.0：批量转存、自动归类、多仓库落盘、Telegram 通知、触发站点构建，手把手小白教程。
+- [注册苹果美区Apple ID帐号完整指南2025 | 无需信用卡](../articles/register-iosid-foreign.md)：2025最新苹果美区Apple ID注册教程，无需信用卡，详细图文步骤教你如何注册美区App Store账号，包含防封号技巧及应用购买指南。
+- [只需身份证！Roogoo Card 开卡充值消费全流程手把手教程，绑定支付宝微信畅享全球消费](../articles/roogoo-card-payment-tutorial.md)：手把手介绍 Roogoo Card 的身份证验证、开卡、稳定币充值、消费与账单检查流程，并说明绑定支付宝和微信前的注意事项。
+- [企业微信免Root虚拟定位打卡！0成本安卓手机100%成功教程](../articles/root-virtual-card-0-mobile-100-tutorial.md)：介绍基于 Android 调试 API 与地图定位 SDK 的免 Root 定位工具，涵盖安装、权限、位置选择、摇杆控制和结果验证。
+- [2026国内护照开SafePal万事达卡｜保姆级注册教程](../articles/safepal-card-register-tutorial.md)：介绍使用中国护照申请 SafePal 万事达卡的准备材料、App 注册、身份验证、开卡和消费流程，并提示活动、邮费及支付手续费。
+- [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](../articles/safepal-gpt-wise-bank-card-tutorial.md)：这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示
+- [OpenAI CEO Sam Altman：三点观察解析 | AGI时代与AI经济学](../articles/sam-altman-three-observations.md)：OpenAI CEO Sam Altman在最新博文中探讨了AGI时代和AI经济学的三大观察，分析了人工智能对社会经济的深远影响。本文详细解析了这些观察的意义，并探讨了未来可能带来的变化。
+- [Shadowrocket更新Tailscale！代理和内网穿透终于能同时用了](../articles/shadowrocket-tailscale.md)：介绍 Shadowrocket 集成 Tailscale 后如何配置 Auth Key，让代理与内网穿透同时运行，并验证文件共享、SSH 和远程桌面连接。
+- [Shadowsocks 完全指南：从零开始掌握科学上网核心工具小白必看](../articles/shadowsocks-guide-vpn-tools.md)：从零解释 Shadowsocks 的工作方式、与传统 VPN 的差异、常用客户端和基础配置流程，并整理连接验证与常见故障排查。
+- [对决MCP的SLOP协议：以HTTP为核心的下一代AI协作框架 | 2025完全指南](../articles/slop-introduce.md)：深度解析SLOP协议的设计理念与技术架构，揭秘其如何通过HTTP标准化接口实现AI工具的互联互通。包含GitHub开源项目地址、开发者快速接入指南以及与传统MCP协议的对比分析，助您掌握未来AI协作新范式。
+- [Sound Guard：Mac 长时间无声自动归零音量，避免突然外放的开源工具](../articles/sound-guard-mac.md)：Sound Guard 是一款开源 macOS 菜单栏音量保护工具：设备长时间没有播放活动时自动将输出音量归零，并通过设备白名单、保守检测和确认式恢复降低突然外放风险。
+- [Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程](../articles/telegram-register-tutorial-0-5-ip-shorts.md)：详细教程：Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程
+- [Telegram登录要收SMS费？5种方法免费绕过，亲测有效！](../articles/telegram-sms-5-free.md)：这个情况好像是官方今年8月份新出的政策公布就出现了，正常情况下，你输入的手机号如果它的地区是亚洲部分国家（不光只是东大）还有英国的手机号（我也试了）去注册，极大概率都会跳付费请求。
+- [Telegram登录要付费？SMS Fee免费跳过方法大全](../articles/telegram-sms-fee-free.md)：整理 Telegram 登录时出现 SMS Fee 的常见原因和可尝试的免费处理方式，包含设备切换、已有会话验证及失败条件说明。
+- [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
+- [最新无需VPS，0成本搭建无限流量科学上网节点：4K秒开、节点无限生成 小白1分钟喂饭级教程](../articles/vps-0-4k-1tutorial.md)：本视频介绍一种无需购买VPS服务器即可搭建科学上网节点的方法，适合预算有限但需要稳定网络环境的用户。
+- [永久免费VPS！Oracle甲骨文云账户申请开通完整教程，2C12G服务器白嫖到手！](../articles/vps-free-oracle-apply-2c12g-server-tutorial.md)：甲骨文云Oracle Cloud免费VPS申请完整教程，从注册到开通2C12G服务器，手把手教你白嫖永久免费云主机
+- [VPS IP质量检测完全指南：从小白到精通的实用教程](../articles/vps-ip-guide-tutorial.md)：系统介绍 VPS IP 质量的判断维度、常用检测工具和结果解读方法，帮助排查信誉、解锁、邮件、风控和网络连通性问题。
+- [KataBump免费容器搭建科学上网节点｜法国VPS 0成本｜手把手保姆级教程](../articles/vps-katabump-free-vpn-0-step-by-tutorial.md)：介绍 KataBump 法国免费容器的申请、续期、节点部署和连接验证流程，并说明资源配额、四天续期要求及稳定性限制。
+- [VPS安全加固完全指南：7招让你的服务器固若金汤](../articles/vps-security-hardening-skill-tutorial.md)：VPS安全加固7大核心策略详解，涵盖禁用Root登录、SSH密钥认证、Fail2ban防爆破、UFW防火墙、Docker安全配置，附一键自动化加固脚本
+- [嘉信券商开户教程｜全套大陆资料手把手教学，身份证即可开户，W-8BEN签署全流程](../articles/w-8ben-tutorial.md)：介绍使用中国大陆资料申请嘉信券商账户的准备材料、开户步骤和 W-8BEN 签署流程，并提示资格、税务和费用信息需以官方为准。
+- [嘉信证券W8-BEN填错补救教程，税率从24%降回10%，手把手填写上传](../articles/w8-ben-24-10-tutorial.md)：这是嘉信证券W8-BEN系列第二期教程。第一期请见：【海外投资】嘉信券商开户教程第一期｜全套大陆资料手把手教学，身份证即可开户，W-8BEN签署全流程
+- [WatermarkFlow：Mac 剪贴板图片一键加水印，开源原生批量平铺工具](../articles/watermark-flow-mac.md)：WatermarkFlow 是开源原生 macOS 水印工具，支持剪贴板、拖放与文件导入，提供文字、Logo、单个和满屏平铺水印、自动对比、模板及全局快捷键。
+- [WeChat Radar 微信群聊情报看板｜一键聚合群消息、话题、链接和趋势，本地运行零上传](../articles/wechat-radar.md)：介绍 WeChat Radar 本地优先的微信群聊情报看板，说明消息、话题、链接和高信号人物的聚合方式、技术栈、安装与数据边界。
+- [Window Layout Memory：Mac 切换单双屏后自动恢复窗口位置的开源工具](../articles/window-layout-memory.md)：Window Layout Memory 是开源 macOS 窗口布局记忆工具，可按显示器组合保存窗口大小、位置和归属，并通过保守匹配、候选确认、历史回退与例外规则降低误恢复风险。
+- [Windows 一键部署 Hermes AI Agent 小白也能玩转 NousResearch 大模型！](../articles/windows-deploy-hermes-ai-agent.md)：想在 Windows 上体验强大的 NousResearch Hermes AI Agent，却被 WSL2 和复杂的环境配置劝退
+- [Windows电脑安装macOS系统完整教程，免费使用Mac专属AI软件VMware虚拟机手把手教学](../articles/windows-desktop-macos-free-mac-ai-vmware-tutorial.md)：介绍在 Windows 电脑中使用 VMware 安装 macOS 的准备条件、虚拟机配置、系统安装和常见故障排查，用于体验 Mac 专属软件。
+- [Windows免费安装激活Office全套！无需购买激活码，5分钟搞定Word/Excel/PPT](../articles/windows-free-install-office-5-word-excel-ppt.md)：目前绝大多数的电脑出厂即自带了office正版软件（word、excel、powerpoint等）和激活码，买电脑时你已经付过激活码的钱了。但像一些性价比笔电和自组装机一般不会送office激活码，这时买激活码一套两三百又很贵，有没有什么办法让我们体验一下office呢？
+- [WorkBuddy 保姆级入门教程：从安装及注册到完成第一个游戏任务](../articles/workbuddy-beginner-install-register-tutorial.md)：面向新手介绍 WorkBuddy 桌面 AI 助理的下载安装、账号注册、基础配置和首个游戏任务执行流程，并说明权限与结果检查。
+- [全网首创！X(Twitter)互动加热全自动化众包平台 XRipple 详解](../articles/xtwitter-xripple-detail-shorts.md)：在 X(Twitter)这个信息流量场中，一条优质内容的传播效果往往取决于初期的互动热度。涟漪 XRipple 是全网首创的 X 互动众包平台，用完全自动化的技术方案解决冷启动问题。
+- [谷歌终于允许改邮箱了！但改之前必须知道的3个坑](../articles/youtube-Hy82RjFFnIs.md)：介绍 Google 账号修改登录邮箱的新能力、适用范围和操作入口，并说明修改前必须核对的三个限制、恢复方式与常见问题。
+- [YouTube视频创作与变现完全指南：从零开通AdSense到收益最大化](../articles/youtube-guide-adsense.md)：YouTube 由 Google 运营，因此创建 YouTube 频道的前提是拥有一个 Google 账号。如果你已有 Gmail，意味着你已有一个 Google 账号，可以直接用它创建 YouTube 频道。
+- [网络结构、VPN、代理到底啥区别？一篇讲透新手最容易混淆的联网逻辑](../articles/youtube-izpBS4FW6jM.md)：DNS 泄露、IPv6、UDP、规则匹配为什么会导致'网页能开、软件不能用' 如果你一直分不清 VPN 和代理，或者想真正看懂网络访问路径，这期会帮你建立一套不容易忘的底层认知
+- [澳门蚂蚁银行0元开户！内地居民5分钟线上开户，港美股+高息存款一站式搞定](../articles/youtube-lyRGZavzGl8.md)：今天给大家推荐澳门蚂蚁银行（Ant Bank Macau），蚂蚁集团在澳门的持牌数字银行，合规安全，是内地居民低成本开通境外账户的绝佳选择！
+- [Zo2API逆向代理：免费白嫖Claude Opus4.7和GPT5.5，支持工具调用](../articles/zo2api-free-claude-opus4-7-gpt5-5-tools.md)：介绍 Zo2API 逆向代理的部署、账号与模型配置、工具调用和额度验证流程，并提示第三方服务、绑卡、可用性和合规风险。

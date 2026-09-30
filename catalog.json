@@ -1,0 +1,4144 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-30T03:07:37.406Z",
+  "source": "https://869hr.uk",
+  "count": 220,
+  "articles": [
+    {
+      "id": "0-card-giffgaff-03-20-free-200",
+      "title": "0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年",
+      "description": "介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "英国手机卡",
+        "保号",
+        "海外手机号",
+        "0月租"
+      ],
+      "publishedAt": "2026-06-19T06:48:35.000Z",
+      "updatedAt": "2026-06-19T06:48:35.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/0-card-giffgaff-03-20-free-200/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/0-card-giffgaff-03-20-free-200.md",
+      "videoUrl": "https://www.youtube.com/watch?v=HcU0iXtOL80"
+    },
+    {
+      "id": "1-free-atomesus-prime-tutorial",
+      "title": "1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程",
+      "description": "手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Atomesus",
+        "Atomesus Prime",
+        "AI工具",
+        "AI图片生成",
+        "无限聊天"
+      ],
+      "publishedAt": "2026-06-22T10:54:01.000Z",
+      "updatedAt": "2026-06-22T10:54:01.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/1-free-atomesus-prime-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/1-free-atomesus-prime-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=brK8C8plsJU"
+    },
+    {
+      "id": "14-com-domain-google-workspace-tutorial",
+      "title": "14元/年买.com顶级域名！Google Workspace土耳其区薅羊毛教程续费同价",
+      "description": "介绍通过 Google Workspace 土耳其区购买和续费 .com 域名的操作流程、里拉计价方式、实际成本及需要注意的账户和支付条件。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Google Workspace",
+        "薅羊毛",
+        "域名注册",
+        "com域名",
+        "土耳其"
+      ],
+      "publishedAt": "2026-06-02T13:23:20.000Z",
+      "updatedAt": "2026-06-02T13:23:20.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/14-com-domain-google-workspace-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/14-com-domain-google-workspace-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=j3ZouCfNe4Y"
+    },
+    {
+      "id": "1583-anytime-mailbox-25-tutorial",
+      "title": "1583认证教程！Anytime Mailbox 在线公证手把手教学，护照+身份证翻译件搞定，25美元完成",
+      "description": "🔗 本视频涉及资源： Anytime Mailbox（邀请链接，双方各得 10 美元亚马逊礼品卡）： 📚 系列往期： ITIN 申请教程： Tello 美国实体手机号： 第四期 租用美国私人地址： 家宽 IP（Webshare）： 完成这一期，你的美国收件地址就 fully ready 了",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "1583认证",
+        "Anytime Mailbox",
+        "在线公证",
+        "美国私人地址",
+        "美国云居民"
+      ],
+      "publishedAt": "2026-09-25T10:36:52.000Z",
+      "updatedAt": "2026-09-25T10:36:52.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/1583-anytime-mailbox-25-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/1583-anytime-mailbox-25-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=QJzgy0_Xb4w"
+    },
+    {
+      "id": "2026-04-19-dns-leak-mihomo-tutorial",
+      "title": "为什么加了节点还是被查到？一篇文章带你彻底了解Mihomo DNS查询工作方式，解决DNS泄露",
+      "description": "本文深入讲解mihomo内核的DNS查询工作方式，详细分析Redir-host和Fake-IP两种DNS模式与SOCKS/HTTP和TUN两种入站方式的四种搭配下的DNS解析流程，找出DNS泄露的根本原因并给出完整的优化配置方案。适合零基础小白理解DNS泄露原理与防护。",
+      "category": [
+        "网络安全"
+      ],
+      "tags": [
+        "VPN",
+        "网络安全",
+        "软件安装"
+      ],
+      "publishedAt": "2026-04-19T10:00:00.000Z",
+      "updatedAt": "2026-04-19T10:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/uncategorized/2026-04-19-dns-leak-mihomo-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/2026-04-19-dns-leak-mihomo-tutorial.md",
+      "videoUrl": null
+    },
+    {
+      "id": "2026-05-10-cloudflare-temp-email-tutorial",
+      "title": "【2026最新】零成本自建Cloudflare临时邮箱！无限前缀域名邮箱，小白保姆级教程部署指南",
+      "description": "2026最新Cloudflare临时邮箱搭建教程，零成本自建域名邮箱，支持无限前缀，D1数据库+KV缓存+Workers+Pages，小白20分钟搞定",
+      "category": [
+        "视频教程"
+      ],
+      "tags": [
+        "教程",
+        "Cloudflare",
+        "开源项目",
+        "邮箱"
+      ],
+      "publishedAt": "2026-05-10T13:00:00.000Z",
+      "updatedAt": "2026-05-10T13:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/uncategorized/2026-05-10-cloudflare-temp-email-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/2026-05-10-cloudflare-temp-email-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Gf2c1TrqYuo"
+    },
+    {
+      "id": "20265apple-idtutorial-card0-app-store",
+      "title": "2026最新！5分钟速创美区Apple ID教程 免绑卡0成本，App Store无验证码秒切账号！",
+      "description": "2026年最新5分钟速创美区Apple ID保姆级教程，全程0成本免绑卡，分享无验证码切换技巧及解决自动跳回国区Bug方案",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Apple ID",
+        "App Store",
+        "iOS",
+        "教程"
+      ],
+      "publishedAt": "2026-05-09T11:31:07.000Z",
+      "updatedAt": "2026-05-09T11:31:07.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/20265apple-idtutorial-card0-app-store/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/20265apple-idtutorial-card0-app-store.md",
+      "videoUrl": "https://www.youtube.com/watch?v=-C1mrsx1TkQ"
+    },
+    {
+      "id": "2026freedomaincard-10-cloudflare",
+      "title": "2026最新免费域名！免绑信用卡，初始给10年还可无限续期，手把手教你托管Cloudflare全流程",
+      "description": "DNSHE免费域名注册教程，ccwu.cc后缀初始10年有效期可无限续期，手把手教你托管到Cloudflare，适合VPS面板、NAS远程访问、自建博客。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "VPS",
+        "Cloudflare",
+        "域名"
+      ],
+      "publishedAt": "2026-05-10T05:55:30.000Z",
+      "updatedAt": "2026-05-10T05:55:30.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/2026freedomaincard-10-cloudflare/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/2026freedomaincard-10-cloudflare.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8LXHshuW5M"
+    },
+    {
+      "id": "3-neverless-register-0-20usd-tutorial",
+      "title": "3分钟解锁欧洲交易所！Neverless注册出入金全教程，0手续费+送20USD",
+      "description": "介绍 Neverless 的账户注册、身份验证、入金、交易与出金流程，并提示奖励、费用、地区资格和监管信息需在操作前核对官方页面。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Neverless",
+        "加密交易所",
+        "注册教程",
+        "出入金",
+        "0手续费"
+      ],
+      "publishedAt": "2026-06-20T15:10:05.000Z",
+      "updatedAt": "2026-06-20T15:10:05.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/3-neverless-register-0-20usd-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/3-neverless-register-0-20usd-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=4aFwSHXv090"
+    },
+    {
+      "id": "5-0-free-vpn-tutorial",
+      "title": "5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程",
+      "description": "因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VPN",
+        "Cloudflare",
+        "零成本",
+        "Workers",
+        "edgetunnel"
+      ],
+      "publishedAt": "2026-05-15T02:53:16.000Z",
+      "updatedAt": "2026-05-15T02:53:16.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/5-0-free-vpn-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/5-0-free-vpn-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=HLqqF0QZcec"
+    },
+    {
+      "id": "6-chatgpt-plus-tutorial",
+      "title": "【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！",
+      "description": "详细教程：【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！，涵盖视频教程等知识点",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-04-16T02:56:43.000Z",
+      "updatedAt": "2026-04-16T02:56:43.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/6-chatgpt-plus-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/6-chatgpt-plus-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=kZqkb9zRO_c"
+    },
+    {
+      "id": "60-mac-vibe-coding-tutorial",
+      "title": "60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程",
+      "description": "几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "小米蓝牙遥控器",
+        "RC003",
+        "Mac语音输入",
+        "Vibe",
+        "Coding"
+      ],
+      "publishedAt": "2026-08-29T05:15:33.000Z",
+      "updatedAt": "2026-08-29T05:15:33.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/60-mac-vibe-coding-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/60-mac-vibe-coding-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=1e8gXx3c56w"
+    },
+    {
+      "id": "7-free-tools-server-3",
+      "title": "微信群二维码7天过期？用这个开源免费工具生成永久二维码，无需服务器，3分钟搞定！",
+      "description": "众所周知，微信群二维码只有 7天有效期，对于一些玩私域的朋友，稳住一个二维码使用完全没招，要么只能忍受，要么市面上有付费使用的，要么免费的总有弹窗广告来维持不变的二维码。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "永久二维码",
+        "微信群活码",
+        "Cloudflare Workers",
+        "serverless",
+        "qrcode"
+      ],
+      "publishedAt": "2026-07-18T13:48:23.000Z",
+      "updatedAt": "2026-07-18T13:48:23.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/7-free-tools-server-3/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/7-free-tools-server-3.md",
+      "videoUrl": "https://www.youtube.com/watch?v=YhxnffqiegU"
+    },
+    {
+      "id": "8-usa-ip-50-claude-chatgpt",
+      "title": "拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略  50次刷新机会，亲测轻松解锁Claude/ChatGPT！",
+      "description": "详细教程：拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略  50次刷新机会，亲测轻松解锁Claude/ChatGPT！，涵盖ip属性、VPN、ChatGPT等知识点",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "ip属性",
+        "VPN",
+        "ChatGPT",
+        "Claude",
+        "网络工具"
+      ],
+      "publishedAt": "2026-03-22T12:12:42.000Z",
+      "updatedAt": "2026-03-22T12:12:42.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/8-usa-ip-50-claude-chatgpt/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/8-usa-ip-50-claude-chatgpt.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ggCSZOXEqbE"
+    },
+    {
+      "id": "ai-agent-study",
+      "title": "AI Agents免费学习8个宝藏级资源🚀，不学你就OUT了！",
+      "description": "还在苦苦寻找AI Agents的学习资料？别找啦！这篇博客为你精选了8个免费又优质的学习资源，从Google白皮书到MIT专业著作，再到Hugging Face实战课程，应有尽有，助你快速掌握AI Agents的核心技能，弯道超车，就在今天！",
+      "category": [
+        "学习资源"
+      ],
+      "tags": [
+        "AI工具",
+        "AI前沿",
+        "知识分享",
+        "AI",
+        "学习资源"
+      ],
+      "publishedAt": "2025-02-24T07:38:22.000Z",
+      "updatedAt": "2025-02-24T07:38:22.000Z",
+      "blogUrl": "https://869hr.uk/2025/learning-resources/ai-agent-study/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ai-agent-study.md",
+      "videoUrl": null
+    },
+    {
+      "id": "ai-baibaiaigc-tools-aigc-docx-txt-tutorial",
+      "title": "论文去AI味神器！baibaiAIGC开源工具完整教程｜多轮降AIGC痕迹 支持docx和txt",
+      "description": "介绍 baibaiAIGC 开源工具的安装、API 配置、模型选择、docx 与 txt 处理流程，并说明多轮改写、切块校验和常见报错排查。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "baibaiAIGC",
+        "AI去味",
+        "论文降AIGC",
+        "AIGC检测",
+        "中文论文"
+      ],
+      "publishedAt": "2026-07-11T01:37:16.000Z",
+      "updatedAt": "2026-07-11T01:37:16.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/ai-baibaiaigc-tools-aigc-docx-txt-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ai-baibaiaigc-tools-aigc-docx-txt-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=wQJ25YhmxGk"
+    },
+    {
+      "id": "ai-beginner-guide",
+      "title": "2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南",
+      "description": "🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-06-02T00:58:23.000Z",
+      "updatedAt": "2026-06-02T00:58:23.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/ai-beginner-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ai-beginner-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=4VV9VT_xKr0"
+    },
+    {
+      "id": "ai-payment-card-bybit-0-usdt",
+      "title": "真香！AI订阅、支付卡，Bybit Card 国内身份证秒开，0开卡费，USDT 支付宝/微信随便刷",
+      "description": "中国身份证就能秒开虚拟卡 + 实体卡，支付宝、微信、Apple Pay 随便绑，日常买咖啡、付房租都能直接刷 [USDT]",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-03-27T03:16:38.000Z",
+      "updatedAt": "2026-03-27T03:16:38.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/ai-payment-card-bybit-0-usdt/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ai-payment-card-bybit-0-usdt.md",
+      "videoUrl": "https://www.youtube.com/watch?v=3sN7P2t_CeA"
+    },
+    {
+      "id": "ai-register",
+      "title": "零基础用AI写浏览器自动化！手把手教你做注册机",
+      "description": "面向零代码基础读者演示如何借助 AI 编写浏览器自动化注册脚本，包含需求拆解、元素定位、运行调试和失败处理方法。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "浏览器自动化",
+        "AI编程",
+        "零基础教程",
+        "注册机",
+        "Claude Code"
+      ],
+      "publishedAt": "2026-05-26T09:37:23.000Z",
+      "updatedAt": "2026-05-26T09:37:23.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/ai-register/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ai-register.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Rd0nEHsvIXY"
+    },
+    {
+      "id": "anytime-mailbox-9-tutorial",
+      "title": "美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起",
+      "description": "「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Anytime Mailbox",
+        "美国私人地址",
+        "美国云居民",
+        "美国住宅地址",
+        "CMRA"
+      ],
+      "publishedAt": "2026-09-24T03:12:21.000Z",
+      "updatedAt": "2026-09-24T03:12:21.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/anytime-mailbox-9-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/anytime-mailbox-9-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=SWee72CYsDE"
+    },
+    {
+      "id": "api-mobile-codex-beginner-tutorial",
+      "title": "三方API登录下用手机远控Codex，手把手小白教程",
+      "description": "介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Codex",
+        "codex++",
+        "三方API",
+        "手机远控",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-06-13T04:55:36.000Z",
+      "updatedAt": "2026-06-13T04:55:36.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/api-mobile-codex-beginner-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/api-mobile-codex-beginner-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=_CDCt2OMcOM"
+    },
+    {
+      "id": "api-proxy-station-vps-cpa-tutorial",
+      "title": "手把手教你搭建 API 中轉站：VPS+CPA+New API+Docker+Nginx+Cloudflare+SSL+域名配置 保姆級教程",
+      "description": "從零開始搭建 API 中轉站完整教程，涵蓋 VPS 購買、CPA 配置、New API 部署、Docker Compose、Nginx 反向代理、Cloudflare DNS 與 SSL 證書配置",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "教程",
+        "VPS",
+        "Docker",
+        "Cloudflare",
+        "建站"
+      ],
+      "publishedAt": "2026-05-10T04:00:00.000Z",
+      "updatedAt": "2026-05-10T04:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/api-proxy-station-vps-cpa-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/api-proxy-station-vps-cpa-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=GxGQPcFOF6s"
+    },
+    {
+      "id": "app-register-tutorial",
+      "title": "海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题",
+      "description": "本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "海外地址证明",
+        "地址证明",
+        "Proof of Address",
+        "万里汇",
+        "WorldFirst"
+      ],
+      "publishedAt": "2026-09-03T02:38:31.000Z",
+      "updatedAt": "2026-09-03T02:38:31.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/app-register-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/app-register-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=DnOKC9uBw00"
+    },
+    {
+      "id": "appid-apple-gift-card-id-100-tutorial",
+      "title": "苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝\"无法完成购买\"！",
+      "description": "详细教程：苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝\"无法完成购买\"！",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-03-21T15:14:05.000Z",
+      "updatedAt": "2026-03-21T15:14:05.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/appid-apple-gift-card-id-100-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/appid-apple-gift-card-id-100-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ytcCkyztNNQ"
+    },
+    {
+      "id": "apple-id-register---claude",
+      "title": "【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！",
+      "description": "详细教程：【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！，涵盖Claude、Apple ID、教程等知识点",
+      "category": [
+        "软件"
+      ],
+      "tags": [
+        "Claude",
+        "Apple ID",
+        "教程",
+        "AI工具"
+      ],
+      "publishedAt": "2026-04-15T15:17:28.000Z",
+      "updatedAt": "2026-04-15T15:17:28.000Z",
+      "blogUrl": "https://869hr.uk/2026/software/apple-id-register---claude/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/apple-id-register---claude.md",
+      "videoUrl": "https://www.youtube.com/watch?v=gr3LJNSGYZ4"
+    },
+    {
+      "id": "bank-card-dogpay",
+      "title": "告别支付烦恼：DogPay狗卡申请及使用完全指南 | 畅游海外应用，一卡在手",
+      "description": "还在为海外应用支付问题烦恼吗？DogPay狗卡帮你轻松解决！本文详细介绍DogPay狗卡的申请流程、充值方式、使用技巧，以及如何加入TG官方群获取最新资讯和技术支持。更有针对苹果用户的港区App Store账号注册攻略，让你畅游海外应用无障碍！字数超过200，满足SEO需求。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "跨境支付",
+        "海外应用",
+        "苹果支付",
+        "信用卡"
+      ],
+      "publishedAt": "2025-08-10T06:35:00.000Z",
+      "updatedAt": "2025-08-10T06:35:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-dogpay/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-dogpay.md",
+      "videoUrl": null
+    },
+    {
+      "id": "bank-card-safepal",
+      "title": "0成本拥有国内身份证注册SafePal万事达卡：GCP/Cloudflare绑卡实测保姆级教程",
+      "description": "还在为海外服务支付发愁？想用国内身份证搞定一张万事达卡？SafePal卡来啦！本文为你带来0成本使用国内身份证注册SafePal万事达卡的超详细保姆级教程，手把手教你如何申请、激活、充值，并实测绑定GCP、Cloudflare等海外服务，让你轻松畅游数字世界。无论是开发者、独立站长还是海外服务爱好者，这篇教程都能帮你解",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "跨境支付",
+        "教程",
+        "海外应用",
+        "信用卡"
+      ],
+      "publishedAt": "2025-06-07T16:30:00.000Z",
+      "updatedAt": "2025-06-07T16:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-safepal/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-safepal.md",
+      "videoUrl": null
+    },
+    {
+      "id": "bank-card-safepal2",
+      "title": "0成本拥有国内身份证注册SafePal万事达卡教程详细指南",
+      "description": "还在为海外服务支付发愁？想用国内身份证搞定一张万事达卡？SafePal卡来啦！本文为你带来0成本使用国内身份证注册SafePal万事达卡的超详细保姆级教程，手把手教你如何申请、激活、充值，并实测绑定GCP、Cloudflare等海外服务，让你轻松畅游数字世界。无论是开发者、独立站长还是海外服务爱好者，这篇教程都能帮你解",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "跨境支付",
+        "教程",
+        "海外应用",
+        "信用卡"
+      ],
+      "publishedAt": "2025-06-07T16:30:00.000Z",
+      "updatedAt": "2025-06-07T16:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-safepal2/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-safepal2.md",
+      "videoUrl": null
+    },
+    {
+      "id": "bank-card-ypt",
+      "title": "解锁海外支付新姿势：YPT卡申请全攻略，附专属优惠码！",
+      "description": "还在为海外支付烦恼吗？YPT卡来啦！本文详细介绍YPT卡的注册流程、优势特点以及各种使用场景，更有专属优惠码等你来拿！轻松解决跨境支付难题，畅享全球购物乐趣！超过200字的详细介绍，助力SEO优化。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "跨境支付",
+        "信用卡",
+        "海外应用"
+      ],
+      "publishedAt": "2025-08-02T06:35:00.000Z",
+      "updatedAt": "2025-08-02T06:35:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/bank-card-ypt/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/bank-card-ypt.md",
+      "videoUrl": null
+    },
+    {
+      "id": "binance-rmb-usdt-usd-cashout-guide",
+      "title": "【小白必看】5分钟极速上手，如何人民币到稳定币到美金，如何稳定币到美金到人民币，最新最全充值提现买币卖币，币安开户教学",
+      "description": "这篇教程围绕币安开户、KYC、人民币买稳定币、稳定币买比特币，以及稳定币再换回人民币的完整流程展开，适合刚入门的新手快速建立整体认知。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "加密货币",
+        "教程"
+      ],
+      "publishedAt": "2026-03-26T14:45:00.000Z",
+      "updatedAt": "2026-03-26T14:45:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/binance-rmb-usdt-usd-cashout-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/binance-rmb-usdt-usd-cashout-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=EkGCLiPr3HM"
+    },
+    {
+      "id": "blog-value",
+      "title": "为什么要写博客？探讨写博客的意义",
+      "description": "深入探讨个人博客在2025年的价值和意义，从知识管理、个人品牌建设到职业发展等多个维度进行分析。包含博客运营策略、内容创作指南、SEO优化技巧和流量变现方法。分享真实的博客运营案例和数据分析，助你打造一个独具特色的个人品牌阵地，实现个人影响力的持续增长。",
+      "category": [
+        "生活"
+      ],
+      "tags": [
+        "闲谈"
+      ],
+      "publishedAt": "2025-02-05T04:00:00.000Z",
+      "updatedAt": "2025-02-05T04:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/life/blog-value/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/blog-value.md",
+      "videoUrl": null
+    },
+    {
+      "id": "car-music-free-resource",
+      "title": "车载U盘音乐免费资源下载：一键升级你的车载音响，畅享5.1环绕立体声震撼",
+      "description": "还在忍受车载音响的“白开水”音质？车载U盘音乐资源来啦！精选抖音热歌、经典金曲、HIFI发烧人声、夜店DJ舞曲，5.1环绕立体声，真无损音质，让你的爱车秒变移动音乐厅！夸克网盘 & 百度网盘资源下载，开车党的福音！",
+      "category": [
+        "工具",
+        "学习资源"
+      ],
+      "tags": [
+        "免费资源"
+      ],
+      "publishedAt": "2025-03-03T14:30:00.000Z",
+      "updatedAt": "2025-03-03T14:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/car-music-free-resource/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/car-music-free-resource.md",
+      "videoUrl": null
+    },
+    {
+      "id": "card-giffgaff-esim-root-tutorial",
+      "title": "小白必看国产手机拥有保号神卡Giffgaff eSIM卡：giffgaff 免 root 开通及激活全教程",
+      "description": "详细教程：小白必看国产手机拥有保号神卡Giffgaff eSIM卡：giffgaff 免 root 开通及激活全教程，涵盖视频教程等知识点",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-04-17T11:27:28.000Z",
+      "updatedAt": "2026-04-17T11:27:28.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/card-giffgaff-esim-root-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/card-giffgaff-esim-root-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=9iw-1PRHwyw"
+    },
+    {
+      "id": "card-vowifi-wi-fi-calling--iphoneandroid",
+      "title": "【海外卡保号】海外 VoWiFi (Wi-Fi Calling) 开启全流程：iPhone、Android、代理规则",
+      "description": "本视频严格依据论坛指南，为您带来亲测有效的 VoWiFi 开启全流程教程。涵盖美国卡、英国卡、德国卡、香港卡等不同地区的开启方法，iPhone 和 Android 设备实操，以及 Surge/Clash 代理规则配置。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VoWiFi",
+        "海外卡",
+        "教程"
+      ],
+      "publishedAt": "2026-05-05T15:21:32.000Z",
+      "updatedAt": "2026-05-05T15:21:32.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/card-vowifi-wi-fi-calling--iphoneandroid/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/card-vowifi-wi-fi-calling--iphoneandroid.md",
+      "videoUrl": "https://www.youtube.com/watch?v=3lYgUUBEstI"
+    },
+    {
+      "id": "chatgpt-0-starryblu-claude-v-card-tutorial",
+      "title": "0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程",
+      "description": "介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Starryblu",
+        "跨境支付",
+        "全球账户",
+        "ChatGPT支付",
+        "Claude订阅"
+      ],
+      "publishedAt": "2026-07-15T22:24:15.000Z",
+      "updatedAt": "2026-07-15T22:24:15.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-0-starryblu-claude-v-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-0-starryblu-claude-v-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=NiIswP2iT0c"
+    },
+    {
+      "id": "chatgpt-appid",
+      "title": "省钱秘籍：手把手教你用尼日利亚区AppleID订阅 ChatGPT Plus，每月只要$8",
+      "description": "想要更便宜地订阅ChatGPT Plus？本文详细介绍了如何通过注册尼日利亚区的Apple ID，以每月仅约$8的价格订阅ChatGPT Plus，相比美区订阅每月$20，能节省一大笔开销。包含修改手机地区、注册Apple ID、购买礼品卡、订阅ChatGPT Plus等详细步骤，让你轻松享受ChatGPT",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "ChatGPT",
+        "iOS",
+        "Apple ID",
+        "账号注册",
+        "教程"
+      ],
+      "publishedAt": "2025-08-09T06:35:22.000Z",
+      "updatedAt": "2025-08-09T06:35:22.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/chatgpt-appid/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-appid.md",
+      "videoUrl": null
+    },
+    {
+      "id": "chatgpt-business-48-team-17-8-4-payment-paypal",
+      "title": "ChatGPT Business 第三期｜澳大利亚48个月Team优惠码$17.8/月，4种支付含PayPal",
+      "description": "本文介绍 ChatGPT Business 澳大利亚 Team 优惠的适用条件、价格与四种支付方式，并补充 PayPal 付款步骤和开通前核对事项。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT Business",
+        "ChatGPT Team",
+        "ChatGPT 优惠码",
+        "ChatGPT 澳大利亚",
+        "ChatGPT 订阅"
+      ],
+      "publishedAt": "2026-05-15T15:32:59.000Z",
+      "updatedAt": "2026-05-15T15:32:59.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-business-48-team-17-8-4-payment-paypal/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-business-48-team-17-8-4-payment-paypal.md",
+      "videoUrl": "https://www.youtube.com/watch?v=EJnGTrFy5Sk"
+    },
+    {
+      "id": "chatgpt-downgrade",
+      "title": "ChatGPT降智识别和解决方案 | 降智定义、检测方法和应对策略",
+      "description": "深入解析ChatGPT降级现象的成因、检测方法和解决方案。包含完整的降级识别指南、性能测试方法、IP质量评估和账号恢复方案。提供多种实用工具和专业建议，帮助用户应对ChatGPT性能下降问题。详细介绍官方风控策略、API限制变化，并提供最新的解决方案和优化建议，确保您获得最佳的AI对话体验。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "AI工具",
+        "ChatGPT",
+        "账号管理"
+      ],
+      "publishedAt": "2025-02-10T07:02:50.000Z",
+      "updatedAt": "2025-02-10T07:02:50.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/chatgpt-downgrade/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-downgrade.md",
+      "videoUrl": null
+    },
+    {
+      "id": "chatgpt-free-business-2-tutorial",
+      "title": "免费领ChatGPT Business 2个月！美区优惠码+长连接脚本教程",
+      "description": "免费ChatGPT 2个月 Business 领取 第二期，这次是美区，绑卡用SafePal或者bybit 免费领取ChatGPT Business 2个月",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT",
+        "免费",
+        "Business",
+        "优惠码",
+        "AI"
+      ],
+      "publishedAt": "2026-05-13T15:03:30.000Z",
+      "updatedAt": "2026-05-13T15:03:30.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-free-business-2-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-free-business-2-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=gQLkDdOIzQM"
+    },
+    {
+      "id": "chatgpt-gmail-free-gpt-k12-plus-tutorial",
+      "title": "Gmail搞免费GPT账户｜K12空间白嫖ChatGPT Plus全流程 喂饭级教程",
+      "description": "多了登录gpt会报错，脚本中的空间ID现在人数人多，可以自己找最新的gmail的K12空间id，进行替换，linuxdo等很多站很多分享的",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT",
+        "免费GPT",
+        "K12空间",
+        "Gmail别名",
+        "ChatGPT Plus"
+      ],
+      "publishedAt": "2026-07-03T15:49:03.000Z",
+      "updatedAt": "2026-07-03T15:49:03.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-gmail-free-gpt-k12-plus-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-gmail-free-gpt-k12-plus-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=tuPU2TQXNbI"
+    },
+    {
+      "id": "chatgpt-gopay-5-plus",
+      "title": "2026最新！用Gopay只需5分钟开通ChatGPT Plus，只需接两次码",
+      "description": "log(\"💰 Plan : ChatGPT Plus（尝试使用 IDR / 印尼盾）\"); console",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT Plus",
+        "Gopay",
+        "GPT Plus 开通",
+        "ChatGPT 订阅",
+        "印尼支付"
+      ],
+      "publishedAt": "2026-05-31T11:52:06.000Z",
+      "updatedAt": "2026-05-31T11:52:06.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-gopay-5-plus/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-gopay-5-plus.md",
+      "videoUrl": "https://www.youtube.com/watch?v=xf4uBgeK158"
+    },
+    {
+      "id": "chatgpt-team--15-1-50--48--promo",
+      "title": "48个月半价Team优惠码 一个人50人民币， 英国优惠码（可能是目前最低的），手把手保姆教程",
+      "description": "本视频实测成功开通 ChatGPT Team 计划，实现目前已知最低价格：15.21/人月付，平均一人每个月50人民币，使用英国优惠码codestonegb获得48个月半价优惠",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT",
+        "跨境支付",
+        "教程"
+      ],
+      "publishedAt": "2026-05-10T05:15:03.000Z",
+      "updatedAt": "2026-05-10T05:15:03.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-team--15-1-50--48--promo/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-team--15-1-50--48--promo.md",
+      "videoUrl": "https://www.youtube.com/watch?v=yv1HFb79Yus"
+    },
+    {
+      "id": "chatgpt-team-48-18-tutorial",
+      "title": "ChatGPT Team 第五期！买一送一持续48个月，墨西哥18美刀+西班牙+哥伦比亚三国优惠码教程",
+      "description": "📺 往期教程： • 第一期：ChatGPT Team 基础注册教程 • 第二期：土耳其/尼日利亚低价区教程 • 第三期：澳大利亚48个月Team优惠码+4种支付方法 • 第四期：英国优惠码半价Team教程 如有任何疑问或不会的操作，请查看前面四期视频教程",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT",
+        "ChatGPT Team",
+        "ChatGPT Business",
+        "promo code",
+        "优惠码"
+      ],
+      "publishedAt": "2026-05-25T13:35:23.000Z",
+      "updatedAt": "2026-05-25T13:35:23.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-team-48-18-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-team-48-18-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=2OtHK26bujM"
+    },
+    {
+      "id": "chatgpt-yika-virtual-card-50-kyc-claude",
+      "title": "YiKa虚拟卡实操攻略：一个邮箱开50张卡，无需KYC订阅ChatGPT和Claude",
+      "description": "想订阅个 ChatGPT Plus 或者 Claude Pro，想给自己的推特点个蓝标，或者开通 Telegram Premium 会员，最大的障碍往往不是那几十美金的费用，而是 你根本没有一张能付得出去的外币卡 。找不认识的人代充？怕黑卡封号；找中介？手续费贵得离谱。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "YiKa虚拟卡",
+        "ChatGPT订阅",
+        "Claude Pro",
+        "推特蓝V",
+        "USDT充值"
+      ],
+      "publishedAt": "2026-06-12T17:00:02.000Z",
+      "updatedAt": "2026-06-13T01:02:48.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-yika-virtual-card-50-kyc-claude/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-yika-virtual-card-50-kyc-claude.md",
+      "videoUrl": "https://www.youtube.com/watch?v=XaLeXKu4PTM"
+    },
+    {
+      "id": "chrome-edge-delete-local-ai-model",
+      "title": "🚨你的硬盘被偷吃了？Chrome/Edge暗中下载4GB大模型！教你彻底关闭并删除本地AI【保姆级教程】",
+      "description": "最近C盘空间莫名其妙少了几个G？罪魁祸首可能是Chrome或Edge浏览器！Google和微软正悄悄在后台下载接近4GB的本地AI模型，教你彻底删除和禁用。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "AI",
+        "Google",
+        "数据安全"
+      ],
+      "publishedAt": "2026-05-09T23:20:26.000Z",
+      "updatedAt": "2026-05-09T23:20:26.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chrome-edge-delete-local-ai-model/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chrome-edge-delete-local-ai-model.md",
+      "videoUrl": "https://www.youtube.com/watch?v=KQck0xwjHAw"
+    },
+    {
+      "id": "chrome-gemini-ai-win-mac-shorts",
+      "title": "🚀一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效",
+      "description": "详细教程：一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-04-18T08:55:45.000Z",
+      "updatedAt": "2026-04-18T08:55:45.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chrome-gemini-ai-win-mac-shorts/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chrome-gemini-ai-win-mac-shorts.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ivp9lgEsU_E"
+    },
+    {
+      "id": "chrome-vertical-tabs-tutorial",
+      "title": "Chrome 垂直标签页怎么开？只需三步，保姆级教程：从 Flags 开启到外观设置全流程，狠狠提升效率！",
+      "description": "手把手教你开启 Chrome 垂直标签页：更新版本、Flags 启用 Vertical Tabs、外观设置打开，三步完成，宽屏效率大提升。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "效率工具"
+      ],
+      "publishedAt": "2026-03-12T12:06:36.000Z",
+      "updatedAt": "2026-03-12T12:06:36.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/chrome-vertical-tabs-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chrome-vertical-tabs-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=AcyrxbJzBtg"
+    },
+    {
+      "id": "clash-config-detail-dns",
+      "title": "Clash配置文件详解｜从零搞懂DNS、策略组、分流规则附实战",
+      "description": "逐项解析 Clash 配置文件中的 mixed-port、mode、DNS、策略组和分流规则，并结合示例说明常见配置错误与验证方法。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Clash",
+        "Clash配置",
+        "代理工具",
+        "分流规则",
+        "DNS配置"
+      ],
+      "publishedAt": "2026-05-23T00:31:44.000Z",
+      "updatedAt": "2026-05-23T00:31:44.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/clash-config-detail-dns/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/clash-config-detail-dns.md",
+      "videoUrl": "https://www.youtube.com/watch?v=OT_tlDDMNB4"
+    },
+    {
+      "id": "claude-code-guide-12",
+      "title": "Claude Code 被封号无数？防封号终极指南，12条硬核规则助你构建'正常人类行为档案'！",
+      "description": "根据账号异常经历整理 Claude Code 使用中的十二项风险控制建议，涵盖登录环境、调用节奏、支付与账号行为的一致性检查。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "Claude Code",
+        "AI工具",
+        "账号安全",
+        "防封号",
+        "教程"
+      ],
+      "publishedAt": "2026-04-22T02:51:10.000Z",
+      "updatedAt": "2026-04-22T02:51:10.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/claude-code-guide-12/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-guide-12.md",
+      "videoUrl": "https://www.youtube.com/watch?v=osoawZJ3-Wg"
+    },
+    {
+      "id": "claude-code-happy-mobile-remote-control-tutorial",
+      "title": "2026最新！手机远程控制Claude Code：Happy安装配置全教程",
+      "description": "Happy 安装配置教程：用手机远程控制 Claude Code，覆盖安装配对、会话管理、国内网络问题和自建中继。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Claude Code",
+        "Happy",
+        "手机远程控制",
+        "AI编程",
+        "远程开发"
+      ],
+      "publishedAt": "2026-05-11T16:53:26.000Z",
+      "updatedAt": "2026-05-11T16:53:26.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/claude-code-happy-mobile-remote-control-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-happy-mobile-remote-control-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=JV_WmhYU-RY"
+    },
+    {
+      "id": "claude-code-tutorial---1-how-to-usage",
+      "title": "【Claude Code 小白教程-第1期】国内如何完美使用 Claude Code？手把手教你安装 Trae 国内版与 Z Code 配置！",
+      "description": "欢迎来到 Claude Code 零基础小白教程系列第一期，手把手教你在国内免翻墙安装 Trae 国内版与 Z Code 配置，完美使用 Claude Code 进行 AI 编程。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "Claude Code",
+        "Trae",
+        "Z Code",
+        "AI编程",
+        "零基础编程"
+      ],
+      "publishedAt": "2026-04-22T11:18:29.000Z",
+      "updatedAt": "2026-04-22T11:18:29.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/claude-code-tutorial---1-how-to-usage/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-tutorial---1-how-to-usage.md",
+      "videoUrl": "https://www.youtube.com/watch?v=hJl2RJ3BUYU"
+    },
+    {
+      "id": "claude-code-tutorial-2-domestic-ai-models",
+      "title": "【Claude Code 小白教程-第2期】接入国内大模型！GLM/通义千问配置，AICodeSwitch神器！",
+      "description": "欢迎回来！Claude Code 小白教程第二期，手把手教你配置智谱 GLM、阿里通义千问，使用 AICodeSwitch 神器一键切换模型，还有免费大模型白嫖教程。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "Claude Code",
+        "GLM",
+        "通义千问",
+        "AICodeSwitch",
+        "AI编程"
+      ],
+      "publishedAt": "2026-04-22T12:00:00.000Z",
+      "updatedAt": "2026-04-22T12:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/claude-code-tutorial-2-domestic-ai-models/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-tutorial-2-domestic-ai-models.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ahyKIDcC6nk"
+    },
+    {
+      "id": "claude-code-tutorial-3and-excel",
+      "title": "【Claude Code 小白教程-第3期】打工人提效神器！文案生成、文档批量处理与 Excel 数据自动化实战全攻略！",
+      "description": "Claude Code 零基础小白教程第3期，手把手教你文案生成、文档批量处理、Excel数据分析与图表生成，打工人提效神器实战全攻略",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Claude",
+        "AI工具",
+        "教程"
+      ],
+      "publishedAt": "2026-04-23T03:15:09.000Z",
+      "updatedAt": "2026-04-23T03:15:09.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/claude-code-tutorial-3and-excel/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-tutorial-3and-excel.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ae6xFUzJuJU"
+    },
+    {
+      "id": "claude-code-tutorial-4-advanced-workflow",
+      "title": "【Claude Code 小白教程-第4期】从入门到大神！高阶提示词技巧、培养编程思维与打造专属AI自动化工作流！",
+      "description": "Claude Code 零基础小白教程第4期高阶进阶篇，教你提示词技巧、编程思维、自定义自动化工作流与AI知识库构建",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Claude",
+        "AI工具",
+        "教程"
+      ],
+      "publishedAt": "2026-04-23T04:25:00.000Z",
+      "updatedAt": "2026-04-23T04:25:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/claude-code-tutorial-4-advanced-workflow/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-code-tutorial-4-advanced-workflow.md",
+      "videoUrl": "https://www.youtube.com/watch?v=c5Xs8gceiCM"
+    },
+    {
+      "id": "claude-desktop-custom-api-tutorial",
+      "title": "Claude Pro用不起？教你如何给 Claude Desktop 接入自定义第三方 API！",
+      "description": "解决 Claude Pro 订阅消耗太快的问题，通过接入自定义第三方 API 来大幅省钱。本教程综合了 LINUX DO 社区大佬的经验，手把手教你如何为 Claude Desktop 配置第三方 API 中转，开启开发者模式，配置中转地址和 API Key。",
+      "category": [
+        "ai"
+      ],
+      "tags": [
+        "Claude Desktop",
+        "Claude",
+        "Anthropic Claude",
+        "自定义API",
+        "第三方API"
+      ],
+      "publishedAt": "2026-05-04T01:30:00.000Z",
+      "updatedAt": "2026-05-04T01:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/AI/claude-desktop-custom-api-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-desktop-custom-api-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=nmBd8bfiEu8"
+    },
+    {
+      "id": "claude-opus-4-7-8-devin-register-230",
+      "title": "白嫖Claude Opus 4.7/4.8！Devin注册送$230额度，手慢无！",
+      "description": "如果你想用本地ide的方式或者之类的可以关联 windsurf 使用但是必须要绑卡才能使用高级模型（包括14天免费试用） 如果不想绑卡，可以直接把代码和文档上传到 Github 直接 通过 Devin 云端用（在web直接处理） 注册结束",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Claude Opus 4.7",
+        "Claude Opus 4.8",
+        "Devin AI",
+        "免费Claude",
+        "白嫖Claude"
+      ],
+      "publishedAt": "2026-05-29T15:59:34.000Z",
+      "updatedAt": "2026-05-29T15:59:34.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/claude-opus-4-7-8-devin-register-230/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/claude-opus-4-7-8-devin-register-230.md",
+      "videoUrl": "https://www.youtube.com/watch?v=UtVq_9s7lxM"
+    },
+    {
+      "id": "cliproxyapi-vps-domain-ssl-tutorial",
+      "title": "CLIProxyAPI 部署教程：VPS、域名、SSL 与远程调用完整配置",
+      "description": "这篇教程围绕 CLIProxyAPI 的完整部署流程展开，涵盖 VPS 准备、IP 检测、一键部署、Systemd 守护进程、防火墙配置、域名解析、Nginx 反向代理、SSL 证书申请与自动续期的完整流程。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "开发工具",
+        "VPS",
+        "Cloudflare",
+        "OpenClaw",
+        "SSL证书"
+      ],
+      "publishedAt": "2026-03-06T16:00:00.000Z",
+      "updatedAt": "2026-05-04T16:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/cliproxyapi-vps-domain-ssl-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cliproxyapi-vps-domain-ssl-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=3KhDHeQ7MJs"
+    },
+    {
+      "id": "cloudflare-0-domain-bond-cyou-free-step-tutorial",
+      "title": "0元白嫖两个顶级域名！.bond/.cyou首年免费+Cloudflare托管保姆级教程",
+      "description": "还支持自定义NS，可无缝接入Cloudflare托管，免费域名+免费CDN+免费SSL一起打通，个人项目上线基本0成本",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "域名",
+        "0元域名",
+        "顶级域名",
+        "nicnames",
+        "doma protocol"
+      ],
+      "publishedAt": "2026-09-12T04:38:58.000Z",
+      "updatedAt": "2026-09-12T04:38:58.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/cloudflare-0-domain-bond-cyou-free-step-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cloudflare-0-domain-bond-cyou-free-step-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=qUU4B33XmJs"
+    },
+    {
+      "id": "cloudflare-1-register-free-domain-card-2",
+      "title": "只需1分钟注册永久免费域名！有邮箱即可，不需绑卡，1个邮箱可得到2个域名，且可托管Cloudflare",
+      "description": "Cloudflare 临时邮箱搭建教程，覆盖域名托管、邮件路由、D1、KV、Workers、Pages 部署和常见配置。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "域名",
+        "永久域名",
+        "免费二级域名",
+        "Cloudflare",
+        "KataBump"
+      ],
+      "publishedAt": "2026-06-09T11:47:37.000Z",
+      "updatedAt": "2026-06-09T11:47:37.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/cloudflare-1-register-free-domain-card-2/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cloudflare-1-register-free-domain-card-2.md",
+      "videoUrl": "https://www.youtube.com/watch?v=NS24Ne_rP1M"
+    },
+    {
+      "id": "cloudflare-2fa-deploy-workers-free",
+      "title": "2FA密钥自己管！部署在Cloudflare Workers上的免费自托管验证器",
+      "description": "2FA密钥管理器，部署在Cloudflare Workers上，免费自托管，AES-GCM加密，支持20+格式互导",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "2FA",
+        "Cloudflare Workers",
+        "自托管",
+        "TOTP",
+        "验证器"
+      ],
+      "publishedAt": "2026-05-15T08:30:06.000Z",
+      "updatedAt": "2026-05-15T08:30:06.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/cloudflare-2fa-deploy-workers-free/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cloudflare-2fa-deploy-workers-free.md",
+      "videoUrl": "https://www.youtube.com/watch?v=9ivKtK818vI"
+    },
+    {
+      "id": "cloudflare-deploy-workers-free-2fa-20",
+      "title": "部署在 Cloudflare Workers 上的免费自托管 2FA 管理器，支持 20+ 格式互导",
+      "description": "这个开源项目让你用 Cloudflare Workers 免费自托管 2FA 管理器，零成本、数据完全自主可控",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "2FA",
+        "双因素认证",
+        "Cloudflare Workers",
+        "自托管",
+        "开源"
+      ],
+      "publishedAt": "2026-05-16T09:58:15.000Z",
+      "updatedAt": "2026-05-16T09:58:15.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/cloudflare-deploy-workers-free-2fa-20/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cloudflare-deploy-workers-free-2fa-20.md",
+      "videoUrl": "https://www.youtube.com/watch?v=fWqjMNN-7ZI"
+    },
+    {
+      "id": "cloudflare-tunnel-docker-tutorial",
+      "title": "🔥零成本5分钟搞定！Cloudflare Tunnel + Docker容器化搭建长期稳定节点 手把手喂饭教程",
+      "description": "详细教程：零成本5分钟搞定！Cloudflare Tunnel + Docker容器化搭建长期稳定节点 手把手喂饭教程，涵盖视频教程等知识点",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-02-13T12:54:50.000Z",
+      "updatedAt": "2026-02-13T12:54:50.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/cloudflare-tunnel-docker-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cloudflare-tunnel-docker-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=EiIbORtFYBo"
+    },
+    {
+      "id": "cloudflare-tutorial",
+      "title": "零基础 Cloudflare 优选教程｜网站速度翻倍提升",
+      "description": "面向零基础读者介绍 Cloudflare 优选 IP 的原理、测速筛选、线路配置和结果验证，重点说明不同运营商的延迟与丢包差异。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Cloudflare优选",
+        "CDN加速",
+        "网站优化",
+        "DNS分地区解析",
+        "阿里云DNS"
+      ],
+      "publishedAt": "2026-05-20T11:42:22.000Z",
+      "updatedAt": "2026-05-20T13:43:01.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/cloudflare-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/cloudflare-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Gi9X3oFqlWE"
+    },
+    {
+      "id": "codex-cli-free-deepseek-cc-switch",
+      "title": "Codex CLI 免费接入 DeepSeek！CC Switch 本地路由三步搞定",
+      "description": "1:15721） 3️⃣ 切换供应商，重启 Codex（即可使用 DeepSeek V4 Flash 等模型） 整个过程对 Codex 完全透明，API Key 保存在 CC Switch 里不暴露给 Codex 配置文件，安全又方便",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Codex",
+        "DeepSeek",
+        "CC Switch",
+        "API路由",
+        "协议转换"
+      ],
+      "publishedAt": "2026-06-01T05:40:16.000Z",
+      "updatedAt": "2026-06-01T05:40:16.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/codex-cli-free-deepseek-cc-switch/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/codex-cli-free-deepseek-cc-switch.md",
+      "videoUrl": "https://www.youtube.com/watch?v=3C7YQRjnZzY"
+    },
+    {
+      "id": "codex-free-plus-complete-tutorial",
+      "title": "Codex 申请免费 Plus 正确姿势：从域名申请到免费订阅全流程教学",
+      "description": "小白也能上！本视频带来最详尽的 Codex 申请免费 Plus 全流程教学，手把手教你如何通过正确姿势获取免费订阅。从域名申请、企业邮箱设置、模拟器配置到 VPN 使用，完整覆盖所有步骤。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "AI工具",
+        "教程",
+        "免费资源"
+      ],
+      "publishedAt": "2026-05-07T12:11:04.000Z",
+      "updatedAt": "2026-05-07T12:11:04.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/codex-free-plus-complete-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/codex-free-plus-complete-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Y_nWx0XUQ9w"
+    },
+    {
+      "id": "codex-gpt54-auto-register-chrome-extension",
+      "title": "【新鲜出炉】无限量白嫖 Codex GPT-5.4 模型！全自动批量注册 Chrome 插件教程，只需配置 CPA，高效率 0 手工！",
+      "description": "手把手教你无限量白嫖 Codex GPT-5.4 账号，利用 Chrome 自动化插件，只需简单配置 CPA，实现全自动批量注册，零门槛高效率。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT",
+        "效率工具",
+        "CPA配置",
+        "教程"
+      ],
+      "publishedAt": "2026-04-07T16:30:00.000Z",
+      "updatedAt": "2026-04-07T16:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/codex-gpt54-auto-register-chrome-extension/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/codex-gpt54-auto-register-chrome-extension.md",
+      "videoUrl": "https://www.youtube.com/watch?v=7ShCkeSvL98"
+    },
+    {
+      "id": "deepseek-20250208",
+      "title": "解释及澄清关于DeepSeek的最近几个传闻",
+      "description": "深入解析关于DeepSeek的六大关键传闻，包括GPU数量、训练成本、数据来源、计算需求等热点问题。基于最新行业数据和专业分析，为读者揭示真相，提供准确可靠的技术洞察。本文将帮助你全面了解DeepSeek的发展现状和未来趋势。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "AI工具",
+        "DeepSeek",
+        "LLM",
+        "AI",
+        "技术交流"
+      ],
+      "publishedAt": "2025-02-08T11:17:24.000Z",
+      "updatedAt": "2025-02-08T11:17:24.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/deepseek-20250208/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/deepseek-20250208.md",
+      "videoUrl": null
+    },
+    {
+      "id": "deepseek-4",
+      "title": "DeepSeek放出一头黑鲸！同一个模型干活成本差4倍，答案全在模型外面",
+      "description": "本期拆解DeepSeek Harness黑鲸开源智能体运行系统：一切皆插件架构、四种运行模式、Composio实测同一模型成本差4倍、MIT协议可自部署。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "DeepSeek Harness",
+        "DeepSeek",
+        "AI Agent",
+        "智能体",
+        "一切皆插件"
+      ],
+      "publishedAt": "2026-08-16T02:50:27.000Z",
+      "updatedAt": "2026-08-16T02:50:27.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/deepseek-4/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/deepseek-4.md",
+      "videoUrl": "https://www.youtube.com/watch?v=80u2rwxpTqA"
+    },
+    {
+      "id": "deepseek-converter",
+      "title": "Deepseek内容转换工具2025：一键生成精美PDF文档 | 支持图床上传",
+      "description": "2025年全新Deepseek内容转换工具，支持一键将AI生成内容转换为精美PDF文档。内置专业图床上传功能，支持自定义标题、格式和样式。完全免费、无需安装、跨平台支持，是处理AI内容的必备工具。提供详细的使用教程和优化建议，让文档处理更轻松高效。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "AI工具",
+        "DeepSeek",
+        "效率工具",
+        "在线工具",
+        "开发工具"
+      ],
+      "publishedAt": "2025-02-07T05:17:12.000Z",
+      "updatedAt": "2025-02-07T05:17:12.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/deepseek-converter/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/deepseek-converter.md",
+      "videoUrl": null
+    },
+    {
+      "id": "deepseek-study",
+      "title": "DeepSeek视频教程及全套安装包 | 2025年最新资源，持续更新中",
+      "description": "2025年最新DeepSeek本地部署视频教程及全套安装包资源，包含详细的安装指南、视频教程、大模型文件和丰富的使用技巧文档。从零开始掌握DeepSeek的本地部署与高效使用，内含ollama+dify搭建本地知识库教程，适合初学者和进阶用户。",
+      "category": [
+        "软件"
+      ],
+      "tags": [
+        "DeepSeek",
+        "本地部署",
+        "AI工具",
+        "软件安装"
+      ],
+      "publishedAt": "2025-02-13T22:57:25.000Z",
+      "updatedAt": "2025-02-13T22:57:25.000Z",
+      "blogUrl": "https://869hr.uk/2025/software/deepseek-study/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/deepseek-study.md",
+      "videoUrl": null
+    },
+    {
+      "id": "deepseek-test-gpu",
+      "title": "测试你的电脑能跑多大的DeepSeek模型 | 硬件配置检测工具",
+      "description": "专业的DeepSeek模型硬件配置检测工具，支持Windows、Mac和Linux系统。快速评估您的设备是否适合运行DeepSeek大语言模型，提供详细的性能报告和优化建议。包含完整的硬件要求说明和性能提升指南，助您轻松部署AI模型。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "DeepSeek",
+        "效率工具",
+        "AI工具"
+      ],
+      "publishedAt": "2025-02-10T23:15:19.000Z",
+      "updatedAt": "2025-02-10T23:15:19.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/deepseek-test-gpu/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/deepseek-test-gpu.md",
+      "videoUrl": null
+    },
+    {
+      "id": "dito-esim-0-6-payment-tutorial",
+      "title": "菲律宾DITO eSIM手把手教程！每年0.6元人民币低成本保号，微信支付+大陆漫游",
+      "description": "菲律宾 DITO eSIM 全流程教程：中国电信参股的菲律宾第三大运营商，89 比索（约10元）开卡，之后每年充 5 比索（约 0",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "DITO",
+        "菲律宾eSIM",
+        "eSIM教程",
+        "低成本保号",
+        "接码"
+      ],
+      "publishedAt": "2026-09-27T22:44:21.000Z",
+      "updatedAt": "2026-09-27T22:44:21.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/dito-esim-0-6-payment-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/dito-esim-0-6-payment-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=P-9Z7O-_EyU"
+    },
+    {
+      "id": "dmitvircsdeploycpa-ai",
+      "title": "小白手把手自建纯净家宽节点+中转站全流程：DMIT配合VIRCS部署CPA，彻底解决AI风控！",
+      "description": "基于\"第一性原理\"构建的自建纯净家宽节点与中转站完整流水线教程 由于当前各大 AI 模型（如 Claude、ChatGPT 等）风控日益严格，普通机场 IP 经常面临降智、封号或频繁弹验证码的问题",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-05-05T14:38:17.000Z",
+      "updatedAt": "2026-05-05T14:38:17.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/dmitvircsdeploycpa-ai/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/dmitvircsdeploycpa-ai.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Nigo_YH4SGE"
+    },
+    {
+      "id": "doc.869hr.uk",
+      "title": "宝藏网站推荐：大坝的资源收集站 - 你的100T+数字图书馆",
+      "description": "发现一个惊人的宝藏网站——大坝的资源收集站！这个网站汇集了超过100T的各类资源，包括但不限于AI知识、课程资料、影视媒体、无损音乐、电子书籍、健康养生、健身教程等。最重要的是，它提供强大的搜索功能，让你能在这片浩瀚的数字海洋中精准定位所需。本文将带你全面了解这个堪称数字图书馆的资源聚集地，无论你是学生、研究者还是终身",
+      "category": [
+        "学习资源"
+      ],
+      "tags": [
+        "免费资源",
+        "在线工具"
+      ],
+      "publishedAt": "2025-07-06T17:30:00.000Z",
+      "updatedAt": "2025-07-06T17:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/learning-resources/doc.869hr.uk/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/doc.869hr.uk.md",
+      "videoUrl": null
+    },
+    {
+      "id": "ds-option",
+      "title": "Deepseek官网报错解决方案2025，一篮子解决方案，持续更新中 | 完整教程，含多个满血版R1推理模型三方服务",
+      "description": "全面解决Deepseek官网报错问题的一篮子解决方案，包括本地部署、第三方服务和云端部署等多种方案。提供最新的满血版R1推理模型三方服务列表，详细的故障排除指南和性能优化建议。持续更新的完整教程，助您享受流畅的AI对话体验。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "AI",
+        "LLM",
+        "本地部署",
+        "教程",
+        "AI工具"
+      ],
+      "publishedAt": "2025-02-05T09:00:00.000Z",
+      "updatedAt": "2025-02-05T09:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/ds-option/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ds-option.md",
+      "videoUrl": null
+    },
+    {
+      "id": "eSIM-compare",
+      "title": "9eSIM/XeSIM/eSTK优缺点对比，到底如何选择！国产手机秒变eSIM手机",
+      "description": "2025年eSIM选购指南：9eSIM、XeSIM、eSTK三款主流eSIM卡深度对比评测。从隐私保护、价格、易用性等多维度进行分析，助您选择最适合自己的eSIM卡。同时推荐Giffgaff保号卡和Redteago、Roamless流量卡，解决您的通信需求。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "eSIM",
+        "数据安全",
+        "VPN"
+      ],
+      "publishedAt": "2025-08-27T14:35:00.000Z",
+      "updatedAt": "2026-06-15T14:35:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/eSIM-compare/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/eSIM-compare.md",
+      "videoUrl": "https://www.youtube.com/watch?v=W46dce-LXjM"
+    },
+    {
+      "id": "ebook-free-resource",
+      "title": "2025 电子书白嫖指南：10个免费读书网站，不花一分钱读遍全球好书！",
+      "description": "还在花钱买书？OUT啦！这份2025年精选的10个免费电子书网站清单，涵盖Project Gutenberg、Open Library等知名平台，让你零成本畅读海量好书，告别书荒，提升自我，赶紧收藏备用！",
+      "category": [
+        "学习资源"
+      ],
+      "tags": [
+        "免费资源",
+        "在线工具",
+        "学习资源"
+      ],
+      "publishedAt": "2025-02-21T00:35:28.000Z",
+      "updatedAt": "2025-02-21T00:35:28.000Z",
+      "blogUrl": "https://869hr.uk/2025/learning-resources/ebook-free-resource/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ebook-free-resource.md",
+      "videoUrl": null
+    },
+    {
+      "id": "edu-asu-invite",
+      "title": "白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱",
+      "description": "想免费获取各种教育优惠，比如白嫖Gemini高级版？一个美国大学的.edu教育邮箱是你的绝佳敲门砖！本文将手把手教你如何免费注册美国大学的.edu教育邮箱。从准备“美国身份”信息，到全程使用美国节点进行在线申请，再到最后的账户激活步骤，每一步都详细讲解。文章特别强调了需要保存的关键信息以及如何处理申请过程中可能遇到的问",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "邮箱",
+        "免费资源",
+        "学习资源",
+        "教程"
+      ],
+      "publishedAt": "2025-05-14T14:30:00.000Z",
+      "updatedAt": "2025-05-14T14:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/edu-asu-invite/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/edu-asu-invite.md",
+      "videoUrl": null
+    },
+    {
+      "id": "edu-email-register-2026",
+      "title": "🔥 2026最新白嫖神器！0成本注册美国edu教育邮箱手把手喂饭级教程",
+      "description": "介绍申请美国 .edu 教育邮箱的材料准备、注册步骤、验证流程和常见失败原因，并提醒资格与可用权益可能随学校政策变化。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-02-14T15:14:11.000Z",
+      "updatedAt": "2026-02-14T15:14:11.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/edu-email-register-2026/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/edu-email-register-2026.md",
+      "videoUrl": "https://www.youtube.com/watch?v=6RSUo-yDfSo"
+    },
+    {
+      "id": "edu-invite2",
+      "title": "白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱",
+      "description": "详细教程：白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱，涵盖邮箱、免费资源、学习资源等知识点",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "邮箱",
+        "免费资源",
+        "学习资源",
+        "教程"
+      ],
+      "publishedAt": "2025-05-14T14:30:00.000Z",
+      "updatedAt": "2025-05-14T14:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/edu-invite2/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/edu-invite2.md",
+      "videoUrl": null
+    },
+    {
+      "id": "edu-invite3",
+      "title": "免费获取美国教育邮箱（.edu）终极指南 | 轻松解锁学生福利",
+      "description": "还在为各种软件订阅、云服务、甚至是一些独家资源的高昂费用而烦恼吗？拥有一个免费的美国教育邮箱（.edu email）或许能帮你打开新世界的大门！本文将为你提供一份超详细、手把手的教程，教你如何从零开始，利用虚拟身份和干净的美国IP，成功申请到属于自己的美国大学教育邮箱。从生成个人信息、注册Outlook邮箱，到申请大学",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "邮箱",
+        "免费资源",
+        "在线工具",
+        "账号注册",
+        "账号管理"
+      ],
+      "publishedAt": "2025-08-02T02:30:00.000Z",
+      "updatedAt": "2025-08-02T02:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/edu-invite3/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/edu-invite3.md",
+      "videoUrl": null
+    },
+    {
+      "id": "esim-card-9esim-vs-xesim-estk-compare-review",
+      "title": "eSIM卡怎么选？9eSIM vs XeSIM vs eSTK 全面对比评测",
+      "description": "9eSIM、XeSIM、eSTK三款eSIM产品全面对比评测！从内存容量、价格、苹果安卓兼容性、隐私安全等维度详细分析，帮你选出最适合自己的eSIM卡。国产手机也能秒变eSIM手机！",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "eSIM对比",
+        "9eSIM评测",
+        "XeSIM评测",
+        "eSTK评测",
+        "eSIM卡怎么选"
+      ],
+      "publishedAt": "2026-05-13T05:07:38.000Z",
+      "updatedAt": "2026-05-13T05:07:38.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/esim-card-9esim-vs-xesim-estk-compare-review/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-card-9esim-vs-xesim-estk-compare-review.md",
+      "videoUrl": "https://www.youtube.com/watch?v=W46dce-LXjM"
+    },
+    {
+      "id": "esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial",
+      "title": "eSIM卡免手机保号收发短信！几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程",
+      "description": "几十块的大疆4G模块硬件底子是移远 EG25-G，本教程教你用 AT 指令把 USB 身份永久改写为移远 EC25，并在 Mac 上用 UTM 一键部署 VoHive，实现 eSIM 免手机保号收发短信。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "eSIM",
+        "VoHive",
+        "大疆4G模块",
+        "Mac教程"
+      ],
+      "publishedAt": "2026-07-04T05:26:17.000Z",
+      "updatedAt": "2026-07-04T05:26:17.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=PZRkoggXFco"
+    },
+    {
+      "id": "esim-free-card-tutorial",
+      "title": "英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程",
+      "description": "介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "eSIM",
+        "沃达丰",
+        "Vodafone",
+        "英国",
+        "免费"
+      ],
+      "publishedAt": "2026-08-02T02:20:12.000Z",
+      "updatedAt": "2026-08-02T02:20:12.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/esim-free-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-free-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Zl6dHsPtlmg"
+    },
+    {
+      "id": "esim-mobile-usims-free-tutorial",
+      "title": "不支持eSIM的国产手机，白嫖法国USIMS永久免费流量教程",
+      "description": "法国 USIMS 这款应用，实测能领到「1G 高速 + 用完无限 128kbps」的永久免费流量，而且你的手机不需要原生支持 eSIM——先用模块把手机伪装成支持 eSIM，再通过虚拟框架把应用装进去，就能拿到 eSIM 二维码，扫进小白卡正常使用",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "USIMS",
+        "eSIM",
+        "免费流量",
+        "白嫖流量",
+        "虚拟eSIM"
+      ],
+      "publishedAt": "2026-09-20T09:01:22.000Z",
+      "updatedAt": "2026-09-20T09:01:22.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/esim-mobile-usims-free-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-mobile-usims-free-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=GM-kNpYAUVI"
+    },
+    {
+      "id": "esim-voxi",
+      "title": "VOXI eSIM 免费领取与激活全攻略，需要edu学生教育邮箱",
+      "description": "VOXI eSIM，作为Vodafone旗下的创新品牌，为学生党带来了无需KYC、无需开卡费的英国手机卡新选择。本文将手把手教你如何利用教育邮箱免费领取VOXI eSIM，并详细指导激活、eSIM安装、号码查询以及最重要的保号策略。无论你是需要一个英国本地号码用于注册海外服务，还是希望享受零月租的便捷通讯，这篇2025",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "eSIM",
+        "免费资源"
+      ],
+      "publishedAt": "2025-08-09T06:30:22.000Z",
+      "updatedAt": "2025-08-09T06:30:22.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/esim-voxi/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-voxi.md",
+      "videoUrl": null
+    },
+    {
+      "id": "folder-enp",
+      "title": "文件夹加密保护指南2025：保护您的敏感数据安全 | 完整教程",
+      "description": "详细介绍如何使用各种工具和方法对文件夹进行加密保护，确保您的敏感数据安全。包含Windows、Mac和Linux系统的加密方案，以及最佳实践建议。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "数据安全",
+        "效率工具"
+      ],
+      "publishedAt": "2025-02-07T01:56:44.000Z",
+      "updatedAt": "2025-02-07T01:56:44.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/folder-enp/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/folder-enp.md",
+      "videoUrl": null
+    },
+    {
+      "id": "free-20-kiro-pro-claude-opus-4-7",
+      "title": "免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7",
+      "description": "手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Kiro Pro 免费会员",
+        "Claude Opus 4.7",
+        "免费AI模型",
+        "Kiro注册教程",
+        "AI工具推荐"
+      ],
+      "publishedAt": "2026-05-12T05:36:56.000Z",
+      "updatedAt": "2026-05-12T06:32:27.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-20-kiro-pro-claude-opus-4-7/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-20-kiro-pro-claude-opus-4-7.md",
+      "videoUrl": "https://www.youtube.com/watch?v=NlYVZjOBkOw"
+    },
+    {
+      "id": "free-domain-cloudflare-tutorial",
+      "title": "永久免费域名注册绑定全攻略🌐 无需信用卡，完美挂靠Cloudflare，建站/搭节点必备，且可商业化！(一个邮箱白嫖6个) | 零基础喂饭教程",
+      "description": "目前全网好用的永久免费域名注册方案！不需要绑定任何信用卡，仅需一个常用邮箱，就能一次性注册6个免费域名。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "域名",
+        "Cloudflare",
+        "教程",
+        "网赚项目",
+        "技术交流"
+      ],
+      "publishedAt": "2026-02-22T23:55:57.000Z",
+      "updatedAt": "2026-02-22T23:55:57.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/free-domain-cloudflare-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-domain-cloudflare-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=fdIJzHVxevA"
+    },
+    {
+      "id": "free-domain-d53",
+      "title": "薅羊毛新姿势！DNSHE 永久免费域名申请和cloudflare 手把手接入教程",
+      "description": "还在为域名费用发愁？DNSHE为全球开发者、学生和开源爱好者提供免费域名服务，无需信用卡，支持全类型DNS记录解析，让你的项目即时上线。本文详细讲解如何利用DNSHE免费注册域名，并手把手教你将其无缝集成到Cloudflare，享受CDN加速和安全防护。快速搭建你的个人网站、博客或开源项目，彻底告别高昂的域名和托管费用",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "域名",
+        "Cloudflare",
+        "建站",
+        "开源项目",
+        "开发工具"
+      ],
+      "publishedAt": "2026-01-27T15:30:00.000Z",
+      "updatedAt": "2026-01-27T15:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-domain-d53/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-domain-d53.md",
+      "videoUrl": "https://www.youtube.com/watch?v=49cnfnvQxBU"
+    },
+    {
+      "id": "free-edu-apply-tutorial",
+      "title": "2026最新免费.edu教育邮箱！帕克大学申请保姆教程，手慢无",
+      "description": "整理帕克大学 .edu 教育邮箱的申请入口、资料填写、邮箱激活和结果验证步骤，并提示活动资格与开放状态可能随时调整。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "edu邮箱",
+        "免费教育邮箱",
+        "帕克大学",
+        "park university",
+        "留学生"
+      ],
+      "publishedAt": "2026-06-28T03:28:53.000Z",
+      "updatedAt": "2026-06-28T03:28:53.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-edu-apply-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-edu-apply-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ceKs7zgfBi8"
+    },
+    {
+      "id": "free-gpt-55tutorial-cpa--cc-switch--claude-code--s",
+      "title": "免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略",
+      "description": "从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "AI工具",
+        "VPN",
+        "VPS"
+      ],
+      "publishedAt": "2026-05-07T12:40:35.000Z",
+      "updatedAt": "2026-05-07T12:40:35.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-gpt-55tutorial-cpa--cc-switch--claude-code--s/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md",
+      "videoUrl": "https://www.youtube.com/watch?v=cEdCN_cY8mI"
+    },
+    {
+      "id": "free-hr-ai-tools-0-offer",
+      "title": "🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机",
+      "description": "今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-04-01T14:46:52.000Z",
+      "updatedAt": "2026-04-01T14:46:52.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-hr-ai-tools-0-offer/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-hr-ai-tools-0-offer.md",
+      "videoUrl": "https://www.youtube.com/watch?v=GUAAtdzi__c"
+    },
+    {
+      "id": "free-mobile-kyc-tutorial",
+      "title": "限时免费获取沃达丰英国手机号！不需KYC，手把手保姆教程，手慢无",
+      "description": "介绍 Vodafone UK 限时手机号活动的申请条件、页面操作、金额确认、邮件激活和结果验证，并提示地区、资格与活动时效限制。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "沃达丰",
+        "Vodafone",
+        "英国手机号",
+        "免费SIM卡",
+        "eSIM"
+      ],
+      "publishedAt": "2026-06-14T13:12:16.000Z",
+      "updatedAt": "2026-06-14T13:12:16.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-mobile-kyc-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-mobile-kyc-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=3vk8vxaJZys"
+    },
+    {
+      "id": "free-super-grok-tutorial-amazon-pay",
+      "title": "免费白嫖Super Grok一年会员全流程保姆级教程！Amazon Pay上车亲测有效",
+      "description": "Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟信用卡白嫖SuperGrok一年会员，亲测有效。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "AI工具",
+        "跨境支付"
+      ],
+      "publishedAt": "2026-04-03T15:06:00.000Z",
+      "updatedAt": "2026-04-03T15:06:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-super-grok-tutorial-amazon-pay/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-super-grok-tutorial-amazon-pay.md",
+      "videoUrl": "https://www.youtube.com/watch?v=lQHwsrVYD9I"
+    },
+    {
+      "id": "free-vps",
+      "title": "2025年全球免费VPS白嫖指南（16个免费服务器资源大盘点）",
+      "description": "这是一份最全的全球免费VPS（虚拟专用服务器）申请指南。本文详细盘点了包括Oracle Cloud（甲骨文云）、Google Cloud（GCP）、AWS、Azure在内的16个提供永久免费或长期试用的云服务器资源。内容涵盖每个VPS的特点、申请要求、注意事项以及直达申请链接。无论你是想学习Linux、搭建个人博客、测",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "VPS",
+        "教程"
+      ],
+      "publishedAt": "2025-07-10T15:00:00.000Z",
+      "updatedAt": "2025-07-10T15:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/free-vps/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-vps.md",
+      "videoUrl": null
+    },
+    {
+      "id": "gcp-free-vps-cdn-bypass-part3",
+      "title": "🔥GCP谷歌云永久免费新玩法（三）！开通及部署一键脚本，实战操练课程（小白喂饭级）",
+      "description": "这篇文章整理了 GCP 谷歌云永久免费系列第三期的完整实操内容，包括 CDN 扣费原理、节点部署、dae 分流、代理链路、防火墙配置和相关资源链接。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "VPS",
+        "网络工具"
+      ],
+      "publishedAt": "2026-03-06T16:00:00.000Z",
+      "updatedAt": "2026-03-06T16:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/gcp-free-vps-cdn-bypass-part3/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gcp-free-vps-cdn-bypass-part3.md",
+      "videoUrl": "https://www.youtube.com/watch?v=88gyLp02bbI"
+    },
+    {
+      "id": "gcpfreedeploy-config",
+      "title": "🔥GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级",
+      "description": "详细教程：GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级，涵盖视频教程等知识点",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-02-20T11:56:47.000Z",
+      "updatedAt": "2026-02-20T11:56:47.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/gcpfreedeploy-config/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gcpfreedeploy-config.md",
+      "videoUrl": "https://www.youtube.com/watch?v=mb77KAfXOVg"
+    },
+    {
+      "id": "gcpfreedeploydeploytest-20260222-141058",
+      "title": "🔥GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级",
+      "description": "详细教程：GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级，涵盖视频教程等知识点",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-02-22T06:10:58.000Z",
+      "updatedAt": "2026-02-22T06:10:58.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/gcpfreedeploydeploytest-20260222-141058/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gcpfreedeploydeploytest-20260222-141058.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Tml8qPNAELI"
+    },
+    {
+      "id": "gemini-pro-sheerid-tutorial",
+      "title": "Gemini Pro掉权益别慌！SheerID认证申诉全流程手把手教程",
+      "description": "介绍 Gemini Pro 学生权益失效后的 SheerID 重新认证与申诉流程，包含材料准备、提交步骤、结果确认和常见失败原因。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Gemini Pro",
+        "SheerID认证",
+        "学生认证",
+        "Google Gemini",
+        "Gemini Pro学生权益"
+      ],
+      "publishedAt": "2026-05-22T16:18:14.000Z",
+      "updatedAt": "2026-05-22T16:18:14.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/gemini-pro-sheerid-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gemini-pro-sheerid-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=c2kQEDI8l38"
+    },
+    {
+      "id": "gfw-tutorial-principle-bypass-safety",
+      "title": "【小白必看】绝密翻墙科普：1小时懂GFW原理、主流协议、安全防泄漏",
+      "description": "很多人翻墙就像盲人摸象，复制别人给的配置，一失效就抓瞎。这个视频不是为了给你提供免费订阅，而是为了把抽象的技术对抗还原成底层的运行逻辑。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "VPN",
+        "网络安全"
+      ],
+      "publishedAt": "2026-04-19T10:30:00.000Z",
+      "updatedAt": "2026-04-19T10:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/gfw-tutorial-principle-bypass-safety/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gfw-tutorial-principle-bypass-safety.md",
+      "videoUrl": "https://www.youtube.com/watch?v=FJAI17VsvgM"
+    },
+    {
+      "id": "giffgaff-5-10-tutorial",
+      "title": "Giffgaff 退款教程！5天内10英镑到账，附退款申诉邮件模板",
+      "description": "介绍 Giffgaff 停用账号或不再使用服务时申请余额退款的条件、操作步骤和英文申诉模板，并说明处理时间与到账验证方法。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "Giffgaff退款",
+        "Giffgaff教程",
+        "英国手机卡",
+        "海外手机卡退款"
+      ],
+      "publishedAt": "2026-07-28T16:04:35.000Z",
+      "updatedAt": "2026-07-28T16:04:35.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-5-10-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-5-10-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=2aJ1DxIOHz4"
+    },
+    {
+      "id": "giffgaff-apply-voxi-ctexcel-tutorial",
+      "title": "GiffGaff携号转网及申请余额退款全流程手把手教程VOXI/CTExcel双方案",
+      "description": "本视频手把手教你完整携号转网流程，从获取PAC码到转入VOXI或CTExcel UK，再到申请退还GiffGaff账户余额，每一步都有实操演示",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "携号转网",
+        "VOXI",
+        "CTExcel",
+        "英国手机卡"
+      ],
+      "publishedAt": "2026-07-28T07:38:44.000Z",
+      "updatedAt": "2026-07-28T07:38:44.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-apply-voxi-ctexcel-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-apply-voxi-ctexcel-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=eMz8HW1dPzk"
+    },
+    {
+      "id": "giffgaff-card-1-0-5-tutorial-free",
+      "title": "🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址",
+      "description": "本视频详细介绍🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址，帮助你快速了解和掌握相关知识点。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-03-25T13:37:02.000Z",
+      "updatedAt": "2026-03-25T13:37:02.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-card-1-0-5-tutorial-free/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-card-1-0-5-tutorial-free.md",
+      "videoUrl": "https://www.youtube.com/watch?v=FKwp0lBB2ZU"
+    },
+    {
+      "id": "giffgaff-guide-ombudsman",
+      "title": "Giffgaff封号退款维权终极指南｜英国Ombudsman仲裁，倒逼官方退钱！",
+      "description": "介绍 Giffgaff 封号或退款争议升级至英国 Communications Ombudsman 的完整流程，包含 deadlock letter 申请、证据整理和申诉模板。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "Giffgaff封号",
+        "Giffgaff退款",
+        "Ombudsman仲裁",
+        "英国通信仲裁"
+      ],
+      "publishedAt": "2026-07-29T03:34:19.000Z",
+      "updatedAt": "2026-07-29T03:34:19.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-guide-ombudsman/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-guide-ombudsman.md",
+      "videoUrl": "https://www.youtube.com/watch?v=CVqW_WXLMO0"
+    },
+    {
+      "id": "giffgaff-lebara-20-tutorial",
+      "title": "Giffgaff封号不要慌！携号转网Lebara 一年不到20元保住英国号手把手喂饭教程",
+      "description": "本视频手把手教你把英国号携号转网到Lebara，一年保号成本不到20元人民币。包含适用条件、操作步骤、结果验证和常见问题。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "Lebara",
+        "携号转网",
+        "英国手机卡",
+        "eSIM"
+      ],
+      "publishedAt": "2026-08-11T15:27:37.000Z",
+      "updatedAt": "2026-08-11T15:27:37.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-lebara-20-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-lebara-20-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=c9e3gmjXc8k"
+    },
+    {
+      "id": "giffgaff-ofcom",
+      "title": "Giffgaff 封号退款被拒？余额捐慈善 + 向 Ofcom 投诉全攻略第四期",
+      "description": "Giffgaff 封号退款被拒？余额被捐慈善？教你向 Ofcom 投诉拿回余额的完整流程：携号转网、申诉邮件模板、Ombudsman 仲裁实战全攻略。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "封号",
+        "退款",
+        "余额捐赠",
+        "短信捐款"
+      ],
+      "publishedAt": "2026-07-30T05:54:26.000Z",
+      "updatedAt": "2026-07-30T05:54:26.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-ofcom/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-ofcom.md",
+      "videoUrl": "https://www.youtube.com/watch?v=bjCo7tkK2iE"
+    },
+    {
+      "id": "giffgaff-sim-card-esim-tutorial",
+      "title": "giffgaff英国SIM卡激活+转eSIM完整教程｜手把手教你保号神卡",
+      "description": "介绍 Giffgaff 英国 SIM 卡从激活、充值、套餐选择到转换 eSIM 的完整流程，并说明设备兼容、保号、漫游和使用限制。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "英国SIM卡",
+        "eSIM",
+        "保号卡",
+        "英国旅游"
+      ],
+      "publishedAt": "2026-06-01T09:43:29.000Z",
+      "updatedAt": "2026-06-01T09:43:29.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-sim-card-esim-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-sim-card-esim-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=MbMU5jVCwr8"
+    },
+    {
+      "id": "giffgaff-voxi-wifi-calling-tutorial",
+      "title": "Giffgaff携号转网VOXI教程：无需WiFi Calling，国行安卓也能轻松搞定第六期",
+      "description": "本期教你从Giffgaff携号转网到英国沃达丰VOXI，全程无需WiFi Calling，国行安卓使用Xesim激活eSIM，手把手APN设置教程",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "VOXI",
+        "携号转网",
+        "Vodafone",
+        "英国手机卡"
+      ],
+      "publishedAt": "2026-08-13T08:13:11.000Z",
+      "updatedAt": "2026-08-13T08:13:11.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-voxi-wifi-calling-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-voxi-wifi-calling-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=2guMwlnoSjE"
+    },
+    {
+      "id": "giffgaff-wi-fi-calling-3-tutorial",
+      "title": "Giffgaff最新Wi-Fi Calling开启教程｜国内激活免漫游费，保号成本降低3倍",
+      "description": "1磅，充值10英镑有20年保号，立马变成60年保号 这期，我们将Giffgaff最新开启Wi-Fi Calling教程，开启后让您的使用成本变得更低，保号成本降低3倍，开卡10欧，由20年保号变为保号60年 1",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Giffgaff",
+        "Wi-Fi Calling",
+        "英国手机卡",
+        "保号",
+        "eSIM"
+      ],
+      "publishedAt": "2026-05-29T02:59:42.000Z",
+      "updatedAt": "2026-05-29T02:59:42.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/giffgaff-wi-fi-calling-3-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff-wi-fi-calling-3-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Dmu4lwRyro8"
+    },
+    {
+      "id": "giffgaff",
+      "title": "英国giffgaff实体SIM卡激活使用全攻略",
+      "description": "本文详细介绍了英国giffgaff实体SIM卡的激活步骤、资费详情、保号方法以及eSIM转换教程。无论你是留学生、旅行者还是需要海外号码的用户，这篇2025年最新指南都能帮助你轻松搞定giffgaff手机卡的使用，解决常见问题，并掌握保号技巧。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "eSIM",
+        "账号管理"
+      ],
+      "publishedAt": "2025-08-03T06:30:22.000Z",
+      "updatedAt": "2025-08-03T06:30:22.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/giffgaff/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/giffgaff.md",
+      "videoUrl": null
+    },
+    {
+      "id": "github-10-free-pro-ai-tools-tutorial",
+      "title": "GitHub学生认证10分钟速通教程｜免费领Pro包年+AI工具",
+      "description": "演示 GitHub Student 学生认证的材料准备、网络与设备配合、提交和复核流程，以及认证后领取 Pro 和开发者工具权益的方法。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "GitHub学生认证",
+        "GitHub Education",
+        "学生开发者包",
+        "GitHub Pro免费",
+        "编程福利"
+      ],
+      "publishedAt": "2026-05-17T14:34:51.000Z",
+      "updatedAt": "2026-05-17T14:34:51.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/github-10-free-pro-ai-tools-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/github-10-free-pro-ai-tools-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=rDcs1BRd4lM"
+    },
+    {
+      "id": "global-payment-wise-vs-stripe-guide",
+      "title": "手把手教你填写invoice，出海收款零损耗攻略，别踩坑！Stripe扣我12美金，Wise竟然零损耗？",
+      "description": "出海接单收款手续费太高？本教程实测同样收300美金，Wise如何实现零损耗，而Stripe却扣了12美金。保姆级国际发票（Invoice）开具全流程，拆解跨境收款省钱秘籍，小白必看！",
+      "category": [
+        "跨境收款"
+      ],
+      "tags": [
+        "跨境支付",
+        "Wise",
+        "Stripe"
+      ],
+      "publishedAt": "2026-03-11T12:23:29.000Z",
+      "updatedAt": "2026-03-11T12:23:29.000Z",
+      "blogUrl": "https://869hr.uk/2026/uncategorized/global-payment-wise-vs-stripe-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/global-payment-wise-vs-stripe-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=U92xQN0P-5s"
+    },
+    {
+      "id": "google-account-no-phone",
+      "title": "2025年最新在中国大陆注册Gmail的办法：如何跳过手机号验证",
+      "description": "还在为注册Gmail需要手机号验证而头疼吗？本文为你带来2025年在中国大陆注册Gmail的最新实测方法，重点揭秘如何通过优化网络环境（高纯净度IP、低欺诈值）和浏览器设置（Chrome无痕模式、英文语言）来巧妙跳过手机号验证。详细步骤和IP检测工具推荐，让你轻松拥有自己的Gmail账号，告别繁琐验证！这篇教程将手把手",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "邮箱",
+        "账号注册",
+        "教程"
+      ],
+      "publishedAt": "2025-02-27T15:30:00.000Z",
+      "updatedAt": "2025-02-27T15:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/google-account-no-phone/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-account-no-phone.md",
+      "videoUrl": null
+    },
+    {
+      "id": "google-change-country-area",
+      "title": "Google账号换国家或换区域大法：轻松解锁海外服务与优惠",
+      "description": "还在为Google账号的地区限制烦恼吗？想体验特定区域的Google服务、应用或优惠（比如传说中的Google One学生优惠）？本文将手把手教你如何通过官方渠道申请修改Google账号的国家或地区。从准备工作到填写申请表单的“小技巧”，再到与Google",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "教程",
+        "账号管理",
+        "海外应用",
+        "故障处理"
+      ],
+      "publishedAt": "2025-06-29T14:30:00.000Z",
+      "updatedAt": "2025-06-29T14:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/google-change-country-area/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-change-country-area.md",
+      "videoUrl": null
+    },
+    {
+      "id": "google-gemini-pixel-pro-free-tutorial",
+      "title": "Google Gemini Pixel一年Pro免费领取，手把手教程",
+      "description": "介绍通过符合条件的 Google Pixel 权益领取一年 Gemini Pro 的验证入口、操作步骤和订阅确认方法，并说明资格与地区限制。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Google Gemini",
+        "Gemini Pro",
+        "Pixel验证",
+        "免费订阅",
+        "教程"
+      ],
+      "publishedAt": "2026-05-23T15:08:47.000Z",
+      "updatedAt": "2026-05-23T15:08:47.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/google-gemini-pixel-pro-free-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-gemini-pixel-pro-free-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=UfiAHUi8yN8"
+    },
+    {
+      "id": "google-gemini-students2",
+      "title": "2025最新Gemini Pro学生认证薅羊毛教程及教育邮箱二验教程 | 无需学校资料快速通过验证",
+      "description": "本文详细介绍2025年最新Gemini Pro学生认证方法，无需填写真实学校资料，通过1key.me网站快速解析验证链接即可通过认证。包含完整步骤说明、注意事项、网络环境要求以及信用卡绑定指南，适合所有想要免费延长Gemini Pro使用期限的用户。",
+      "category": [
+        "ai"
+      ],
+      "tags": [
+        "Google",
+        "免费资源",
+        "AI工具"
+      ],
+      "publishedAt": "2025-08-07T14:20:00.000Z",
+      "updatedAt": "2025-08-07T14:20:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/ai/google-gemini-students2/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-gemini-students2.md",
+      "videoUrl": null
+    },
+    {
+      "id": "google-idx-vps-register",
+      "title": "Google免费高配云主机震撼来袭！16核64G内存300G硬盘，视频教程（一）",
+      "description": "震惊！Google 推出 Project IDX 免费云开发环境，配置高达16核CPU、64GB内存、300GB硬盘，实测网络速度惊人，下载轻松突破4000MB/s。本文将带你一探究竟，看看这台“白嫖神机”是否能满足你“学习研究”的需求，并附上搭建节点的测试过程。这羊毛不薅，简直对不起咱这颗爱折腾的心！",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "Google",
+        "VPS"
+      ],
+      "publishedAt": "2025-05-10T15:30:00.000Z",
+      "updatedAt": "2025-05-10T15:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/google-idx-vps-register/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-idx-vps-register.md",
+      "videoUrl": "https://www.youtube.com/watch?v=YE-IKZ3fM2s"
+    },
+    {
+      "id": "google-idx-vps-register2",
+      "title": "Google IDX永久免费主机VPS创建及永久隧道视频教程（二）",
+      "description": "还在为Google IDX免费VPS的24小时URL过期烦恼吗？本教程是系列第二篇，紧接上一篇的VPS创建，手把手教你利用强大的Cloudflare Zero Trust服务为你的IDX免费VPS搭建一条永久隧道。这意味着你的VPS将拥有一个固定的域名，不再受24小时URL失效的困扰。文章详细讲解了如何在Cloudfl",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "VPS",
+        "Google",
+        "Cloudflare"
+      ],
+      "publishedAt": "2025-05-11T05:30:00.000Z",
+      "updatedAt": "2025-05-11T05:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/google-idx-vps-register2/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-idx-vps-register2.md",
+      "videoUrl": "https://www.youtube.com/watch?v=49122fgdhvA"
+    },
+    {
+      "id": "google-one-gemini-students",
+      "title": "Google one (Gemini Advanced) 学生15个月免费优惠领取指南",
+      "description": "Google 正在为符合条件的美国学生提供一项福利：免费获得 15 个月的 Google One AI Premium 订阅。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "Google"
+      ],
+      "publishedAt": "2025-05-03T04:12:17.077Z",
+      "updatedAt": "2025-05-03T04:12:17.077Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/google-one-gemini-students/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-one-gemini-students.md",
+      "videoUrl": null
+    },
+    {
+      "id": "gpt-business-48",
+      "title": "GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！",
+      "description": "GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！教程，整理核心步骤、配置方法、常见问题和参考链接。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "GPT Business",
+        "ChatGPT Team",
+        "优惠码",
+        "GPT优惠",
+        "ChatGPT优惠"
+      ],
+      "publishedAt": "2026-05-17T08:25:08.000Z",
+      "updatedAt": "2026-05-17T08:25:08.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/gpt-business-48/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gpt-business-48.md",
+      "videoUrl": "https://www.youtube.com/watch?v=IpT9LHLLVyE"
+    },
+    {
+      "id": "gpt-plus-turkey-apple-gift-card-tutorial",
+      "title": "GPT Plus太贵？教你用土区礼品卡超低价订阅！国内手机号可注册，无需海外信用卡（附3大购卡渠道对比）",
+      "description": "最近ChatGPT Plus特惠途径几乎覆没，美区20美元有些小贵？本教程教你通过土耳其区Apple ID+礼品卡方式，只需约78元人民币轻松订阅GPT Plus！零门槛，国内手机号即可注册，部分渠道直接支持支付宝付款，无需海外信用卡。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT",
+        "教程",
+        "跨境支付"
+      ],
+      "publishedAt": "2026-05-04T12:40:00.000Z",
+      "updatedAt": "2026-05-04T12:40:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/gpt-plus-turkey-apple-gift-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gpt-plus-turkey-apple-gift-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=-oft6v82Nv0"
+    },
+    {
+      "id": "gpt-pro-low-price-subscription-tutorial",
+      "title": "GPT Pro 超低价手把手小白订阅教程 20x 150U / 5x 88U",
+      "description": "OpenAI GPT Pro 20x 实付 149.55 美元约 1035 元，Pro 5x 实付 88 美元约 603 元。脚本免 IP 直达菲律宾区和埃及区低价支付页面，支持 Fiat24、N26 等卡种，小白也能轻松操作。",
+      "category": [
+        "ai"
+      ],
+      "tags": [
+        "ChatGPT",
+        "教程",
+        "跨境支付",
+        "AI工具"
+      ],
+      "publishedAt": "2026-05-02T11:20:00.000Z",
+      "updatedAt": "2026-05-02T11:20:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/AI/gpt-pro-low-price-subscription-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/gpt-pro-low-price-subscription-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=N5qh78XZXoI"
+    },
+    {
+      "id": "handwriting-generation",
+      "title": "免费在线手写文字生成器，代写神器，脱离写作业的痛苦 - 支持自定义字体和背景图片",
+      "description": "推荐一款支持自定义字体和背景的在线手写文字生成工具，可自由调节文字间距、墨水浓度等参数，自动生成带横线的练习纸背景，支持从PDF/Word中提取文本，提供实时预览功能，最终可导出高清图片压缩包或PDF文档，满足学生笔记、个性签名、创意设计等多样化需求。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "效率工具"
+      ],
+      "publishedAt": "2025-03-05T15:23:09.731Z",
+      "updatedAt": "2025-03-05T15:23:09.731Z",
+      "blogUrl": "https://869hr.uk/2025/tools/handwriting-generation/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/handwriting-generation.md",
+      "videoUrl": null
+    },
+    {
+      "id": "ifast-uk-digital-bank-guide",
+      "title": "iFAST英国数字银行在线开户：活期4%高息，0门槛0管理费，支持身份证/护照，出海收付款，港美股出入金神器！保姆级教程！",
+      "description": "手把手带你申请iFAST英国数字银行，0门槛无管理费，活期高达4%年化利率，支持国内身份证/护照，完美衔接Wise和盈透证券，港美股出入金优质通道。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "跨境支付"
+      ],
+      "publishedAt": "2026-03-11T13:30:00.000Z",
+      "updatedAt": "2026-03-11T13:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/ifast-uk-digital-bank-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ifast-uk-digital-bank-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=1vZQPnBOZpc"
+    },
+    {
+      "id": "indie-dev-payment",
+      "title": "纯干货：独立开发者|独立小团队如何在一周内搞定所有的资质开始在App Store/Steam/Stripe收款",
+      "description": "详细指导独立开发者和小团队如何快速高效地完成公司注册、银行开户、邓白氏申请等流程，一周内搞定 App Store、Steam 和 Stripe 收款资质，助你快速开始创业之路。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "App Store",
+        "开发工具",
+        "iOS",
+        "跨境支付",
+        "Stripe"
+      ],
+      "publishedAt": "2025-02-05T03:41:57.000Z",
+      "updatedAt": "2025-02-05T03:41:57.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/indie-dev-payment/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/indie-dev-payment.md",
+      "videoUrl": null
+    },
+    {
+      "id": "ios-app-update-old-id",
+      "title": "iPhone更新App提示需要旧Apple ID？完整解决方案",
+      "description": "详细解答iPhone/iPad更新应用时提示需要旧Apple ID的解决方法。包括账号切换、购买历史转移、应用重新下载等多种解决方案，帮助您轻松处理iOS设备上的应用更新问题。",
+      "category": [
+        "技术支持"
+      ],
+      "tags": [
+        "iOS",
+        "App Store",
+        "Apple ID",
+        "软件安装",
+        "账号管理"
+      ],
+      "publishedAt": "2025-02-04T13:05:46.000Z",
+      "updatedAt": "2025-02-04T13:05:46.000Z",
+      "blogUrl": "https://869hr.uk/2025/support/ios-app-update-old-id/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ios-app-update-old-id.md",
+      "videoUrl": null
+    },
+    {
+      "id": "ip-check-dns",
+      "title": "推荐几个折腾常用的检查IP各种属性的网站，包括检测住宅IP、检查延迟、路由信息、伪装检测等",
+      "description": "推荐常用的IP检查工具网站，支持检测住宅IP、延迟、路由信息、伪装、风险值等多种属性，帮助您全面分析IP情况。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ip属性",
+        "网络工具",
+        "网络安全",
+        "在线工具"
+      ],
+      "publishedAt": "2025-02-07T17:35:10.000Z",
+      "updatedAt": "2025-02-07T17:35:10.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/ip-check-dns/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ip-check-dns.md",
+      "videoUrl": null
+    },
+    {
+      "id": "ip-clash-verge-v2rayn-config-guide-tutorial",
+      "title": "机场前置+落地家宽住宅IP链式代理搭建教程｜Clash Verge与V2rayN配置指南",
+      "description": "实测对比：V2rayN比Clash Verge Rev更稳定 前置节点负责提供稳定低延迟的国际出口通道，落地节点负责提供原生干净的最终出口IP",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "链式代理",
+        "机场前置",
+        "落地节点",
+        "家宽住宅IP",
+        "Clash Verge"
+      ],
+      "publishedAt": "2026-05-13T13:02:04.000Z",
+      "updatedAt": "2026-05-13T13:02:04.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/ip-clash-verge-v2rayn-config-guide-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ip-clash-verge-v2rayn-config-guide-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=VGzw5qdGubo"
+    },
+    {
+      "id": "iphone-esim-xesim-card-tutorial",
+      "title": "国行iPhone秒变eSIM！Xesim卡手把手喂饭教程，出国留学旅行必备",
+      "description": "介绍国行 iPhone 使用 Xesim 实体载体管理 eSIM 的准备条件、写卡、套餐下载和切换流程，并说明兼容机型与出行使用限制。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Xesim",
+        "eSIM",
+        "国行iPhone eSIM",
+        "iPhone eSIM",
+        "出国上网"
+      ],
+      "publishedAt": "2026-06-07T13:37:50.000Z",
+      "updatedAt": "2026-06-07T13:37:50.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/iphone-esim-xesim-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/iphone-esim-xesim-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Mhd2KR8Ydo4"
+    },
+    {
+      "id": "itin-apply-card-capital-one-paypal-wise-tutorial",
+      "title": "ITIN申请美国信用卡！Capital One 免年费卡手把手教程，PayPal还款Wise全流程",
+      "description": "「成为美国云居民」系列第六期：用 ITIN 申请 Capital One 免年费信用卡，手把手覆盖预申请、正式申请、电话开卡、PayPal 绑定 Wise 还款全流程",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Capital One",
+        "ITIN",
+        "美国信用卡",
+        "免年费信用卡",
+        "PayPal还款"
+      ],
+      "publishedAt": "2026-09-27T03:01:44.000Z",
+      "updatedAt": "2026-09-27T03:01:44.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/itin-apply-card-capital-one-paypal-wise-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/itin-apply-card-capital-one-paypal-wise-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ZTr-QzLTT1c"
+    },
+    {
+      "id": "itunes-payment-support",
+      "title": "苹果支付问题解决：iTunes支持人员完整联系指南",
+      "description": "详细指导如何联系iTunes支持人员解决支付问题。包括常见支付错误的解决方案、官方支持渠道、在线客服联系方式等完整信息，帮助您快速解决App Store和iTunes的支付困扰。",
+      "category": [
+        "技术支持"
+      ],
+      "tags": [
+        "苹果",
+        "iOS",
+        "跨境支付",
+        "App Store",
+        "苹果支付"
+      ],
+      "publishedAt": "2025-02-04T13:05:46.000Z",
+      "updatedAt": "2025-02-04T13:05:46.000Z",
+      "blogUrl": "https://869hr.uk/2025/support/itunes-payment-support/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/itunes-payment-support.md",
+      "videoUrl": null
+    },
+    {
+      "id": "jianli",
+      "title": "✨ Magic Resume ✨ 免费在线简历制作神器，多套模板让你的简历像魔法一样吸引HR！",
+      "description": "还在为简历发愁？Magic Resume 是一款免费的在线简历编辑器，基于Next.js和Framer Motion构建，拥有炫酷动画和自定义主题，支持实时预览和PDF导出。更有AI辅助编写等路线图，让你的简历制作事半功倍，轻松斩获心仪Offer！",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "在线工具",
+        "效率工具",
+        "AI工具",
+        "免费资源"
+      ],
+      "publishedAt": "2025-03-02T02:30:00.000Z",
+      "updatedAt": "2025-03-02T02:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/jianli/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/jianli.md",
+      "videoUrl": null
+    },
+    {
+      "id": "jianying",
+      "title": "剪映破解绿色版：全面解析与使用指南 | 技术教程",
+      "description": "详细介绍剪映破解绿色版的功能、使用方法及注意事项，帮助用户安全合法地使用软件，包含下载链接、安装步骤和详细教程。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "剪映",
+        "教程",
+        "软件安装",
+        "效率工具",
+        "无需安装"
+      ],
+      "publishedAt": "2025-02-07T01:56:44.000Z",
+      "updatedAt": "2025-02-07T01:56:44.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/jianying/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/jianying.md",
+      "videoUrl": null
+    },
+    {
+      "id": "kitesim-mobile-esim-tutorial",
+      "title": "KiteSim免实名实体手机号教程：美国/加拿大/英国号码+接码+保号+eSIM流量一站式开通",
+      "description": "KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开通美国、加拿大、英国独享实体号码，号码干净不触发风控，支持长期续费保号、随时接收短信验证码，注册海外服务更安全",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "KiteSim",
+        "实体手机号",
+        "免实名",
+        "接码",
+        "短信验证码"
+      ],
+      "publishedAt": "2026-08-27T05:03:12.000Z",
+      "updatedAt": "2026-08-27T05:03:12.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/kitesim-mobile-esim-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/kitesim-mobile-esim-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=KA4kd5bRgh8"
+    },
+    {
+      "id": "line-register",
+      "title": "没有手机号如何注册Line？注册LINE需要手机号？无法注册LINE？电脑端无法登录LINE？阉割版LINE无法添加好友、创建群组、发送消息？",
+      "description": "随着跨境电商市场的蓬勃发展，有效的客户沟通途径成为商家们关注的焦点。LINE，这一流行于亚洲的即时通讯工具，已逐渐成为与海外买家建立联系的重要平台。了解如何在国内注册LINE账号对于那些需要依靠社交媒体平台获客的卖家来说很重要，下面将教大家如何注册LINE。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "line注册"
+      ],
+      "publishedAt": "2025-03-03T14:17:00.000Z",
+      "updatedAt": "2025-03-03T14:17:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/line-register/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/line-register.md",
+      "videoUrl": null
+    },
+    {
+      "id": "mac-telegram-whatsapp-app-tutorial",
+      "title": "Mac微信多开教程｜一键脚本实现双开到多开，支持Telegram、WhatsApp等所有APP",
+      "description": "Mac上实现微信双开到多开的完整教程，使用终端命令复制程序、修改标识符、重新签名，配合Automator打包成一键启动应用。支持微信、Telegram、WhatsApp等所有Mac APP多开，无需第三方软件，可升级、纯原生。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Mac微信多开",
+        "微信双开Mac",
+        "Mac多开微信",
+        "WeChat双开",
+        "macOS微信"
+      ],
+      "publishedAt": "2026-07-26T12:57:51.000Z",
+      "updatedAt": "2026-07-26T12:57:51.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/mac-telegram-whatsapp-app-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mac-telegram-whatsapp-app-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=NnfL-Uo3mHU"
+    },
+    {
+      "id": "manus-knowledge",
+      "title": "Manus全网最全资料 Manus邀请码申请手把手教程（持续更新中，收藏这一个就够了），多个网盘资源。",
+      "description": "本教程详解Manus AI全平台资料的获取方式，包含持续更新的技术白皮书、实战教程、券商研报等核心资源，提供最新邀请码申请全流程指引，助您快速掌握AI代理开发与行业应用。教程附夸克网盘资源下载地址，涵盖智能体开发全生命周期文档。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "AI工具",
+        "技术交流",
+        "免费资源",
+        "效率工具"
+      ],
+      "publishedAt": "2025-03-07T17:07:10.793Z",
+      "updatedAt": "2025-03-07T17:07:10.793Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/manus-knowledge/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/manus-knowledge.md",
+      "videoUrl": null
+    },
+    {
+      "id": "mas-software",
+      "title": "MAS - 史上最简单Windows/Office一键激活工具 | 不报毒实测",
+      "description": "推荐Microsoft Activation Scripts（MAS）这款开源Windows/Office激活工具，支持HWID/KMS38/在线KMS三种激活模式，实测不报毒且永久有效。本文提供PowerShell一键激活教程和传统安装方法，包含详细操作截图和安全验证指南。",
+      "category": [
+        "软件"
+      ],
+      "tags": [
+        "软件安装",
+        "开源项目"
+      ],
+      "publishedAt": "2025-03-05T04:28:10.845Z",
+      "updatedAt": "2025-03-05T04:28:10.845Z",
+      "blogUrl": "https://869hr.uk/2025/software/mas-software/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mas-software.md",
+      "videoUrl": null
+    },
+    {
+      "id": "maya-free-savings-visa-card-tutorial",
+      "title": "菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程",
+      "description": "菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Maya",
+        "菲律宾银行",
+        "免费开户",
+        "VISA卡",
+        "银行账单"
+      ],
+      "publishedAt": "2026-09-28T14:07:22.000Z",
+      "updatedAt": "2026-09-28T14:07:22.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/maya-free-savings-visa-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/maya-free-savings-visa-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=79OhJVQvGyc"
+    },
+    {
+      "id": "mcp-http-sse-update",
+      "title": "MCP支持流式HTTP传输协议解析：构建下一代无状态服务架构",
+      "description": "深入解析Model Context Protocol最新引入的可流式HTTP传输机制，详解其如何通过改进SSE实现无状态服务架构，对比WebSocket方案的技术选型考量，并给出三种典型服务器实现场景的工程实践方案。全文包含协议演进动机、技术优势解读及实际应用场景演示。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "网络工具",
+        "VPS"
+      ],
+      "publishedAt": "2025-03-17T19:33:37.000Z",
+      "updatedAt": "2025-03-17T19:33:37.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/mcp-http-sse-update/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mcp-http-sse-update.md",
+      "videoUrl": null
+    },
+    {
+      "id": "mcp-web4.0",
+      "title": "MCP协议：AI员工带你飞向Web4.0时代？打工人翻身做老板的秘密武器！",
+      "description": "深入解读MCP协议如何开启AI员工互联网时代，探索Agent互联网的Web4.0革命。手把手教你使用Agent浏览器，体验AI员工的强大生产力，更有未来趋势预测，助你把握时代脉搏，不被AI浪潮落下！",
+      "category": [
+        "学习",
+        "技术"
+      ],
+      "tags": [
+        "AI工具"
+      ],
+      "publishedAt": "2025-02-23T15:25:00.000Z",
+      "updatedAt": "2025-02-23T15:25:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/study/mcp-web4.0/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mcp-web4.0.md",
+      "videoUrl": "https://www.youtube.com/watch?v=D8WmBOBrgAU"
+    },
+    {
+      "id": "mobile-card-tello-5-esim-wifi-step-by-tutorial",
+      "title": "美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程",
+      "description": "几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程 6。包含适用条件、操作步骤、结果验证和常见问题。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Tello",
+        "美国手机卡",
+        "美国实体手机号",
+        "eSIM",
+        "WiFi Calling"
+      ],
+      "publishedAt": "2026-09-15T09:04:24.000Z",
+      "updatedAt": "2026-09-15T09:04:24.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/mobile-card-tello-5-esim-wifi-step-by-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=cnkK6RQ4j74"
+    },
+    {
+      "id": "mobile-free-usage-esim-beesim-saily-0-99-tutorial",
+      "title": "国内任意手机免费使用eSIM！BeeSIM蓝牙读写+Saily美国实体号月租0.99美元完整教程",
+      "description": "介绍普通手机通过 BeeSIM 蓝牙读写器使用 eSIM，并演示 Saily 美国手机号套餐的开通、写入、保号和费用核对流程。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "eSIM",
+        "BeeSIM",
+        "Saily",
+        "美国手机号",
+        "海外号码"
+      ],
+      "publishedAt": "2026-07-15T10:32:16.000Z",
+      "updatedAt": "2026-07-15T10:32:16.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/mobile-free-usage-esim-beesim-saily-0-99-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mobile-free-usage-esim-beesim-saily-0-99-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=XbYOtLjP8fo"
+    },
+    {
+      "id": "mobile-ios-shadowrocket-step-by-tutorial",
+      "title": "苹果手机iOS定位修改到世界任何地方｜Shadowrocket小火箭保姆级教程 无需越狱",
+      "description": "本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方， 无需越狱、无需电脑、无需开发者账号 。跟着一步步做即可。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "iOS定位修改",
+        "Shadowrocket",
+        "小火箭",
+        "iPhone定位",
+        "虚拟定位"
+      ],
+      "publishedAt": "2026-07-11T13:20:09.000Z",
+      "updatedAt": "2026-07-11T13:20:09.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/mobile-ios-shadowrocket-step-by-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mobile-ios-shadowrocket-step-by-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=aQdeFAPeVM8"
+    },
+    {
+      "id": "mobile-talkatone-register-virtual-tutorial",
+      "title": "零成本保号美国实体手机号！Talkatone注册教程及虚拟号检测方法",
+      "description": "手把手演示 Talkatone 注册美国手机号的准备条件、下载安装、网络环境和号码检测方法，并说明保号与虚拟号识别注意事项。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Talkatone",
+        "美国手机号",
+        "实体手机号",
+        "虚拟手机号检测",
+        "保号"
+      ],
+      "publishedAt": "2026-05-28T12:05:24.000Z",
+      "updatedAt": "2026-05-28T12:05:24.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/mobile-talkatone-register-virtual-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mobile-talkatone-register-virtual-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=3QjFYx6Mfpg"
+    },
+    {
+      "id": "n26-free-5-virtual-card-6-tutorial",
+      "title": "你有足球热吗？德国N26免费领5张足球虚拟卡！共6张永久卡号，手把手教程",
+      "description": "介绍 N26 足球主题虚拟卡活动的领取条件和操作步骤，并补充开户后地址设置、ATM 取现及日常消费费用的核对方法。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "N26",
+        "虚拟卡",
+        "足球虚拟卡",
+        "德国银行卡",
+        "N26教程"
+      ],
+      "publishedAt": "2026-06-16T03:24:16.000Z",
+      "updatedAt": "2026-06-16T03:24:16.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/n26-free-5-virtual-card-6-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/n26-free-5-virtual-card-6-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=7Vj3E3o-TPs"
+    },
+    {
+      "id": "net-disk",
+      "title": "夸克、百度等网盘非会员突破限速终极指南：Alist + RaiDrive 网盘本地化教程 | 2025最新版 | 如有自己操作疑问，欢迎文章下方留言进一步讨论",
+      "description": "还在为夸克、百度网盘等云盘的非会员限速而苦恼？本教程教你如何利用 Alist 和 RaiDrive 完美突破限速，将网盘资源挂载到本地，实现如同本地硬盘般流畅访问和管理，告别龟速下载，享受极速云盘体验！",
+      "category": [
+        "工具",
+        "教程"
+      ],
+      "tags": [
+        "效率工具",
+        "软件安装",
+        "本地部署"
+      ],
+      "publishedAt": "2025-03-02T02:30:00.000Z",
+      "updatedAt": "2025-03-02T02:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/net-disk/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/net-disk.md",
+      "videoUrl": null
+    },
+    {
+      "id": "netdisk-invite",
+      "title": "副业0成本赚钱：夸克网盘搬砖实战：上周末收益揭秘与完整教程，请收藏，文章内容会持续更新",
+      "description": "本文详细解析夸克网盘搬砖的实战操作，包含任推帮平台注册教程、资源分享技巧及收益数据查询方法。揭秘上周末单日收益成果，提供iOS/安卓双端下载链接，助你快速掌握网盘资源变现的完整链路。",
+      "category": [
+        "网赚项目"
+      ],
+      "tags": [
+        "网赚项目",
+        "免费资源"
+      ],
+      "publishedAt": "2025-03-13T15:35:31.692Z",
+      "updatedAt": "2025-03-13T15:35:31.692Z",
+      "blogUrl": "https://869hr.uk/2025/online-business/netdisk-invite/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/netdisk-invite.md",
+      "videoUrl": null
+    },
+    {
+      "id": "netdisk-resource",
+      "title": "8个超好用的网盘搜索引擎推荐 | 免费查找网盘资源神器大揭秘",
+      "description": "本文深度解析8个顶级网盘搜索引擎，涵盖皮卡搜索、奈斯搜索、学霸盘等工具，助您快速获取阿里云盘/百度网盘/夸克网盘等平台的电影、学习资料、电子书资源。包含详细功能解析和直达链接，全网资源一网打尽。",
+      "category": [
+        "网赚项目"
+      ],
+      "tags": [
+        "在线工具",
+        "免费资源"
+      ],
+      "publishedAt": "2025-03-22T06:06:58.534Z",
+      "updatedAt": "2025-03-22T06:06:58.534Z",
+      "blogUrl": "https://869hr.uk/2025/online-business/netdisk-resource/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/netdisk-resource.md",
+      "videoUrl": null
+    },
+    {
+      "id": "network-money",
+      "title": "副业0成本副业教程：尊牛微信小游戏看广告，重点是腾讯给发钱",
+      "description": "详细教程：副业0成本副业教程：尊牛微信小游戏看广告，重点是腾讯给发钱，涵盖免费资源、网赚项目等知识点",
+      "category": [
+        "网赚项目"
+      ],
+      "tags": [
+        "免费资源",
+        "网赚项目"
+      ],
+      "publishedAt": "2025-04-19T18:35:31.692Z",
+      "updatedAt": "2025-04-19T18:35:31.692Z",
+      "blogUrl": "https://869hr.uk/2025/online-business/network-money/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/network-money.md",
+      "videoUrl": null
+    },
+    {
+      "id": "network-search-resource",
+      "title": "告别新手村！老司机私藏资源搜索与下载神兵利器，速成指南🚀",
+      "description": "2025年最全面的网络资源搜索工具合集，收录上百个优质搜索引擎和资源查找工具。包括学术文献、电子书籍、影视资源、软件工具等多个领域的专业搜索平台。提供详细的使用教程、搜索技巧和效率工具推荐，帮助你快速找到需要的网络资源，提升学习和工作效率。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "网络工具",
+        "免费资源",
+        "软件安装",
+        "文件传输",
+        "效率工具"
+      ],
+      "publishedAt": "2025-02-21T01:35:28.000Z",
+      "updatedAt": "2025-02-21T01:35:28.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/network-search-resource/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/network-search-resource.md",
+      "videoUrl": null
+    },
+    {
+      "id": "nthlink",
+      "title": "Nethlink网络工具全面指南 | 功能、下载及使用教程",
+      "description": "最新NthLink完整使用教程，包含Windows/iOS/Android全平台详细安装配置指南。提供多个官方下载地址、稳定节点推荐和性能优化方案。包括付费套餐对比、速度测试报告和常见问题解决方法。适合新手的图文教程，手把手教你配置，还有进阶使用技巧和安全防护建议，让你轻松实现全球网络访问。",
+      "category": [
+        "软件"
+      ],
+      "tags": [
+        "网络工具",
+        "网络安全"
+      ],
+      "publishedAt": "2025-02-13T21:54:30.000Z",
+      "updatedAt": "2025-02-13T21:54:30.000Z",
+      "blogUrl": "https://869hr.uk/2025/software/nthlink/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/nthlink.md",
+      "videoUrl": null
+    },
+    {
+      "id": "ollama-gguf",
+      "title": "如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程",
+      "description": "详细教程：如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程，涵盖LLM、AI工具、本地部署等知识点",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "LLM",
+        "AI工具",
+        "本地部署"
+      ],
+      "publishedAt": "2025-02-07T17:23:57.000Z",
+      "updatedAt": "2025-02-07T17:23:57.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/ollama-gguf/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ollama-gguf.md",
+      "videoUrl": null
+    },
+    {
+      "id": "online-share-tool",
+      "title": "PairDrop使用指南2025：免费无需安装的跨平台文件传输神器 | 附其他工具推荐",
+      "description": "精选2025年最实用的在线文件分享工具，支持大文件传输、临时存储和加密分享等多种功能。包含详细的平台对比、速度测试报告和安全性评估。提供不同场景下的最佳工具推荐，包括商业应用和个人使用建议。特别关注数据安全和隐私保护，助你安全高效地完成文件分享任务。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "文件传输",
+        "PairDrop",
+        "在线工具",
+        "效率工具",
+        "跨平台工具"
+      ],
+      "publishedAt": "2025-02-07T02:24:20.000Z",
+      "updatedAt": "2025-02-07T02:24:20.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/online-share-tool/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/online-share-tool.md",
+      "videoUrl": null
+    },
+    {
+      "id": "openai-gpt-pro-5x-5-compare-vs-guide",
+      "title": "OpenAI GPT Pro 5x 怎么买最省钱？5大渠道全对比｜官方 vs 低价代充终极指南",
+      "description": "既然都要花 ¥700+，不如自己花 10 分钟用 PockytShop 充 ¥685，零中间商零风险 GPT Pro 5x 到底怎么买最划算",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "GPT Pro 5x",
+        "OpenAI",
+        "ChatGPT",
+        "购买教程",
+        "低价渠道"
+      ],
+      "publishedAt": "2026-05-29T11:42:42.000Z",
+      "updatedAt": "2026-05-29T11:42:42.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/openai-gpt-pro-5x-5-compare-vs-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/openai-gpt-pro-5x-5-compare-vs-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=_eKgRtqpTYg"
+    },
+    {
+      "id": "openclaw-ai-youmind",
+      "title": "用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！🤖",
+      "description": "详细教程：用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！，涵盖视频教程等知识点",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-02-19T01:57:41.000Z",
+      "updatedAt": "2026-02-19T01:57:41.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/openclaw-ai-youmind/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/openclaw-ai-youmind.md",
+      "videoUrl": "https://www.youtube.com/watch?v=qqWcNFEIyRQ"
+    },
+    {
+      "id": "openclaw-tg-topics--ai-config",
+      "title": "🔥 OpenClaw火力，利用TG Topics实现多任务高并发：任务同时下发，告别AI反应慢 小白喂饭级配置",
+      "description": "本期视频解决OpenClaw最大的痛点：AI反应慢卡住后续任务。想同时安排十件事？用Telegram Topics功能开启OpenClaw的\"多线程并发\"模式，让一个群变成你的千军万马指挥部。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-02-07T11:50:59.000Z",
+      "updatedAt": "2026-02-07T11:50:59.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/openclaw-tg-topics--ai-config/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/openclaw-tg-topics--ai-config.md",
+      "videoUrl": "https://www.youtube.com/watch?v=bcaSHIqxTvo"
+    },
+    {
+      "id": "oracle-vps",
+      "title": "甲骨文云永久免费VPS成功申请指南 | 详细资源配置与步骤解析",
+      "description": "2025年最新Oracle Cloud免费服务器申请教程，包含完整的注册流程、信用卡绑定技巧和服务器配置指南。详细介绍如何避免常见的审核问题，优化服务器性能，配置安全组和网络设置。提供多地区服务器测评、性能对比和使用建议，帮助你最大化利用Oracle免费服务器资源，打造自己的云端服务。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VPS"
+      ],
+      "publishedAt": "2025-02-15T06:47:17.000Z",
+      "updatedAt": "2025-02-15T06:47:17.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/oracle-vps/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/oracle-vps.md",
+      "videoUrl": "https://www.youtube.com/watch?v=aDBLhbT6esM"
+    },
+    {
+      "id": "passport-2026-process-guide",
+      "title": "2026护照办理全流程揭秘：只需跑一次，120元搞定！海外生活、留学、开户必备身份证明",
+      "description": "2026护照办理最新流程详解，覆盖预约、材料、费用、领取与海外开户/eSIM应用场景，附完整实操截图与视频说明。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "跨境支付",
+        "Wise",
+        "eSIM"
+      ],
+      "publishedAt": "2026-02-25T04:15:46.000Z",
+      "updatedAt": "2026-02-25T04:15:46.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/passport-2026-process-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/passport-2026-process-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=pfZOxCxA-OQ"
+    },
+    {
+      "id": "paypal-card-gpt-plus-tutorial",
+      "title": "PayPal无卡开通GPT Plus全流程教程｜无需信用卡｜2026最新方法",
+      "description": "介绍无需信用卡、通过 PayPal 开通 ChatGPT Plus 的完整流程，重点说明试用资格检查、账号准备、支付绑定和失败排查。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "ChatGPT Plus",
+        "PayPal支付",
+        "GPT Plus开通",
+        "无信用卡开通",
+        "ChatGPT教程"
+      ],
+      "publishedAt": "2026-05-19T16:40:07.000Z",
+      "updatedAt": "2026-05-19T16:40:07.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/paypal-card-gpt-plus-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/paypal-card-gpt-plus-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=5X30EtiQiDU"
+    },
+    {
+      "id": "pokepay-virtual-card-apply-tutorial",
+      "title": "玩转香港PokePay虚拟卡：申请开卡、充值全攻略+返现活动  零成本开卡教程",
+      "description": "本视频详细演示PokePay虚拟卡的注册、KYC身份认证、USDT充值、开卡、实体卡申请及绑定支付宝/微信全流程",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "PokePay",
+        "信用卡",
+        "香港虚拟卡",
+        "USDT充值",
+        "跨境支付"
+      ],
+      "publishedAt": "2026-06-21T05:36:00.000Z",
+      "updatedAt": "2026-06-21T05:36:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/pokepay-virtual-card-apply-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/pokepay-virtual-card-apply-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=dW8VBXdf__Q"
+    },
+    {
+      "id": "qqbot-openclaw-official-api-tutorial",
+      "title": "重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持",
+      "description": "这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "开发工具",
+        "AI工具"
+      ],
+      "publishedAt": "2026-03-07T16:00:00.000Z",
+      "updatedAt": "2026-03-07T16:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/qqbot-openclaw-official-api-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/qqbot-openclaw-official-api-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=HO3PaAUX8bs"
+    },
+    {
+      "id": "qrcode-generate",
+      "title": "微信群永久二维码生成工具指南 | 2025最新版",
+      "description": "本文详细介绍如何利用Cloudflare Workers和KV存储开发无需服务器的微信群永久二维码生成工具，支持自定义样式、密码保护和实时更新，包含完整部署教程和功能扩展建议，帮助开发者快速构建稳定的社群管理工具。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "微信",
+        "效率工具",
+        "Cloudflare",
+        "开发工具"
+      ],
+      "publishedAt": "2025-03-16T04:26:16.804Z",
+      "updatedAt": "2025-03-16T04:26:16.804Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/qrcode-generate/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/qrcode-generate.md",
+      "videoUrl": null
+    },
+    {
+      "id": "quark-github-auto-publisher-skills-v1-2-0",
+      "title": "【资源运营神器Skills】完全开源，夸克网盘+GitHub一条龙全自动发布工具 (v1.2.0)！转存、归类、TG通知、站点更新一键搞定！手把手小白教程：从转存到发布全流程",
+      "description": "夸克网盘+GitHub一条龙自动化发布工具 v1.2.0：批量转存、自动归类、多仓库落盘、Telegram 通知、触发站点构建，手把手小白教程。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "效率工具",
+        "开发工具",
+        "Telegram",
+        "Skills"
+      ],
+      "publishedAt": "2026-03-14T10:10:00.000Z",
+      "updatedAt": "2026-03-14T10:10:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/quark-github-auto-publisher-skills-v1-2-0/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/quark-github-auto-publisher-skills-v1-2-0.md",
+      "videoUrl": "https://www.youtube.com/watch?v=s1RhLDOGOfQ"
+    },
+    {
+      "id": "register-iosid-foreign",
+      "title": "注册苹果美区Apple ID帐号完整指南2025 | 无需信用卡",
+      "description": "2025最新苹果美区Apple ID注册教程，无需信用卡，详细图文步骤教你如何注册美区App Store账号，包含防封号技巧及应用购买指南。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "App Store",
+        "iOS",
+        "Apple ID",
+        "账号注册",
+        "海外应用"
+      ],
+      "publishedAt": "2025-02-07T09:03:00.000Z",
+      "updatedAt": "2025-02-07T09:03:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/register-iosid-foreign/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/register-iosid-foreign.md",
+      "videoUrl": null
+    },
+    {
+      "id": "roogoo-card-payment-tutorial",
+      "title": "只需身份证！Roogoo Card 开卡充值消费全流程手把手教程，绑定支付宝微信畅享全球消费",
+      "description": "手把手介绍 Roogoo Card 的身份证验证、开卡、稳定币充值、消费与账单检查流程，并说明绑定支付宝和微信前的注意事项。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-06-17T13:32:59.000Z",
+      "updatedAt": "2026-06-17T13:32:59.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/roogoo-card-payment-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/roogoo-card-payment-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=UPRT8d9iGJA"
+    },
+    {
+      "id": "root-virtual-card-0-mobile-100-tutorial",
+      "title": "企业微信免Root虚拟定位打卡！0成本安卓手机100%成功教程",
+      "description": "介绍基于 Android 调试 API 与地图定位 SDK 的免 Root 定位工具，涵盖安装、权限、位置选择、摇杆控制和结果验证。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "企业微信",
+        "虚拟定位",
+        "免Root",
+        "安卓打卡",
+        "影梭"
+      ],
+      "publishedAt": "2026-07-18T05:04:12.000Z",
+      "updatedAt": "2026-07-18T05:04:12.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/root-virtual-card-0-mobile-100-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/root-virtual-card-0-mobile-100-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=cs5TGzWwxpo"
+    },
+    {
+      "id": "safepal-card-register-tutorial",
+      "title": "2026国内护照开SafePal万事达卡｜保姆级注册教程",
+      "description": "介绍使用中国护照申请 SafePal 万事达卡的准备材料、App 注册、身份验证、开卡和消费流程，并提示活动、邮费及支付手续费。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "SafePal",
+        "万事达卡",
+        "境外银行卡",
+        "护照开户",
+        "虚拟卡"
+      ],
+      "publishedAt": "2026-06-02T08:13:39.000Z",
+      "updatedAt": "2026-06-02T08:13:39.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/safepal-card-register-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/safepal-card-register-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Awx-r0GtI0I"
+    },
+    {
+      "id": "safepal-gpt-wise-bank-card-tutorial",
+      "title": "SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程",
+      "description": "这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "SafePal",
+        "Wise",
+        "GPT续费",
+        "ChatGPT支付",
+        "瑞士银行卡"
+      ],
+      "publishedAt": "2026-08-10T08:11:16.000Z",
+      "updatedAt": "2026-08-10T08:11:16.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/safepal-gpt-wise-bank-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/safepal-gpt-wise-bank-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=GjMNofKikP8"
+    },
+    {
+      "id": "sam-altman-three-observations",
+      "title": "OpenAI CEO Sam Altman：三点观察解析 | AGI时代与AI经济学",
+      "description": "OpenAI CEO Sam Altman在最新博文中探讨了AGI时代和AI经济学的三大观察，分析了人工智能对社会经济的深远影响。本文详细解析了这些观察的意义，并探讨了未来可能带来的变化。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "AI",
+        "AI工具"
+      ],
+      "publishedAt": "2025-02-12T04:02:37.000Z",
+      "updatedAt": "2025-02-12T04:02:37.000Z",
+      "blogUrl": "https://869hr.uk/2025/tech/sam-altman-three-observations/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/sam-altman-three-observations.md",
+      "videoUrl": null
+    },
+    {
+      "id": "search-engine-submission",
+      "title": "全球主流搜索引擎SEO提交全攻略 | 2025终极指南",
+      "description": "本文详细解析Google、Bing、Yandex等22个国内外主流搜索引擎的网站提交方法，包含最新站长工具链接和提交技巧，助您快速提升网站在全球搜索引擎的收录率和排名，涵盖SEO优化要点和隐私型搜索引擎的覆盖策略。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "SEO"
+      ],
+      "publishedAt": "2025-03-05T14:12:17.077Z",
+      "updatedAt": "2025-03-05T14:12:17.077Z",
+      "blogUrl": "https://869hr.uk/2025/tools/search-engine-submission/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/search-engine-submission.md",
+      "videoUrl": null
+    },
+    {
+      "id": "shadowrocket-tailscale",
+      "title": "Shadowrocket更新Tailscale！代理和内网穿透终于能同时用了",
+      "description": "介绍 Shadowrocket 集成 Tailscale 后如何配置 Auth Key，让代理与内网穿透同时运行，并验证文件共享、SSH 和远程桌面连接。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Shadowrocket",
+        "Tailscale",
+        "内网穿透",
+        "远程访问",
+        "iPhone代理"
+      ],
+      "publishedAt": "2026-07-13T06:47:24.000Z",
+      "updatedAt": "2026-07-13T06:47:24.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/shadowrocket-tailscale/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/shadowrocket-tailscale.md",
+      "videoUrl": "https://www.youtube.com/watch?v=DOGtAVq9S7Q"
+    },
+    {
+      "id": "shadowsocks-guide-vpn-tools",
+      "title": "Shadowsocks 完全指南：从零开始掌握科学上网核心工具小白必看",
+      "description": "从零解释 Shadowsocks 的工作方式、与传统 VPN 的差异、常用客户端和基础配置流程，并整理连接验证与常见故障排查。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Shadowsocks",
+        "VPN",
+        "小火箭",
+        "ClashX",
+        "Shadowrocket"
+      ],
+      "publishedAt": "2026-08-02T17:20:55.000Z",
+      "updatedAt": "2026-08-02T17:20:55.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/shadowsocks-guide-vpn-tools/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/shadowsocks-guide-vpn-tools.md",
+      "videoUrl": "https://www.youtube.com/watch?v=NHCgLZNDvDw"
+    },
+    {
+      "id": "slop-introduce",
+      "title": "对决MCP的SLOP协议：以HTTP为核心的下一代AI协作框架 | 2025完全指南",
+      "description": "深度解析SLOP协议的设计理念与技术架构，揭秘其如何通过HTTP标准化接口实现AI工具的互联互通。包含GitHub开源项目地址、开发者快速接入指南以及与传统MCP协议的对比分析，助您掌握未来AI协作新范式。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "开源项目",
+        "开发工具",
+        "AI工具"
+      ],
+      "publishedAt": "2025-03-08T00:01:42.234Z",
+      "updatedAt": "2025-03-08T00:01:42.234Z",
+      "blogUrl": "https://869hr.uk/2025/tech/slop-introduce/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/slop-introduce.md",
+      "videoUrl": null
+    },
+    {
+      "id": "sound-guard-mac",
+      "title": "Sound Guard：Mac 长时间无声自动归零音量，避免突然外放的开源工具",
+      "description": "Sound Guard 是一款开源 macOS 菜单栏音量保护工具：设备长时间没有播放活动时自动将输出音量归零，并通过设备白名单、保守检测和确认式恢复降低突然外放风险。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "macOS",
+        "开源工具",
+        "菜单栏工具",
+        "音量管理",
+        "隐私保护"
+      ],
+      "publishedAt": "2026-09-14T09:20:00.000Z",
+      "updatedAt": "2026-09-14T09:20:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/sound-guard-mac/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/sound-guard-mac.md",
+      "videoUrl": null
+    },
+    {
+      "id": "stripe-account-register",
+      "title": "个人Stripe信用卡？有无香港卡都可，2025 保姆级教程来啦！💳",
+      "description": "还在羡慕别人用Stripe信用卡丝滑支付？还在为没有香港卡而发愁？别担心！本文为你带来最全Stripe信用卡申请攻略，无论有没有香港卡，都能轻松搞定！更有视频教程加持，小白也能秒变老司机！",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "Stripe",
+        "信用卡",
+        "跨境支付",
+        "教程",
+        "苹果支付"
+      ],
+      "publishedAt": "2025-02-21T06:45:00.000Z",
+      "updatedAt": "2025-02-21T06:45:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/stripe-account-register/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/stripe-account-register.md",
+      "videoUrl": "https://www.youtube.com/watch?v=CHy_2Yz7LI8"
+    },
+    {
+      "id": "tailscale-private-network-tutorial",
+      "title": "🚀 完美内网穿透方案！Tailscale 私人网络搭建保姆级教程 | 白嫖国内 DERP 到自建节点一次讲透",
+      "description": "从零介绍使用 Tailscale 连接家庭与工作设备的私有网络方案，包含基础组网、国内 DERP 选择、自建节点和连通性验证。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "VPN",
+        "网络工具"
+      ],
+      "publishedAt": "2026-03-15T02:46:00.000Z",
+      "updatedAt": "2026-03-15T02:46:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/tailscale-private-network-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/tailscale-private-network-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=SmV8zahYhgI"
+    },
+    {
+      "id": "telegram-chinese-pack",
+      "title": "Telegram简体中文语言包安装教程 | 2025最新版",
+      "description": "最新的Telegram简体中文语言包安装教程，支持iOS、Android、Windows、Mac等全平台。包含一键安装链接，无需手动导入，让您的Telegram立即变成中文界面。适合新手，步骤详细。",
+      "category": [
+        "软件"
+      ],
+      "tags": [
+        "Telegram",
+        "即时通讯",
+        "软件汉化",
+        "社交软件"
+      ],
+      "publishedAt": "2025-02-04T13:05:46.000Z",
+      "updatedAt": "2025-02-04T13:05:46.000Z",
+      "blogUrl": "https://869hr.uk/2025/software/telegram-chinese-pack/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-chinese-pack.md",
+      "videoUrl": null
+    },
+    {
+      "id": "telegram-register-phone-2025",
+      "title": "Telegram电报注册完全指南：无需手机号，邮箱接码轻松搞定！| 2025最新教程",
+      "description": "还在为Telegram注册收不到验证码发愁？2025年最新Telegram注册教程来啦！教你如何无需手机号，通过邮箱接码轻松注册Telegram，更有详细的汉化教程、群组解除限制方法，iOS、Android、Windows、Mac全平台通用，一文搞定！",
+      "category": [
+        "软件"
+      ],
+      "tags": [
+        "Telegram",
+        "即时通讯",
+        "软件汉化",
+        "邮箱"
+      ],
+      "publishedAt": "2025-02-20T06:35:28.000Z",
+      "updatedAt": "2025-02-20T06:35:28.000Z",
+      "blogUrl": "https://869hr.uk/2025/software/telegram-register-phone-2025/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-register-phone-2025.md",
+      "videoUrl": "https://www.youtube.com/watch?v=9ba4WDCAMSo"
+    },
+    {
+      "id": "telegram-register-tutorial-0-5-ip-shorts",
+      "title": "Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程",
+      "description": "详细教程：Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Telegram",
+        "邮箱",
+        "ip属性",
+        "账号注册",
+        "账号管理"
+      ],
+      "publishedAt": "2026-04-10T15:32:10.000Z",
+      "updatedAt": "2026-04-10T15:32:10.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/telegram-register-tutorial-0-5-ip-shorts/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-register-tutorial-0-5-ip-shorts.md",
+      "videoUrl": "https://www.youtube.com/watch?v=m7XT0fW1LAY"
+    },
+    {
+      "id": "telegram-sms-5-free",
+      "title": "Telegram登录要收SMS费？5种方法免费绕过，亲测有效！",
+      "description": "这个情况好像是官方今年8月份新出的政策公布就出现了，正常情况下，你输入的手机号如果它的地区是亚洲部分国家（不光只是东大）还有英国的手机号（我也试了）去注册，极大概率都会跳付费请求。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Telegram",
+        "SMS Fee",
+        "Telegram登录",
+        "Telegram注册",
+        "绕过SMS费"
+      ],
+      "publishedAt": "2026-05-16T08:17:09.000Z",
+      "updatedAt": "2026-05-16T08:17:09.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/telegram-sms-5-free/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-sms-5-free.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ugguWmPE0BI"
+    },
+    {
+      "id": "telegram-sms-fee-free",
+      "title": "Telegram登录要付费？SMS Fee免费跳过方法大全",
+      "description": "整理 Telegram 登录时出现 SMS Fee 的常见原因和可尝试的免费处理方式，包含设备切换、已有会话验证及失败条件说明。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Telegram",
+        "SMS Fee",
+        "Telegram登录",
+        "免费登录",
+        "绕过付费"
+      ],
+      "publishedAt": "2026-05-16T04:43:59.000Z",
+      "updatedAt": "2026-05-16T04:43:59.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/telegram-sms-fee-free/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-sms-fee-free.md",
+      "videoUrl": "https://www.youtube.com/watch?v=I2opyeIrq_s"
+    },
+    {
+      "id": "tutorial-claude-code-happy-coder-cc",
+      "title": "【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器",
+      "description": "分享开源项目 Happy Coder，让你用手机远程控制电脑上的 Claude Code，支持全链路 E2EE 加密，无需公网 IP",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "教程",
+        "Claude",
+        "开发工具",
+        "开源项目"
+      ],
+      "publishedAt": "2026-04-17T04:59:30.000Z",
+      "updatedAt": "2026-04-17T04:59:30.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/tutorial-claude-code-happy-coder-cc/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/tutorial-claude-code-happy-coder-cc.md",
+      "videoUrl": "https://www.youtube.com/watch?v=k35F8cx3J2Y"
+    },
+    {
+      "id": "tutorial-dns-det-ai-l",
+      "title": "【零基础教程】系统了解DNS查询全过程：从根域到权威，详解DNS工作原理与安全防篡改！",
+      "description": "这期视频带你零基础系统全面地了解DNS域名系统的查询全过程，从根域到权威详解DNS工作原理与安全防篡改",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "VPN",
+        "网络工具",
+        "域名",
+        "教程"
+      ],
+      "publishedAt": "2026-04-19T11:36:33.000Z",
+      "updatedAt": "2026-04-19T11:36:33.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/tutorial-dns-det-ai-l/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/tutorial-dns-det-ai-l.md",
+      "videoUrl": "https://www.youtube.com/watch?v=mAD591hkUAA"
+    },
+    {
+      "id": "twitter-creator-verification-revenue-setup-tutorial",
+      "title": "【全网最全】推特创作者身份认证与收益开通：零基础实操教程 | 开启内容变现，附推特运营吸粉全攻略！",
+      "description": "想通过内容创作赚钱，却卡在认证和变现的第一步？这期视频是为你准备的终极指南！我们不仅会一步步带你搞定创作者身份认证和收益开通的全流程，还特别附带了普通人推特从零到一运营吸粉的实操经验分享。一次性把所有卡点讲透，让你真正开启内容变现之路！",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "社交软件",
+        "网赚项目"
+      ],
+      "publishedAt": "2026-03-22T02:37:33.000Z",
+      "updatedAt": "2026-03-22T02:37:33.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/twitter-creator-verification-revenue-setup-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/twitter-creator-verification-revenue-setup-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=petHW7azHyU"
+    },
+    {
+      "id": "us-itin-tax-number-apply-guide",
+      "title": "想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)",
+      "description": "详细教程：想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)，涵盖跨境支付等知识点",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "跨境支付"
+      ],
+      "publishedAt": "2026-04-12T07:07:40.000Z",
+      "updatedAt": "2026-04-12T07:07:40.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/us-itin-tax-number-apply-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/us-itin-tax-number-apply-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=B8gNipUixTo"
+    },
+    {
+      "id": "us.kg-domain-callbak",
+      "title": "💎 你的US.KG域名还能抢回来！ 免费注册，教程来了！",
+      "description": "介绍原 US.KG 域名持有者申请恢复域名的资格条件、KYC Key 获取方式、官方联系渠道和提交前需要核对的限制。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "域名注册"
+      ],
+      "publishedAt": "2025-03-23T14:17:00.000Z",
+      "updatedAt": "2026-09-12T16:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/us.kg-domain-callbak/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/us.kg-domain-callbak.md",
+      "videoUrl": null
+    },
+    {
+      "id": "uuid-generator",
+      "title": "UUID在线生成器 - 批量生成UUID v4",
+      "description": "免费在线UUID生成器，支持UUID v4随机生成，可批量生成1-100个UUID，一键复制功能，适用于数据库主键、API标识、分布式系统等场景。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "效率工具",
+        "在线工具",
+        "开发工具"
+      ],
+      "publishedAt": "2026-01-31T07:30:00.000Z",
+      "updatedAt": "2026-01-31T07:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tools/uuid-generator/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/uuid-generator.md",
+      "videoUrl": null
+    },
+    {
+      "id": "vibe-coding--usage-prd-manager-8---ai--codingdeplo",
+      "title": "编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位",
+      "description": "这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "AI工具",
+        "Skills",
+        "Claude"
+      ],
+      "publishedAt": "2026-05-05T02:40:39.000Z",
+      "updatedAt": "2026-05-05T02:40:39.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/vibe-coding--usage-prd-manager-8---ai--codingdeplo/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md",
+      "videoUrl": "https://www.youtube.com/watch?v=O9MM4SnGyTc"
+    },
+    {
+      "id": "virtual-bank-card-register-guide",
+      "title": "野卡(WildCard)虚拟信用卡：海外订阅支付神器，告别支付壁垒！（20250712跑路）",
+      "description": "还在为订阅ChatGPT Plus、Midjourney、OnlyFans等海外服务支付碰壁？野卡(WildCard)虚拟信用卡平台专为此而生！本文将带你深入了解虚拟信用卡的基础知识，详细介绍野卡平台的一站式服务、支持支付宝快速开卡、海外手机号及邮箱等增值服务。更有手把手注册教程（含邀请码P9Q2HDRG的2美金开卡优",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "跨境支付",
+        "信用卡",
+        "教程"
+      ],
+      "publishedAt": "2025-04-16T15:10:25.000Z",
+      "updatedAt": "2024-04-16T15:10:25.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/virtual-bank-card-register-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/virtual-bank-card-register-guide.md",
+      "videoUrl": null
+    },
+    {
+      "id": "vodafone-esim-wise-n26-guide",
+      "title": "🔥2026最新窗口期0开卡0月租！德国沃达丰eSIM申请全攻略：国产手机秒变eSIM手机，掌握Wise与N26双重入账保号，每年仅需1元 手把手喂饭教程",
+      "description": "2026最新德国沃达丰eSIM申请全攻略：0开卡费0月租，每年保号仅需约1元。详细演示Wise手动入账和N26自动定时转账两种保号方式，国行手机配合XeSIM写卡器也可使用，保姆级图文教程。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "eSIM",
+        "Wise",
+        "跨境支付"
+      ],
+      "publishedAt": "2026-02-18T05:23:52.000Z",
+      "updatedAt": "2026-02-18T05:23:52.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/vodafone-esim-wise-n26-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vodafone-esim-wise-n26-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=aEJm0xcXaxI"
+    },
+    {
+      "id": "vpn-free",
+      "title": "2025永久免费节点！会用Google搜索即可获取，支持v2ray、Clash、ShadowRocket、Surge、Trojan，全平台可用#翻墙",
+      "description": "详细教程：2025永久免费节点！会用Google搜索即可获取，支持v2ray、Clash、ShadowRocket、Surge、Trojan，全平台可用#翻墙",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "网络工具",
+        "VPN"
+      ],
+      "publishedAt": "2025-04-13T06:18:52.000Z",
+      "updatedAt": "2025-04-13T06:18:52.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/vpn-free/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vpn-free.md",
+      "videoUrl": null
+    },
+    {
+      "id": "vps-0-4k-1tutorial",
+      "title": "最新无需VPS，0成本搭建无限流量科学上网节点：4K秒开、节点无限生成 小白1分钟喂饭级教程",
+      "description": "本视频介绍一种无需购买VPS服务器即可搭建科学上网节点的方法，适合预算有限但需要稳定网络环境的用户。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-02-03T01:45:53.000Z",
+      "updatedAt": "2026-02-03T01:45:53.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/vps-0-4k-1tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-0-4k-1tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=oWzxvgQnALs"
+    },
+    {
+      "id": "vps-free-oracle-apply-2c12g-server-tutorial",
+      "title": "永久免费VPS！Oracle甲骨文云账户申请开通完整教程，2C12G服务器白嫖到手！",
+      "description": "甲骨文云Oracle Cloud免费VPS申请完整教程，从注册到开通2C12G服务器，手把手教你白嫖永久免费云主机",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Oracle甲骨文",
+        "VPS",
+        "Cloud免费套餐",
+        "白嫖VPS",
+        "Oracle"
+      ],
+      "publishedAt": "2026-07-21T10:01:29.000Z",
+      "updatedAt": "2026-07-21T10:01:29.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/vps-free-oracle-apply-2c12g-server-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-free-oracle-apply-2c12g-server-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=SZX6dMU1hPI"
+    },
+    {
+      "id": "vps-ip-guide-tutorial",
+      "title": "VPS IP质量检测完全指南：从小白到精通的实用教程",
+      "description": "系统介绍 VPS IP 质量的判断维度、常用检测工具和结果解读方法，帮助排查信誉、解锁、邮件、风控和网络连通性问题。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VPS",
+        "IP质量",
+        "IP检测",
+        "家宽IP",
+        "原生IP"
+      ],
+      "publishedAt": "2026-05-17T05:15:24.000Z",
+      "updatedAt": "2026-05-17T07:31:13.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/vps-ip-guide-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-ip-guide-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Vq-KLwXPcGw"
+    },
+    {
+      "id": "vps-katabump-free-vpn-0-step-by-tutorial",
+      "title": "KataBump免费容器搭建科学上网节点｜法国VPS 0成本｜手把手保姆级教程",
+      "description": "介绍 KataBump 法国免费容器的申请、续期、节点部署和连接验证流程，并说明资源配额、四天续期要求及稳定性限制。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "KataBump",
+        "VPS",
+        "VPN",
+        "法国节点",
+        "Singbox"
+      ],
+      "publishedAt": "2026-06-07T23:54:31.000Z",
+      "updatedAt": "2026-06-07T23:54:31.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/vps-katabump-free-vpn-0-step-by-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-katabump-free-vpn-0-step-by-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=aST_Cs_d6_I"
+    },
+    {
+      "id": "vps-security-hardening-skill-tutorial",
+      "title": "VPS安全加固完全指南：7招让你的服务器固若金汤",
+      "description": "VPS安全加固7大核心策略详解，涵盖禁用Root登录、SSH密钥认证、Fail2ban防爆破、UFW防火墙、Docker安全配置，附一键自动化加固脚本",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VPS",
+        "网络安全",
+        "教程",
+        "开源项目"
+      ],
+      "publishedAt": "2026-04-24T03:30:00.000Z",
+      "updatedAt": "2026-04-24T03:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/vps-security-hardening-skill-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-security-hardening-skill-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=-uqap0UClnY"
+    },
+    {
+      "id": "vps-tutorial-self-hosted-proxy",
+      "title": "从购买服务器到自建节点的全流程保姆级教程",
+      "description": "从服务器选购到节点搭建的全流程保姆级教程，涵盖线路选择、IP质量、安全加固、节点搭建、中转分流等内容。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "VPS",
+        "VPN",
+        "ip属性"
+      ],
+      "publishedAt": "2026-04-18T14:30:00.000Z",
+      "updatedAt": "2026-04-18T14:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/vps-tutorial-self-hosted-proxy/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-tutorial-self-hosted-proxy.md",
+      "videoUrl": "https://www.youtube.com/watch?v=FU-9MXyEuJw"
+    },
+    {
+      "id": "w-8ben-tutorial",
+      "title": "嘉信券商开户教程｜全套大陆资料手把手教学，身份证即可开户，W-8BEN签署全流程",
+      "description": "介绍使用中国大陆资料申请嘉信券商账户的准备材料、开户步骤和 W-8BEN 签署流程，并提示资格、税务和费用信息需以官方为准。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "嘉信券商",
+        "嘉信开户",
+        "Charles Schwab",
+        "海外券商",
+        "美股开户"
+      ],
+      "publishedAt": "2026-05-25T06:29:11.000Z",
+      "updatedAt": "2026-05-25T06:29:11.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/w-8ben-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/w-8ben-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=5-c30GPKEaM"
+    },
+    {
+      "id": "w8-ben-24-10-tutorial",
+      "title": "嘉信证券W8-BEN填错补救教程，税率从24%降回10%，手把手填写上传",
+      "description": "这是嘉信证券W8-BEN系列第二期教程。第一期请见：【海外投资】嘉信券商开户教程第一期｜全套大陆资料手把手教学，身份证即可开户，W-8BEN签署全流程",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "嘉信证券",
+        "Charles Schwab",
+        "W8-BEN",
+        "W8BEN",
+        "美股税务"
+      ],
+      "publishedAt": "2026-05-25T10:00:30.000Z",
+      "updatedAt": "2026-05-25T10:00:30.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/w8-ben-24-10-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/w8-ben-24-10-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=hB-agEJ4x-k"
+    },
+    {
+      "id": "warp-ai",
+      "title": "Warp AI终端工具使用指南：告别传统，拥抱智能高效",
+      "description": "本文详细介绍了 Warp 终端工具的使用方法，包括下载安装、普通命令模式、AI模式、沉浸式交互等多个方面。通过实际案例演示了 Warp 的 AI 命令建议、命令块分享、参数化工作流等亮点功能，帮助开发者快速上手，提升工作效率。Warp 终端结合了命令行界面的强大功能和人工智能的智能辅助，旨在提高开发人员的工作效率。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "效率工具",
+        "开发工具",
+        "AI工具"
+      ],
+      "publishedAt": "2025-08-03T07:00:00.000Z",
+      "updatedAt": "2025-08-03T07:00:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/warp-ai/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/warp-ai.md",
+      "videoUrl": "https://www.youtube.com/watch?v=c1Cq-AoPH6Y"
+    },
+    {
+      "id": "watermark-flow-mac",
+      "title": "WatermarkFlow：Mac 剪贴板图片一键加水印，开源原生批量平铺工具",
+      "description": "WatermarkFlow 是开源原生 macOS 水印工具，支持剪贴板、拖放与文件导入，提供文字、Logo、单个和满屏平铺水印、自动对比、模板及全局快捷键。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "macOS",
+        "开源工具",
+        "图片水印",
+        "效率工具",
+        "内容创作"
+      ],
+      "publishedAt": "2026-09-14T09:22:00.000Z",
+      "updatedAt": "2026-09-14T09:22:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/watermark-flow-mac/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/watermark-flow-mac.md",
+      "videoUrl": null
+    },
+    {
+      "id": "wechat-dual-open",
+      "title": "macOS 微信最新版本(4.0.6.240版)双开及N开教程，主打免安装&原生&安全&可升级",
+      "description": "本文详细介绍了在macOS系统上实现微信(4.0.6.240版)双开的方法，通过复制微信程序、修改唯一标识符、重新签名等步骤，让你轻松拥有多个微信账号，工作生活互不干扰。同时提供了打包命令教程，方便快捷地启动微信分身。适用于需要同时管理多个微信账号的用户。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "微信",
+        "软件安装",
+        "教程",
+        "效率工具"
+      ],
+      "publishedAt": "2025-08-17T15:45:30.000Z",
+      "updatedAt": "2025-08-17T15:45:30.000Z",
+      "blogUrl": "https://869hr.uk/2025/tutorials/wechat-dual-open/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/wechat-dual-open.md",
+      "videoUrl": null
+    },
+    {
+      "id": "wechat-multi-open",
+      "title": "微信多开不求人：这款神器让你告别扫码登录，一键掌控N个号！",
+      "description": "还在为微信多开扫码烦恼？微信多开管理器横空出世，一键登录、全局多开、自动启动，解放你的双手，让多账号管理不再是难题！更有防撤回等惊喜功能等你探索！",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "微信",
+        "效率工具",
+        "账号管理"
+      ],
+      "publishedAt": "2025-02-28T16:30:00.000Z",
+      "updatedAt": "2025-02-28T16:30:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/wechat-multi-open/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/wechat-multi-open.md",
+      "videoUrl": null
+    },
+    {
+      "id": "wechat-radar",
+      "title": "WeChat Radar 微信群聊情报看板｜一键聚合群消息、话题、链接和趋势，本地运行零上传",
+      "description": "介绍 WeChat Radar 本地优先的微信群聊情报看板，说明消息、话题、链接和高信号人物的聚合方式、技术栈、安装与数据边界。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "WeChat Radar",
+        "微信看板",
+        "群聊管理",
+        "开源项目",
+        "微信情报"
+      ],
+      "publishedAt": "2026-05-26T02:05:31.000Z",
+      "updatedAt": "2026-05-26T02:05:31.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/wechat-radar/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/wechat-radar.md",
+      "videoUrl": "https://www.youtube.com/watch?v=mqk9ViLo4M8"
+    },
+    {
+      "id": "wechat-set",
+      "title": "微信清空性别和地区的详细步骤 | 适用于所有设备",
+      "description": "详细说明如何清空微信性别和地区信息的步骤，适用于未登录过的手机或使用模拟器，解决微信个人资料显示问题。",
+      "category": [
+        "软件"
+      ],
+      "tags": [
+        "微信",
+        "个人资料",
+        "性别设置",
+        "地区设置"
+      ],
+      "publishedAt": "2025-02-15T01:09:20.000Z",
+      "updatedAt": "2025-02-15T01:09:20.000Z",
+      "blogUrl": "https://869hr.uk/2025/software/wechat-set/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/wechat-set.md",
+      "videoUrl": null
+    },
+    {
+      "id": "window-layout-memory",
+      "title": "Window Layout Memory：Mac 切换单双屏后自动恢复窗口位置的开源工具",
+      "description": "Window Layout Memory 是开源 macOS 窗口布局记忆工具，可按显示器组合保存窗口大小、位置和归属，并通过保守匹配、候选确认、历史回退与例外规则降低误恢复风险。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "macOS",
+        "开源工具",
+        "窗口管理",
+        "多显示器",
+        "效率工具"
+      ],
+      "publishedAt": "2026-09-14T09:24:00.000Z",
+      "updatedAt": "2026-09-14T09:24:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/window-layout-memory/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/window-layout-memory.md",
+      "videoUrl": null
+    },
+    {
+      "id": "windows-deploy-hermes-ai-agent",
+      "title": "Windows 一键部署 Hermes AI Agent 小白也能玩转 NousResearch 大模型！",
+      "description": "想在 Windows 上体验强大的 NousResearch Hermes AI Agent，却被 WSL2 和复杂的环境配置劝退",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程"
+      ],
+      "publishedAt": "2026-04-17T14:54:56.000Z",
+      "updatedAt": "2026-04-17T14:54:56.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/windows-deploy-hermes-ai-agent/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/windows-deploy-hermes-ai-agent.md",
+      "videoUrl": "https://www.youtube.com/watch?v=wby5imhgjUQ"
+    },
+    {
+      "id": "windows-desktop-macos-free-mac-ai-vmware-tutorial",
+      "title": "Windows电脑安装macOS系统完整教程，免费使用Mac专属AI软件VMware虚拟机手把手教学",
+      "description": "介绍在 Windows 电脑中使用 VMware 安装 macOS 的准备条件、虚拟机配置、系统安装和常见故障排查，用于体验 Mac 专属软件。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VMware",
+        "macOS",
+        "Windows安装macOS",
+        "虚拟机",
+        "Mac专属AI软件"
+      ],
+      "publishedAt": "2026-05-25T09:05:43.000Z",
+      "updatedAt": "2026-05-25T09:05:43.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/windows-desktop-macos-free-mac-ai-vmware-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/windows-desktop-macos-free-mac-ai-vmware-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=EToxhFmpbM0"
+    },
+    {
+      "id": "windows-free-install-office-5-word-excel-ppt",
+      "title": "Windows免费安装激活Office全套！无需购买激活码，5分钟搞定Word/Excel/PPT",
+      "description": "目前绝大多数的电脑出厂即自带了office正版软件（word、excel、powerpoint等）和激活码，买电脑时你已经付过激活码的钱了。但像一些性价比笔电和自组装机一般不会送office激活码，这时买激活码一套两三百又很贵，有没有什么办法让我们体验一下office呢？",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Office激活",
+        "Windows Office",
+        "Office免费",
+        "Office Tool Plus",
+        "Word Excel PPT"
+      ],
+      "publishedAt": "2026-05-14T08:48:33.000Z",
+      "updatedAt": "2026-05-14T08:48:33.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/windows-free-install-office-5-word-excel-ppt/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/windows-free-install-office-5-word-excel-ppt.md",
+      "videoUrl": "https://www.youtube.com/watch?v=u6z0pE_tbKs"
+    },
+    {
+      "id": "wise-mainland-phone-id-register-guide",
+      "title": "国内如何拥有一张海外银行卡？完美平替香港卡！Wise免出国极速开户全教程（身份证+国内手机号即可）",
+      "description": "国内用户如何仅用身份证+大陆手机号完成 Wise 开户？本篇整理完整注册与 KYC 认证流程，覆盖跨境收款、海外账户与虚拟卡使用场景。",
+      "category": [
+        "教程"
+      ],
+      "tags": [
+        "Wise",
+        "跨境支付",
+        "网赚项目"
+      ],
+      "publishedAt": "2026-02-23T08:25:00.000Z",
+      "updatedAt": "2026-02-23T08:25:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tutorials/wise-mainland-phone-id-register-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/wise-mainland-phone-id-register-guide.md",
+      "videoUrl": "https://www.youtube.com/watch?v=AL8cOn49xG8"
+    },
+    {
+      "id": "workbuddy-beginner-install-register-tutorial",
+      "title": "WorkBuddy 保姆级入门教程：从安装及注册到完成第一个游戏任务",
+      "description": "面向新手介绍 WorkBuddy 桌面 AI 助理的下载安装、账号注册、基础配置和首个游戏任务执行流程，并说明权限与结果检查。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "AI工具",
+        "效率工具",
+        "教程"
+      ],
+      "publishedAt": "2026-07-05T12:17:35.000Z",
+      "updatedAt": "2026-07-05T12:17:35.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/workbuddy-beginner-install-register-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/workbuddy-beginner-install-register-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=MmH4Y7goEqs"
+    },
+    {
+      "id": "xesim",
+      "title": "实体卡 eSIM｜让中国国内手机也能用 eSIM｜Xesim 测评：多号切换、全球流量，一卡搞定！支持安卓和苹果手机",
+      "description": "还在羡慕国外eSIM的便捷？Xesim实体eSIM卡让你无需更换手机，也能体验eSIM带来的多号管理和全球流量。本文详细评测Xesim的功能、安装、使用场景，以及购买建议，更有专属9折优惠码等你来拿！超过200字的详细介绍，助力SEO优化。",
+      "category": [
+        "工具"
+      ],
+      "tags": [
+        "eSIM",
+        "跨境支付",
+        "海外应用",
+        "网络工具",
+        "苹果"
+      ],
+      "publishedAt": "2025-08-16T02:52:00.000Z",
+      "updatedAt": "2026-04-13T02:52:00.000Z",
+      "blogUrl": "https://869hr.uk/2025/tools/xesim/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/xesim.md",
+      "videoUrl": null
+    },
+    {
+      "id": "xtwitter-xripple-detail-shorts",
+      "title": "全网首创！X(Twitter)互动加热全自动化众包平台 XRipple 详解",
+      "description": "在 X(Twitter)这个信息流量场中，一条优质内容的传播效果往往取决于初期的互动热度。涟漪 XRipple 是全网首创的 X 互动众包平台，用完全自动化的技术方案解决冷启动问题。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "教程",
+        "Twitter",
+        "网赚项目"
+      ],
+      "publishedAt": "2026-05-01T14:11:17.000Z",
+      "updatedAt": "2026-05-01T14:11:17.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/xtwitter-xripple-detail-shorts/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/xtwitter-xripple-detail-shorts.md",
+      "videoUrl": "https://www.youtube.com/watch?v=SRS2v5FoVsI"
+    },
+    {
+      "id": "youtube-Hy82RjFFnIs",
+      "title": "谷歌终于允许改邮箱了！但改之前必须知道的3个坑",
+      "description": "介绍 Google 账号修改登录邮箱的新能力、适用范围和操作入口，并说明修改前必须核对的三个限制、恢复方式与常见问题。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "谷歌邮箱",
+        "Google账号",
+        "邮箱",
+        "改邮箱",
+        "邮箱地址"
+      ],
+      "publishedAt": "2026-07-05T08:50:36.000Z",
+      "updatedAt": "2026-07-05T08:50:36.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/youtube-Hy82RjFFnIs/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/youtube-Hy82RjFFnIs.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Hy82RjFFnIs"
+    },
+    {
+      "id": "youtube-guide-adsense",
+      "title": "YouTube视频创作与变现完全指南：从零开通AdSense到收益最大化",
+      "description": "YouTube 由 Google 运营，因此创建 YouTube 频道的前提是拥有一个 Google 账号。如果你已有 Gmail，意味着你已有一个 Google 账号，可以直接用它创建 YouTube 频道。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "YouTube变现",
+        "AdSense",
+        "YPP",
+        "创作者收入",
+        "YouTube教程"
+      ],
+      "publishedAt": "2026-06-27T10:45:24.000Z",
+      "updatedAt": "2026-06-27T10:45:24.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/youtube-guide-adsense/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/youtube-guide-adsense.md",
+      "videoUrl": "https://www.youtube.com/watch?v=la4oJiG4yvM"
+    },
+    {
+      "id": "youtube-izpBS4FW6jM",
+      "title": "网络结构、VPN、代理到底啥区别？一篇讲透新手最容易混淆的联网逻辑",
+      "description": "DNS 泄露、IPv6、UDP、规则匹配为什么会导致'网页能开、软件不能用' 如果你一直分不清 VPN 和代理，或者想真正看懂网络访问路径，这期会帮你建立一套不容易忘的底层认知",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "网络基础",
+        "VPN",
+        "代理",
+        "DNS",
+        "网络结构"
+      ],
+      "publishedAt": "2026-05-15T12:18:50.000Z",
+      "updatedAt": "2026-05-15T12:18:50.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/youtube-izpBS4FW6jM/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/youtube-izpBS4FW6jM.md",
+      "videoUrl": "https://www.youtube.com/watch?v=izpBS4FW6jM"
+    },
+    {
+      "id": "youtube-lyRGZavzGl8",
+      "title": "澳门蚂蚁银行0元开户！内地居民5分钟线上开户，港美股+高息存款一站式搞定",
+      "description": "今天给大家推荐澳门蚂蚁银行（Ant Bank Macau），蚂蚁集团在澳门的持牌数字银行，合规安全，是内地居民低成本开通境外账户的绝佳选择！",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "澳门蚂蚁银行",
+        "Ant Bank Macau",
+        "跨境开户",
+        "港美股开户",
+        "境外银行账户"
+      ],
+      "publishedAt": "2026-06-19T15:20:12.000Z",
+      "updatedAt": "2026-06-19T15:20:12.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/youtube-lyRGZavzGl8/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/youtube-lyRGZavzGl8.md",
+      "videoUrl": "https://www.youtube.com/watch?v=lyRGZavzGl8"
+    },
+    {
+      "id": "zo2api-free-claude-opus4-7-gpt5-5-tools",
+      "title": "Zo2API逆向代理：免费白嫖Claude Opus4.7和GPT5.5，支持工具调用",
+      "description": "介绍 Zo2API 逆向代理的部署、账号与模型配置、工具调用和额度验证流程，并提示第三方服务、绑卡、可用性和合规风险。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Zo2API",
+        "Claude Opus4.7",
+        "GPT5.5",
+        "API逆向代理",
+        "免费AI"
+      ],
+      "publishedAt": "2026-05-20T16:18:32.000Z",
+      "updatedAt": "2026-05-20T16:18:32.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/zo2api-free-claude-opus4-7-gpt5-5-tools/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/zo2api-free-claude-opus4-7-gpt5-5-tools.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Zl4PBq8z5vU"
+    }
+  ]
+}
