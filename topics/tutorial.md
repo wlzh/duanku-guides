@@ -20,13 +20,13 @@
 - [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-asu-invite.md)：美国大学 .edu 教育邮箱申请教程：涵盖申请前准备、在线注册、信息保存、账户激活和常见问题，并说明教育优惠的适用条件。
 - [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-invite2.md)：详细教程：白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱，涵盖邮箱、免费资源、学习资源等知识点
 - [免费获取美国教育邮箱（.edu）终极指南 | 轻松解锁学生福利](../articles/edu-invite3.md)：美国教育邮箱申请指南：从邮箱准备、学校申请到账号激活，整理完整操作步骤、学生福利使用范围和容易失败的环节。
-- [VOXI eSIM 免费领取与激活全攻略，需要edu学生教育邮箱](../articles/esim-voxi.md)：VOXI eSIM 领取与激活教程：介绍教育邮箱资格、申请步骤、eSIM 安装、英国号码查询和长期保号策略，以及使用限制。
+- [VOXI eSIM 学生首月免费与激活教程：资格、续费及保号限制](../articles/esim-voxi.md)：VOXI eSIM 学生优惠与激活教程：说明英国大学学生资格、首月免费后的自动续费、eSIM 安装及号码查询，区分历史操作记录与尚未验证的境外长期保号方案。
 - [永久免费域名注册绑定全攻略🌐 无需信用卡，完美挂靠Cloudflare，建站/搭节点必备，且可商业化！(一个邮箱白嫖6个) | 零基础喂饭教程](../articles/free-domain-cloudflare-tutorial.md)：目前全网好用的永久免费域名注册方案！不需要绑定任何信用卡，仅需一个常用邮箱，就能一次性注册6个免费域名。
 - [2025年全球免费VPS白嫖指南（16个免费服务器资源大盘点）](../articles/free-vps.md)：全球免费 VPS 资源指南：对比 Oracle Cloud、Google Cloud、AWS、Azure 等 16 个免费或长期试用方案的申请条件、限制和适用场景。
 - [【小白必看】绝密翻墙科普：1小时懂GFW原理、主流协议、安全防泄漏](../articles/gfw-tutorial-principle-bypass-safety.md)：很多人翻墙就像盲人摸象，复制别人给的配置，一失效就抓瞎。这个视频不是为了给你提供免费订阅，而是为了把抽象的技术对抗还原成底层的运行逻辑。
 - [英国giffgaff实体SIM卡激活使用全攻略](../articles/giffgaff.md)：本文详细介绍了英国giffgaff实体SIM卡的激活步骤、资费详情、保号方法以及eSIM转换教程。无论你是留学生、旅行者还是需要海外号码的用户，这篇2025年最新指南都能帮助你轻松搞定giffgaff手机卡的使用，解决常见问题，并掌握保号技巧。
 - [2025年最新在中国大陆注册Gmail的办法：如何跳过手机号验证](../articles/google-account-no-phone.md)：中国大陆注册 Gmail 的实测教程：介绍网络环境检查、Chrome 无痕与语言设置、注册步骤，以及遇到手机号验证时的处理方法。
-- [Google账号换国家或换区域大法：轻松解锁海外服务与优惠](../articles/google-change-country-area.md)：还在为Google账号的地区限制烦恼吗？想体验特定区域的Google服务、应用或优惠（比如传说中的Google One学生优惠）？本文将手把手教你如何通过官方渠道申请修改Google账号的国家或地区。从准备工作到填写申请表单的“小技巧”，再到与Google
+- [Google账号换国家或地区：关联地区申请、Play商店与付款资料的区别](../articles/google-change-country-area.md)：Google账号换国家或地区操作指南：区分账号关联地区、Google Play商店和付款资料，提供官方申请入口、操作步骤及限制，说明换区为什么不等于获得学生优惠或其他服务资格。
 - [Google免费高配云主机震撼来袭！16核64G内存300G硬盘，视频教程（一）](../articles/google-idx-vps-register.md)：震惊！Google 推出 Project IDX 免费云开发环境，配置高达16核CPU、64GB内存、300GB硬盘，实测网络速度惊人，下载轻松突破4000MB/s。本文将带你一探究竟，看看这台“白嫖神机”是否能满足你“学习研究”的需求，并附上搭建节点的测试过程。这羊毛不薅，简直对不起咱这颗爱折腾的心！
 - [Google IDX永久免费主机VPS创建及永久隧道视频教程（二）](../articles/google-idx-vps-register2.md)：Google IDX 免费 VPS 系列第二篇：使用 Cloudflare Zero Trust 建立固定域名隧道，解决临时 URL 过期问题并验证连接。
 - [Google one (Gemini Advanced) 学生15个月免费优惠领取指南](../articles/google-one-gemini-students.md)：Google 正在为符合条件的美国学生提供一项福利：免费获得 15 个月的 Google One AI Premium 订阅。

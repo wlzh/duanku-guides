@@ -74,7 +74,7 @@
 - [【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器](../articles/tutorial-claude-code-happy-coder-cc.md)：分享开源项目 Happy Coder，让你用手机远程控制电脑上的 Claude Code，支持全链路 E2EE 加密，无需公网 IP
 - [想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](../articles/us-itin-tax-number-apply-guide.md)：详细教程：想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)，涵盖跨境支付等知识点
 - [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
-- [野卡(WildCard)虚拟信用卡：海外订阅支付神器，告别支付壁垒！（20250712跑路）](../articles/virtual-bank-card-register-guide.md)：野卡 WildCard 虚拟信用卡历史教程，记录其注册、开卡和海外订阅支付流程；该服务已于 2025 年 7 月停止运营，仅供资料参考。
+- [野卡 WildCard 历史使用记录：停运提示与订阅支付排查](../articles/virtual-bank-card-register-guide.md)：野卡 WildCard 虚拟卡旧教程归档：本站已标注该服务停运，原开卡、充值和优惠入口不再推荐。本文保留历史用途说明，并提供订阅扣费核查与官方支付帮助入口。
 - [Warp AI终端工具使用指南：告别传统，拥抱智能高效](../articles/warp-ai.md)：本文详细介绍了 Warp 终端工具的使用方法，包括下载安装、普通命令模式、AI模式、沉浸式交互等多个方面。通过实际案例演示了 Warp 的 AI 命令建议、命令块分享、参数化工作流等亮点功能，帮助开发者快速上手，提升工作效率。Warp 终端结合了命令行界面的强大功能和人工智能的智能辅助，旨在提高开发人员的工作效率。
 - [Windows 一键部署 Hermes AI Agent 小白也能玩转 NousResearch 大模型！](../articles/windows-deploy-hermes-ai-agent.md)：想在 Windows 上体验强大的 NousResearch Hermes AI Agent，却被 WSL2 和复杂的环境配置劝退
 - [Windows电脑安装macOS系统完整教程，免费使用Mac专属AI软件VMware虚拟机手把手教学](../articles/windows-desktop-macos-free-mac-ai-vmware-tutorial.md)：介绍在 Windows 电脑中使用 VMware 安装 macOS 的准备条件、虚拟机配置、系统安装和常见故障排查，用于体验 Mac 专属软件。

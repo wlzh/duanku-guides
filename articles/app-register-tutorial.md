@@ -12,6 +12,7 @@
 - 专题：技术
 - 关键词：海外地址证明、地址证明、Proof of Address、万里汇、WorldFirst
 - 视频：https://www.youtube.com/watch?v=DnOKC9uBw00
+- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

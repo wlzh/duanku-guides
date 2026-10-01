@@ -33,7 +33,7 @@
 
 - [美国云居民系列](series/american-cloud-resident.md)：6 个视频
 - [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
-- [基础软件与效率工具](series/software-and-tools.md)：16 个视频
+- [基础软件与效率工具](series/software-and-tools.md)：17 个视频
 - [Claude Code 小白课程](series/claude-code-course.md)：4 个视频
 - [AI 产品与技术](series/ai-products-and-technology.md)：48 个视频
 - [出海手机号](series/overseas-mobile.md)：26 个视频
@@ -43,6 +43,9 @@
 
 ## 最近更新
 
+- [VOXI eSIM 学生首月免费与激活教程：资格、续费及保号限制](articles/esim-voxi.md)：VOXI eSIM 学生优惠与激活教程：说明英国大学学生资格、首月免费后的自动续费、eSIM 安装及号码查询，区分历史操作记录与尚未验证的境外长期保号方案。
+- [Google账号换国家或地区：关联地区申请、Play商店与付款资料的区别](articles/google-change-country-area.md)：Google账号换国家或地区操作指南：区分账号关联地区、Google Play商店和付款资料，提供官方申请入口、操作步骤及限制，说明换区为什么不等于获得学生优惠或其他服务资格。
+- [野卡 WildCard 历史使用记录：停运提示与订阅支付排查](articles/virtual-bank-card-register-guide.md)：野卡 WildCard 虚拟卡旧教程归档：本站已标注该服务停运，原开卡、充值和优惠入口不再推荐。本文保留历史用途说明，并提供订阅扣费核查与官方支付帮助入口。
 - [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](articles/maya-free-savings-visa-card-tutorial.md)：菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器
 - [菲律宾DITO eSIM手把手教程！每年0.6元人民币低成本保号，微信支付+大陆漫游](articles/dito-esim-0-6-payment-tutorial.md)：菲律宾 DITO eSIM 全流程教程：介绍购买开卡、实名激活、微信支付充值、大陆漫游与短信接收，以及每年低成本保号的方法。
 - [ITIN申请美国信用卡！Capital One 免年费卡手把手教程，PayPal还款Wise全流程](articles/itin-apply-card-capital-one-paypal-wise-tutorial.md)：「成为美国云居民」系列第六期：用 ITIN 申请 Capital One 免年费信用卡，手把手覆盖预申请、正式申请、电话开卡、PayPal 绑定 Wise 还款全流程
@@ -70,9 +73,6 @@
 - [GiffGaff携号转网及申请余额退款全流程手把手教程VOXI/CTExcel双方案](articles/giffgaff-apply-voxi-ctexcel-tutorial.md)：本视频手把手教你完整携号转网流程，从获取PAC码到转入VOXI或CTExcel UK，再到申请退还GiffGaff账户余额，每一步都有实操演示
 - [Mac微信多开教程｜一键脚本实现双开到多开，支持Telegram、WhatsApp等所有APP](articles/mac-telegram-whatsapp-app-tutorial.md)：Mac上实现微信双开到多开的完整教程，使用终端命令复制程序、修改标识符、重新签名，配合Automator打包成一键启动应用。支持微信、Telegram、WhatsApp等所有Mac APP多开，无需第三方软件，可升级、纯原生。
 - [永久免费VPS！Oracle甲骨文云账户申请开通完整教程，2C12G服务器白嫖到手！](articles/vps-free-oracle-apply-2c12g-server-tutorial.md)：甲骨文云Oracle Cloud免费VPS申请完整教程，从注册到开通2C12G服务器，手把手教你白嫖永久免费云主机
-- [微信群二维码7天过期？用这个开源免费工具生成永久二维码，无需服务器，3分钟搞定！](articles/7-free-tools-server-3.md)：众所周知，微信群二维码只有 7天有效期，对于一些玩私域的朋友，稳住一个二维码使用完全没招，要么只能忍受，要么市面上有付费使用的，要么免费的总有弹窗广告来维持不变的二维码。
-- [企业微信免Root虚拟定位打卡！0成本安卓手机100%成功教程](articles/root-virtual-card-0-mobile-100-tutorial.md)：介绍基于 Android 调试 API 与地图定位 SDK 的免 Root 定位工具，涵盖安装、权限、位置选择、摇杆控制和结果验证。
-- [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。
 
 ## 使用说明
 

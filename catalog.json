@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-09-28T14:07:22.000Z",
+  "sourceUpdatedAt": "2026-10-01T00:20:00.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -99,8 +99,9 @@
       "blogUrl": "https://869hr.uk/series/software-and-tools/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/software-and-tools.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 16,
+      "itemCount": 17,
       "videoIds": [
+        "DnOKC9uBw00",
         "1e8gXx3c56w",
         "NnfL-Uo3mHU",
         "YhxnffqiegU",
@@ -923,7 +924,9 @@
       "topics": [
         "tech"
       ],
-      "playlistIds": [],
+      "playlistIds": [
+        "PLpBi3Wpk7OYj6r0d5AhVJXVwwA_Y0AZiu"
+      ],
       "publishedAt": "2026-09-03T02:38:31.000Z",
       "updatedAt": "2026-09-03T02:38:31.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/app-register-tutorial/",
@@ -2468,8 +2471,8 @@
     },
     {
       "id": "esim-voxi",
-      "title": "VOXI eSIM 免费领取与激活全攻略，需要edu学生教育邮箱",
-      "description": "VOXI eSIM 领取与激活教程：介绍教育邮箱资格、申请步骤、eSIM 安装、英国号码查询和长期保号策略，以及使用限制。",
+      "title": "VOXI eSIM 学生首月免费与激活教程：资格、续费及保号限制",
+      "description": "VOXI eSIM 学生优惠与激活教程：说明英国大学学生资格、首月免费后的自动续费、eSIM 安装及号码查询，区分历史操作记录与尚未验证的境外长期保号方案。",
       "category": [
         "教程"
       ],
@@ -2482,7 +2485,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2025-08-09T06:30:22.000Z",
-      "updatedAt": "2025-08-09T06:30:22.000Z",
+      "updatedAt": "2026-10-01T00:20:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/esim-voxi/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-voxi.md",
       "videoUrl": null
@@ -3183,8 +3186,8 @@
     },
     {
       "id": "google-change-country-area",
-      "title": "Google账号换国家或换区域大法：轻松解锁海外服务与优惠",
-      "description": "还在为Google账号的地区限制烦恼吗？想体验特定区域的Google服务、应用或优惠（比如传说中的Google One学生优惠）？本文将手把手教你如何通过官方渠道申请修改Google账号的国家或地区。从准备工作到填写申请表单的“小技巧”，再到与Google",
+      "title": "Google账号换国家或地区：关联地区申请、Play商店与付款资料的区别",
+      "description": "Google账号换国家或地区操作指南：区分账号关联地区、Google Play商店和付款资料，提供官方申请入口、操作步骤及限制，说明换区为什么不等于获得学生优惠或其他服务资格。",
       "category": [
         "教程"
       ],
@@ -3199,7 +3202,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2025-06-29T14:30:00.000Z",
-      "updatedAt": "2025-06-29T14:30:00.000Z",
+      "updatedAt": "2026-10-01T00:20:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/google-change-country-area/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-change-country-area.md",
       "videoUrl": null
@@ -4997,8 +5000,8 @@
     },
     {
       "id": "virtual-bank-card-register-guide",
-      "title": "野卡(WildCard)虚拟信用卡：海外订阅支付神器，告别支付壁垒！（20250712跑路）",
-      "description": "野卡 WildCard 虚拟信用卡历史教程，记录其注册、开卡和海外订阅支付流程；该服务已于 2025 年 7 月停止运营，仅供资料参考。",
+      "title": "野卡 WildCard 历史使用记录：停运提示与订阅支付排查",
+      "description": "野卡 WildCard 虚拟卡旧教程归档：本站已标注该服务停运，原开卡、充值和优惠入口不再推荐。本文保留历史用途说明，并提供订阅扣费核查与官方支付帮助入口。",
       "category": [
         "工具"
       ],
@@ -5013,7 +5016,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2025-04-16T15:10:25.000Z",
-      "updatedAt": "2024-04-16T15:10:25.000Z",
+      "updatedAt": "2026-10-01T00:20:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tools/virtual-bank-card-register-guide/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/virtual-bank-card-register-guide.md",
       "videoUrl": null
