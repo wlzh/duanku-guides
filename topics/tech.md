@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 140 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 141 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -21,6 +21,7 @@
 - [海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题](../articles/app-register-tutorial.md)：本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题
 - [苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝"无法完成购买"！](../articles/appid-apple-gift-card-id-100-tutorial.md)：详细教程：苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝"无法完成购买"！
 - [【海外卡保号】海外 VoWiFi (Wi-Fi Calling) 开启全流程：iPhone、Android、代理规则](../articles/card-vowifi-wi-fi-calling--iphoneandroid.md)：本视频严格依据论坛指南，为您带来亲测有效的 VoWiFi 开启全流程教程。涵盖美国卡、英国卡、德国卡、香港卡等不同地区的开启方法，iPhone 和 Android 设备实操，以及 Surge/Clash 代理规则配置。
+- [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](../articles/charles-schwab-0-w-8ben-20-tutorial.md)：Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。
 - [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](../articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。
 - [ChatGPT Business 第三期｜澳大利亚48个月Team优惠码$17.8/月，4种支付含PayPal](../articles/chatgpt-business-48-team-17-8-4-payment-paypal.md)：本文介绍 ChatGPT Business 澳大利亚 Team 优惠的适用条件、价格与四种支付方式，并补充 PayPal 付款步骤和开通前核对事项。
 - [ChatGPT降智识别和解决方案 | 降智定义、检测方法和应对策略](../articles/chatgpt-downgrade.md)：深入解析ChatGPT降级现象的成因、检测方法和解决方案。包含完整的降级识别指南、性能测试方法、IP质量评估和账号恢复方案。提供多种实用工具和专业建议，帮助用户应对ChatGPT性能下降问题。详细介绍官方风控策略、API限制变化，并提供最新的解决方案和优化建议，确保您获得最佳的AI对话体验。

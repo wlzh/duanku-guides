@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-01T00:20:00.000Z",
+  "sourceUpdatedAt": "2026-10-01T11:54:10.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 220,
+  "count": 221,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -310,7 +310,7 @@
       "blogUrl": "https://869hr.uk/series/global-payments-and-finance/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/global-payments-and-finance.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 24,
+      "itemCount": 25,
       "videoIds": [
         "NiIswP2iT0c",
         "4aFwSHXv090",
@@ -335,7 +335,8 @@
         "HY9OD8rX89s",
         "B8gNipUixTo",
         "GjMNofKikP8",
-        "79OhJVQvGyc"
+        "79OhJVQvGyc",
+        "FWtCu4EKcPo"
       ]
     }
   ],
@@ -1183,6 +1184,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/card-vowifi-wi-fi-calling--iphoneandroid/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/card-vowifi-wi-fi-calling--iphoneandroid.md",
       "videoUrl": "https://www.youtube.com/watch?v=3lYgUUBEstI"
+    },
+    {
+      "id": "charles-schwab-0-w-8ben-20-tutorial",
+      "title": "大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%",
+      "description": "Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "嘉信理财",
+        "Charles Schwab",
+        "美股开户",
+        "大陆身份",
+        "W-8BEN"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW"
+      ],
+      "publishedAt": "2026-10-01T11:54:10.000Z",
+      "updatedAt": "2026-10-01T11:54:10.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/charles-schwab-0-w-8ben-20-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/charles-schwab-0-w-8ben-20-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=FWtCu4EKcPo"
     },
     {
       "id": "chatgpt-0-starryblu-claude-v-card-tutorial",
