@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 141 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 142 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -90,6 +90,7 @@
 - [ITIN申请美国信用卡！Capital One 免年费卡手把手教程，PayPal还款Wise全流程](../articles/itin-apply-card-capital-one-paypal-wise-tutorial.md)：「成为美国云居民」系列第六期：用 ITIN 申请 Capital One 免年费信用卡，手把手覆盖预申请、正式申请、电话开卡、PayPal 绑定 Wise 还款全流程
 - [剪映破解绿色版：全面解析与使用指南 | 技术教程](../articles/jianying.md)：详细介绍剪映破解绿色版的功能、使用方法及注意事项，帮助用户安全合法地使用软件，包含下载链接、安装步骤和详细教程。
 - [KiteSim免实名实体手机号教程：美国/加拿大/英国号码+接码+保号+eSIM流量一站式开通](../articles/kitesim-mobile-esim-tutorial.md)：KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开通美国、加拿大、英国独享实体号码，号码干净不触发风控，支持长期续费保号、随时接收短信验证码，注册海外服务更安全
+- [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金邀请码送10美元](../articles/kraken-iban-10-tutorial.md)：Kraken交易所优点 全牌照交易所，多国法币出入金，安全出入金必备神器，支持美元ACH、欧元SEPA、英镑FPS、瑞郎SIC，现已经支持个人IBAN。
 - [Mac微信多开教程｜一键脚本实现双开到多开，支持Telegram、WhatsApp等所有APP](../articles/mac-telegram-whatsapp-app-tutorial.md)：Mac上实现微信双开到多开的完整教程，使用终端命令复制程序、修改标识符、重新签名，配合Automator打包成一键启动应用。支持微信、Telegram、WhatsApp等所有Mac APP多开，无需第三方软件，可升级、纯原生。
 - [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](../articles/maya-free-savings-visa-card-tutorial.md)：菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器
 - [MCP支持流式HTTP传输协议解析：构建下一代无状态服务架构](../articles/mcp-http-sse-update.md)：深入解析Model Context Protocol最新引入的可流式HTTP传输机制，详解其如何通过改进SSE实现无状态服务架构，对比WebSocket方案的技术选型考量，并给出三种典型服务器实现场景的工程实践方案。全文包含协议演进动机、技术优势解读及实际应用场景演示。

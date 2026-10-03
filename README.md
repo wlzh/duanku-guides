@@ -11,7 +11,7 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：221 篇
+- 当前收录：222 篇
 
 ## 专题导航
 
@@ -24,14 +24,14 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：141 篇
+- [技术](topics/tech.md)：142 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
 
 ## YouTube 视频系列
 
-- [美国云居民系列](series/american-cloud-resident.md)：6 个视频
+- [美国云居民系列](series/american-cloud-resident.md)：7 个视频
 - [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
 - [基础软件与效率工具](series/software-and-tools.md)：17 个视频
 - [Claude Code 小白课程](series/claude-code-course.md)：4 个视频
@@ -39,10 +39,11 @@
 - [出海手机号](series/overseas-mobile.md)：26 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
 - [出海 VPS](series/vps.md)：12 个视频
-- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：25 个视频
+- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：26 个视频
 
 ## 最近更新
 
+- [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金邀请码送10美元](articles/kraken-iban-10-tutorial.md)：Kraken交易所优点 全牌照交易所，多国法币出入金，安全出入金必备神器，支持美元ACH、欧元SEPA、英镑FPS、瑞郎SIC，现已经支持个人IBAN。
 - [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](articles/charles-schwab-0-w-8ben-20-tutorial.md)：Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。
 - [VOXI eSIM 学生首月免费与激活教程：资格、续费及保号限制](articles/esim-voxi.md)：VOXI eSIM 学生优惠与激活教程：说明英国大学学生资格、首月免费后的自动续费、eSIM 安装及号码查询，区分历史操作记录与尚未验证的境外长期保号方案。
 - [Google账号换国家或地区：关联地区申请、Play商店与付款资料的区别](articles/google-change-country-area.md)：Google账号换国家或地区操作指南：区分账号关联地区、Google Play商店和付款资料，提供官方申请入口、操作步骤及限制，说明换区为什么不等于获得学生优惠或其他服务资格。
@@ -72,7 +73,6 @@
 - [Giffgaff封号退款维权终极指南｜英国Ombudsman仲裁，倒逼官方退钱！](articles/giffgaff-guide-ombudsman.md)：介绍 Giffgaff 封号或退款争议升级至英国 Communications Ombudsman 的完整流程，包含 deadlock letter 申请、证据整理和申诉模板。
 - [Giffgaff 退款教程！5天内10英镑到账，附退款申诉邮件模板](articles/giffgaff-5-10-tutorial.md)：介绍 Giffgaff 停用账号或不再使用服务时申请余额退款的条件、操作步骤和英文申诉模板，并说明处理时间与到账验证方法。
 - [GiffGaff携号转网及申请余额退款全流程手把手教程VOXI/CTExcel双方案](articles/giffgaff-apply-voxi-ctexcel-tutorial.md)：本视频手把手教你完整携号转网流程，从获取PAC码到转入VOXI或CTExcel UK，再到申请退还GiffGaff账户余额，每一步都有实操演示
-- [Mac微信多开教程｜一键脚本实现双开到多开，支持Telegram、WhatsApp等所有APP](articles/mac-telegram-whatsapp-app-tutorial.md)：Mac上实现微信双开到多开的完整教程，使用终端命令复制程序、修改标识符、重新签名，配合Automator打包成一键启动应用。支持微信、Telegram、WhatsApp等所有Mac APP多开，无需第三方软件，可升级、纯原生。
 
 ## 使用说明
 

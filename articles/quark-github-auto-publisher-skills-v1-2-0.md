@@ -34,6 +34,8 @@
 
 【高效率】夸克网盘+GitHub一条龙自动化发布工具（v1.2.0）！转存、归类、TG通知、站点更新全搞定！
 
+> **2026-10-03 更新**：本文介绍的流水线已完成托管迁移——内容仓库改为本地 Git 管理，站点从 GitHub Pages 迁移到 Cloudflare Pages（域名 doc.869hr.uk 不变）。下文涉及 GitHub 推送 / GitHub Actions 的步骤均已替换为本地提交与 `wrangler` 部署。
+
 如果你运营着一个夸克网盘资源站，手动转存、整理、发链是不是太麻烦？这套 quark-mswnlz-publisher 工具包就是你的救星！本期视频将手把手带你完成工具的配置和使用，让你彻底解放双手。
 
 核心功能 (Features)：
@@ -44,13 +46,13 @@
 
 - 多仓库自动归类 (book/movies/curriculum/tools/healthy/self-media/cross-border/edu-knowlege/AIknowledge)
 
-- GitHub 自动 Commit & Push (更新 YYYYMM.md 和 README 月份索引)
+- 本地 Git 自动提交 (更新 YYYYMM.md 和 README 月份索引)
 
 - Telegram 双重通知 (频道单条 & 群组汇总消息，避免刷屏)
 
 - 自动落盘 (追加/新建 YYYYMM.md + README)
 
-- 强制触发站点构建 (mswnlz.github.io push 触发并返回 Actions 链接/站点 URL)
+- 一键重建站点 (本地全量构建 + Cloudflare Pages 部署，返回站点 URL)
 
 更新日志 (v1.2.0):
 
@@ -72,7 +74,7 @@
 
 1. QuarkPanTool 环境配置 (克隆仓库、创建虚拟环境、安装依赖、安装 Playwright)
 
-2. GitHub SSH 配置 (确保可访问 mswnlz 组织仓库)
+2. Cloudflare Pages 授权 (npx wrangler login 一次即可)
 
 3. 准备推广文件模板 (夸克网盘 temp/要共享的文件 文件夹)
 
@@ -86,17 +88,15 @@
 
 - 步骤 4：运行推广文件复制脚本 (v1.2.0 🆕)
 
-- 步骤 5：发布到 GitHub + 发送 Telegram 通知 (v1.2.0 🆕)
+- 步骤 5：本地提交 + 发送 Telegram 通知 (v1.2.0 🆕)
 
-- 步骤 6：触发站点重建
+- 步骤 6：重建并部署站点 (Cloudflare Pages)
 
 相关链接 (Links)：
 
 - GitHub 仓库：[github.com](https://github.com/wlzh/skills)
 
 - QuarkPanTool 仓库：[github.com](https://github.com/nichuanfang/QuarkPanTool)
-
-- mswnlz 组织：[github.com](https://github.com/mswnlz)
 
 - 资源总站：[doc.869hr.uk](https://doc.869hr.uk)
 

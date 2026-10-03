@@ -5,7 +5,7 @@
 - YouTube：[连续观看完整系列](https://www.youtube.com/playlist?list=PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW)
 - 博客：[系列图文页](https://869hr.uk/series/global-payments-and-finance/)
 - 配套资源：[大坝资源收集站](https://doc.869hr.uk/cross-border/)
-- 当前视频：25 个
+- 当前视频：26 个
 
 ## 系列目录
 
@@ -34,3 +34,4 @@
 23. [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](../articles/safepal-gpt-wise-bank-card-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/safepal-gpt-wise-bank-card-tutorial/) · [YouTube](https://www.youtube.com/watch?v=GjMNofKikP8)
 24. [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](../articles/maya-free-savings-visa-card-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/maya-free-savings-visa-card-tutorial/) · [YouTube](https://www.youtube.com/watch?v=79OhJVQvGyc)
 25. [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](../articles/charles-schwab-0-w-8ben-20-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/charles-schwab-0-w-8ben-20-tutorial/) · [YouTube](https://www.youtube.com/watch?v=FWtCu4EKcPo)
+26. [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金（邀请码送10美元）](../articles/kraken-iban-10-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/kraken-iban-10-tutorial/) · [YouTube](https://www.youtube.com/watch?v=mW-IS2EjE7I)

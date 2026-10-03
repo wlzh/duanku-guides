@@ -71,7 +71,7 @@ DigitalPlat 免费域名服务条款( https://domain.digitalplat.org/terms-of-se
 提交后，请耐心等待。我们每天仅处理有限数量的申请。请勿重复发送或发送垃圾邮件。不完整或被拒绝的申请可能不会收到回复。
 
 ## 提取信息：
-用户名  mswnlz
+用户名  kingcolixhs-max
 电子邮件地址  gxjdian@gmail.com
 您当前的yourname.DPDNS.ORG域名   test.dpdns.org
 
@@ -91,7 +91,7 @@ email title：KYC Key Request
 
 您好！我是M.，之前注册了 US.KG 域名，并希望继续使用。根据您的要求，我在此详细说明该域名的使用情况。
 账户情况：
-用户名  mswnlz
+用户名  kingcolixhs-max
 电子邮件地址 ：gxjdian@gmail.com
 您当前的yourname.DPDNS.ORG域名 ： test.dpdns.org
 
@@ -108,7 +108,7 @@ Dear US.KG Domain Management Team,
 
 Hello! I am M., who previously registered the US.KG domain name and would like to continue using it. As requested by you, I will explain the use of the domain name in detail here.
 Account Status:
-Username: mswnlz
+Username: kingcolixhs-max
 Email Address: gxjdian@gmail.com
 Your current yourname.DPDNS.ORG domain name: test.dpdns.org
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-01T11:54:10.000Z",
+  "sourceUpdatedAt": "2026-10-03T07:50:13.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 221,
+  "count": 222,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -56,14 +56,15 @@
       "blogUrl": "https://869hr.uk/series/american-cloud-resident/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/american-cloud-resident.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 6,
+      "itemCount": 7,
       "videoIds": [
         "ZTr-QzLTT1c",
         "QJzgy0_Xb4w",
         "SWee72CYsDE",
         "cnkK6RQ4j74",
         "B8gNipUixTo",
-        "ggCSZOXEqbE"
+        "ggCSZOXEqbE",
+        "pfZOxCxA-OQ"
       ]
     },
     {
@@ -310,7 +311,7 @@
       "blogUrl": "https://869hr.uk/series/global-payments-and-finance/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/global-payments-and-finance.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 25,
+      "itemCount": 26,
       "videoIds": [
         "NiIswP2iT0c",
         "4aFwSHXv090",
@@ -336,7 +337,8 @@
         "B8gNipUixTo",
         "GjMNofKikP8",
         "79OhJVQvGyc",
-        "FWtCu4EKcPo"
+        "FWtCu4EKcPo",
+        "mW-IS2EjE7I"
       ]
     }
   ],
@@ -3711,6 +3713,32 @@
       "videoUrl": "https://www.youtube.com/watch?v=KA4kd5bRgh8"
     },
     {
+      "id": "kraken-iban-10-tutorial",
+      "title": "海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金邀请码送10美元",
+      "description": "Kraken交易所优点 全牌照交易所，多国法币出入金，安全出入金必备神器，支持美元ACH、欧元SEPA、英镑FPS、瑞郎SIC，现已经支持个人IBAN。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Kraken",
+        "海妖交易所",
+        "海妖",
+        "Kraken开户",
+        "Kraken教程"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW"
+      ],
+      "publishedAt": "2026-10-03T07:50:13.000Z",
+      "updatedAt": "2026-10-03T07:50:13.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/kraken-iban-10-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/kraken-iban-10-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=mW-IS2EjE7I"
+    },
+    {
       "id": "line-register",
       "title": "没有手机号如何注册Line？注册LINE需要手机号？无法注册LINE？电脑端无法登录LINE？阉割版LINE无法添加好友、创建群组、发送消息？",
       "description": "随着跨境电商市场的蓬勃发展，有效的客户沟通途径成为商家们关注的焦点。LINE，这一流行于亚洲的即时通讯工具，已逐渐成为与海外买家建立联系的重要平台。了解如何在国内注册LINE账号对于那些需要依靠社交媒体平台获客的卖家来说很重要，下面将教大家如何注册LINE。",
@@ -4289,6 +4317,7 @@
         "tech"
       ],
       "playlistIds": [
+        "PLZ3bI9CowsE8",
         "PLpBi3Wpk7OYj6r0d5AhVJXVwwA_Y0AZiu"
       ],
       "publishedAt": "2026-02-25T04:15:46.000Z",
