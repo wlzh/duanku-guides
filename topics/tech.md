@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 142 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 143 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -94,6 +94,7 @@
 - [Mac微信多开教程｜一键脚本实现双开到多开，支持Telegram、WhatsApp等所有APP](../articles/mac-telegram-whatsapp-app-tutorial.md)：Mac上实现微信双开到多开的完整教程，使用终端命令复制程序、修改标识符、重新签名，配合Automator打包成一键启动应用。支持微信、Telegram、WhatsApp等所有Mac APP多开，无需第三方软件，可升级、纯原生。
 - [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](../articles/maya-free-savings-visa-card-tutorial.md)：菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器
 - [MCP支持流式HTTP传输协议解析：构建下一代无状态服务架构](../articles/mcp-http-sse-update.md)：深入解析Model Context Protocol最新引入的可流式HTTP传输机制，详解其如何通过改进SSE实现无状态服务架构，对比WebSocket方案的技术选型考量，并给出三种典型服务器实现场景的工程实践方案。全文包含协议演进动机、技术优势解读及实际应用场景演示。
+- [Meta Muse稳定过白名单注册教程：lexmount新途径+概率验卡全流程附10亿token邀请码](../articles/meta-muse-register-lexmount-card-10-token-tutorial.md)：手工领取Pro会员 如果没有弹出点击 [lexmount pro ]( 需要做一个简单任务(连接github然后给仓库点一个start)就可以领取一个月pro会员。
 - [美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](../articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md)：Tello 美国手机卡与 eSIM 配置教程：介绍套餐选择、注册购买、安装激活和 WiFi Calling 设置，以及长期保号与短信收发的注意事项。
 - [国内任意手机免费使用eSIM！BeeSIM蓝牙读写+Saily美国实体号月租0.99美元完整教程](../articles/mobile-free-usage-esim-beesim-saily-0-99-tutorial.md)：介绍普通手机通过 BeeSIM 蓝牙读写器使用 eSIM，并演示 Saily 美国手机号套餐的开通、写入、保号和费用核对流程。
 - [苹果手机iOS定位修改到世界任何地方｜Shadowrocket小火箭保姆级教程 无需越狱](../articles/mobile-ios-shadowrocket-step-by-tutorial.md)：本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方， 无需越狱、无需电脑、无需开发者账号 。跟着一步步做即可。

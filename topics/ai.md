@@ -1,6 +1,6 @@
 # AI
 
-本专题收录 78 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 79 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
@@ -62,6 +62,7 @@
 - [Manus全网最全资料 Manus邀请码申请手把手教程（持续更新中，收藏这一个就够了），多个网盘资源。](../articles/manus-knowledge.md)：本教程详解Manus AI全平台资料的获取方式，包含持续更新的技术白皮书、实战教程、券商研报等核心资源，提供最新邀请码申请全流程指引，助您快速掌握AI代理开发与行业应用。教程附夸克网盘资源下载地址，涵盖智能体开发全生命周期文档。
 - [MCP支持流式HTTP传输协议解析：构建下一代无状态服务架构](../articles/mcp-http-sse-update.md)：深入解析Model Context Protocol最新引入的可流式HTTP传输机制，详解其如何通过改进SSE实现无状态服务架构，对比WebSocket方案的技术选型考量，并给出三种典型服务器实现场景的工程实践方案。全文包含协议演进动机、技术优势解读及实际应用场景演示。
 - [MCP协议：AI员工带你飞向Web4.0时代？打工人翻身做老板的秘密武器！](../articles/mcp-web4.0.md)：深入解读MCP协议如何开启AI员工互联网时代，探索Agent互联网的Web4.0革命。手把手教你使用Agent浏览器，体验AI员工的强大生产力，更有未来趋势预测，助你把握时代脉搏，不被AI浪潮落下！
+- [Meta Muse稳定过白名单注册教程：lexmount新途径+概率验卡全流程附10亿token邀请码](../articles/meta-muse-register-lexmount-card-10-token-tutorial.md)：手工领取Pro会员 如果没有弹出点击 [lexmount pro ]( 需要做一个简单任务(连接github然后给仓库点一个start)就可以领取一个月pro会员。
 - [如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程](../articles/ollama-gguf.md)：详细教程：如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程，涵盖LLM、AI工具、本地部署等知识点
 - [OpenAI GPT Pro 5x 怎么买最省钱？5大渠道全对比｜官方 vs 低价代充终极指南](../articles/openai-gpt-pro-5x-5-compare-vs-guide.md)：既然都要花 ¥700+，不如自己花 10 分钟用 PockytShop 充 ¥685，零中间商零风险 GPT Pro 5x 到底怎么买最划算
 - [用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！🤖](../articles/openclaw-ai-youmind.md)：详细教程：用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！，涵盖视频教程等知识点

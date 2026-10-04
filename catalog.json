@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-03T07:50:13.000Z",
+  "sourceUpdatedAt": "2026-10-04T14:07:47.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 222,
+  "count": 223,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -147,8 +147,9 @@
       "blogUrl": "https://869hr.uk/series/ai-products-and-technology/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/ai-products-and-technology.md",
       "resourceUrl": "https://doc.869hr.uk/AIknowledge/",
-      "itemCount": 48,
+      "itemCount": 49,
       "videoIds": [
+        "j4dI8a__EVk",
         "80u2rwxpTqA",
         "wQJ25YhmxGk",
         "MmH4Y7goEqs",
@@ -3898,6 +3899,33 @@
       "blogUrl": "https://869hr.uk/2025/study/mcp-web4.0/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mcp-web4.0.md",
       "videoUrl": "https://www.youtube.com/watch?v=D8WmBOBrgAU"
+    },
+    {
+      "id": "meta-muse-register-lexmount-card-10-token-tutorial",
+      "title": "Meta Muse稳定过白名单注册教程：lexmount新途径+概率验卡全流程附10亿token邀请码",
+      "description": "手工领取Pro会员 如果没有弹出点击 [lexmount pro ]( 需要做一个简单任务(连接github然后给仓库点一个start)就可以领取一个月pro会员。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Meta Muse",
+        "Muse",
+        "Muse注册",
+        "Muse白名单",
+        "AI代理"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYinOdd8WbQ_gbuSVMNgBLlI"
+      ],
+      "publishedAt": "2026-10-04T14:07:47.000Z",
+      "updatedAt": "2026-10-04T14:07:47.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/meta-muse-register-lexmount-card-10-token-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/meta-muse-register-lexmount-card-10-token-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=j4dI8a__EVk"
     },
     {
       "id": "mobile-card-tello-5-esim-wifi-step-by-tutorial",
