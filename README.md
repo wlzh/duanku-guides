@@ -11,7 +11,7 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：223 篇
+- 当前收录：224 篇
 
 ## 专题导航
 
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：143 篇
+- [技术](topics/tech.md)：144 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -39,10 +39,11 @@
 - [出海手机号](series/overseas-mobile.md)：26 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
 - [出海 VPS](series/vps.md)：12 个视频
-- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：26 个视频
+- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：27 个视频
 
 ## 最近更新
 
+- [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
 - [Meta Muse稳定过白名单注册教程：lexmount新途径+概率验卡全流程附10亿token邀请码](articles/meta-muse-register-lexmount-card-10-token-tutorial.md)：手工领取Pro会员 如果没有弹出点击 [lexmount pro ]( 需要做一个简单任务(连接github然后给仓库点一个start)就可以领取一个月pro会员。
 - [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金邀请码送10美元](articles/kraken-iban-10-tutorial.md)：Kraken交易所优点 全牌照交易所，多国法币出入金，安全出入金必备神器，支持美元ACH、欧元SEPA、英镑FPS、瑞郎SIC，现已经支持个人IBAN。
 - [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](articles/charles-schwab-0-w-8ben-20-tutorial.md)：Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。
@@ -72,7 +73,6 @@
 - [英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程](articles/esim-free-card-tutorial.md)：介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。
 - [Giffgaff 封号退款被拒？余额捐慈善 + 向 Ofcom 投诉全攻略第四期](articles/giffgaff-ofcom.md)：Giffgaff 封号退款被拒？余额被捐慈善？教你向 Ofcom 投诉拿回余额的完整流程：携号转网、申诉邮件模板、Ombudsman 仲裁实战全攻略。
 - [Giffgaff封号退款维权终极指南｜英国Ombudsman仲裁，倒逼官方退钱！](articles/giffgaff-guide-ombudsman.md)：介绍 Giffgaff 封号或退款争议升级至英国 Communications Ombudsman 的完整流程，包含 deadlock letter 申请、证据整理和申诉模板。
-- [Giffgaff 退款教程！5天内10英镑到账，附退款申诉邮件模板](articles/giffgaff-5-10-tutorial.md)：介绍 Giffgaff 停用账号或不再使用服务时申请余额退款的条件、操作步骤和英文申诉模板，并说明处理时间与到账验证方法。
 
 ## 使用说明
 

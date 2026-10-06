@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 143 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 144 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -121,6 +121,7 @@
 - [Shadowsocks 完全指南：从零开始掌握科学上网核心工具小白必看](../articles/shadowsocks-guide-vpn-tools.md)：从零解释 Shadowsocks 的工作方式、与传统 VPN 的差异、常用客户端和基础配置流程，并整理连接验证与常见故障排查。
 - [对决MCP的SLOP协议：以HTTP为核心的下一代AI协作框架 | 2025完全指南](../articles/slop-introduce.md)：深度解析SLOP协议的设计理念与技术架构，揭秘其如何通过HTTP标准化接口实现AI工具的互联互通。包含GitHub开源项目地址、开发者快速接入指南以及与传统MCP协议的对比分析，助您掌握未来AI协作新范式。
 - [Sound Guard：Mac 长时间无声自动归零音量，避免突然外放的开源工具](../articles/sound-guard-mac.md)：Sound Guard 是一款开源 macOS 菜单栏音量保护工具：设备长时间没有播放活动时自动将输出音量归零，并通过设备白名单、保守检测和确认式恢复降低突然外放风险。
+- [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](../articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
 - [Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程](../articles/telegram-register-tutorial-0-5-ip-shorts.md)：详细教程：Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程
 - [Telegram登录要收SMS费？5种方法免费绕过，亲测有效！](../articles/telegram-sms-5-free.md)：这个情况好像是官方今年8月份新出的政策公布就出现了，正常情况下，你输入的手机号如果它的地区是亚洲部分国家（不光只是东大）还有英国的手机号（我也试了）去注册，极大概率都会跳付费请求。
 - [Telegram登录要付费？SMS Fee免费跳过方法大全](../articles/telegram-sms-fee-free.md)：整理 Telegram 登录时出现 SMS Fee 的常见原因和可尝试的免费处理方式，包含设备切换、已有会话验证及失败条件说明。
