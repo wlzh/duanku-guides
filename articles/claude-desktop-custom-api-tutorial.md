@@ -124,9 +124,9 @@
 
 ## 相关推荐
 
-- [Apple ID 注册与 Claude 使用教程](https://869hr.uk/apple-id-register---claude/)
-- [美国 IP 使用 Claude 和 ChatGPT](https://869hr.uk/8-usa-ip-50-claude-chatgpt/)
-- [Apple Gift Card 购买教程](https://869hr.uk/appid-apple-gift-card-id-100-tutorial/)
+- [Apple ID 注册与 Claude 使用教程](https://869hr.uk/2026/software/apple-id-register---claude/)
+- [美国 IP 使用 Claude 和 ChatGPT](https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/)
+- [Apple Gift Card 购买教程](https://869hr.uk/2026/tech/appid-apple-gift-card-id-100-tutorial/)
 
 ---
 

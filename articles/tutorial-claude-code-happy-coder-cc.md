@@ -159,7 +159,7 @@ Claude、OpenAI Codex等充值 [bewild.ai](https://bewild.ai?code=GXJDIAN)
 ## 相关教程推荐
 
 <!-- 推荐链接：Cloudflare/域名系列 -->
-- [Cloudflare Tunnel + Docker 内网穿透教程](https://869hr.uk/2026/tutorial/cloudflare-tunnel-docker-tutorial/)
+- [Cloudflare Tunnel + Docker 内网穿透教程](https://869hr.uk/2026/tech/cloudflare-tunnel-docker-tutorial/)
 <!-- 推荐链接：AI工具系列 -->
 - [DeepSeek 相关传闻深度分析](https://869hr.uk/2025/tech/deepseek-20250208/)
 

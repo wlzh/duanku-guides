@@ -112,9 +112,9 @@ TUNNEL_TOKEN: 创建Tunnel获取的token
 
 ## 相关教程推荐
 
-- [VPS 安全加固全攻略：SSH 防暴力破解、端口改动、Fail2ban 配置](https://869hr.uk/2026/tutorial/vps-security-hardening-skill-tutorial/) — 部署完 Tunnel 后的安全加固必读
+- [VPS 安全加固全攻略：SSH 防暴力破解、端口改动、Fail2ban 配置](https://869hr.uk/2026/tech/vps-security-hardening-skill-tutorial/) — 部署完 Tunnel 后的安全加固必读
 - [甲骨文 Oracle 免费 VPS 申请教程](https://869hr.uk/2025/tech/oracle-vps/) — 免费 VPS 上跑 Cloudflare Tunnel 最佳拍档
-- [免费域名 + Cloudflare DNS 解析教程](https://869hr.uk/2026/tech/free-domain-cloudflare-tutorial/) — Tunnel 配置自定义域名
+- [免费域名 + Cloudflare DNS 解析教程](https://869hr.uk/2026/tutorial/free-domain-cloudflare-tutorial/) — Tunnel 配置自定义域名
 
 ## 参考链接
 

@@ -112,9 +112,9 @@ javascript:(async function(){try{const t=await(await fetch("/api/auth/session"))
 
 ## 相关推荐
 
-- [ChatGPT Plus 教程](https://869hr.uk/6-chatgpt-plus-tutorial/)
-- [美国 IP 使用 Claude 和 ChatGPT](https://869hr.uk/8-usa-ip-50-claude-chatgpt/)
-- [ChatGPT 降级教程](https://869hr.uk/chatgpt-downgrade/)
+- [ChatGPT Plus 教程](https://869hr.uk/2026/tutorial/6-chatgpt-plus-tutorial/)
+- [美国 IP 使用 Claude 和 ChatGPT](https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/)
+- [ChatGPT 降级教程](https://869hr.uk/2025/tech/chatgpt-downgrade/)
 
 ---
 

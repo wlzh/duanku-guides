@@ -356,7 +356,7 @@ Internet现行的TCP/IP协议一直有一个没有解决的问题：IP是可以�
 ## 相关教程推荐
 
 <!-- 推荐链接：Cloudflare/域名系列 -->
-- [Cloudflare Tunnel + Docker 内网穿透教程](https://869hr.uk/2026/tutorial/cloudflare-tunnel-docker-tutorial/)
+- [Cloudflare Tunnel + Docker 内网穿透教程](https://869hr.uk/2026/tech/cloudflare-tunnel-docker-tutorial/)
 
 ## 视频信息
 

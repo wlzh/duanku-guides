@@ -123,7 +123,7 @@
 ## 相关教程推荐
 
 - [Wise 国内极速开户全教程（身份证+手机号即可）](https://869hr.uk/2026/tutorial/wise-mainland-phone-id-register-guide/) — 本文保号用到的 Wise 账号注册方法
-- [三家 eSIM 对比：9eSIM / ESTK / XeSIM 优缺点及开户链接](https://869hr.uk/2026/tech/xesim/) — 国行手机写卡器及 eSIM 运营商选择指南
+- [三家 eSIM 对比：9eSIM / ESTK / XeSIM 优缺点及开户链接](https://869hr.uk/2026/tech/esim-card-9esim-vs-xesim-estk-compare-review/) — 国行手机写卡器及 eSIM 运营商选择指南
 - [N26 德国银行账户申请教程（护照即可）](https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/) — N26 自动保号方式详解
 
 ## 参考链接

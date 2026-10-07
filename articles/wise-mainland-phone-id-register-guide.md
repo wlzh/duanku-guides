@@ -97,8 +97,8 @@
 ## 相关教程推荐
 
 - [德国沃达丰 eSIM 申请全攻略：0月租每年仅需1元保号](https://869hr.uk/2026/tutorial/vodafone-esim-wise-n26-guide/) — 用 Wise 定时转账实现自动保号
-- [Twitter/X 创作者收益开通教程](https://869hr.uk/2026/tech/twitter-creator-verification-revenue-setup-tutorial/) — 开通后需要 Wise 收款
-- [跨境独立开发者收款方案总结](https://869hr.uk/2025/tech/global-payment-wise-vs-stripe-guide/) — Wise vs Stripe 全面对比
+- [Twitter/X 创作者收益开通教程](https://869hr.uk/2026/tutorial/twitter-creator-verification-revenue-setup-tutorial/) — 开通后需要 Wise 收款
+- [跨境独立开发者收款方案总结](https://869hr.uk/2026/%E8%B7%A8%E5%A2%83%E6%94%B6%E6%AC%BE/global-payment-wise-vs-stripe-guide/) — Wise vs Stripe 全面对比
 
 ## 参考链接
 

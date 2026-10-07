@@ -18,7 +18,7 @@
 - [【Claude Code 小白教程-第2期】接入国内大模型！GLM/通义千问配置，AICodeSwitch神器！](../articles/claude-code-tutorial-2-domestic-ai-models.md)：欢迎回来！Claude Code 小白教程第二期，手把手教你配置智谱 GLM、阿里通义千问，使用 AICodeSwitch 神器一键切换模型，还有免费大模型白嫖教程。
 - [CLIProxyAPI 部署教程：VPS、域名、SSL 与远程调用完整配置](../articles/cliproxyapi-vps-domain-ssl-tutorial.md)：这篇教程围绕 CLIProxyAPI 的完整部署流程展开，涵盖 VPS 准备、IP 检测、一键部署、Systemd 守护进程、防火墙配置、域名解析、Nginx 反向代理、SSL 证书申请与自动续期的完整流程。
 - [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-asu-invite.md)：美国大学 .edu 教育邮箱申请教程：涵盖申请前准备、在线注册、信息保存、账户激活和常见问题，并说明教育优惠的适用条件。
-- [白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱](../articles/edu-invite2.md)：详细教程：白嫖教育优惠！手把手教你免费注册美国大学.edu教育邮箱，涵盖邮箱、免费资源、学习资源等知识点
+- [SDCCE 教育邮箱申请图解：OpenCCC 账号创建与邮箱验证](../articles/edu-invite2.md)：SDCCE 与 OpenCCC 账号申请的历史操作图解，记录进入申请页面、创建账号和验证邮箱等步骤；学校资格和教育优惠以对应官方规则为准。
 - [免费获取美国教育邮箱（.edu）终极指南 | 轻松解锁学生福利](../articles/edu-invite3.md)：美国教育邮箱申请指南：从邮箱准备、学校申请到账号激活，整理完整操作步骤、学生福利使用范围和容易失败的环节。
 - [VOXI eSIM 学生首月免费与激活教程：资格、续费及保号限制](../articles/esim-voxi.md)：VOXI eSIM 学生优惠与激活教程：说明英国大学学生资格、首月免费后的自动续费、eSIM 安装及号码查询，区分历史操作记录与尚未验证的境外长期保号方案。
 - [永久免费域名注册绑定全攻略🌐 无需信用卡，完美挂靠Cloudflare，建站/搭节点必备，且可商业化！(一个邮箱白嫖6个) | 零基础喂饭教程](../articles/free-domain-cloudflare-tutorial.md)：目前全网好用的永久免费域名注册方案！不需要绑定任何信用卡，仅需一个常用邮箱，就能一次性注册6个免费域名。

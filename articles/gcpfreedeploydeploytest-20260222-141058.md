@@ -68,7 +68,7 @@
 
 - 【第一期】GCP永久免费+每月领$10防坑教程: [[youtu.be](https://youtu.be/mb77KAfXOVg?si=iNJI_dexpyX2MbUL])
 
-- 视频中使用的部署脚本/配置文件: [[869hr.uk](https://869hr.uk/2026/tech/gcpfreedeploydeploytest-20260222-141058/])
+- 视频中使用的部署脚本/配置文件: [869hr.uk](https://869hr.uk/2026/tech/gcpfreedeploydeploytest-20260222-141058/)
 
 💬 加入Telegram讨论群： [t.me](https://t.me/tgmShareAI)
 

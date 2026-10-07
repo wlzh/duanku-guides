@@ -43,6 +43,7 @@
 
 ## 最近更新
 
+- [SDCCE 教育邮箱申请图解：OpenCCC 账号创建与邮箱验证](articles/edu-invite2.md)：SDCCE 与 OpenCCC 账号申请的历史操作图解，记录进入申请页面、创建账号和验证邮箱等步骤；学校资格和教育优惠以对应官方规则为准。
 - [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
 - [Meta Muse稳定过白名单注册教程：lexmount新途径+概率验卡全流程附10亿token邀请码](articles/meta-muse-register-lexmount-card-10-token-tutorial.md)：手工领取Pro会员 如果没有弹出点击 [lexmount pro ]( 需要做一个简单任务(连接github然后给仓库点一个start)就可以领取一个月pro会员。
 - [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金邀请码送10美元](articles/kraken-iban-10-tutorial.md)：Kraken交易所优点 全牌照交易所，多国法币出入金，安全出入金必备神器，支持美元ACH、欧元SEPA、英镑FPS、瑞郎SIC，现已经支持个人IBAN。
@@ -72,7 +73,6 @@
 - [Shadowsocks 完全指南：从零开始掌握科学上网核心工具小白必看](articles/shadowsocks-guide-vpn-tools.md)：从零解释 Shadowsocks 的工作方式、与传统 VPN 的差异、常用客户端和基础配置流程，并整理连接验证与常见故障排查。
 - [英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程](articles/esim-free-card-tutorial.md)：介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。
 - [Giffgaff 封号退款被拒？余额捐慈善 + 向 Ofcom 投诉全攻略第四期](articles/giffgaff-ofcom.md)：Giffgaff 封号退款被拒？余额被捐慈善？教你向 Ofcom 投诉拿回余额的完整流程：携号转网、申诉邮件模板、Ombudsman 仲裁实战全攻略。
-- [Giffgaff封号退款维权终极指南｜英国Ombudsman仲裁，倒逼官方退钱！](articles/giffgaff-guide-ombudsman.md)：介绍 Giffgaff 封号或退款争议升级至英国 Communications Ombudsman 的完整流程，包含 deadlock letter 申请、证据整理和申诉模板。
 
 ## 使用说明
 
