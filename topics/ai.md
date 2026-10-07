@@ -1,6 +1,6 @@
 # AI
 
-本专题收录 79 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 80 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
@@ -68,6 +68,7 @@
 - [用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！🤖](../articles/openclaw-ai-youmind.md)：详细教程：用 OpenClaw 搭建全自动 AI 资讯站：从抓取到 Youmind 创作再到公众号发布文章，一键躺平！，涵盖视频教程等知识点
 - [🔥 OpenClaw火力，利用TG Topics实现多任务高并发：任务同时下发，告别AI反应慢 小白喂饭级配置](../articles/openclaw-tg-topics--ai-config.md)：本期视频解决OpenClaw最大的痛点：AI反应慢卡住后续任务。想同时安排十件事？用Telegram Topics功能开启OpenClaw的"多线程并发"模式，让一个群变成你的千军万马指挥部。
 - [PayPal无卡开通GPT Plus全流程教程｜无需信用卡｜2026最新方法](../articles/paypal-card-gpt-plus-tutorial.md)：介绍无需信用卡、通过 PayPal 开通 ChatGPT Plus 的完整流程，重点说明试用资格检查、账号准备、支付绑定和失败排查。
+- [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](../articles/paypal-register-step-by-claude-ai-app-tutorial.md)：结束绑卡 至此，美区 PayPal 的注册和绑定 App Store 就搞定了， 搞一个美区 PayPal 是真香啊，美区订阅再也不用充值礼品卡了 ，礼品卡充值和退款、资金利用都非常不方便。
 - [重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持](../articles/qqbot-openclaw-official-api-tutorial.md)：这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。
 - [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](../articles/safepal-gpt-wise-bank-card-tutorial.md)：这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示
 - [OpenAI CEO Sam Altman：三点观察解析 | AGI时代与AI经济学](../articles/sam-altman-three-observations.md)：OpenAI CEO Sam Altman在最新博文中探讨了AGI时代和AI经济学的三大观察，分析了人工智能对社会经济的深远影响。本文详细解析了这些观察的意义，并探讨了未来可能带来的变化。

@@ -5,7 +5,7 @@
 - YouTube：[连续观看完整系列](https://www.youtube.com/playlist?list=PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW)
 - 博客：[系列图文页](https://869hr.uk/series/global-payments-and-finance/)
 - 配套资源：[大坝资源收集站](https://doc.869hr.uk/cross-border/)
-- 当前视频：27 个
+- 当前视频：28 个
 
 ## 系列目录
 
@@ -36,3 +36,4 @@
 25. [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](../articles/charles-schwab-0-w-8ben-20-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/charles-schwab-0-w-8ben-20-tutorial/) · [YouTube](https://www.youtube.com/watch?v=FWtCu4EKcPo)
 26. [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金（邀请码送10美元）](../articles/kraken-iban-10-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/kraken-iban-10-tutorial/) · [YouTube](https://www.youtube.com/watch?v=mW-IS2EjE7I)
 27. [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](../articles/step-by-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/step-by-tutorial/) · [YouTube](https://www.youtube.com/watch?v=9JAPUUNvONk)
+28. [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](../articles/paypal-register-step-by-claude-ai-app-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/paypal-register-step-by-claude-ai-app-tutorial/) · [YouTube](https://www.youtube.com/watch?v=EVzMZnwntiY)

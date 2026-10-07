@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-06T16:00:00.000Z",
+  "sourceUpdatedAt": "2026-10-07T22:40:07.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 224,
+  "count": 225,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -312,7 +312,7 @@
       "blogUrl": "https://869hr.uk/series/global-payments-and-finance/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/global-payments-and-finance.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 27,
+      "itemCount": 28,
       "videoIds": [
         "NiIswP2iT0c",
         "4aFwSHXv090",
@@ -340,7 +340,8 @@
         "79OhJVQvGyc",
         "FWtCu4EKcPo",
         "mW-IS2EjE7I",
-        "9JAPUUNvONk"
+        "9JAPUUNvONk",
+        "EVzMZnwntiY"
       ]
     }
   ],
@@ -4381,6 +4382,33 @@
       "blogUrl": "https://869hr.uk/2026/tech/paypal-card-gpt-plus-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/paypal-card-gpt-plus-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=5X30EtiQiDU"
+    },
+    {
+      "id": "paypal-register-step-by-claude-ai-app-tutorial",
+      "title": "美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程",
+      "description": "结束绑卡 至此，美区 PayPal 的注册和绑定 App Store 就搞定了， 搞一个美区 PayPal 是真香啊，美区订阅再也不用充值礼品卡了 ，礼品卡充值和退款、资金利用都非常不方便。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "美区PayPal",
+        "PayPal注册",
+        "PayPal养号",
+        "美国PayPal",
+        "Claude订阅"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW"
+      ],
+      "publishedAt": "2026-10-07T22:40:07.000Z",
+      "updatedAt": "2026-10-07T22:40:07.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/paypal-register-step-by-claude-ai-app-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/paypal-register-step-by-claude-ai-app-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=EVzMZnwntiY"
     },
     {
       "id": "pokepay-virtual-card-apply-tutorial",

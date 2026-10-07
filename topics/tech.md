@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 144 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 145 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -108,6 +108,7 @@
 - [甲骨文云永久免费VPS成功申请指南 | 详细资源配置与步骤解析](../articles/oracle-vps.md)：2025年最新Oracle Cloud免费服务器申请教程，包含完整的注册流程、信用卡绑定技巧和服务器配置指南。详细介绍如何避免常见的审核问题，优化服务器性能，配置安全组和网络设置。提供多地区服务器测评、性能对比和使用建议，帮助你最大化利用Oracle免费服务器资源，打造自己的云端服务。
 - [2026护照办理全流程揭秘：只需跑一次，120元搞定！海外生活、留学、开户必备身份证明](../articles/passport-2026-process-guide.md)：2026护照办理最新流程详解，覆盖预约、材料、费用、领取与海外开户/eSIM应用场景，附完整实操截图与视频说明。
 - [PayPal无卡开通GPT Plus全流程教程｜无需信用卡｜2026最新方法](../articles/paypal-card-gpt-plus-tutorial.md)：介绍无需信用卡、通过 PayPal 开通 ChatGPT Plus 的完整流程，重点说明试用资格检查、账号准备、支付绑定和失败排查。
+- [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](../articles/paypal-register-step-by-claude-ai-app-tutorial.md)：结束绑卡 至此，美区 PayPal 的注册和绑定 App Store 就搞定了， 搞一个美区 PayPal 是真香啊，美区订阅再也不用充值礼品卡了 ，礼品卡充值和退款、资金利用都非常不方便。
 - [玩转香港PokePay虚拟卡：申请开卡、充值全攻略+返现活动  零成本开卡教程](../articles/pokepay-virtual-card-apply-tutorial.md)：本视频详细演示PokePay虚拟卡的注册、KYC身份认证、USDT充值、开卡、实体卡申请及绑定支付宝/微信全流程
 - [重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持](../articles/qqbot-openclaw-official-api-tutorial.md)：这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。
 - [【资源运营神器Skills】完全开源，夸克网盘+GitHub一条龙全自动发布工具 (v1.2.0)！转存、归类、TG通知、站点更新一键搞定！手把手小白教程：从转存到发布全流程](../articles/quark-github-auto-publisher-skills-v1-2-0.md)：夸克网盘+GitHub一条龙自动化发布工具 v1.2.0：批量转存、自动归类、多仓库落盘、Telegram 通知、触发站点构建，手把手小白教程。

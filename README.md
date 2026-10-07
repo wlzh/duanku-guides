@@ -11,11 +11,11 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：224 篇
+- 当前收录：225 篇
 
 ## 专题导航
 
-- [AI](topics/ai.md)：79 篇
+- [AI](topics/ai.md)：80 篇
 - [跨境收款](topics/cross-border-payments.md)：1 篇
 - [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：144 篇
+- [技术](topics/tech.md)：145 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -39,10 +39,11 @@
 - [出海手机号](series/overseas-mobile.md)：26 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
 - [出海 VPS](series/vps.md)：12 个视频
-- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：27 个视频
+- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：28 个视频
 
 ## 最近更新
 
+- [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](articles/paypal-register-step-by-claude-ai-app-tutorial.md)：结束绑卡 至此，美区 PayPal 的注册和绑定 App Store 就搞定了， 搞一个美区 PayPal 是真香啊，美区订阅再也不用充值礼品卡了 ，礼品卡充值和退款、资金利用都非常不方便。
 - [SDCCE 教育邮箱申请图解：OpenCCC 账号创建与邮箱验证](articles/edu-invite2.md)：SDCCE 与 OpenCCC 账号申请的历史操作图解，记录进入申请页面、创建账号和验证邮箱等步骤；学校资格和教育优惠以对应官方规则为准。
 - [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
 - [Meta Muse稳定过白名单注册教程：lexmount新途径+概率验卡全流程附10亿token邀请码](articles/meta-muse-register-lexmount-card-10-token-tutorial.md)：手工领取Pro会员 如果没有弹出点击 [lexmount pro ]( 需要做一个简单任务(连接github然后给仓库点一个start)就可以领取一个月pro会员。
@@ -72,7 +73,6 @@
 - [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](articles/safepal-gpt-wise-bank-card-tutorial.md)：这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示
 - [Shadowsocks 完全指南：从零开始掌握科学上网核心工具小白必看](articles/shadowsocks-guide-vpn-tools.md)：从零解释 Shadowsocks 的工作方式、与传统 VPN 的差异、常用客户端和基础配置流程，并整理连接验证与常见故障排查。
 - [英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程](articles/esim-free-card-tutorial.md)：介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。
-- [Giffgaff 封号退款被拒？余额捐慈善 + 向 Ofcom 投诉全攻略第四期](articles/giffgaff-ofcom.md)：Giffgaff 封号退款被拒？余额被捐慈善？教你向 Ofcom 投诉拿回余额的完整流程：携号转网、申诉邮件模板、Ombudsman 仲裁实战全攻略。
 
 ## 使用说明
 
