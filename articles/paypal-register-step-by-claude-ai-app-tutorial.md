@@ -12,7 +12,7 @@
 - 专题：技术、AI
 - 关键词：美区PayPal、PayPal注册、PayPal养号、美国PayPal、Claude订阅
 - 视频：https://www.youtube.com/watch?v=EVzMZnwntiY
-- 系列：[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
+- 系列：[美国云居民系列](../series/american-cloud-resident.md)、[出海支付、银行卡与金融](../series/global-payments-and-finance.md)
 
 ## 正文
 

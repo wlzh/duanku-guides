@@ -31,7 +31,7 @@
 
 ## YouTube 视频系列
 
-- [美国云居民系列](series/american-cloud-resident.md)：7 个视频
+- [美国云居民系列](series/american-cloud-resident.md)：8 个视频
 - [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
 - [基础软件与效率工具](series/software-and-tools.md)：17 个视频
 - [Claude Code 小白课程](series/claude-code-course.md)：4 个视频
