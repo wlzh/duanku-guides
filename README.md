@@ -11,7 +11,7 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：225 篇
+- 当前收录：226 篇
 
 ## 专题导航
 
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：145 篇
+- [技术](topics/tech.md)：146 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -33,7 +33,7 @@
 
 - [美国云居民系列](series/american-cloud-resident.md)：8 个视频
 - [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
-- [基础软件与效率工具](series/software-and-tools.md)：17 个视频
+- [基础软件与效率工具](series/software-and-tools.md)：18 个视频
 - [Claude Code 小白课程](series/claude-code-course.md)：4 个视频
 - [AI 产品与技术](series/ai-products-and-technology.md)：49 个视频
 - [出海手机号](series/overseas-mobile.md)：26 个视频
@@ -43,6 +43,7 @@
 
 ## 最近更新
 
+- [苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制](articles/appid-100-gift-card-tutorial.md)：苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制。
 - [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](articles/paypal-register-step-by-claude-ai-app-tutorial.md)：结束绑卡 至此，美区 PayPal 的注册和绑定 App Store 就搞定了， 搞一个美区 PayPal 是真香啊，美区订阅再也不用充值礼品卡了 ，礼品卡充值和退款、资金利用都非常不方便。
 - [SDCCE 教育邮箱申请图解：OpenCCC 账号创建与邮箱验证](articles/edu-invite2.md)：SDCCE 与 OpenCCC 账号申请的历史操作图解，记录进入申请页面、创建账号和验证邮箱等步骤；学校资格和教育优惠以对应官方规则为准。
 - [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
@@ -72,7 +73,6 @@
 - [Giffgaff封号不要慌！携号转网Lebara 一年不到20元保住英国号手把手喂饭教程](articles/giffgaff-lebara-20-tutorial.md)：本视频手把手教你把英国号携号转网到Lebara，一年保号成本不到20元人民币。包含适用条件、操作步骤、结果验证和常见问题。
 - [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](articles/safepal-gpt-wise-bank-card-tutorial.md)：这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示
 - [Shadowsocks 完全指南：从零开始掌握科学上网核心工具小白必看](articles/shadowsocks-guide-vpn-tools.md)：从零解释 Shadowsocks 的工作方式、与传统 VPN 的差异、常用客户端和基础配置流程，并整理连接验证与常见故障排查。
-- [英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程](articles/esim-free-card-tutorial.md)：介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。
 
 ## 使用说明
 

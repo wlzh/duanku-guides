@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-07T22:40:07.000Z",
+  "sourceUpdatedAt": "2026-10-09T14:21:52.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 225,
+  "count": 226,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -101,8 +101,9 @@
       "blogUrl": "https://869hr.uk/series/software-and-tools/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/software-and-tools.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 17,
+      "itemCount": 18,
       "videoIds": [
+        "sNyanTFLSPo",
         "DnOKC9uBw00",
         "1e8gXx3c56w",
         "NnfL-Uo3mHU",
@@ -939,6 +940,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/app-register-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/app-register-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=DnOKC9uBw00"
+    },
+    {
+      "id": "appid-100-gift-card-tutorial",
+      "title": "苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制",
+      "description": "苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Apple ID风控",
+        "Apple Gift Card",
+        "购买失败",
+        "App Store充值",
+        "苹果客服"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYj6r0d5AhVJXVwwA_Y0AZiu"
+      ],
+      "publishedAt": "2026-10-09T14:21:52.000Z",
+      "updatedAt": "2026-10-09T14:21:52.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/appid-100-gift-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/appid-100-gift-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=sNyanTFLSPo"
     },
     {
       "id": "appid-apple-gift-card-id-100-tutorial",

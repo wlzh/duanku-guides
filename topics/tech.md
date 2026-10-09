@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 145 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 146 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -19,6 +19,7 @@
 - [美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起](../articles/anytime-mailbox-9-tutorial.md)：「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址
 - [三方API登录下用手机远控Codex，手把手小白教程](../articles/api-mobile-codex-beginner-tutorial.md)：介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。
 - [海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题](../articles/app-register-tutorial.md)：本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题
+- [苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制](../articles/appid-100-gift-card-tutorial.md)：苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制。
 - [苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝"无法完成购买"！](../articles/appid-apple-gift-card-id-100-tutorial.md)：详细教程：苹果 AppID 充值或者Apple Gift Card 购买失败？Apple ID 风控？联系客服 100% 解锁教程！拒绝"无法完成购买"！
 - [【海外卡保号】海外 VoWiFi (Wi-Fi Calling) 开启全流程：iPhone、Android、代理规则](../articles/card-vowifi-wi-fi-calling--iphoneandroid.md)：本视频严格依据论坛指南，为您带来亲测有效的 VoWiFi 开启全流程教程。涵盖美国卡、英国卡、德国卡、香港卡等不同地区的开启方法，iPhone 和 Android 设备实操，以及 Surge/Clash 代理规则配置。
 - [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](../articles/charles-schwab-0-w-8ben-20-tutorial.md)：Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。
