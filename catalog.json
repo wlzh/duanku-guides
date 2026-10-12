@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-09T14:21:52.000Z",
+  "sourceUpdatedAt": "2026-10-12T03:27:12.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 226,
+  "count": 227,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -149,8 +149,9 @@
       "blogUrl": "https://869hr.uk/series/ai-products-and-technology/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/ai-products-and-technology.md",
       "resourceUrl": "https://doc.869hr.uk/AIknowledge/",
-      "itemCount": 49,
+      "itemCount": 50,
       "videoIds": [
+        "tCf_fIjdn9U",
         "j4dI8a__EVk",
         "80u2rwxpTqA",
         "wQJ25YhmxGk",
@@ -2597,6 +2598,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/free-20-kiro-pro-claude-opus-4-7/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-20-kiro-pro-claude-opus-4-7.md",
       "videoUrl": "https://www.youtube.com/watch?v=NlYVZjOBkOw"
+    },
+    {
+      "id": "free-cursor-pro-mlh-global-hack-week-20-tutorial",
+      "title": "免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月",
+      "description": "\"（记得去 Billings & Invoices 手动升级到 Pro） What to Submit：\"A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Cursor Pro",
+        "MLH",
+        "Global Hack Week",
+        "免费兑换码",
+        "Cursor教程"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYinOdd8WbQ_gbuSVMNgBLlI"
+      ],
+      "publishedAt": "2026-10-12T03:27:12.000Z",
+      "updatedAt": "2026-10-12T03:27:12.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-cursor-pro-mlh-global-hack-week-20-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=tCf_fIjdn9U"
     },
     {
       "id": "free-domain-cloudflare-tutorial",
