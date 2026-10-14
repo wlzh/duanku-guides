@@ -11,7 +11,7 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：227 篇
+- 当前收录：228 篇
 
 ## 专题导航
 
@@ -24,25 +24,27 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：147 篇
+- [技术](topics/tech.md)：148 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
 
 ## YouTube 视频系列
 
-- [美国云居民系列](series/american-cloud-resident.md)：8 个视频
+- [美国云居民系列](series/american-cloud-resident.md)：9 个视频
 - [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
 - [基础软件与效率工具](series/software-and-tools.md)：18 个视频
 - [Claude Code 小白课程](series/claude-code-course.md)：4 个视频
 - [AI 产品与技术](series/ai-products-and-technology.md)：50 个视频
-- [出海手机号](series/overseas-mobile.md)：26 个视频
+- [出海手机号](series/overseas-mobile.md)：27 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
 - [出海 VPS](series/vps.md)：12 个视频
 - [出海支付、银行卡与金融](series/global-payments-and-finance.md)：28 个视频
 
 ## 最近更新
 
+- [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
+- [宝藏网站推荐：大坝的资源收集站 - 你的100T+数字图书馆](articles/doc.869hr.uk.md)：大坝的资源收集站使用指南：介绍 AI 知识、课程、影视、音乐、电子书等资源分类、站内搜索与详情页查找方法，并说明本站与资源站的运营关系。
 - [免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月](articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md)："（记得去 Billings & Invoices 手动升级到 Pro） What to Submit："A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。
 - [苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制](articles/appid-100-gift-card-tutorial.md)：苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制。
 - [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](articles/paypal-register-step-by-claude-ai-app-tutorial.md)：结束绑卡 至此，美区 PayPal 的注册和绑定 App Store 就搞定了， 搞一个美区 PayPal 是真香啊，美区订阅再也不用充值礼品卡了 ，礼品卡充值和退款、资金利用都非常不方便。
@@ -71,8 +73,6 @@
 - [KiteSim免实名实体手机号教程：美国/加拿大/英国号码+接码+保号+eSIM流量一站式开通](articles/kitesim-mobile-esim-tutorial.md)：KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开通美国、加拿大、英国独享实体号码，号码干净不触发风控，支持长期续费保号、随时接收短信验证码，注册海外服务更安全
 - [DeepSeek放出一头黑鲸！同一个模型干活成本差4倍，答案全在模型外面](articles/deepseek-4.md)：本期拆解DeepSeek Harness黑鲸开源智能体运行系统：一切皆插件架构、四种运行模式、Composio实测同一模型成本差4倍、MIT协议可自部署。
 - [Giffgaff携号转网VOXI教程：无需WiFi Calling，国行安卓也能轻松搞定第六期](articles/giffgaff-voxi-wifi-calling-tutorial.md)：本期教你从Giffgaff携号转网到英国沃达丰VOXI，全程无需WiFi Calling，国行安卓使用Xesim激活eSIM，手把手APN设置教程
-- [Giffgaff封号不要慌！携号转网Lebara 一年不到20元保住英国号手把手喂饭教程](articles/giffgaff-lebara-20-tutorial.md)：本视频手把手教你把英国号携号转网到Lebara，一年保号成本不到20元人民币。包含适用条件、操作步骤、结果验证和常见问题。
-- [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](articles/safepal-gpt-wise-bank-card-tutorial.md)：这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示
 
 ## 使用说明
 

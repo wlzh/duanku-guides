@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-12T03:27:12.000Z",
+  "sourceUpdatedAt": "2026-10-14T08:16:24.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 227,
+  "count": 228,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -56,8 +56,9 @@
       "blogUrl": "https://869hr.uk/series/american-cloud-resident/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/american-cloud-resident.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 8,
+      "itemCount": 9,
       "videoIds": [
+        "-2Yi_NcEzJI",
         "EVzMZnwntiY",
         "ZTr-QzLTT1c",
         "QJzgy0_Xb4w",
@@ -212,8 +213,9 @@
       "blogUrl": "https://869hr.uk/series/overseas-mobile/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/overseas-mobile.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 26,
+      "itemCount": 27,
       "videoIds": [
+        "-2Yi_NcEzJI",
         "P-9Z7O-_EyU",
         "cnkK6RQ4j74",
         "KA4kd5bRgh8",
@@ -2245,7 +2247,7 @@
     {
       "id": "doc.869hr.uk",
       "title": "宝藏网站推荐：大坝的资源收集站 - 你的100T+数字图书馆",
-      "description": "大坝的资源收集站使用指南：介绍 AI 知识、课程、影视、音乐、电子书和健康资料等资源分类，以及站内搜索与内容查找方法。",
+      "description": "大坝的资源收集站使用指南：介绍 AI 知识、课程、影视、音乐、电子书等资源分类、站内搜索与详情页查找方法，并说明本站与资源站的运营关系。",
       "category": [
         "学习资源"
       ],
@@ -2259,7 +2261,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2025-07-06T17:30:00.000Z",
-      "updatedAt": "2025-07-06T17:30:00.000Z",
+      "updatedAt": "2026-10-13T02:00:00.000Z",
       "blogUrl": "https://869hr.uk/2025/learning-resource/doc.869hr.uk/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/doc.869hr.uk.md",
       "videoUrl": null
@@ -5025,6 +5027,33 @@
       "blogUrl": "https://869hr.uk/2026/tech/telegram-sms-fee-free/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-sms-fee-free.md",
       "videoUrl": "https://www.youtube.com/watch?v=I2opyeIrq_s"
+    },
+    {
+      "id": "tello-5-6-85-1-tutorial",
+      "title": "Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程",
+      "description": "Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Tello",
+        "美国手机号",
+        "账单地址",
+        "免税州",
+        "销售税"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLZ3bI9CowsE8",
+        "PLpBi3Wpk7OYjukvk0xcEupXpgNaObcY-G"
+      ],
+      "publishedAt": "2026-10-14T08:16:24.000Z",
+      "updatedAt": "2026-10-14T08:16:24.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/tello-5-6-85-1-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/tello-5-6-85-1-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=-2Yi_NcEzJI"
     },
     {
       "id": "tutorial-claude-code-happy-coder-cc",

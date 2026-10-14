@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 147 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 148 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -128,6 +128,7 @@
 - [Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程](../articles/telegram-register-tutorial-0-5-ip-shorts.md)：详细教程：Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程
 - [Telegram登录要收SMS费？5种方法免费绕过，亲测有效！](../articles/telegram-sms-5-free.md)：这个情况好像是官方今年8月份新出的政策公布就出现了，正常情况下，你输入的手机号如果它的地区是亚洲部分国家（不光只是东大）还有英国的手机号（我也试了）去注册，极大概率都会跳付费请求。
 - [Telegram登录要付费？SMS Fee免费跳过方法大全](../articles/telegram-sms-fee-free.md)：整理 Telegram 登录时出现 SMS Fee 的常见原因和可尝试的免费处理方式，包含设备切换、已有会话验证及失败条件说明。
+- [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](../articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
 - [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
 - [最新无需VPS，0成本搭建无限流量科学上网节点：4K秒开、节点无限生成 小白1分钟喂饭级教程](../articles/vps-0-4k-1tutorial.md)：本视频介绍一种无需购买VPS服务器即可搭建科学上网节点的方法，适合预算有限但需要稳定网络环境的用户。
 - [永久免费VPS！Oracle甲骨文云账户申请开通完整教程，2C12G服务器白嫖到手！](../articles/vps-free-oracle-apply-2c12g-server-tutorial.md)：甲骨文云Oracle Cloud免费VPS申请完整教程，从注册到开通2C12G服务器，手把手教你白嫖永久免费云主机
