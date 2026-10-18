@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-18T02:51:28.000Z",
+  "sourceUpdatedAt": "2026-10-18T14:03:09.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 229,
+  "count": 230,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -292,8 +292,9 @@
       "blogUrl": "https://869hr.uk/series/vps/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/vps.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 13,
+      "itemCount": 14,
       "videoIds": [
+        "hfMZWnzcARM",
         "spuxWoqv2A8",
         "SZX6dMU1hPI",
         "izpBS4FW6jM",
@@ -457,6 +458,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/1583-anytime-mailbox-25-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/1583-anytime-mailbox-25-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=QJzgy0_Xb4w"
+    },
+    {
+      "id": "2-4g-server-36-1-200-free-2028-tutorial",
+      "title": "华为云2核4G服务器36元买1年，200元券免费续到2028 手把手教程",
+      "description": "花36元拿下华为云2核4G云服务器18个月，再用200元无门槛代金券免费续费6个月，薅到2028年，手把手保姆级教程附避坑指南。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "华为云",
+        "VPS",
+        "36元服务器",
+        "华为云代金券",
+        "开发者大赛"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjYV-Mz64Bzv3FxADmyKcsC"
+      ],
+      "publishedAt": "2026-10-18T14:03:09.000Z",
+      "updatedAt": "2026-10-18T14:03:09.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/2-4g-server-36-1-200-free-2028-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/2-4g-server-36-1-200-free-2028-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=hfMZWnzcARM"
     },
     {
       "id": "2026-04-19-dns-leak-mihomo-tutorial",

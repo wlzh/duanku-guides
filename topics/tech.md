@@ -1,11 +1,12 @@
 # 技术
 
-本专题收录 149 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 150 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [14元/年买.com顶级域名！Google Workspace土耳其区薅羊毛教程续费同价](../articles/14-com-domain-google-workspace-tutorial.md)：介绍通过 Google Workspace 土耳其区购买和续费 .com 域名的操作流程、里拉计价方式、实际成本及需要注意的账户和支付条件。
 - [1583认证教程！Anytime Mailbox 在线公证手把手教学，护照+身份证翻译件搞定，25美元完成](../articles/1583-anytime-mailbox-25-tutorial.md)：🔗 本视频涉及资源： Anytime Mailbox（邀请链接，双方各得 10 美元亚马逊礼品卡）： 📚 系列往期： ITIN 申请教程： Tello 美国实体手机号： 第四期 租用美国私人地址： 家宽 IP（Webshare）： 完成这一期，你的美国收件地址就 fully ready 了
+- [华为云2核4G服务器36元买1年，200元券免费续到2028 手把手教程](../articles/2-4g-server-36-1-200-free-2028-tutorial.md)：花36元拿下华为云2核4G云服务器18个月，再用200元无门槛代金券免费续费6个月，薅到2028年，手把手保姆级教程附避坑指南。
 - [2026最新！5分钟速创美区Apple ID教程 免绑卡0成本，App Store无验证码秒切账号！](../articles/20265apple-idtutorial-card0-app-store.md)：2026年最新5分钟速创美区Apple ID保姆级教程，全程0成本免绑卡，分享无验证码切换技巧及解决自动跳回国区Bug方案
 - [2026最新免费域名！免绑信用卡，初始给10年还可无限续期，手把手教你托管Cloudflare全流程](../articles/2026freedomaincard-10-cloudflare.md)：DNSHE免费域名注册教程，ccwu.cc后缀初始10年有效期可无限续期，手把手教你托管到Cloudflare，适合VPS面板、NAS远程访问、自建博客。
 - [3分钟解锁欧洲交易所！Neverless注册出入金全教程，0手续费+送20USD](../articles/3-neverless-register-0-20usd-tutorial.md)：介绍 Neverless 的账户注册、身份验证、入金、交易与出金流程，并提示奖励、费用、地区资格和监管信息需在操作前核对官方页面。
