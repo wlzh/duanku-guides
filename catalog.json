@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-14T08:16:24.000Z",
+  "sourceUpdatedAt": "2026-10-18T02:51:28.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 228,
+  "count": 229,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -292,8 +292,9 @@
       "blogUrl": "https://869hr.uk/series/vps/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/vps.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 12,
+      "itemCount": 13,
       "videoIds": [
+        "spuxWoqv2A8",
         "SZX6dMU1hPI",
         "izpBS4FW6jM",
         "Vq-KLwXPcGw",
@@ -2775,6 +2776,33 @@
       "blogUrl": "https://869hr.uk/2026/tech/free-mobile-kyc-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-mobile-kyc-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=3vk8vxaJZys"
+    },
+    {
+      "id": "free-server-instabox-20-40gb-1-tutorial",
+      "title": "免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程",
+      "description": "InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "InstaBox",
+        "免费云服务器",
+        "云主机",
+        "AI Agent",
+        "免费资源"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjYV-Mz64Bzv3FxADmyKcsC"
+      ],
+      "publishedAt": "2026-10-18T02:51:28.000Z",
+      "updatedAt": "2026-10-18T02:51:28.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-server-instabox-20-40gb-1-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-server-instabox-20-40gb-1-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=spuxWoqv2A8"
     },
     {
       "id": "free-super-grok-tutorial-amazon-pay",

@@ -11,11 +11,11 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：228 篇
+- 当前收录：229 篇
 
 ## 专题导航
 
-- [AI](topics/ai.md)：80 篇
+- [AI](topics/ai.md)：81 篇
 - [跨境收款](topics/cross-border-payments.md)：1 篇
 - [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：148 篇
+- [技术](topics/tech.md)：149 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -38,11 +38,12 @@
 - [AI 产品与技术](series/ai-products-and-technology.md)：50 个视频
 - [出海手机号](series/overseas-mobile.md)：27 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
-- [出海 VPS](series/vps.md)：12 个视频
+- [出海 VPS](series/vps.md)：13 个视频
 - [出海支付、银行卡与金融](series/global-payments-and-finance.md)：28 个视频
 
 ## 最近更新
 
+- [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
 - [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
 - [宝藏网站推荐：大坝的资源收集站 - 你的100T+数字图书馆](articles/doc.869hr.uk.md)：大坝的资源收集站使用指南：介绍 AI 知识、课程、影视、音乐、电子书等资源分类、站内搜索与详情页查找方法，并说明本站与资源站的运营关系。
 - [免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月](articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md)："（记得去 Billings & Invoices 手动升级到 Pro） What to Submit："A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。
@@ -72,7 +73,6 @@
 - [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](articles/60-mac-vibe-coding-tutorial.md)：用小米蓝牙遥控器 RC003 和 SayAll 实现 Mac 无线语音输入与快捷键控制，涵盖安装、配对、权限授权、按键映射和 Vibe Coding 使用方法。
 - [KiteSim免实名实体手机号教程：美国/加拿大/英国号码+接码+保号+eSIM流量一站式开通](articles/kitesim-mobile-esim-tutorial.md)：KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开通美国、加拿大、英国独享实体号码，号码干净不触发风控，支持长期续费保号、随时接收短信验证码，注册海外服务更安全
 - [DeepSeek放出一头黑鲸！同一个模型干活成本差4倍，答案全在模型外面](articles/deepseek-4.md)：本期拆解DeepSeek Harness黑鲸开源智能体运行系统：一切皆插件架构、四种运行模式、Composio实测同一模型成本差4倍、MIT协议可自部署。
-- [Giffgaff携号转网VOXI教程：无需WiFi Calling，国行安卓也能轻松搞定第六期](articles/giffgaff-voxi-wifi-calling-tutorial.md)：本期教你从Giffgaff携号转网到英国沃达丰VOXI，全程无需WiFi Calling，国行安卓使用Xesim激活eSIM，手把手APN设置教程
 
 ## 使用说明
 

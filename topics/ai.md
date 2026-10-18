@@ -1,6 +1,6 @@
 # AI
 
-本专题收录 80 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 81 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
@@ -49,6 +49,7 @@
 - [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
 - [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
 - [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
+- [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](../articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
 - [免费白嫖Super Grok一年会员全流程保姆级教程！Amazon Pay上车亲测有效](../articles/free-super-grok-tutorial-amazon-pay.md)：Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟信用卡白嫖SuperGrok一年会员，亲测有效。
 - [Gemini Pro掉权益别慌！SheerID认证申诉全流程手把手教程](../articles/gemini-pro-sheerid-tutorial.md)：介绍 Gemini Pro 学生权益失效后的 SheerID 重新认证与申诉流程，包含材料准备、提交步骤、结果确认和常见失败原因。
 - [GitHub学生认证10分钟速通教程｜免费领Pro包年+AI工具](../articles/github-10-free-pro-ai-tools-tutorial.md)：演示 GitHub Student 学生认证的材料准备、网络与设备配合、提交和复核流程，以及认证后领取 Pro 和开发者工具权益的方法。
