@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-18T14:03:09.000Z",
+  "sourceUpdatedAt": "2026-10-20T06:28:19.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 230,
+  "count": 231,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -319,7 +319,7 @@
       "blogUrl": "https://869hr.uk/series/global-payments-and-finance/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/global-payments-and-finance.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 28,
+      "itemCount": 29,
       "videoIds": [
         "NiIswP2iT0c",
         "4aFwSHXv090",
@@ -348,7 +348,8 @@
         "FWtCu4EKcPo",
         "mW-IS2EjE7I",
         "9JAPUUNvONk",
-        "EVzMZnwntiY"
+        "EVzMZnwntiY",
+        "1V50lMeHgMw"
       ]
     }
   ],
@@ -3852,6 +3853,33 @@
       "blogUrl": "https://869hr.uk/2026/tech/kraken-iban-10-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/kraken-iban-10-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=mW-IS2EjE7I"
+    },
+    {
+      "id": "kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial",
+      "title": "无需KYC，1U开美国虚拟卡！Claude/GPT订阅+广告投放，5个卡段保姆级教程",
+      "description": "美国AI电商卡 卡段：532113｜Mastercard｜美国 这张卡的网站链接： 这张同样支持 ChatGPT、Claude、OpenAI、Gemini 等 AI 场景，也支持微信、支付宝、Apple Pay 和 Google Pay。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "虚拟卡",
+        "信用卡",
+        "USDT充值",
+        "ChatGPT订阅",
+        "Claude订阅"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW"
+      ],
+      "publishedAt": "2026-10-20T06:28:19.000Z",
+      "updatedAt": "2026-10-20T06:28:19.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=1V50lMeHgMw"
     },
     {
       "id": "line-register",

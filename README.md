@@ -11,11 +11,11 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：230 篇
+- 当前收录：231 篇
 
 ## 专题导航
 
-- [AI](topics/ai.md)：81 篇
+- [AI](topics/ai.md)：82 篇
 - [跨境收款](topics/cross-border-payments.md)：1 篇
 - [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：150 篇
+- [技术](topics/tech.md)：151 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -39,10 +39,11 @@
 - [出海手机号](series/overseas-mobile.md)：27 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
 - [出海 VPS](series/vps.md)：14 个视频
-- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：28 个视频
+- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：29 个视频
 
 ## 最近更新
 
+- [无需KYC，1U开美国虚拟卡！Claude/GPT订阅+广告投放，5个卡段保姆级教程](articles/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial.md)：美国AI电商卡 卡段：532113｜Mastercard｜美国 这张卡的网站链接： 这张同样支持 ChatGPT、Claude、OpenAI、Gemini 等 AI 场景，也支持微信、支付宝、Apple Pay 和 Google Pay。
 - [华为云2核4G服务器36元买1年，200元券免费续到2028 手把手教程](articles/2-4g-server-36-1-200-free-2028-tutorial.md)：花36元拿下华为云2核4G云服务器18个月，再用200元无门槛代金券免费续费6个月，薅到2028年，手把手保姆级教程附避坑指南。
 - [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
 - [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
@@ -72,7 +73,6 @@
 - [0元白嫖两个顶级域名！.bond/.cyou首年免费+Cloudflare托管保姆级教程](articles/cloudflare-0-domain-bond-cyou-free-step-tutorial.md)：还支持自定义NS，可无缝接入Cloudflare托管，免费域名+免费CDN+免费SSL一起打通，个人项目上线基本0成本
 - [海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题](articles/app-register-tutorial.md)：本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题
 - [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](articles/60-mac-vibe-coding-tutorial.md)：用小米蓝牙遥控器 RC003 和 SayAll 实现 Mac 无线语音输入与快捷键控制，涵盖安装、配对、权限授权、按键映射和 Vibe Coding 使用方法。
-- [KiteSim免实名实体手机号教程：美国/加拿大/英国号码+接码+保号+eSIM流量一站式开通](articles/kitesim-mobile-esim-tutorial.md)：KiteSim免实名实体手机号完整教程：无需KYC实名认证，一键开通美国、加拿大、英国独享实体号码，号码干净不触发风控，支持长期续费保号、随时接收短信验证码，注册海外服务更安全
 
 ## 使用说明
 
