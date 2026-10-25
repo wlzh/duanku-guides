@@ -626,6 +626,8 @@ docker compose up -d
 
 如果覺得這期視頻對你有幫助，請點贊、評論、訂閱頻道並打開小鈴鐺 🔔
 
+> 💰 **买服务器前先看优惠**：本文涉及的 VPS 最新折扣、循环优惠码与库存状态，已实时汇总在 [大坝的VPS优惠大超市](https://vps.869hr.uk/)——一张表看完 LET/LEB 全部活动，选机不踩坑。
+
 ---
 
 来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/api-proxy-station-vps-cpa-tutorial/)

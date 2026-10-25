@@ -479,6 +479,8 @@ remote-management:
 
 ⚠️ **免责声明**：本教程仅供网络优化与技术交流学习，请大家合理、合法使用相关网络技术。
 
+> 💰 **买服务器前先看优惠**：本文涉及的 VPS 最新折扣、循环优惠码与库存状态，已实时汇总在 [大坝的VPS优惠大超市](https://vps.869hr.uk/)——一张表看完 LET/LEB 全部活动，选机不踩坑。
+
 ---
 
 来源与反馈：[M. 的博客](https://869hr.uk) · [文章原页](https://869hr.uk/2026/tutorial/cliproxyapi-vps-domain-ssl-tutorial/)

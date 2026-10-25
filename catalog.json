@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-20T06:28:19.000Z",
+  "sourceUpdatedAt": "2026-10-24T02:25:00.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 231,
+  "count": 232,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -2275,22 +2275,22 @@
     },
     {
       "id": "doc.869hr.uk",
-      "title": "宝藏网站推荐：大坝的资源收集站 - 你的100T+数字图书馆",
-      "description": "大坝的资源收集站使用指南：介绍 AI 知识、课程、影视、音乐、电子书等资源分类、站内搜索与详情页查找方法，并说明本站与资源站的运营关系。",
+      "title": "大坝的资源收集站使用指南：搜索、分类与实战教程入口",
+      "description": "大坝的资源收集站使用指南：介绍 100T+ 资源目录、关键词搜索、平台筛选、月份归档和实战教程入口，并说明本站与资源站的运营关系及使用边界。",
       "category": [
         "学习资源"
       ],
       "tags": [
         "免费资源",
-        "在线工具"
+        "在线工具",
+        "学习资料"
       ],
       "topics": [
-        "learning-resource",
-        "ai"
+        "learning-resource"
       ],
       "playlistIds": [],
       "publishedAt": "2025-07-06T17:30:00.000Z",
-      "updatedAt": "2026-10-13T02:00:00.000Z",
+      "updatedAt": "2026-10-24T02:25:00.000Z",
       "blogUrl": "https://869hr.uk/2025/learning-resource/doc.869hr.uk/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/doc.869hr.uk.md",
       "videoUrl": null
@@ -5394,6 +5394,29 @@
       "blogUrl": "https://869hr.uk/2026/tech/vps-0-4k-1tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-0-4k-1tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=oWzxvgQnALs"
+    },
+    {
+      "id": "vps-deals-supermarket-guide",
+      "title": "小白买 VPS 别只看低价：大坝 VPS 优惠大超市选购指南",
+      "description": "面向新手的 VPS 选购指南：解释 CPU、内存、硬盘、带宽、机房和线路，演示如何用大坝 VPS 优惠大超市筛预算、查续费与库存证据。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VPS",
+        "云服务器",
+        "新手教程",
+        "服务器"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [],
+      "publishedAt": "2026-10-24T02:25:00.000Z",
+      "updatedAt": "2026-10-24T02:25:00.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/vps-deals-supermarket-guide/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/vps-deals-supermarket-guide.md",
+      "videoUrl": null
     },
     {
       "id": "vps-free-oracle-apply-2c12g-server-tutorial",
