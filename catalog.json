@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-24T02:25:00.000Z",
+  "sourceUpdatedAt": "2026-10-26T03:55:30.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 232,
+  "count": 233,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -319,7 +319,7 @@
       "blogUrl": "https://869hr.uk/series/global-payments-and-finance/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/global-payments-and-finance.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 29,
+      "itemCount": 30,
       "videoIds": [
         "NiIswP2iT0c",
         "4aFwSHXv090",
@@ -349,7 +349,8 @@
         "mW-IS2EjE7I",
         "9JAPUUNvONk",
         "EVzMZnwntiY",
-        "1V50lMeHgMw"
+        "1V50lMeHgMw",
+        "7OaZo3gajQ4"
       ]
     }
   ],
@@ -4964,6 +4965,32 @@
       "blogUrl": "https://869hr.uk/2025/tutorial/stripe-account-register/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/stripe-account-register.md",
       "videoUrl": "https://www.youtube.com/watch?v=CHy_2Yz7LI8"
+    },
+    {
+      "id": "stripe-register-kyc",
+      "title": "免公司开通Stripe香港个人账户：从注册、激活到KYC验证实操全流程",
+      "description": "海外生活、留学、开户必备身份证明 其他，按实操流程，把 Stripe 香港个人账户从注册、KYC、绑香港银行卡，到通过身份审核的过程捋一遍 但如果你后面真要接到产品里，我建议提前准备好这些。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Stripe",
+        "Stripe香港",
+        "Stripe个人账户",
+        "Stripe注册",
+        "Stripe KYC"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW"
+      ],
+      "publishedAt": "2026-10-26T03:55:30.000Z",
+      "updatedAt": "2026-10-26T03:55:30.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/stripe-register-kyc/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/stripe-register-kyc.md",
+      "videoUrl": "https://www.youtube.com/watch?v=7OaZo3gajQ4"
     },
     {
       "id": "tailscale-private-network-tutorial",

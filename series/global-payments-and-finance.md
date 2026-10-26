@@ -5,7 +5,7 @@
 - YouTube：[连续观看完整系列](https://www.youtube.com/playlist?list=PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW)
 - 博客：[系列图文页](https://869hr.uk/series/global-payments-and-finance/)
 - 配套资源：[大坝资源收集站](https://doc.869hr.uk/cross-border/)
-- 当前视频：29 个
+- 当前视频：30 个
 
 ## 系列目录
 
@@ -38,3 +38,4 @@
 27. [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](../articles/step-by-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/step-by-tutorial/) · [YouTube](https://www.youtube.com/watch?v=9JAPUUNvONk)
 28. [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](../articles/paypal-register-step-by-claude-ai-app-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/paypal-register-step-by-claude-ai-app-tutorial/) · [YouTube](https://www.youtube.com/watch?v=EVzMZnwntiY)
 29. [无需KYC，1U开美国虚拟卡！Claude/GPT订阅+广告投放，5个卡段保姆级教程](../articles/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial/) · [YouTube](https://www.youtube.com/watch?v=1V50lMeHgMw)
+30. [免公司开通Stripe香港个人账户：从注册、激活到KYC验证实操全流程](../articles/stripe-register-kyc.md) · [博客原文](https://869hr.uk/2026/tech/stripe-register-kyc/) · [YouTube](https://www.youtube.com/watch?v=7OaZo3gajQ4)
