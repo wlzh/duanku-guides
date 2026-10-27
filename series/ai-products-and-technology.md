@@ -23,7 +23,7 @@
 12. [OpenAI GPT Pro 5x 怎么买最省钱？5大渠道全对比｜官方 vs 低价代充终极指南](../articles/openai-gpt-pro-5x-5-compare-vs-guide.md) · [博客原文](https://869hr.uk/2026/tech/openai-gpt-pro-5x-5-compare-vs-guide/) · [YouTube](https://www.youtube.com/watch?v=_eKgRtqpTYg)
 13. [白嫖Claude Opus 4.7/4.8！Devin注册送$230额度，手慢无！](../articles/claude-opus-4-7-8-devin-register-230.md) · [博客原文](https://869hr.uk/2026/tech/claude-opus-4-7-8-devin-register-230/) · [YouTube](https://www.youtube.com/watch?v=UtVq_9s7lxM)
 14. [ChatGPT Team 第五期！买一送一持续48个月，墨西哥18美刀+西班牙+哥伦比亚三国优惠码教程](../articles/chatgpt-team-48-18-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/chatgpt-team-48-18-tutorial/) · [YouTube](https://www.youtube.com/watch?v=2OtHK26bujM)
-15. [Gemini Pro掉权益别慌！SheerID认证申诉全流程手把手教程](../articles/gemini-pro-sheerid-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/gemini-pro-sheerid-tutorial/) · [YouTube](https://www.youtube.com/watch?v=c2kQEDI8l38)
+15. Gemini Pro掉权益别慌！SheerID认证申诉全流程手把手教程 · [YouTube](https://www.youtube.com/watch?v=c2kQEDI8l38) · 暂无图文版
 16. [新鲜出炉，快冲！Zo2API逆向代理：免费白嫖Claude Opus4.7和GPT5.5，支持工具调用](../articles/zo2api-free-claude-opus4-7-gpt5-5-tools.md) · [博客原文](https://869hr.uk/2026/tech/zo2api-free-claude-opus4-7-gpt5-5-tools/) · [YouTube](https://www.youtube.com/watch?v=Zl4PBq8z5vU)
 17. [PayPal无卡开通GPT Plus全流程教程｜无需信用卡｜2026最新方法](../articles/paypal-card-gpt-plus-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/paypal-card-gpt-plus-tutorial/) · [YouTube](https://www.youtube.com/watch?v=5X30EtiQiDU)
 18. [GitHub学生认证10分钟速通教程｜免费领Pro包年+AI工具](../articles/github-10-free-pro-ai-tools-tutorial.md) · [博客原文](https://869hr.uk/2026/tech/github-10-free-pro-ai-tools-tutorial/) · [YouTube](https://www.youtube.com/watch?v=rDcs1BRd4lM)

@@ -68,12 +68,12 @@
 - [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
 - [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
 - [限时免费获取沃达丰英国手机号！不需KYC，手把手保姆教程，手慢无](../articles/free-mobile-kyc-tutorial.md)：介绍 Vodafone UK 限时手机号活动的申请条件、页面操作、金额确认、邮件激活和结果验证，并提示地区、资格与活动时效限制。
-- [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](../articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
+- [InstaBox 云服务器内测记录：单台4核8GB、配额与使用限制](../articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 内测使用记录：区分单台4核8GB与最多5台的总配额，介绍邀请、自动暂停和端口限制；历史免费额度不代表当前账号权益。
 - [免费白嫖Super Grok一年会员全流程保姆级教程！Amazon Pay上车亲测有效](../articles/free-super-grok-tutorial-amazon-pay.md)：Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟信用卡白嫖SuperGrok一年会员，亲测有效。
 - [🔥GCP谷歌云永久免费新玩法（三）！开通及部署一键脚本，实战操练课程（小白喂饭级）](../articles/gcp-free-vps-cdn-bypass-part3.md)：这篇文章整理了 GCP 谷歌云永久免费系列第三期的完整实操内容，包括 CDN 扣费原理、节点部署、dae 分流、代理链路、防火墙配置和相关资源链接。
 - [🔥GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级](../articles/gcpfreedeploy-config.md)：详细教程：GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级，涵盖视频教程等知识点
 - [🔥GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级](../articles/gcpfreedeploydeploytest-20260222-141058.md)：详细教程：GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级，涵盖视频教程等知识点
-- [Gemini Pro掉权益别慌！SheerID认证申诉全流程手把手教程](../articles/gemini-pro-sheerid-tutorial.md)：介绍 Gemini Pro 学生权益失效后的 SheerID 重新认证与申诉流程，包含材料准备、提交步骤、结果确认和常见失败原因。
+- [Gemini 学生权益失效怎么办：SheerID 真实材料核验与官方申诉](../articles/gemini-pro-sheerid-tutorial.md)：Gemini 学生权益失效排查：核对活动资格、准备学校出具的真实材料，区分 SheerID 验证失败与 Google 订阅问题，并提供官方支持入口。
 - [Giffgaff 退款教程！5天内10英镑到账，附退款申诉邮件模板](../articles/giffgaff-5-10-tutorial.md)：介绍 Giffgaff 停用账号或不再使用服务时申请余额退款的条件、操作步骤和英文申诉模板，并说明处理时间与到账验证方法。
 - [GiffGaff携号转网及申请余额退款全流程手把手教程VOXI/CTExcel双方案](../articles/giffgaff-apply-voxi-ctexcel-tutorial.md)：本视频手把手教你完整携号转网流程，从获取PAC码到转入VOXI或CTExcel UK，再到申请退还GiffGaff账户余额，每一步都有实操演示
 - [🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址](../articles/giffgaff-card-1-0-5-tutorial-free.md)：本视频详细介绍🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址，帮助你快速了解和掌握相关知识点。
@@ -117,7 +117,7 @@
 - [玩转香港PokePay虚拟卡：申请开卡、充值全攻略+返现活动  零成本开卡教程](../articles/pokepay-virtual-card-apply-tutorial.md)：本视频详细演示PokePay虚拟卡的注册、KYC身份认证、USDT充值、开卡、实体卡申请及绑定支付宝/微信全流程
 - [重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持](../articles/qqbot-openclaw-official-api-tutorial.md)：这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。
 - [【资源运营神器Skills】完全开源，夸克网盘+GitHub一条龙全自动发布工具 (v1.2.0)！转存、归类、TG通知、站点更新一键搞定！手把手小白教程：从转存到发布全流程](../articles/quark-github-auto-publisher-skills-v1-2-0.md)：夸克网盘+GitHub一条龙自动化发布工具 v1.2.0：批量转存、自动归类、多仓库落盘、Telegram 通知、触发站点构建，手把手小白教程。
-- [注册苹果美区Apple ID帐号完整指南2025 | 无需信用卡](../articles/register-iosid-foreign.md)：2025最新苹果美区Apple ID注册教程，无需信用卡，详细图文步骤教你如何注册美区App Store账号，包含防封号技巧及应用购买指南。
+- [美区 Apple 账户注册：官方入口、付款方式与账号安全](../articles/register-iosid-foreign.md)：按 Apple 官方说明整理美区 Apple 账户注册入口、付款方式与双重认证，解释“无”选项的适用限制，不承诺免信用卡或防封号。
 - [只需身份证！Roogoo Card 开卡充值消费全流程手把手教程，绑定支付宝微信畅享全球消费](../articles/roogoo-card-payment-tutorial.md)：手把手介绍 Roogoo Card 的身份证验证、开卡、稳定币充值、消费与账单检查流程，并说明绑定支付宝和微信前的注意事项。
 - [企业微信免Root虚拟定位打卡！0成本安卓手机100%成功教程](../articles/root-virtual-card-0-mobile-100-tutorial.md)：介绍基于 Android 调试 API 与地图定位 SDK 的免 Root 定位工具，涵盖安装、权限、位置选择、摇杆控制和结果验证。
 - [2026国内护照开SafePal万事达卡｜保姆级注册教程](../articles/safepal-card-register-tutorial.md)：介绍使用中国护照申请 SafePal 万事达卡的准备材料、App 注册、身份验证、开卡和消费流程，并提示活动、邮费及支付手续费。
@@ -130,8 +130,8 @@
 - [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](../articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
 - [免公司开通Stripe香港个人账户：从注册、激活到KYC验证实操全流程](../articles/stripe-register-kyc.md)：海外生活、留学、开户必备身份证明 其他，按实操流程，把 Stripe 香港个人账户从注册、KYC、绑香港银行卡，到通过身份审核的过程捋一遍 但如果你后面真要接到产品里，我建议提前准备好这些。
 - [Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程](../articles/telegram-register-tutorial-0-5-ip-shorts.md)：详细教程：Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程
-- [Telegram登录要收SMS费？5种方法免费绕过，亲测有效！](../articles/telegram-sms-5-free.md)：这个情况好像是官方今年8月份新出的政策公布就出现了，正常情况下，你输入的手机号如果它的地区是亚洲部分国家（不光只是东大）还有英国的手机号（我也试了）去注册，极大概率都会跳付费请求。
-- [Telegram登录要付费？SMS Fee免费跳过方法大全](../articles/telegram-sms-fee-free.md)：整理 Telegram 登录时出现 SMS Fee 的常见原因和可尝试的免费处理方式，包含设备切换、已有会话验证及失败条件说明。
+- [Telegram SMS Fee 是什么？收费原因、unavailable 与登录排查](../articles/telegram-sms-5-free.md)：解释 Telegram SMS Fee 的官方原因，区分付费要求、unavailable 和验证码未收到，提供官方登录排查入口，不承诺免费绕过。
+- [Telegram 换设备登录：已有会话、验证码与 SMS Fee 排查](../articles/telegram-sms-fee-free.md)：Telegram 换设备登录排查：保留旧会话，核对验证码渠道、两步验证与付费提示，说明没有在线设备时的官方支持入口。
 - [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](../articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
 - [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
 - [最新无需VPS，0成本搭建无限流量科学上网节点：4K秒开、节点无限生成 小白1分钟喂饭级教程](../articles/vps-0-4k-1tutorial.md)：本视频介绍一种无需购买VPS服务器即可搭建科学上网节点的方法，适合预算有限但需要稳定网络环境的用户。
