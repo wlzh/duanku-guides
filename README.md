@@ -11,7 +11,7 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：233 篇
+- 当前收录：234 篇
 
 ## 专题导航
 
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：153 篇
+- [技术](topics/tech.md)：154 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -38,11 +38,12 @@
 - [AI 产品与技术](series/ai-products-and-technology.md)：50 个视频
 - [出海手机号](series/overseas-mobile.md)：27 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
-- [出海 VPS](series/vps.md)：14 个视频
+- [出海 VPS](series/vps.md)：15 个视频
 - [出海支付、银行卡与金融](series/global-payments-and-finance.md)：30 个视频
 
 ## 最近更新
 
+- [买 VPS 别再翻论坛了！一张表扫全网优惠：大坝 VPS 优惠大超市实测](articles/youtube-bUWjU0yn5M0.md)：我最近就把这个活儿交给了一个站——[大坝的 VPS 优惠大超市]( 它是什么 说白了它就是个优惠聚合站，把常年有年付特价的商家都攒到了一块儿。
 - [免公司开通Stripe香港个人账户：从注册、激活到KYC验证实操全流程](articles/stripe-register-kyc.md)：海外生活、留学、开户必备身份证明 其他，按实操流程，把 Stripe 香港个人账户从注册、KYC、绑香港银行卡，到通过身份审核的过程捋一遍 但如果你后面真要接到产品里，我建议提前准备好这些。
 - [大坝的资源收集站使用指南：搜索、分类与实战教程入口](articles/doc.869hr.uk.md)：大坝的资源收集站使用指南：介绍 100T+ 资源目录、关键词搜索、平台筛选、月份归档和实战教程入口，并说明本站与资源站的运营关系及使用边界。
 - [小白买 VPS 别只看低价：大坝 VPS 优惠大超市选购指南](articles/vps-deals-supermarket-guide.md)：面向新手的 VPS 选购指南：解释 CPU、内存、硬盘、带宽、机房和线路，演示如何用大坝 VPS 优惠大超市筛预算、查续费与库存证据。
@@ -72,7 +73,6 @@
 - [WatermarkFlow：Mac 剪贴板图片一键加水印，开源原生批量平铺工具](articles/watermark-flow-mac.md)：WatermarkFlow 是开源原生 macOS 水印工具，支持剪贴板、拖放与文件导入，提供文字、Logo、单个和满屏平铺水印、自动对比、模板及全局快捷键。
 - [Sound Guard：Mac 长时间无声自动归零音量，避免突然外放的开源工具](articles/sound-guard-mac.md)：Sound Guard 是一款开源 macOS 菜单栏音量保护工具：设备长时间没有播放活动时自动将输出音量归零，并通过设备白名单、保守检测和确认式恢复降低突然外放风险。
 - [💎 你的US.KG域名还能抢回来！ 免费注册，教程来了！](articles/us.kg-domain-callbak.md)：介绍原 US.KG 域名持有者申请恢复域名的资格条件、KYC Key 获取方式、官方联系渠道和提交前需要核对的限制。
-- [0元白嫖两个顶级域名！.bond/.cyou首年免费+Cloudflare托管保姆级教程](articles/cloudflare-0-domain-bond-cyou-free-step-tutorial.md)：还支持自定义NS，可无缝接入Cloudflare托管，免费域名+免费CDN+免费SSL一起打通，个人项目上线基本0成本
 
 ## 使用说明
 

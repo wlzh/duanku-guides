@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 153 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 154 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -151,6 +151,7 @@
 - [WorkBuddy 保姆级入门教程：从安装及注册到完成第一个游戏任务](../articles/workbuddy-beginner-install-register-tutorial.md)：面向新手介绍 WorkBuddy 桌面 AI 助理的下载安装、账号注册、基础配置和首个游戏任务执行流程，并说明权限与结果检查。
 - [全网首创！X(Twitter)互动加热全自动化众包平台 XRipple 详解](../articles/xtwitter-xripple-detail-shorts.md)：在 X(Twitter)这个信息流量场中，一条优质内容的传播效果往往取决于初期的互动热度。涟漪 XRipple 是全网首创的 X 互动众包平台，用完全自动化的技术方案解决冷启动问题。
 - [谷歌终于允许改邮箱了！但改之前必须知道的3个坑](../articles/youtube-Hy82RjFFnIs.md)：介绍 Google 账号修改登录邮箱的新能力、适用范围和操作入口，并说明修改前必须核对的三个限制、恢复方式与常见问题。
+- [买 VPS 别再翻论坛了！一张表扫全网优惠：大坝 VPS 优惠大超市实测](../articles/youtube-bUWjU0yn5M0.md)：我最近就把这个活儿交给了一个站——[大坝的 VPS 优惠大超市]( 它是什么 说白了它就是个优惠聚合站，把常年有年付特价的商家都攒到了一块儿。
 - [YouTube视频创作与变现完全指南：从零开通AdSense到收益最大化](../articles/youtube-guide-adsense.md)：YouTube 由 Google 运营，因此创建 YouTube 频道的前提是拥有一个 Google 账号。如果你已有 Gmail，意味着你已有一个 Google 账号，可以直接用它创建 YouTube 频道。
 - [网络结构、VPN、代理到底啥区别？一篇讲透新手最容易混淆的联网逻辑](../articles/youtube-izpBS4FW6jM.md)：DNS 泄露、IPv6、UDP、规则匹配为什么会导致'网页能开、软件不能用' 如果你一直分不清 VPN 和代理，或者想真正看懂网络访问路径，这期会帮你建立一套不容易忘的底层认知
 - [澳门蚂蚁银行0元开户！内地居民5分钟线上开户，港美股+高息存款一站式搞定](../articles/youtube-lyRGZavzGl8.md)：今天给大家推荐澳门蚂蚁银行（Ant Bank Macau），蚂蚁集团在澳门的持牌数字银行，合规安全，是内地居民低成本开通境外账户的绝佳选择！

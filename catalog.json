@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-26T03:55:30.000Z",
+  "sourceUpdatedAt": "2026-10-27T03:50:26.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 233,
+  "count": 234,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -292,8 +292,9 @@
       "blogUrl": "https://869hr.uk/series/vps/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/vps.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 14,
+      "itemCount": 15,
       "videoIds": [
+        "bUWjU0yn5M0",
         "hfMZWnzcARM",
         "spuxWoqv2A8",
         "SZX6dMU1hPI",
@@ -5988,6 +5989,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/youtube-Hy82RjFFnIs/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/youtube-Hy82RjFFnIs.md",
       "videoUrl": "https://www.youtube.com/watch?v=Hy82RjFFnIs"
+    },
+    {
+      "id": "youtube-bUWjU0yn5M0",
+      "title": "买 VPS 别再翻论坛了！一张表扫全网优惠：大坝 VPS 优惠大超市实测",
+      "description": "我最近就把这个活儿交给了一个站——[大坝的 VPS 优惠大超市]( 它是什么 说白了它就是个优惠聚合站，把常年有年付特价的商家都攒到了一块儿。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "VPS",
+        "VPS优惠",
+        "优惠码",
+        "RackNerd",
+        "CloudCone"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjYV-Mz64Bzv3FxADmyKcsC"
+      ],
+      "publishedAt": "2026-10-27T03:50:26.000Z",
+      "updatedAt": "2026-10-27T03:50:26.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/youtube-bUWjU0yn5M0/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/youtube-bUWjU0yn5M0.md",
+      "videoUrl": "https://www.youtube.com/watch?v=bUWjU0yn5M0"
     },
     {
       "id": "youtube-guide-adsense",
