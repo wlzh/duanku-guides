@@ -43,19 +43,14 @@
 
 ## 最近更新
 
-- [Clash配置文件详解｜从零搞懂DNS、策略组、分流规则附实战](articles/clash-config-detail-dns.md)：逐项解析 Clash 配置文件中的 mixed-port、mode、DNS、策略组和分流规则，并结合示例说明常见配置错误与验证方法。
-- [InstaBox 云服务器内测记录：单台4核8GB、配额与使用限制](articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 内测使用记录：区分单台4核8GB与最多5台的总配额，介绍邀请、自动暂停和端口限制；历史免费额度不代表当前账号权益。
 - [Gemini 学生权益失效怎么办：SheerID 真实材料核验与官方申诉](articles/gemini-pro-sheerid-tutorial.md)：Gemini 学生权益失效排查：核对活动资格、准备学校出具的真实材料，区分 SheerID 验证失败与 Google 订阅问题，并提供官方支持入口。
-- [Google账号换国家或地区：关联地区申请、Play商店与付款资料的区别](articles/google-change-country-area.md)：Google账号换国家或地区操作指南：区分账号关联地区、Google Play商店和付款资料，提供官方申请入口、操作步骤及限制，说明换区为什么不等于获得学生优惠或其他服务资格。
-- [美区 Apple 账户注册：官方入口、付款方式与账号安全](articles/register-iosid-foreign.md)：按 Apple 官方说明整理美区 Apple 账户注册入口、付款方式与双重认证，解释“无”选项的适用限制，不承诺免信用卡或防封号。
-- [Telegram SMS Fee 是什么？收费原因、unavailable 与登录排查](articles/telegram-sms-5-free.md)：解释 Telegram SMS Fee 的官方原因，区分付费要求、unavailable 和验证码未收到，提供官方登录排查入口，不承诺免费绕过。
-- [Telegram 换设备登录：已有会话、验证码与 SMS Fee 排查](articles/telegram-sms-fee-free.md)：Telegram 换设备登录排查：保留旧会话，核对验证码渠道、两步验证与付费提示，说明没有在线设备时的官方支持入口。
 - [买 VPS 别再翻论坛了！一张表扫全网优惠：大坝 VPS 优惠大超市实测](articles/youtube-bUWjU0yn5M0.md)：我最近就把这个活儿交给了一个站——[大坝的 VPS 优惠大超市]( 它是什么 说白了它就是个优惠聚合站，把常年有年付特价的商家都攒到了一块儿。
 - [免公司开通Stripe香港个人账户：从注册、激活到KYC验证实操全流程](articles/stripe-register-kyc.md)：海外生活、留学、开户必备身份证明 其他，按实操流程，把 Stripe 香港个人账户从注册、KYC、绑香港银行卡，到通过身份审核的过程捋一遍 但如果你后面真要接到产品里，我建议提前准备好这些。
 - [大坝的资源收集站使用指南：搜索、分类与实战教程入口](articles/doc.869hr.uk.md)：大坝的资源收集站使用指南：介绍 100T+ 资源目录、关键词搜索、平台筛选、月份归档和实战教程入口，并说明本站与资源站的运营关系及使用边界。
 - [小白买 VPS 别只看低价：大坝 VPS 优惠大超市选购指南](articles/vps-deals-supermarket-guide.md)：面向新手的 VPS 选购指南：解释 CPU、内存、硬盘、带宽、机房和线路，演示如何用大坝 VPS 优惠大超市筛预算、查续费与库存证据。
 - [无需KYC，1U开美国虚拟卡！Claude/GPT订阅+广告投放，5个卡段保姆级教程](articles/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial.md)：美国AI电商卡 卡段：532113｜Mastercard｜美国 这张卡的网站链接： 这张同样支持 ChatGPT、Claude、OpenAI、Gemini 等 AI 场景，也支持微信、支付宝、Apple Pay 和 Google Pay。
 - [华为云2核4G服务器36元买1年，200元券免费续到2028 手把手教程](articles/2-4g-server-36-1-200-free-2028-tutorial.md)：花36元拿下华为云2核4G云服务器18个月，再用200元无门槛代金券免费续费6个月，薅到2028年，手把手保姆级教程附避坑指南。
+- [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
 - [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
 - [免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月](articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md)："（记得去 Billings & Invoices 手动升级到 Pro） What to Submit："A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。
 - [苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制](articles/appid-100-gift-card-tutorial.md)：苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制。
@@ -66,6 +61,7 @@
 - [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金邀请码送10美元](articles/kraken-iban-10-tutorial.md)：Kraken交易所优点 全牌照交易所，多国法币出入金，安全出入金必备神器，支持美元ACH、欧元SEPA、英镑FPS、瑞郎SIC，现已经支持个人IBAN。
 - [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](articles/charles-schwab-0-w-8ben-20-tutorial.md)：Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。
 - [VOXI eSIM 学生首月免费与激活教程：资格、续费及保号限制](articles/esim-voxi.md)：VOXI eSIM 学生优惠与激活教程：说明英国大学学生资格、首月免费后的自动续费、eSIM 安装及号码查询，区分历史操作记录与尚未验证的境外长期保号方案。
+- [Google账号换国家或地区：关联地区申请、Play商店与付款资料的区别](articles/google-change-country-area.md)：Google账号换国家或地区操作指南：区分账号关联地区、Google Play商店和付款资料，提供官方申请入口、操作步骤及限制，说明换区为什么不等于获得学生优惠或其他服务资格。
 - [野卡 WildCard 历史使用记录：停运提示与订阅支付排查](articles/virtual-bank-card-register-guide.md)：野卡 WildCard 虚拟卡旧教程归档：本站已标注该服务停运，原开卡、充值和优惠入口不再推荐。本文保留历史用途说明，并提供订阅扣费核查与官方支付帮助入口。
 - [菲律宾Maya银行免费开户！Savings账户+免费VISA卡+银行账单手把手教程](articles/maya-free-savings-visa-card-tutorial.md)：菲律宾排名第一的纯数字银行 Maya 开户全流程：中国护照 + 菲律宾手机号即可申请，免费获得 Savings 储蓄账户（最高年化 14-15%）和免费 VISA 卡，还能开出带自己名字和菲律宾地址的 Bank Certificate 银行证明——地址证明神器
 - [菲律宾DITO eSIM手把手教程！每年0.6元人民币低成本保号，微信支付+大陆漫游](articles/dito-esim-0-6-payment-tutorial.md)：菲律宾 DITO eSIM 全流程教程：介绍购买开卡、实名激活、微信支付充值、大陆漫游与短信接收，以及每年低成本保号的方法。
@@ -73,6 +69,10 @@
 - [1583认证教程！Anytime Mailbox 在线公证手把手教学，护照+身份证翻译件搞定，25美元完成](articles/1583-anytime-mailbox-25-tutorial.md)：🔗 本视频涉及资源： Anytime Mailbox（邀请链接，双方各得 10 美元亚马逊礼品卡）： 📚 系列往期： ITIN 申请教程： Tello 美国实体手机号： 第四期 租用美国私人地址： 家宽 IP（Webshare）： 完成这一期，你的美国收件地址就 fully ready 了
 - [美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起](articles/anytime-mailbox-9-tutorial.md)：「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址
 - [不支持eSIM的国产手机，白嫖法国USIMS永久免费流量教程](articles/esim-mobile-usims-free-tutorial.md)：法国 USIMS 这款应用，实测能领到「1G 高速 + 用完无限 128kbps」的永久免费流量，而且你的手机不需要原生支持 eSIM——先用模块把手机伪装成支持 eSIM，再通过虚拟框架把应用装进去，就能拿到 eSIM 二维码，扫进小白卡正常使用
+- [美国实体手机号神卡Tello！5美元/月长期保号，eSIM+WiFi通话保姆级教程](articles/mobile-card-tello-5-esim-wifi-step-by-tutorial.md)：Tello 美国手机卡与 eSIM 配置教程：介绍套餐选择、注册购买、安装激活和 WiFi Calling 设置，以及长期保号与短信收发的注意事项。
+- [Window Layout Memory：Mac 切换单双屏后自动恢复窗口位置的开源工具](articles/window-layout-memory.md)：Window Layout Memory 是开源 macOS 窗口布局记忆工具，可按显示器组合保存窗口大小、位置和归属，并通过保守匹配、候选确认、历史回退与例外规则降低误恢复风险。
+- [WatermarkFlow：Mac 剪贴板图片一键加水印，开源原生批量平铺工具](articles/watermark-flow-mac.md)：WatermarkFlow 是开源原生 macOS 水印工具，支持剪贴板、拖放与文件导入，提供文字、Logo、单个和满屏平铺水印、自动对比、模板及全局快捷键。
+- [Sound Guard：Mac 长时间无声自动归零音量，避免突然外放的开源工具](articles/sound-guard-mac.md)：Sound Guard 是一款开源 macOS 菜单栏音量保护工具：设备长时间没有播放活动时自动将输出音量归零，并通过设备白名单、保守检测和确认式恢复降低突然外放风险。
 
 ## 使用说明
 

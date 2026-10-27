@@ -1628,7 +1628,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2026-05-23T00:31:44.000Z",
-      "updatedAt": "2026-10-27T04:00:00.000Z",
+      "updatedAt": "2026-05-23T00:31:44.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/clash-config-detail-dns/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/clash-config-detail-dns.md",
       "videoUrl": "https://www.youtube.com/watch?v=OT_tlDDMNB4"
@@ -2809,8 +2809,8 @@
     },
     {
       "id": "free-server-instabox-20-40gb-1-tutorial",
-      "title": "InstaBox 云服务器内测记录：单台4核8GB、配额与使用限制",
-      "description": "InstaBox 内测使用记录：区分单台4核8GB与最多5台的总配额，介绍邀请、自动暂停和端口限制；历史免费额度不代表当前账号权益。",
+      "title": "免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程",
+      "description": "InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。",
       "category": [
         "技术"
       ],
@@ -2829,7 +2829,7 @@
         "PLpBi3Wpk7OYjYV-Mz64Bzv3FxADmyKcsC"
       ],
       "publishedAt": "2026-10-18T02:51:28.000Z",
-      "updatedAt": "2026-10-27T04:00:00.000Z",
+      "updatedAt": "2026-10-18T02:51:28.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/free-server-instabox-20-40gb-1-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-server-instabox-20-40gb-1-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=spuxWoqv2A8"
@@ -3347,7 +3347,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2025-06-29T14:30:00.000Z",
-      "updatedAt": "2026-10-27T04:00:00.000Z",
+      "updatedAt": "2026-10-01T00:20:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tutorial/google-change-country-area/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/google-change-country-area.md",
       "videoUrl": null
@@ -4651,8 +4651,8 @@
     },
     {
       "id": "register-iosid-foreign",
-      "title": "美区 Apple 账户注册：官方入口、付款方式与账号安全",
-      "description": "按 Apple 官方说明整理美区 Apple 账户注册入口、付款方式与双重认证，解释“无”选项的适用限制，不承诺免信用卡或防封号。",
+      "title": "注册苹果美区Apple ID帐号完整指南2025 | 无需信用卡",
+      "description": "2025最新苹果美区Apple ID注册教程，无需信用卡，详细图文步骤教你如何注册美区App Store账号，包含防封号技巧及应用购买指南。",
       "category": [
         "技术"
       ],
@@ -4668,7 +4668,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2025-02-07T09:03:00.000Z",
-      "updatedAt": "2026-10-27T04:00:00.000Z",
+      "updatedAt": "2025-02-07T09:03:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/register-iosid-foreign/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/register-iosid-foreign.md",
       "videoUrl": null
@@ -5088,8 +5088,8 @@
     },
     {
       "id": "telegram-sms-5-free",
-      "title": "Telegram SMS Fee 是什么？收费原因、unavailable 与登录排查",
-      "description": "解释 Telegram SMS Fee 的官方原因，区分付费要求、unavailable 和验证码未收到，提供官方登录排查入口，不承诺免费绕过。",
+      "title": "Telegram登录要收SMS费？5种方法免费绕过，亲测有效！",
+      "description": "这个情况好像是官方今年8月份新出的政策公布就出现了，正常情况下，你输入的手机号如果它的地区是亚洲部分国家（不光只是东大）还有英国的手机号（我也试了）去注册，极大概率都会跳付费请求。",
       "category": [
         "技术"
       ],
@@ -5097,7 +5097,8 @@
         "Telegram",
         "SMS Fee",
         "Telegram登录",
-        "Telegram注册"
+        "Telegram注册",
+        "绕过SMS费"
       ],
       "topics": [
         "tech"
@@ -5107,29 +5108,31 @@
         "PLpBi3Wpk7OYh3kMT-egNWr8Bba0jdyttw"
       ],
       "publishedAt": "2026-05-16T08:17:09.000Z",
-      "updatedAt": "2026-10-27T04:00:00.000Z",
+      "updatedAt": "2026-05-16T08:17:09.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/telegram-sms-5-free/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-sms-5-free.md",
       "videoUrl": "https://www.youtube.com/watch?v=ugguWmPE0BI"
     },
     {
       "id": "telegram-sms-fee-free",
-      "title": "Telegram 换设备登录：已有会话、验证码与 SMS Fee 排查",
-      "description": "Telegram 换设备登录排查：保留旧会话，核对验证码渠道、两步验证与付费提示，说明没有在线设备时的官方支持入口。",
+      "title": "Telegram登录要付费？SMS Fee免费跳过方法大全",
+      "description": "整理 Telegram 登录时出现 SMS Fee 的常见原因和可尝试的免费处理方式，包含设备切换、已有会话验证及失败条件说明。",
       "category": [
         "技术"
       ],
       "tags": [
         "Telegram",
         "SMS Fee",
-        "Telegram登录"
+        "Telegram登录",
+        "免费登录",
+        "绕过付费"
       ],
       "topics": [
         "tech"
       ],
       "playlistIds": [],
       "publishedAt": "2026-05-16T04:43:59.000Z",
-      "updatedAt": "2026-10-27T04:00:00.000Z",
+      "updatedAt": "2026-05-16T04:43:59.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/telegram-sms-fee-free/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/telegram-sms-fee-free.md",
       "videoUrl": "https://www.youtube.com/watch?v=I2opyeIrq_s"

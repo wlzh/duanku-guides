@@ -48,7 +48,7 @@
 - [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
 - [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
 - [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
-- [InstaBox 云服务器内测记录：单台4核8GB、配额与使用限制](../articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 内测使用记录：区分单台4核8GB与最多5台的总配额，介绍邀请、自动暂停和端口限制；历史免费额度不代表当前账号权益。
+- [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](../articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
 - [免费白嫖Super Grok一年会员全流程保姆级教程！Amazon Pay上车亲测有效](../articles/free-super-grok-tutorial-amazon-pay.md)：Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟信用卡白嫖SuperGrok一年会员，亲测有效。
 - [Gemini 学生权益失效怎么办：SheerID 真实材料核验与官方申诉](../articles/gemini-pro-sheerid-tutorial.md)：Gemini 学生权益失效排查：核对活动资格、准备学校出具的真实材料，区分 SheerID 验证失败与 Google 订阅问题，并提供官方支持入口。
 - [GitHub学生认证10分钟速通教程｜免费领Pro包年+AI工具](../articles/github-10-free-pro-ai-tools-tutorial.md)：演示 GitHub Student 学生认证的材料准备、网络与设备配合、提交和复核流程，以及认证后领取 Pro 和开发者工具权益的方法。
