@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 154 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 162 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -17,6 +17,8 @@
 - [2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南](../articles/ai-beginner-guide.md)：🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新
 - [真香！AI订阅、支付卡，Bybit Card 国内身份证秒开，0开卡费，USDT 支付宝/微信随便刷](../articles/ai-payment-card-bybit-0-usdt.md)：中国身份证就能秒开虚拟卡 + 实体卡，支付宝、微信、Apple Pay 随便绑，日常买咖啡、付房租都能直接刷 [USDT]
 - [零基础用AI写浏览器自动化！手把手教你做注册机](../articles/ai-register.md)：面向零代码基础读者演示如何借助 AI 编写浏览器自动化注册脚本，包含需求拆解、元素定位、运行调试和失败处理方法。
+- [AI 歌舞与漫剧发布前先过一遍：肖像、歌曲与平台规则的避坑清单](../articles/ai-video-copyright-portrait-checklist.md)：AI 歌舞 MV 与漫剧发布前，按肖像授权、歌曲版权与平台规则三条线自查：没有授权就不要用真实名人形象与热门歌曲做商业发布，优先原创角色与已授权音乐。
+- [名人反差歌舞 MV 与女频漫剧怎么做成系列？角色锁定与每周更新打法](../articles/ai-video-series-celebrity-dance-female-drama.md)：从本期趋势数据拆解两类 AI 视频的系列化打法。名人反差歌舞靠选角反差留人，女频漫剧靠同一角色换篇名测试，核心都是先锁定角色和画风再固定更新。
 - [美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起](../articles/anytime-mailbox-9-tutorial.md)：「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址
 - [三方API登录下用手机远控Codex，手把手小白教程](../articles/api-mobile-codex-beginner-tutorial.md)：介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。
 - [海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题](../articles/app-register-tutorial.md)：本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题
@@ -36,6 +38,8 @@
 - [🚨你的硬盘被偷吃了？Chrome/Edge暗中下载4GB大模型！教你彻底关闭并删除本地AI【保姆级教程】](../articles/chrome-edge-delete-local-ai-model.md)：最近C盘空间莫名其妙少了几个G？罪魁祸首可能是Chrome或Edge浏览器！Google和微软正悄悄在后台下载接近4GB的本地AI模型，教你彻底删除和禁用。
 - [🚀一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效](../articles/chrome-gemini-ai-win-mac-shorts.md)：详细教程：一键解锁 Chrome 隐藏的 Gemini AI 侧边栏功能！Win/Mac全支持，开启浏览器智能侧边栏亲测有效
 - [Clash配置文件详解｜从零搞懂DNS、策略组、分流规则附实战](../articles/clash-config-detail-dns.md)：逐项解析 Clash 配置文件中的 mixed-port、mode、DNS、策略组和分流规则，并结合示例说明常见配置错误与验证方法。
+- [Clash DNS 老是漏？fake-ip、fallback 和 nameserver-policy 的排查清单](../articles/clash-dns-leak-diagnosis-fakeip-fallback.md)：这篇不重复 Clash 全量配置讲解，只讲 DNS 泄露到底漏在哪里。按客户端接管、解析模式、解析链分工和症状归类的顺序查，比来回改一整份配置更快定位。
+- [Clash 配好之后先别急着换节点：测速、分流与 DNS 泄漏的三步验证清单](../articles/clash-post-config-verification-checklist.md)：Clash 配置完成后，用测速、分流与 DNS 泄漏三步先定位问题在节点、规则还是 DNS，再决定换节点还是改配置，避免反复换节点却没解决配置问题。
 - [2026最新！手机远程控制Claude Code：Happy安装配置全教程](../articles/claude-code-happy-mobile-remote-control-tutorial.md)：Happy 安装配置教程：用手机远程控制 Claude Code，覆盖安装配对、会话管理、国内网络问题和自建中继。
 - [【Claude Code 小白教程-第3期】打工人提效神器！文案生成、文档批量处理与 Excel 数据自动化实战全攻略！](../articles/claude-code-tutorial-3and-excel.md)：Claude Code 零基础小白教程第3期，手把手教你文案生成、文档批量处理、Excel数据分析与图表生成，打工人提效神器实战全攻略
 - [【Claude Code 小白教程-第4期】从入门到大神！高阶提示词技巧、培养编程思维与打造专属AI自动化工作流！](../articles/claude-code-tutorial-4-advanced-workflow.md)：Claude Code 零基础小白教程第4期高阶进阶篇，教你提示词技巧、编程思维、自定义自动化工作流与AI知识库构建
@@ -74,6 +78,8 @@
 - [🔥GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级](../articles/gcpfreedeploy-config.md)：详细教程：GCP谷歌云永久免费新玩法！部署一键脚本：自动避坑/流量监控/防火墙配置全攻略！小白喂饭级，涵盖视频教程等知识点
 - [🔥GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级](../articles/gcpfreedeploydeploytest-20260222-141058.md)：详细教程：GCP谷歌云永久免费新玩法二！开通及部署一键脚本及节点部署及测试，一次课程全讲透小白喂饭级，涵盖视频教程等知识点
 - [Gemini 学生权益失效怎么办：SheerID 真实材料核验与官方申诉](../articles/gemini-pro-sheerid-tutorial.md)：Gemini 学生权益失效排查：核对活动资格、准备学校出具的真实材料，区分 SheerID 验证失败与 Google 订阅问题，并提供官方支持入口。
+- [Gemini Pro 学生权益被取消后，真实在读学生如何合规申诉](../articles/gemini-pro-student-appeal-legitimate-checklist.md)：这篇只讲真实在读学生的合规申诉路径。先确认资格和材料一致性，再按被拒原因逐项修正，最后通过官方渠道提交，不教伪造证件，也不承诺一定通过。
+- [Genie 4、LFM3 与 GPT-6.1 Terra 这波新闻，创作者先准备什么](../articles/genie4-lfm3-gpt61-terra-creator-impact.md)：这篇只写 2026-10-28 第 6 期素材里给出的事实，不编造模型参数、价格和发布时间，重点是这波交互世界模型和电脑操作模型对选题、测试和工作流意味着什么。
 - [Giffgaff 退款教程！5天内10英镑到账，附退款申诉邮件模板](../articles/giffgaff-5-10-tutorial.md)：介绍 Giffgaff 停用账号或不再使用服务时申请余额退款的条件、操作步骤和英文申诉模板，并说明处理时间与到账验证方法。
 - [GiffGaff携号转网及申请余额退款全流程手把手教程VOXI/CTExcel双方案](../articles/giffgaff-apply-voxi-ctexcel-tutorial.md)：本视频手把手教你完整携号转网流程，从获取PAC码到转入VOXI或CTExcel UK，再到申请退还GiffGaff账户余额，每一步都有实操演示
 - [🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址](../articles/giffgaff-card-1-0-5-tutorial-free.md)：本视频详细介绍🚨Giffgaff 神卡国内绝版？教你1招 0 成本转运回国！5 分钟极简手把手教程附免费澳洲转运地址，帮助你快速了解和掌握相关知识点。
@@ -117,7 +123,7 @@
 - [玩转香港PokePay虚拟卡：申请开卡、充值全攻略+返现活动  零成本开卡教程](../articles/pokepay-virtual-card-apply-tutorial.md)：本视频详细演示PokePay虚拟卡的注册、KYC身份认证、USDT充值、开卡、实体卡申请及绑定支付宝/微信全流程
 - [重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持](../articles/qqbot-openclaw-official-api-tutorial.md)：这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。
 - [【资源运营神器Skills】完全开源，夸克网盘+GitHub一条龙全自动发布工具 (v1.2.0)！转存、归类、TG通知、站点更新一键搞定！手把手小白教程：从转存到发布全流程](../articles/quark-github-auto-publisher-skills-v1-2-0.md)：夸克网盘+GitHub一条龙自动化发布工具 v1.2.0：批量转存、自动归类、多仓库落盘、Telegram 通知、触发站点构建，手把手小白教程。
-- [注册苹果美区Apple ID帐号完整指南2025 | 无需信用卡](../articles/register-iosid-foreign.md)：2025最新苹果美区Apple ID注册教程，无需信用卡，详细图文步骤教你如何注册美区App Store账号，包含防封号技巧及应用购买指南。
+- [美区 Apple 账户注册：官方入口、付款方式与账号安全](../articles/register-iosid-foreign.md)：从 Apple 官方入口创建美区 Apple 账户，先分清新建账号还是改现有账号地区，再按付款方式与双重认证两步走，附注册后先核对什么。
 - [只需身份证！Roogoo Card 开卡充值消费全流程手把手教程，绑定支付宝微信畅享全球消费](../articles/roogoo-card-payment-tutorial.md)：手把手介绍 Roogoo Card 的身份证验证、开卡、稳定币充值、消费与账单检查流程，并说明绑定支付宝和微信前的注意事项。
 - [企业微信免Root虚拟定位打卡！0成本安卓手机100%成功教程](../articles/root-virtual-card-0-mobile-100-tutorial.md)：介绍基于 Android 调试 API 与地图定位 SDK 的免 Root 定位工具，涵盖安装、权限、位置选择、摇杆控制和结果验证。
 - [2026国内护照开SafePal万事达卡｜保姆级注册教程](../articles/safepal-card-register-tutorial.md)：介绍使用中国护照申请 SafePal 万事达卡的准备材料、App 注册、身份验证、开卡和消费流程，并提示活动、邮费及支付手续费。
@@ -126,13 +132,15 @@
 - [Shadowrocket更新Tailscale！代理和内网穿透终于能同时用了](../articles/shadowrocket-tailscale.md)：介绍 Shadowrocket 集成 Tailscale 后如何配置 Auth Key，让代理与内网穿透同时运行，并验证文件共享、SSH 和远程桌面连接。
 - [Shadowsocks 完全指南：从零开始掌握科学上网核心工具小白必看](../articles/shadowsocks-guide-vpn-tools.md)：从零解释 Shadowsocks 的工作方式、与传统 VPN 的差异、常用客户端和基础配置流程，并整理连接验证与常见故障排查。
 - [对决MCP的SLOP协议：以HTTP为核心的下一代AI协作框架 | 2025完全指南](../articles/slop-introduce.md)：深度解析SLOP协议的设计理念与技术架构，揭秘其如何通过HTTP标准化接口实现AI工具的互联互通。包含GitHub开源项目地址、开发者快速接入指南以及与传统MCP协议的对比分析，助您掌握未来AI协作新范式。
+- [中小账号 AI 视频怎么放量？从 14 条 1404 万播放里提炼的方法](../articles/small-account-ai-video-scaling-method.md)：本期素材里 AI 全民制作人有 14 条作品、13 个账号、合计 1404 万播放，中小账号也能拿高播放，本文把这个现象拆成选类、做系列、测变量的三步方法。
 - [Sound Guard：Mac 长时间无声自动归零音量，避免突然外放的开源工具](../articles/sound-guard-mac.md)：Sound Guard 是一款开源 macOS 菜单栏音量保护工具：设备长时间没有播放活动时自动将输出音量归零，并通过设备白名单、保守检测和确认式恢复降低突然外放风险。
 - [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](../articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
 - [免公司开通Stripe香港个人账户：从注册、激活到KYC验证实操全流程](../articles/stripe-register-kyc.md)：海外生活、留学、开户必备身份证明 其他，按实操流程，把 Stripe 香港个人账户从注册、KYC、绑香港银行卡，到通过身份审核的过程捋一遍 但如果你后面真要接到产品里，我建议提前准备好这些。
 - [Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程](../articles/telegram-register-tutorial-0-5-ip-shorts.md)：详细教程：Telegram注册总是失败？这套保姆级教程带你低至 $0.5 成本成功上岸！住宅IP+接码平台+全流程
-- [Telegram登录要收SMS费？5种方法免费绕过，亲测有效！](../articles/telegram-sms-5-free.md)：这个情况好像是官方今年8月份新出的政策公布就出现了，正常情况下，你输入的手机号如果它的地区是亚洲部分国家（不光只是东大）还有英国的手机号（我也试了）去注册，极大概率都会跳付费请求。
+- [Telegram SMS Fee 是什么？收费原因、unavailable 与登录排查](../articles/telegram-sms-5-free.md)：解释 Telegram SMS Fee 的官方原因，区分付费要求、unavailable 和验证码未收到，提供官方登录排查入口，不承诺免费绕过。
 - [Telegram登录要付费？SMS Fee免费跳过方法大全](../articles/telegram-sms-fee-free.md)：整理 Telegram 登录时出现 SMS Fee 的常见原因和可尝试的免费处理方式，包含设备切换、已有会话验证及失败条件说明。
 - [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](../articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
+- [美区 Apple ID 注册成功后别急着充值，先做这 7 项防锁检查](../articles/us-apple-id-after-register-anti-lock-checklist.md)：美区 Apple ID 注册成功只是第一步，本文讲注册后第一周为什么最容易出问题，以及双重认证、付款方式、地址税州、礼品卡节奏和被锁后的官方申诉路径该怎么一步步处理。
 - [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
 - [最新无需VPS，0成本搭建无限流量科学上网节点：4K秒开、节点无限生成 小白1分钟喂饭级教程](../articles/vps-0-4k-1tutorial.md)：本视频介绍一种无需购买VPS服务器即可搭建科学上网节点的方法，适合预算有限但需要稳定网络环境的用户。
 - [小白买 VPS 别只看低价：大坝 VPS 优惠大超市选购指南](../articles/vps-deals-supermarket-guide.md)：面向新手的 VPS 选购指南：解释 CPU、内存、硬盘、带宽、机房和线路，演示如何用大坝 VPS 优惠大超市筛预算、查续费与库存证据。

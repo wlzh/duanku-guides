@@ -7,7 +7,7 @@
 ## 内容信息
 
 - 原文：https://869hr.uk/2026/tech/clash-config-detail-dns/
-- 更新：2026-05-23
+- 更新：2026-10-28
 - 分类：技术
 - 专题：技术
 - 关键词：Clash、Clash配置、代理工具、分流规则、DNS配置
@@ -47,6 +47,10 @@
 **【温馨提示】**为方便阅读，配置文件和参数解析我都隐藏了，请按需展开。如果不想了解得特别详细的话，可以直接跳到实战演练。
 # 二、Clash配置文件解析
 ## 2.1 简述配置文件
+
+本文示例用于解释字段，不是适用于所有 Clash 客户端和内核版本的完整配置。合并前确认实际内核、版本及字段支持；保留原配置备份，先做配置检查再启用。`secret: ""` 表示空控制接口密钥，不要将无认证的控制接口暴露到公网。
+
+相关内容可在[海外网络专题](https://869hr.uk/series/overseas-network/)与[软件工具专题](https://869hr.uk/series/software-and-tools/)继续查找；不同客户端的配置不要直接混用。
 
 先贴出配置文件的简化版：
 
@@ -617,6 +621,11 @@ VPS VIRCS
 - [相关推荐](https://869hr.uk)
 
 ---
+
+## 相关阅读
+
+- [Clash DNS 老是漏？fake-ip、fallback 和 nameserver-policy 的排查清单](https://869hr.uk/2026/tech/clash-dns-leak-diagnosis-fakeip-fallback/)：按 fake-ip、fallback 与 nameserver-policy 三条线排查 DNS 泄漏。
+- [Clash Verge 与 v2rayN 配置指南](https://869hr.uk/2026/tech/ip-clash-verge-v2rayn-config-guide-tutorial/)：客户端层面的配置对照，配好之后再回来看 DNS 部分。
 
 ---
 

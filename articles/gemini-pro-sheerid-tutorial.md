@@ -7,7 +7,7 @@ Gemini 学生权益失效排查：核对活动资格、准备学校出具的真�
 ## 内容信息
 
 - 原文：https://869hr.uk/2026/tech/gemini-pro-sheerid-tutorial/
-- 更新：2026-10-27
+- 更新：2026-10-28
 - 分类：技术
 - 专题：技术、AI
 - 关键词：Gemini Pro、SheerID认证、学生认证、Google Gemini、Gemini Pro学生权益
@@ -135,6 +135,11 @@ VPS VIRCS
 - [相关推荐](https://869hr.uk)
 
 ---
+
+## 相关阅读
+
+- [Gemini Pro 学生权益被取消后，真实在读学生如何合规申诉](https://869hr.uk/2026/tech/gemini-pro-student-appeal-legitimate-checklist/)：只针对真实在读学生的合规申诉清单，不涉及任何伪造材料的做法。
+- [教育邮箱注册与学生优惠申请的通用排查](https://869hr.uk/2026/tech/edu-email-register-2026/)：先核对活动资格与登录账号，再走验证流程。
 
 ---
 

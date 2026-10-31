@@ -1,6 +1,6 @@
 # AI
 
-本专题收录 81 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 86 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
@@ -11,6 +11,8 @@
 - [2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南](../articles/ai-beginner-guide.md)：🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新
 - [真香！AI订阅、支付卡，Bybit Card 国内身份证秒开，0开卡费，USDT 支付宝/微信随便刷](../articles/ai-payment-card-bybit-0-usdt.md)：中国身份证就能秒开虚拟卡 + 实体卡，支付宝、微信、Apple Pay 随便绑，日常买咖啡、付房租都能直接刷 [USDT]
 - [零基础用AI写浏览器自动化！手把手教你做注册机](../articles/ai-register.md)：面向零代码基础读者演示如何借助 AI 编写浏览器自动化注册脚本，包含需求拆解、元素定位、运行调试和失败处理方法。
+- [AI 歌舞与漫剧发布前先过一遍：肖像、歌曲与平台规则的避坑清单](../articles/ai-video-copyright-portrait-checklist.md)：AI 歌舞 MV 与漫剧发布前，按肖像授权、歌曲版权与平台规则三条线自查：没有授权就不要用真实名人形象与热门歌曲做商业发布，优先原创角色与已授权音乐。
+- [名人反差歌舞 MV 与女频漫剧怎么做成系列？角色锁定与每周更新打法](../articles/ai-video-series-celebrity-dance-female-drama.md)：从本期趋势数据拆解两类 AI 视频的系列化打法。名人反差歌舞靠选角反差留人，女频漫剧靠同一角色换篇名测试，核心都是先锁定角色和画风再固定更新。
 - [三方API登录下用手机远控Codex，手把手小白教程](../articles/api-mobile-codex-beginner-tutorial.md)：介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。
 - [【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！](../articles/apple-id-register---claude.md)：详细教程：【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！，涵盖Claude、Apple ID、教程等知识点
 - [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](../articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。
@@ -51,6 +53,8 @@
 - [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](../articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
 - [免费白嫖Super Grok一年会员全流程保姆级教程！Amazon Pay上车亲测有效](../articles/free-super-grok-tutorial-amazon-pay.md)：Super Grok 免费一年会员保姆级教程，通过Amazon Pay和零元虚拟信用卡白嫖SuperGrok一年会员，亲测有效。
 - [Gemini 学生权益失效怎么办：SheerID 真实材料核验与官方申诉](../articles/gemini-pro-sheerid-tutorial.md)：Gemini 学生权益失效排查：核对活动资格、准备学校出具的真实材料，区分 SheerID 验证失败与 Google 订阅问题，并提供官方支持入口。
+- [Gemini Pro 学生权益被取消后，真实在读学生如何合规申诉](../articles/gemini-pro-student-appeal-legitimate-checklist.md)：这篇只讲真实在读学生的合规申诉路径。先确认资格和材料一致性，再按被拒原因逐项修正，最后通过官方渠道提交，不教伪造证件，也不承诺一定通过。
+- [Genie 4、LFM3 与 GPT-6.1 Terra 这波新闻，创作者先准备什么](../articles/genie4-lfm3-gpt61-terra-creator-impact.md)：这篇只写 2026-10-28 第 6 期素材里给出的事实，不编造模型参数、价格和发布时间，重点是这波交互世界模型和电脑操作模型对选题、测试和工作流意味着什么。
 - [GitHub学生认证10分钟速通教程｜免费领Pro包年+AI工具](../articles/github-10-free-pro-ai-tools-tutorial.md)：演示 GitHub Student 学生认证的材料准备、网络与设备配合、提交和复核流程，以及认证后领取 Pro 和开发者工具权益的方法。
 - [Google Gemini Pixel一年Pro免费领取，手把手教程](../articles/google-gemini-pixel-pro-free-tutorial.md)：介绍通过符合条件的 Google Pixel 权益领取一年 Gemini Pro 的验证入口、操作步骤和订阅确认方法，并说明资格与地区限制。
 - [2025最新Gemini Pro学生认证薅羊毛教程及教育邮箱二验教程 | 无需学校资料快速通过验证](../articles/google-gemini-students2.md)：本文详细介绍2025年最新Gemini Pro学生认证方法，无需填写真实学校资料，通过1key.me网站快速解析验证链接即可通过认证。包含完整步骤说明、注意事项、网络环境要求以及信用卡绑定指南，适合所有想要免费延长Gemini Pro使用期限的用户。
@@ -74,6 +78,7 @@
 - [SafePal订阅GPT续费失败？用 Wise 欧元汇款到瑞士银行卡，手把手教程](../articles/safepal-gpt-wise-bank-card-tutorial.md)：这条视频手把手教你用 Wise 把欧元汇到 SafePal 的瑞士银行账户（Fiat24），再用 SafePal 联名万事达卡完成 GPT 续费，全程实操演示
 - [OpenAI CEO Sam Altman：三点观察解析 | AGI时代与AI经济学](../articles/sam-altman-three-observations.md)：OpenAI CEO Sam Altman在最新博文中探讨了AGI时代和AI经济学的三大观察，分析了人工智能对社会经济的深远影响。本文详细解析了这些观察的意义，并探讨了未来可能带来的变化。
 - [对决MCP的SLOP协议：以HTTP为核心的下一代AI协作框架 | 2025完全指南](../articles/slop-introduce.md)：深度解析SLOP协议的设计理念与技术架构，揭秘其如何通过HTTP标准化接口实现AI工具的互联互通。包含GitHub开源项目地址、开发者快速接入指南以及与传统MCP协议的对比分析，助您掌握未来AI协作新范式。
+- [中小账号 AI 视频怎么放量？从 14 条 1404 万播放里提炼的方法](../articles/small-account-ai-video-scaling-method.md)：本期素材里 AI 全民制作人有 14 条作品、13 个账号、合计 1404 万播放，中小账号也能拿高播放，本文把这个现象拆成选类、做系列、测变量的三步方法。
 - [【保姆级教程】最好远程写代码方法，把 Claude Code 装进手机！Happy Coder 让手机秒变 CC 加密遥控器](../articles/tutorial-claude-code-happy-coder-cc.md)：分享开源项目 Happy Coder，让你用手机远程控制电脑上的 Claude Code，支持全链路 E2EE 加密，无需公网 IP
 - [想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)](../articles/us-itin-tax-number-apply-guide.md)：详细教程：想要Claude支付降低封概率？外国人必看！无移民身份也能拿美国 ITIN 税号？解锁美股、银行、信用卡全攻略！(内含代办优惠)，涵盖跨境支付等知识点
 - [编程小白Vibe Coding 必看：使用 prd-manager 8 种文档，一个想法指导 AI 准确 Coding到上线部署全部到位](../articles/vibe-coding--usage-prd-manager-8---ai--codingdeplo.md)：这篇文章完整整理 prd-manager v2.0.0 的 8 类文档、版本治理、测试驱动和运维支持，帮助你用结构化方式提升 AI Coding 准确性。
