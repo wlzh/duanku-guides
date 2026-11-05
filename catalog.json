@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-10-28T20:05:00.000Z",
+  "sourceUpdatedAt": "2026-11-05T07:14:44.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 242,
+  "count": 244,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -320,7 +320,7 @@
       "blogUrl": "https://869hr.uk/series/global-payments-and-finance/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/global-payments-and-finance.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 30,
+      "itemCount": 31,
       "videoIds": [
         "NiIswP2iT0c",
         "4aFwSHXv090",
@@ -351,7 +351,8 @@
         "9JAPUUNvONk",
         "EVzMZnwntiY",
         "1V50lMeHgMw",
-        "7OaZo3gajQ4"
+        "7OaZo3gajQ4",
+        "Zo26b41w2so"
       ]
     }
   ],
@@ -1404,6 +1405,33 @@
       "blogUrl": "https://869hr.uk/2026/tech/chatgpt-business-48-team-17-8-4-payment-paypal/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-business-48-team-17-8-4-payment-paypal.md",
       "videoUrl": "https://www.youtube.com/watch?v=EJnGTrFy5Sk"
+    },
+    {
+      "id": "chatgpt-card-biyapay-claude-ai-payment-tutorial",
+      "title": "神卡BiyaPay身份证开户：ChatGPT/Claude等AI支付、USDT兑换、跨境汇款、美股交易手把手教程",
+      "description": "ChatGPT/Claude等AI支付、USDT 兑换、跨境汇款、美股交易 BiyaPay EasyCard，让数字资产真正走进生活。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "BiyaPay",
+        "BiyaPay开户",
+        "BiyaPay教程",
+        "USDT",
+        "USDT兑换"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjEzCOqJh5ojUt8IQm6kYUW"
+      ],
+      "publishedAt": "2026-11-05T07:14:44.000Z",
+      "updatedAt": "2026-11-05T07:14:44.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/chatgpt-card-biyapay-claude-ai-payment-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/chatgpt-card-biyapay-claude-ai-payment-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=Zo26b41w2so"
     },
     {
       "id": "chatgpt-downgrade",
@@ -3744,6 +3772,31 @@
       "updatedAt": "2025-02-05T03:41:57.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/indie-dev-payment/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/indie-dev-payment.md",
+      "videoUrl": null
+    },
+    {
+      "id": "instabox-invite-code-wait-check-usage",
+      "title": "InstaBox 邀请码，谁需要等、等多久、没收到先查什么",
+      "description": "InstaBox 目前是邀请制内测，用 Google 账号登录后，有人直接进去，有人要等邀请码。本文讲这两种情况的区别、等待的几种说法、没收到时的排查顺序，以及拿到邀请后怎么用、有哪些现成的命令行、SDK 和 GitHub 项目可以接上去，不发码，不卖码，不承诺一定能拿到。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "InstaBox",
+        "邀请码",
+        "免费云服务器",
+        "AI Agent",
+        "云主机"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [],
+      "publishedAt": "2026-11-04T01:34:31.000Z",
+      "updatedAt": "2026-11-04T01:34:31.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/instabox-invite-code-wait-check-usage/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/instabox-invite-code-wait-check-usage.md",
       "videoUrl": null
     },
     {

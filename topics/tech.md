@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 162 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 164 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -28,6 +28,7 @@
 - [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](../articles/charles-schwab-0-w-8ben-20-tutorial.md)：Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。
 - [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](../articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。
 - [ChatGPT Business 第三期｜澳大利亚48个月Team优惠码$17.8/月，4种支付含PayPal](../articles/chatgpt-business-48-team-17-8-4-payment-paypal.md)：本文介绍 ChatGPT Business 澳大利亚 Team 优惠的适用条件、价格与四种支付方式，并补充 PayPal 付款步骤和开通前核对事项。
+- [神卡BiyaPay身份证开户：ChatGPT/Claude等AI支付、USDT兑换、跨境汇款、美股交易手把手教程](../articles/chatgpt-card-biyapay-claude-ai-payment-tutorial.md)：ChatGPT/Claude等AI支付、USDT 兑换、跨境汇款、美股交易 BiyaPay EasyCard，让数字资产真正走进生活。
 - [ChatGPT降智识别和解决方案 | 降智定义、检测方法和应对策略](../articles/chatgpt-downgrade.md)：深入解析ChatGPT降级现象的成因、检测方法和解决方案。包含完整的降级识别指南、性能测试方法、IP质量评估和账号恢复方案。提供多种实用工具和专业建议，帮助用户应对ChatGPT性能下降问题。详细介绍官方风控策略、API限制变化，并提供最新的解决方案和优化建议，确保您获得最佳的AI对话体验。
 - [免费领ChatGPT Business 2个月！美区优惠码+长连接脚本教程](../articles/chatgpt-free-business-2-tutorial.md)：免费ChatGPT 2个月 Business 领取 第二期，这次是美区，绑卡用SafePal或者bybit 免费领取ChatGPT Business 2个月
 - [Gmail搞免费GPT账户｜K12空间白嫖ChatGPT Plus全流程 喂饭级教程](../articles/chatgpt-gmail-free-gpt-k12-plus-tutorial.md)：多了登录gpt会报错，脚本中的空间ID现在人数人多，可以自己找最新的gmail的K12空间id，进行替换，linuxdo等很多站很多分享的
@@ -94,6 +95,7 @@
 - [GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！](../articles/gpt-business-48.md)：GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！教程，整理核心步骤、配置方法、常见问题和参考链接。
 - [GPT Plus太贵？教你用土区礼品卡超低价订阅！国内手机号可注册，无需海外信用卡（附3大购卡渠道对比）](../articles/gpt-plus-turkey-apple-gift-card-tutorial.md)：最近ChatGPT Plus特惠途径几乎覆没，美区20美元有些小贵？本教程教你通过土耳其区Apple ID+礼品卡方式，只需约78元人民币轻松订阅GPT Plus！零门槛，国内手机号即可注册，部分渠道直接支持支付宝付款，无需海外信用卡。
 - [纯干货：独立开发者|独立小团队如何在一周内搞定所有的资质开始在App Store/Steam/Stripe收款](../articles/indie-dev-payment.md)：详细指导独立开发者和小团队如何快速高效地完成公司注册、银行开户、邓白氏申请等流程，一周内搞定 App Store、Steam 和 Stripe 收款资质，助你快速开始创业之路。
+- [InstaBox 邀请码，谁需要等、等多久、没收到先查什么](../articles/instabox-invite-code-wait-check-usage.md)：InstaBox 目前是邀请制内测，用 Google 账号登录后，有人直接进去，有人要等邀请码。本文讲这两种情况的区别、等待的几种说法、没收到时的排查顺序，以及拿到邀请后怎么用、有哪些现成的命令行、SDK 和 GitHub 项目可以接上去，不发码，不卖码，不承诺一定能拿到。
 - [推荐几个折腾常用的检查IP各种属性的网站，包括检测住宅IP、检查延迟、路由信息、伪装检测等](../articles/ip-check-dns.md)：推荐常用的IP检查工具网站，支持检测住宅IP、延迟、路由信息、伪装、风险值等多种属性，帮助您全面分析IP情况。
 - [机场前置+落地家宽住宅IP链式代理搭建教程｜Clash Verge与V2rayN配置指南](../articles/ip-clash-verge-v2rayn-config-guide-tutorial.md)：实测对比：V2rayN比Clash Verge Rev更稳定 前置节点负责提供稳定低延迟的国际出口通道，落地节点负责提供原生干净的最终出口IP
 - [国行iPhone秒变eSIM！Xesim卡手把手喂饭教程，出国留学旅行必备](../articles/iphone-esim-xesim-card-tutorial.md)：介绍国行 iPhone 使用 Xesim 实体载体管理 eSIM 的准备条件、写卡、套餐下载和切换流程，并说明兼容机型与出行使用限制。

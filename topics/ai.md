@@ -1,6 +1,6 @@
 # AI
 
-本专题收录 86 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 88 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
@@ -18,6 +18,7 @@
 - [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](../articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。
 - [省钱秘籍：手把手教你用尼日利亚区AppleID订阅 ChatGPT Plus，每月只要$8](../articles/chatgpt-appid.md)：想要更便宜地订阅ChatGPT Plus？本文详细介绍了如何通过注册尼日利亚区的Apple ID，以每月仅约$8的价格订阅ChatGPT Plus，相比美区订阅每月$20，能节省一大笔开销。包含修改手机地区、注册Apple ID、购买礼品卡、订阅ChatGPT Plus等详细步骤，让你轻松享受ChatGPT
 - [ChatGPT Business 第三期｜澳大利亚48个月Team优惠码$17.8/月，4种支付含PayPal](../articles/chatgpt-business-48-team-17-8-4-payment-paypal.md)：本文介绍 ChatGPT Business 澳大利亚 Team 优惠的适用条件、价格与四种支付方式，并补充 PayPal 付款步骤和开通前核对事项。
+- [神卡BiyaPay身份证开户：ChatGPT/Claude等AI支付、USDT兑换、跨境汇款、美股交易手把手教程](../articles/chatgpt-card-biyapay-claude-ai-payment-tutorial.md)：ChatGPT/Claude等AI支付、USDT 兑换、跨境汇款、美股交易 BiyaPay EasyCard，让数字资产真正走进生活。
 - [ChatGPT降智识别和解决方案 | 降智定义、检测方法和应对策略](../articles/chatgpt-downgrade.md)：深入解析ChatGPT降级现象的成因、检测方法和解决方案。包含完整的降级识别指南、性能测试方法、IP质量评估和账号恢复方案。提供多种实用工具和专业建议，帮助用户应对ChatGPT性能下降问题。详细介绍官方风控策略、API限制变化，并提供最新的解决方案和优化建议，确保您获得最佳的AI对话体验。
 - [免费领ChatGPT Business 2个月！美区优惠码+长连接脚本教程](../articles/chatgpt-free-business-2-tutorial.md)：免费ChatGPT 2个月 Business 领取 第二期，这次是美区，绑卡用SafePal或者bybit 免费领取ChatGPT Business 2个月
 - [Gmail搞免费GPT账户｜K12空间白嫖ChatGPT Plus全流程 喂饭级教程](../articles/chatgpt-gmail-free-gpt-k12-plus-tutorial.md)：多了登录gpt会报错，脚本中的空间ID现在人数人多，可以自己找最新的gmail的K12空间id，进行替换，linuxdo等很多站很多分享的
@@ -62,6 +63,7 @@
 - [GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！](../articles/gpt-business-48.md)：GPT Business 最新 48 月优惠码大集合｜全球各国几十个优惠码，还没上的抓紧冲！教程，整理核心步骤、配置方法、常见问题和参考链接。
 - [GPT Plus太贵？教你用土区礼品卡超低价订阅！国内手机号可注册，无需海外信用卡（附3大购卡渠道对比）](../articles/gpt-plus-turkey-apple-gift-card-tutorial.md)：最近ChatGPT Plus特惠途径几乎覆没，美区20美元有些小贵？本教程教你通过土耳其区Apple ID+礼品卡方式，只需约78元人民币轻松订阅GPT Plus！零门槛，国内手机号即可注册，部分渠道直接支持支付宝付款，无需海外信用卡。
 - [GPT Pro 超低价手把手小白订阅教程 20x 150U / 5x 88U](../articles/gpt-pro-low-price-subscription-tutorial.md)：OpenAI GPT Pro 20x 实付 149.55 美元约 1035 元，Pro 5x 实付 88 美元约 603 元。脚本免 IP 直达菲律宾区和埃及区低价支付页面，支持 Fiat24、N26 等卡种，小白也能轻松操作。
+- [InstaBox 邀请码，谁需要等、等多久、没收到先查什么](../articles/instabox-invite-code-wait-check-usage.md)：InstaBox 目前是邀请制内测，用 Google 账号登录后，有人直接进去，有人要等邀请码。本文讲这两种情况的区别、等待的几种说法、没收到时的排查顺序，以及拿到邀请后怎么用、有哪些现成的命令行、SDK 和 GitHub 项目可以接上去，不发码，不卖码，不承诺一定能拿到。
 - [✨ Magic Resume ✨ 免费在线简历制作神器，多套模板让你的简历像魔法一样吸引HR！](../articles/jianli.md)：还在为简历发愁？Magic Resume 是一款免费的在线简历编辑器，基于Next.js和Framer Motion构建，拥有炫酷动画和自定义主题，支持实时预览和PDF导出。更有AI辅助编写等路线图，让你的简历制作事半功倍，轻松斩获心仪Offer！
 - [无需KYC，1U开美国虚拟卡！Claude/GPT订阅+广告投放，5个卡段保姆级教程](../articles/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial.md)：美国AI电商卡 卡段：532113｜Mastercard｜美国 这张卡的网站链接： 这张同样支持 ChatGPT、Claude、OpenAI、Gemini 等 AI 场景，也支持微信、支付宝、Apple Pay 和 Google Pay。
 - [Manus全网最全资料 Manus邀请码申请手把手教程（持续更新中，收藏这一个就够了），多个网盘资源。](../articles/manus-knowledge.md)：本教程详解Manus AI全平台资料的获取方式，包含持续更新的技术白皮书、实战教程、券商研报等核心资源，提供最新邀请码申请全流程指引，助您快速掌握AI代理开发与行业应用。教程附夸克网盘资源下载地址，涵盖智能体开发全生命周期文档。

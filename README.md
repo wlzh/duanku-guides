@@ -11,11 +11,11 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：242 篇
+- 当前收录：244 篇
 
 ## 专题导航
 
-- [AI](topics/ai.md)：86 篇
+- [AI](topics/ai.md)：88 篇
 - [跨境收款](topics/cross-border-payments.md)：1 篇
 - [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：162 篇
+- [技术](topics/tech.md)：164 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -39,10 +39,12 @@
 - [出海手机号](series/overseas-mobile.md)：27 个视频
 - [出海网络搭建](series/overseas-network.md)：26 个视频
 - [出海 VPS](series/vps.md)：15 个视频
-- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：30 个视频
+- [出海支付、银行卡与金融](series/global-payments-and-finance.md)：31 个视频
 
 ## 最近更新
 
+- [神卡BiyaPay身份证开户：ChatGPT/Claude等AI支付、USDT兑换、跨境汇款、美股交易手把手教程](articles/chatgpt-card-biyapay-claude-ai-payment-tutorial.md)：ChatGPT/Claude等AI支付、USDT 兑换、跨境汇款、美股交易 BiyaPay EasyCard，让数字资产真正走进生活。
+- [InstaBox 邀请码，谁需要等、等多久、没收到先查什么](articles/instabox-invite-code-wait-check-usage.md)：InstaBox 目前是邀请制内测，用 Google 账号登录后，有人直接进去，有人要等邀请码。本文讲这两种情况的区别、等待的几种说法、没收到时的排查顺序，以及拿到邀请后怎么用、有哪些现成的命令行、SDK 和 GitHub 项目可以接上去，不发码，不卖码，不承诺一定能拿到。
 - [美区 Apple 账户注册：官方入口、付款方式与账号安全](articles/register-iosid-foreign.md)：从 Apple 官方入口创建美区 Apple 账户，先分清新建账号还是改现有账号地区，再按付款方式与双重认证两步走，附注册后先核对什么。
 - [AI 歌舞与漫剧发布前先过一遍：肖像、歌曲与平台规则的避坑清单](articles/ai-video-copyright-portrait-checklist.md)：AI 歌舞 MV 与漫剧发布前，按肖像授权、歌曲版权与平台规则三条线自查：没有授权就不要用真实名人形象与热门歌曲做商业发布，优先原创角色与已授权音乐。
 - [Clash配置文件详解｜从零搞懂DNS、策略组、分流规则附实战](articles/clash-config-detail-dns.md)：逐项解析 Clash 配置文件中的 mixed-port、mode、DNS、策略组和分流规则，并结合示例说明常见配置错误与验证方法。
@@ -71,8 +73,6 @@
 - [复星国际证券港美股开户保姆级教程：香港银行绑定+港币美元入金全流程](articles/step-by-tutorial.md)：老范及助理团队自2024年以来线上协助很多兄弟开通港美股账户，为超多高净值用户对接香港新加坡美国各银行/网点/RM，还亲自陪同多位超高净值大佬设立离岸公司、身份规划、信托等各类资产配置方案。
 - [Meta Muse稳定过白名单注册教程：lexmount新途径+概率验卡全流程附10亿token邀请码](articles/meta-muse-register-lexmount-card-10-token-tutorial.md)：手工领取Pro会员 如果没有弹出点击 [lexmount pro ]( 需要做一个简单任务(连接github然后给仓库点一个start)就可以领取一个月pro会员。
 - [海妖Kraken大陆开户教程：全牌照交易所+个人IBAN法币出入金邀请码送10美元](articles/kraken-iban-10-tutorial.md)：Kraken交易所优点 全牌照交易所，多国法币出入金，安全出入金必备神器，支持美元ACH、欧元SEPA、英镑FPS、瑞郎SIC，现已经支持个人IBAN。
-- [大陆身份开通美国嘉信理财Charles Schwab保姆教程 0门槛免佣金+W-8BEN省税20%](articles/charles-schwab-0-w-8ben-20-tutorial.md)：Hong Kong | | SWIFT ID | CITIHKHX | | Bank Code | 006 | | Branch Code | 391 | | Account Number | 62286838 | | Account Name | Charles Schwab & Co。
-- [VOXI eSIM 学生首月免费与激活教程：资格、续费及保号限制](articles/esim-voxi.md)：VOXI eSIM 学生优惠与激活教程：说明英国大学学生资格、首月免费后的自动续费、eSIM 安装及号码查询，区分历史操作记录与尚未验证的境外长期保号方案。
 
 ## 使用说明
 
