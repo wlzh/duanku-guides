@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-05T07:14:44.000Z",
+  "sourceUpdatedAt": "2026-11-07T08:54:10.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 244,
+  "count": 245,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -213,8 +213,9 @@
       "blogUrl": "https://869hr.uk/series/overseas-mobile/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/overseas-mobile.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 27,
+      "itemCount": 28,
       "videoIds": [
+        "JEEMcR1TpbA",
         "-2Yi_NcEzJI",
         "P-9Z7O-_EyU",
         "cnkK6RQ4j74",
@@ -2707,6 +2708,32 @@
       "videoUrl": null
     },
     {
+      "id": "firsty-free-esim-step-by-340mb-0-card-tutorial",
+      "title": "Firsty免费eSIM保姆级教程：每天最多340MB免费，概率家宽！看广告换流量0月租免绑卡",
+      "description": "先看IP测试结果 通过ping0.cc测试 Firsty Free介绍 又一张免费 eSIM，看广告换流量。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Firsty",
+        "免费eSIM",
+        "eSIM",
+        "Firsty教程",
+        "免费流量"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjukvk0xcEupXpgNaObcY-G"
+      ],
+      "publishedAt": "2026-11-07T08:54:10.000Z",
+      "updatedAt": "2026-11-07T08:54:10.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/firsty-free-esim-step-by-340mb-0-card-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/firsty-free-esim-step-by-340mb-0-card-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=JEEMcR1TpbA"
+    },
+    {
       "id": "folder-enp",
       "title": "文件夹加密保护指南2025：保护您的敏感数据安全 | 完整教程",
       "description": "详细介绍如何使用各种工具和方法对文件夹进行加密保护，确保您的敏感数据安全。包含Windows、Mac和Linux系统的加密方案，以及最佳实践建议。",
@@ -4846,8 +4873,8 @@
     },
     {
       "id": "register-iosid-foreign",
-      "title": "美区 Apple 账户注册：官方入口、付款方式与账号安全",
-      "description": "从 Apple 官方入口创建美区 Apple 账户，先分清新建账号还是改现有账号地区，再按付款方式与双重认证两步走，附注册后先核对什么。",
+      "title": "美区 Apple ID 怎么注册：官方入口、付款方式与双重认证",
+      "description": "想注册美区 Apple ID，先分清新建账号还是改现有账号地区：走 Apple 官方入口创建账号，付款方式与双重认证按官方要求来，附注册后先核对什么。",
       "category": [
         "技术"
       ],
@@ -4863,7 +4890,7 @@
       ],
       "playlistIds": [],
       "publishedAt": "2025-02-07T09:03:00.000Z",
-      "updatedAt": "2026-10-28T20:05:00.000Z",
+      "updatedAt": "2026-11-05T17:30:00.000Z",
       "blogUrl": "https://869hr.uk/2025/tech/register-iosid-foreign/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/register-iosid-foreign.md",
       "videoUrl": null

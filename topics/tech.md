@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 164 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 165 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -65,6 +65,7 @@
 - [eSIM卡免手机保号收发短信！几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程](../articles/esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial.md)：几十块的大疆4G模块硬件底子是移远 EG25-G，本教程教你用 AT 指令把 USB 身份永久改写为移远 EC25，并在 Mac 上用 UTM 一键部署 VoHive，实现 eSIM 免手机保号收发短信。
 - [英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程](../articles/esim-free-card-tutorial.md)：介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。
 - [不支持eSIM的国产手机，白嫖法国USIMS永久免费流量教程](../articles/esim-mobile-usims-free-tutorial.md)：法国 USIMS 这款应用，实测能领到「1G 高速 + 用完无限 128kbps」的永久免费流量，而且你的手机不需要原生支持 eSIM——先用模块把手机伪装成支持 eSIM，再通过虚拟框架把应用装进去，就能拿到 eSIM 二维码，扫进小白卡正常使用
+- [Firsty免费eSIM保姆级教程：每天最多340MB免费，概率家宽！看广告换流量0月租免绑卡](../articles/firsty-free-esim-step-by-340mb-0-card-tutorial.md)：先看IP测试结果 通过ping0.cc测试 Firsty Free介绍 又一张免费 eSIM，看广告换流量。
 - [文件夹加密保护指南2025：保护您的敏感数据安全 | 完整教程](../articles/folder-enp.md)：详细介绍如何使用各种工具和方法对文件夹进行加密保护，确保您的敏感数据安全。包含Windows、Mac和Linux系统的加密方案，以及最佳实践建议。
 - [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
 - [免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月](../articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md)："（记得去 Billings & Invoices 手动升级到 Pro） What to Submit："A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。
@@ -125,7 +126,7 @@
 - [玩转香港PokePay虚拟卡：申请开卡、充值全攻略+返现活动  零成本开卡教程](../articles/pokepay-virtual-card-apply-tutorial.md)：本视频详细演示PokePay虚拟卡的注册、KYC身份认证、USDT充值、开卡、实体卡申请及绑定支付宝/微信全流程
 - [重磅！QQ官方机器人API原生对接OpenClaw！简单4步打造私人AI助手，Markdown等多媒体全面支持](../articles/qqbot-openclaw-official-api-tutorial.md)：这篇文章整理 QQ 官方机器人 API 原生对接 OpenClaw 的完整流程，涵盖开发者注册、机器人创建、密钥配置、三行命令接入，以及 Markdown 与多媒体能力说明。
 - [【资源运营神器Skills】完全开源，夸克网盘+GitHub一条龙全自动发布工具 (v1.2.0)！转存、归类、TG通知、站点更新一键搞定！手把手小白教程：从转存到发布全流程](../articles/quark-github-auto-publisher-skills-v1-2-0.md)：夸克网盘+GitHub一条龙自动化发布工具 v1.2.0：批量转存、自动归类、多仓库落盘、Telegram 通知、触发站点构建，手把手小白教程。
-- [美区 Apple 账户注册：官方入口、付款方式与账号安全](../articles/register-iosid-foreign.md)：从 Apple 官方入口创建美区 Apple 账户，先分清新建账号还是改现有账号地区，再按付款方式与双重认证两步走，附注册后先核对什么。
+- [美区 Apple ID 怎么注册：官方入口、付款方式与双重认证](../articles/register-iosid-foreign.md)：想注册美区 Apple ID，先分清新建账号还是改现有账号地区：走 Apple 官方入口创建账号，付款方式与双重认证按官方要求来，附注册后先核对什么。
 - [只需身份证！Roogoo Card 开卡充值消费全流程手把手教程，绑定支付宝微信畅享全球消费](../articles/roogoo-card-payment-tutorial.md)：手把手介绍 Roogoo Card 的身份证验证、开卡、稳定币充值、消费与账单检查流程，并说明绑定支付宝和微信前的注意事项。
 - [企业微信免Root虚拟定位打卡！0成本安卓手机100%成功教程](../articles/root-virtual-card-0-mobile-100-tutorial.md)：介绍基于 Android 调试 API 与地图定位 SDK 的免 Root 定位工具，涵盖安装、权限、位置选择、摇杆控制和结果验证。
 - [2026国内护照开SafePal万事达卡｜保姆级注册教程](../articles/safepal-card-register-tutorial.md)：介绍使用中国护照申请 SafePal 万事达卡的准备材料、App 注册、身份验证、开卡和消费流程，并提示活动、邮费及支付手续费。
