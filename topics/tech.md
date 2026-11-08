@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 165 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 166 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -71,6 +71,7 @@
 - [免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月](../articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md)："（记得去 Billings & Invoices 手动升级到 Pro） What to Submit："A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。
 - [薅羊毛新姿势！DNSHE 永久免费域名申请和cloudflare 手把手接入教程](../articles/free-domain-d53.md)：DNSHE 免费域名申请与 Cloudflare 接入教程：涵盖域名注册、DNS 记录配置、域名托管、CDN 加速和解析结果验证。
 - [2026最新免费.edu教育邮箱！帕克大学申请保姆教程，手慢无](../articles/free-edu-apply-tutorial.md)：整理帕克大学 .edu 教育邮箱的申请入口、资料填写、邮箱激活和结果验证步骤，并提示活动资格与开放状态可能随时调整。
+- [免费eSIM来了！又一家做任务领免费流量，送英国家庭宽带IP，流量永不过期，Airvoy开通教程！](../articles/free-esim-ip-airvoy-tutorial.md)：那么我们就可以使用 Airvoy 的 eSIM 来完成自己的任务，免费的还是很香哒。
 - [免费畅玩 GPT-5.5！小白手把手教程：CPA + CC-Switch + Claude Code 完整搭建攻略](../articles/free-gpt-55tutorial-cpa--cc-switch--claude-code--s.md)：从零开始搭建 CPA + CC-Switch + Claude Code 完整环境，免费使用 GPT-5.5 和 Codex，包含 VPN 配置、CPA 部署、CC-Switch 设置、Claude Code 整合的完整教程，以及 Codex 免费 Plus 申请指南
 - [🚀永久免费！HR都在看的神仙在线AI智能润色简历工具  全能本地，无隐私担忧  0基础免排版一键导出  手把手教你打造高薪Offer收割机](../articles/free-hr-ai-tools-0-offer.md)：今天给大家分享一个亲测好用、完全免费的在线简历生成神器 不管你是刚毕业的小白，还是想跳槽拿高薪的职场老鸟，这个工具都能帮你 0 基础、0 成本快速搞定一份让 HR 眼前一亮的专业简历
 - [限时免费获取沃达丰英国手机号！不需KYC，手把手保姆教程，手慢无](../articles/free-mobile-kyc-tutorial.md)：介绍 Vodafone UK 限时手机号活动的申请条件、页面操作、金额确认、邮件激活和结果验证，并提示地区、资格与活动时效限制。

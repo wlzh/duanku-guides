@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-07T08:54:10.000Z",
+  "sourceUpdatedAt": "2026-11-08T04:30:28.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 245,
+  "count": 246,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -213,8 +213,9 @@
       "blogUrl": "https://869hr.uk/series/overseas-mobile/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/overseas-mobile.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 28,
+      "itemCount": 29,
       "videoIds": [
+        "JQPfi9BSFy8",
         "JEEMcR1TpbA",
         "-2Yi_NcEzJI",
         "P-9Z7O-_EyU",
@@ -254,8 +255,9 @@
       "blogUrl": "https://869hr.uk/series/overseas-network/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/overseas-network.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 26,
+      "itemCount": 27,
       "videoIds": [
+        "JQPfi9BSFy8",
         "GM-kNpYAUVI",
         "qUU4B33XmJs",
         "KA4kd5bRgh8",
@@ -2882,6 +2884,33 @@
       "blogUrl": "https://869hr.uk/2026/tech/free-edu-apply-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-edu-apply-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=ceKs7zgfBi8"
+    },
+    {
+      "id": "free-esim-ip-airvoy-tutorial",
+      "title": "免费eSIM来了！又一家做任务领免费流量，送英国家庭宽带IP，流量永不过期，Airvoy开通教程！",
+      "description": "那么我们就可以使用 Airvoy 的 eSIM 来完成自己的任务，免费的还是很香哒。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "免费eSIM",
+        "Airvoy",
+        "eSIM教程",
+        "免费流量",
+        "英国家宽"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjukvk0xcEupXpgNaObcY-G",
+        "PLpBi3Wpk7OYh3kMT-egNWr8Bba0jdyttw"
+      ],
+      "publishedAt": "2026-11-08T04:30:28.000Z",
+      "updatedAt": "2026-11-08T04:30:28.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-esim-ip-airvoy-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-esim-ip-airvoy-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=JQPfi9BSFy8"
     },
     {
       "id": "free-gpt-55tutorial-cpa--cc-switch--claude-code--s",
