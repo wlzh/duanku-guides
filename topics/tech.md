@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 166 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 167 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -64,6 +64,7 @@
 - [eSIM卡怎么选？9eSIM vs XeSIM vs eSTK 全面对比评测](../articles/esim-card-9esim-vs-xesim-estk-compare-review.md)：9eSIM、XeSIM、eSTK三款eSIM产品全面对比评测！从内存容量、价格、苹果安卓兼容性、隐私安全等维度详细分析，帮你选出最适合自己的eSIM卡。国产手机也能秒变eSIM手机！
 - [eSIM卡免手机保号收发短信！几十块大疆4G模块爆改移远EC25，Mac UTM一键部署VoHive完整教程](../articles/esim-card-mobile-4g-ec25-mac-utm-deploy-tutorial.md)：几十块的大疆4G模块硬件底子是移远 EG25-G，本教程教你用 AT 指令把 USB 身份永久改写为移远 EC25，并在 Mac 上用 UTM 一键部署 VoHive，实现 eSIM 免手机保号收发短信。
 - [英国沃达丰eSIM免费送！免实名免绑卡，手把手开通教程](../articles/esim-free-card-tutorial.md)：介绍 Vodafone UK 网络试用 eSIM 的申请条件、下单与邮件激活流程，并说明英国地区限制、有效期、流量权益和使用前核对事项。
+- [格鲁吉亚eSIM手机卡！0元开卡自选号码，每月0.1拉里自动保号，Google/TG接码全能！](../articles/esim-mobile-card-0-1-google-tg.md)：取消套餐&自动保号 零元下卡，一年也才3RMB，写入到eSIM里仅占用15KB，esim容量非常小，极致低价，它必定会有一些不足之处，比如你买到的可能是二手号，也可能你无法验证TG，这都很正常，对于一个365天支持漫游仅需3RMB的境外手机号不要有太高的要求。
 - [不支持eSIM的国产手机，白嫖法国USIMS永久免费流量教程](../articles/esim-mobile-usims-free-tutorial.md)：法国 USIMS 这款应用，实测能领到「1G 高速 + 用完无限 128kbps」的永久免费流量，而且你的手机不需要原生支持 eSIM——先用模块把手机伪装成支持 eSIM，再通过虚拟框架把应用装进去，就能拿到 eSIM 二维码，扫进小白卡正常使用
 - [Firsty免费eSIM保姆级教程：每天最多340MB免费，概率家宽！看广告换流量0月租免绑卡](../articles/firsty-free-esim-step-by-340mb-0-card-tutorial.md)：先看IP测试结果 通过ping0.cc测试 Firsty Free介绍 又一张免费 eSIM，看广告换流量。
 - [文件夹加密保护指南2025：保护您的敏感数据安全 | 完整教程](../articles/folder-enp.md)：详细介绍如何使用各种工具和方法对文件夹进行加密保护，确保您的敏感数据安全。包含Windows、Mac和Linux系统的加密方案，以及最佳实践建议。

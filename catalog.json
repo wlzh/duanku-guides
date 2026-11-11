@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-08T04:30:28.000Z",
+  "sourceUpdatedAt": "2026-11-11T11:29:51.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 246,
+  "count": 247,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -213,8 +213,9 @@
       "blogUrl": "https://869hr.uk/series/overseas-mobile/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/overseas-mobile.md",
       "resourceUrl": "https://doc.869hr.uk/cross-border/",
-      "itemCount": 29,
+      "itemCount": 30,
       "videoIds": [
+        "UhLFTw38StU",
         "JQPfi9BSFy8",
         "JEEMcR1TpbA",
         "-2Yi_NcEzJI",
@@ -2661,6 +2662,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/esim-free-card-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-free-card-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=Zl6dHsPtlmg"
+    },
+    {
+      "id": "esim-mobile-card-0-1-google-tg",
+      "title": "格鲁吉亚eSIM手机卡！0元开卡自选号码，每月0.1拉里自动保号，Google/TG接码全能！",
+      "description": "取消套餐&自动保号 零元下卡，一年也才3RMB，写入到eSIM里仅占用15KB，esim容量非常小，极致低价，它必定会有一些不足之处，比如你买到的可能是二手号，也可能你无法验证TG，这都很正常，对于一个365天支持漫游仅需3RMB的境外手机号不要有太高的要求。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "格鲁吉亚eSIM",
+        "Cellfie",
+        "eSIM教程",
+        "0元开卡",
+        "保号手机卡"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjukvk0xcEupXpgNaObcY-G"
+      ],
+      "publishedAt": "2026-11-11T11:29:51.000Z",
+      "updatedAt": "2026-11-11T11:29:51.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/esim-mobile-card-0-1-google-tg/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/esim-mobile-card-0-1-google-tg.md",
+      "videoUrl": "https://www.youtube.com/watch?v=UhLFTw38StU"
     },
     {
       "id": "esim-mobile-usims-free-tutorial",
