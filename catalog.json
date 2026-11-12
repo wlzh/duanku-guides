@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-11T11:29:51.000Z",
+  "sourceUpdatedAt": "2026-11-12T03:02:57.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 247,
+  "count": 248,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -150,8 +150,9 @@
       "blogUrl": "https://869hr.uk/series/ai-products-and-technology/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/ai-products-and-technology.md",
       "resourceUrl": "https://doc.869hr.uk/AIknowledge/",
-      "itemCount": 50,
+      "itemCount": 51,
       "videoIds": [
+        "qIzO8KdOKTU",
         "tCf_fIjdn9U",
         "j4dI8a__EVk",
         "80u2rwxpTqA",
@@ -4451,6 +4452,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/mobile-talkatone-register-virtual-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/mobile-talkatone-register-virtual-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=3QjFYx6Mfpg"
+    },
+    {
+      "id": "muse-card-register-step-by-ip-tutorial",
+      "title": "Muse免卡注册保姆级教程：一个网页代理搞定住宅IP，有邮箱就能注册成功",
+      "description": "但是我没有家宽，也找了很多其它的替代方案都很麻烦，而且成功率也不高，尝试了很多不同的方案后，终于找到了，最简单的，不需要家宽，不用身份验证，不用绑卡而且成功率非常高的方案，目前我手动注册了6个muse号，成功率100%。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "Muse",
+        "Muse注册",
+        "Muse免卡注册",
+        "Muse免费注册",
+        "免卡注册"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYinOdd8WbQ_gbuSVMNgBLlI"
+      ],
+      "publishedAt": "2026-11-12T03:02:57.000Z",
+      "updatedAt": "2026-11-12T03:02:57.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/muse-card-register-step-by-ip-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/muse-card-register-step-by-ip-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=qIzO8KdOKTU"
     },
     {
       "id": "n26-free-5-virtual-card-6-tutorial",

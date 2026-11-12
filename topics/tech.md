@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 167 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 168 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -115,6 +115,7 @@
 - [国内任意手机免费使用eSIM！BeeSIM蓝牙读写+Saily美国实体号月租0.99美元完整教程](../articles/mobile-free-usage-esim-beesim-saily-0-99-tutorial.md)：介绍普通手机通过 BeeSIM 蓝牙读写器使用 eSIM，并演示 Saily 美国手机号套餐的开通、写入、保号和费用核对流程。
 - [苹果手机iOS定位修改到世界任何地方｜Shadowrocket小火箭保姆级教程 无需越狱](../articles/mobile-ios-shadowrocket-step-by-tutorial.md)：本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方， 无需越狱、无需电脑、无需开发者账号 。跟着一步步做即可。
 - [零成本保号美国实体手机号！Talkatone注册教程及虚拟号检测方法](../articles/mobile-talkatone-register-virtual-tutorial.md)：手把手演示 Talkatone 注册美国手机号的准备条件、下载安装、网络环境和号码检测方法，并说明保号与虚拟号识别注意事项。
+- [Muse免卡注册保姆级教程：一个网页代理搞定住宅IP，有邮箱就能注册成功](../articles/muse-card-register-step-by-ip-tutorial.md)：但是我没有家宽，也找了很多其它的替代方案都很麻烦，而且成功率也不高，尝试了很多不同的方案后，终于找到了，最简单的，不需要家宽，不用身份验证，不用绑卡而且成功率非常高的方案，目前我手动注册了6个muse号，成功率100%。
 - [你有足球热吗？德国N26免费领5张足球虚拟卡！共6张永久卡号，手把手教程](../articles/n26-free-5-virtual-card-6-tutorial.md)：介绍 N26 足球主题虚拟卡活动的领取条件和操作步骤，并补充开户后地址设置、ATM 取现及日常消费费用的核对方法。
 - [如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程](../articles/ollama-gguf.md)：详细教程：如何让Ollama运行网盘下载的GGUF模型文件？解决本地空间不足 | 完整教程，涵盖LLM、AI工具、本地部署等知识点
 - [PairDrop使用指南2025：免费无需安装的跨平台文件传输神器 | 附其他工具推荐](../articles/online-share-tool.md)：精选2025年最实用的在线文件分享工具，支持大文件传输、临时存储和加密分享等多种功能。包含详细的平台对比、速度测试报告和安全性评估。提供不同场景下的最佳工具推荐，包括商业应用和个人使用建议。特别关注数据安全和隐私保护，助你安全高效地完成文件分享任务。
