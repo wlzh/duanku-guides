@@ -11,11 +11,11 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：248 篇
+- 当前收录：249 篇
 
 ## 专题导航
 
-- [AI](topics/ai.md)：88 篇
+- [AI](topics/ai.md)：89 篇
 - [跨境收款](topics/cross-border-payments.md)：1 篇
 - [学习资源](topics/learning-resource.md)：3 篇
 - [生活](topics/life.md)：1 篇
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：168 篇
+- [技术](topics/tech.md)：169 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -35,7 +35,7 @@
 - [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
 - [基础软件与效率工具](series/software-and-tools.md)：18 个视频
 - [Claude Code 小白课程](series/claude-code-course.md)：4 个视频
-- [AI 产品与技术](series/ai-products-and-technology.md)：51 个视频
+- [AI 产品与技术](series/ai-products-and-technology.md)：52 个视频
 - [出海手机号](series/overseas-mobile.md)：30 个视频
 - [出海网络搭建](series/overseas-network.md)：27 个视频
 - [出海 VPS](series/vps.md)：15 个视频
@@ -43,6 +43,7 @@
 
 ## 最近更新
 
+- [魔搭×AMD免费领100小时MI300X GPU教程｜单卡192GB显存跑27B大模型，6步领取+避坑指南](articles/amd-free-100-mi300x-gpu-card-192gb-27b-6-tutorial.md)：魔搭 × AMD 开发者计划：免费领 100 小时 MI300X GPU 完整教程 本期重点 魔搭（ModelScope）和 AMD 开发者计划（ADP）联合推出了新用户权益：完成注册就能免费领 100 小时 AMD GPU Notebook 时长，硬件是 MI300X 或 MI308X，单卡 192GB 显存。
 - [Muse免卡注册保姆级教程：一个网页代理搞定住宅IP，有邮箱就能注册成功](articles/muse-card-register-step-by-ip-tutorial.md)：但是我没有家宽，也找了很多其它的替代方案都很麻烦，而且成功率也不高，尝试了很多不同的方案后，终于找到了，最简单的，不需要家宽，不用身份验证，不用绑卡而且成功率非常高的方案，目前我手动注册了6个muse号，成功率100%。
 - [格鲁吉亚eSIM手机卡！0元开卡自选号码，每月0.1拉里自动保号，Google/TG接码全能！](articles/esim-mobile-card-0-1-google-tg.md)：取消套餐&自动保号 零元下卡，一年也才3RMB，写入到eSIM里仅占用15KB，esim容量非常小，极致低价，它必定会有一些不足之处，比如你买到的可能是二手号，也可能你无法验证TG，这都很正常，对于一个365天支持漫游仅需3RMB的境外手机号不要有太高的要求。
 - [免费eSIM来了！又一家做任务领免费流量，送英国家庭宽带IP，流量永不过期，Airvoy开通教程！](articles/free-esim-ip-airvoy-tutorial.md)：那么我们就可以使用 Airvoy 的 eSIM 来完成自己的任务，免费的还是很香哒。
@@ -72,7 +73,6 @@
 - [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
 - [免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月](articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md)："（记得去 Billings & Invoices 手动升级到 Pro） What to Submit："A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。
 - [苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制](articles/appid-100-gift-card-tutorial.md)：苹果AppID充值购买失败解风控教程：联系客服100%解锁Gift Card消费限制。
-- [美区PayPal注册及稳定养号保姆级教程：Claude等AI订阅+App Store绑定全流程](articles/paypal-register-step-by-claude-ai-app-tutorial.md)：结束绑卡 至此，美区 PayPal 的注册和绑定 App Store 就搞定了， 搞一个美区 PayPal 是真香啊，美区订阅再也不用充值礼品卡了 ，礼品卡充值和退款、资金利用都非常不方便。
 
 ## 使用说明
 

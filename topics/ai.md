@@ -1,6 +1,6 @@
 # AI
 
-本专题收录 88 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 89 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
@@ -13,6 +13,7 @@
 - [零基础用AI写浏览器自动化！手把手教你做注册机](../articles/ai-register.md)：面向零代码基础读者演示如何借助 AI 编写浏览器自动化注册脚本，包含需求拆解、元素定位、运行调试和失败处理方法。
 - [AI 歌舞与漫剧发布前先过一遍：肖像、歌曲与平台规则的避坑清单](../articles/ai-video-copyright-portrait-checklist.md)：AI 歌舞 MV 与漫剧发布前，按肖像授权、歌曲版权与平台规则三条线自查：没有授权就不要用真实名人形象与热门歌曲做商业发布，优先原创角色与已授权音乐。
 - [名人反差歌舞 MV 与女频漫剧怎么做成系列？角色锁定与每周更新打法](../articles/ai-video-series-celebrity-dance-female-drama.md)：从本期趋势数据拆解两类 AI 视频的系列化打法。名人反差歌舞靠选角反差留人，女频漫剧靠同一角色换篇名测试，核心都是先锁定角色和画风再固定更新。
+- [魔搭×AMD免费领100小时MI300X GPU教程｜单卡192GB显存跑27B大模型，6步领取+避坑指南](../articles/amd-free-100-mi300x-gpu-card-192gb-27b-6-tutorial.md)：魔搭 × AMD 开发者计划：免费领 100 小时 MI300X GPU 完整教程 本期重点 魔搭（ModelScope）和 AMD 开发者计划（ADP）联合推出了新用户权益：完成注册就能免费领 100 小时 AMD GPU Notebook 时长，硬件是 MI300X 或 MI308X，单卡 192GB 显存。
 - [三方API登录下用手机远控Codex，手把手小白教程](../articles/api-mobile-codex-beginner-tutorial.md)：介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。
 - [【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！](../articles/apple-id-register---claude.md)：详细教程：【全网最便宜】Claude订阅只要6折！尼日利亚🇳🇬苹果ID注册保姆级教程，100%成功！，涵盖Claude、Apple ID、教程等知识点
 - [0成本开通Starryblu全球账户！支持ChatGPT/Claude订阅+推特蓝V+微信消费｜从开卡到入金到出金完整教程](../articles/chatgpt-0-starryblu-claude-v-card-tutorial.md)：介绍 Starryblu 全球账户的注册、验证、开卡、入金、消费和出金流程，并说明用于 AI 订阅、X 认证及微信消费时的限制与费用。

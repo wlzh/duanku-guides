@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 168 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 169 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -19,6 +19,7 @@
 - [零基础用AI写浏览器自动化！手把手教你做注册机](../articles/ai-register.md)：面向零代码基础读者演示如何借助 AI 编写浏览器自动化注册脚本，包含需求拆解、元素定位、运行调试和失败处理方法。
 - [AI 歌舞与漫剧发布前先过一遍：肖像、歌曲与平台规则的避坑清单](../articles/ai-video-copyright-portrait-checklist.md)：AI 歌舞 MV 与漫剧发布前，按肖像授权、歌曲版权与平台规则三条线自查：没有授权就不要用真实名人形象与热门歌曲做商业发布，优先原创角色与已授权音乐。
 - [名人反差歌舞 MV 与女频漫剧怎么做成系列？角色锁定与每周更新打法](../articles/ai-video-series-celebrity-dance-female-drama.md)：从本期趋势数据拆解两类 AI 视频的系列化打法。名人反差歌舞靠选角反差留人，女频漫剧靠同一角色换篇名测试，核心都是先锁定角色和画风再固定更新。
+- [魔搭×AMD免费领100小时MI300X GPU教程｜单卡192GB显存跑27B大模型，6步领取+避坑指南](../articles/amd-free-100-mi300x-gpu-card-192gb-27b-6-tutorial.md)：魔搭 × AMD 开发者计划：免费领 100 小时 MI300X GPU 完整教程 本期重点 魔搭（ModelScope）和 AMD 开发者计划（ADP）联合推出了新用户权益：完成注册就能免费领 100 小时 AMD GPU Notebook 时长，硬件是 MI300X 或 MI308X，单卡 192GB 显存。
 - [美国私人地址租用教程！Anytime Mailbox 手把手教你自己甄别住宅地址，9.9美元/月起](../articles/anytime-mailbox-9-tutorial.md)：「成为美国云居民」系列第四期：手把手教你在 Anytime Mailbox 租用美国私人地址
 - [三方API登录下用手机远控Codex，手把手小白教程](../articles/api-mobile-codex-beginner-tutorial.md)：介绍电脑端 Codex 使用第三方或中转 API 时的手机远程控制方案，涵盖连接架构、配置步骤、安全边界和常见故障排查。
 - [海外地址证明获取方法汇总！零成本获得手把手教程，轻松解决海外APP服务注册难题](../articles/app-register-tutorial.md)：本期汇总几类海外地址证明的获取方法，并手把手教你用万里汇 WorldFirst 零成本开具正规账户证明信，轻松解决海外 APP 服务注册的地址证明难题

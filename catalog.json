@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-12T03:02:57.000Z",
+  "sourceUpdatedAt": "2026-11-14T07:58:40.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 248,
+  "count": 249,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -150,8 +150,9 @@
       "blogUrl": "https://869hr.uk/series/ai-products-and-technology/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/ai-products-and-technology.md",
       "resourceUrl": "https://doc.869hr.uk/AIknowledge/",
-      "itemCount": 51,
+      "itemCount": 52,
       "videoIds": [
+        "8RC4K0NQZaA",
         "qIzO8KdOKTU",
         "tCf_fIjdn9U",
         "j4dI8a__EVk",
@@ -922,6 +923,33 @@
       "blogUrl": "https://869hr.uk/2026/tech/ai-video-series-celebrity-dance-female-drama/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/ai-video-series-celebrity-dance-female-drama.md",
       "videoUrl": null
+    },
+    {
+      "id": "amd-free-100-mi300x-gpu-card-192gb-27b-6-tutorial",
+      "title": "魔搭×AMD免费领100小时MI300X GPU教程｜单卡192GB显存跑27B大模型，6步领取+避坑指南",
+      "description": "魔搭 × AMD 开发者计划：免费领 100 小时 MI300X GPU 完整教程 本期重点 魔搭（ModelScope）和 AMD 开发者计划（ADP）联合推出了新用户权益：完成注册就能免费领 100 小时 AMD GPU Notebook 时长，硬件是 MI300X 或 MI308X，单卡 192GB 显存。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "魔搭",
+        "AMD",
+        "MI300X",
+        "免费GPU",
+        "ModelScope"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYinOdd8WbQ_gbuSVMNgBLlI"
+      ],
+      "publishedAt": "2026-11-14T07:58:40.000Z",
+      "updatedAt": "2026-11-14T07:58:40.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/amd-free-100-mi300x-gpu-card-192gb-27b-6-tutorial/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/amd-free-100-mi300x-gpu-card-192gb-27b-6-tutorial.md",
+      "videoUrl": "https://www.youtube.com/watch?v=8RC4K0NQZaA"
     },
     {
       "id": "anytime-mailbox-9-tutorial",
