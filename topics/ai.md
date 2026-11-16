@@ -1,11 +1,12 @@
 # AI
 
-本专题收录 89 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 90 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
 - [【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！](../articles/6-chatgpt-plus-tutorial.md)：详细教程：【全网最低】6折订阅ChatGPT Plus教程，免挂土区梯子，保姆级步骤！，涵盖视频教程等知识点
 - [拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略  50次刷新机会，亲测轻松解锁Claude/ChatGPT！](../articles/8-usa-ip-50-claude-chatgpt.md)：详细教程：拒绝昂贵代理！$8一年的纯净美国、欧洲等多国家可选的家庭宽带IP购买攻略 50次刷新机会，亲测轻松解锁Claude/ChatGPT！，涵盖ip属性、VPN、ChatGPT等知识点
+- [AdsPower 指纹浏览器自动化实战：Local API+MCP+CLI 告别环境配置重复劳动，多账号隔离｜账号星球 AccountBoy 批量账号一站解决](../articles/adspower-local-api-mcp-cli-config-accountboy.md)：AdsPower Local API 提供了比较完整的环境管理接口，可以通过代码批量完成：创建、修改、删除、查询浏览器环境；启动、关闭和检查环境运行状态；配置浏览器指纹、User-Agent、代理 IP 等参数；创建和管理环境分组，调整环境归属；批量读取环境信息，维护已有配置。
 - [AI Agents免费学习8个宝藏级资源🚀，不学你就OUT了！](../articles/ai-agent-study.md)：还在苦苦寻找AI Agents的学习资料？别找啦！这篇博客为你精选了8个免费又优质的学习资源，从Google白皮书到MIT专业著作，再到Hugging Face实战课程，应有尽有，助你快速掌握AI Agents的核心技能，弯道超车，就在今天！
 - [论文去AI味神器！baibaiAIGC开源工具完整教程｜多轮降AIGC痕迹 支持docx和txt](../articles/ai-baibaiaigc-tools-aigc-docx-txt-tutorial.md)：介绍 baibaiAIGC 开源工具的安装、API 配置、模型选择、docx 与 txt 处理流程，并说明多轮改写、切块校验和常见报错排查。
 - [2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南](../articles/ai-beginner-guide.md)：🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新

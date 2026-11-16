@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-14T07:58:40.000Z",
+  "sourceUpdatedAt": "2026-11-14T14:03:13.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 249,
+  "count": 250,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -102,8 +102,9 @@
       "blogUrl": "https://869hr.uk/series/software-and-tools/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/software-and-tools.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 18,
+      "itemCount": 19,
       "videoIds": [
+        "s8huUBAJwQ4",
         "sNyanTFLSPo",
         "DnOKC9uBw00",
         "1e8gXx3c56w",
@@ -750,6 +751,33 @@
       "blogUrl": "https://869hr.uk/2026/tutorial/8-usa-ip-50-claude-chatgpt/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/8-usa-ip-50-claude-chatgpt.md",
       "videoUrl": "https://www.youtube.com/watch?v=ggCSZOXEqbE"
+    },
+    {
+      "id": "adspower-local-api-mcp-cli-config-accountboy",
+      "title": "AdsPower 指纹浏览器自动化实战：Local API+MCP+CLI 告别环境配置重复劳动，多账号隔离｜账号星球 AccountBoy 批量账号一站解决",
+      "description": "AdsPower Local API 提供了比较完整的环境管理接口，可以通过代码批量完成：创建、修改、删除、查询浏览器环境；启动、关闭和检查环境运行状态；配置浏览器指纹、User-Agent、代理 IP 等参数；创建和管理环境分组，调整环境归属；批量读取环境信息，维护已有配置。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "AdsPower",
+        "指纹浏览器",
+        "浏览器自动化",
+        "Selenium",
+        "Puppeteer"
+      ],
+      "topics": [
+        "tech",
+        "ai"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYj6r0d5AhVJXVwwA_Y0AZiu"
+      ],
+      "publishedAt": "2026-11-14T14:03:13.000Z",
+      "updatedAt": "2026-11-14T14:03:13.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/adspower-local-api-mcp-cli-config-accountboy/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/adspower-local-api-mcp-cli-config-accountboy.md",
+      "videoUrl": "https://www.youtube.com/watch?v=s8huUBAJwQ4"
     },
     {
       "id": "ai-agent-study",

@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 169 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 170 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -13,6 +13,7 @@
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
 - [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](../articles/60-mac-vibe-coding-tutorial.md)：用小米蓝牙遥控器 RC003 和 SayAll 实现 Mac 无线语音输入与快捷键控制，涵盖安装、配对、权限授权、按键映射和 Vibe Coding 使用方法。
 - [微信群二维码7天过期？用这个开源免费工具生成永久二维码，无需服务器，3分钟搞定！](../articles/7-free-tools-server-3.md)：众所周知，微信群二维码只有 7天有效期，对于一些玩私域的朋友，稳住一个二维码使用完全没招，要么只能忍受，要么市面上有付费使用的，要么免费的总有弹窗广告来维持不变的二维码。
+- [AdsPower 指纹浏览器自动化实战：Local API+MCP+CLI 告别环境配置重复劳动，多账号隔离｜账号星球 AccountBoy 批量账号一站解决](../articles/adspower-local-api-mcp-cli-config-accountboy.md)：AdsPower Local API 提供了比较完整的环境管理接口，可以通过代码批量完成：创建、修改、删除、查询浏览器环境；启动、关闭和检查环境运行状态；配置浏览器指纹、User-Agent、代理 IP 等参数；创建和管理环境分组，调整环境归属；批量读取环境信息，维护已有配置。
 - [论文去AI味神器！baibaiAIGC开源工具完整教程｜多轮降AIGC痕迹 支持docx和txt](../articles/ai-baibaiaigc-tools-aigc-docx-txt-tutorial.md)：介绍 baibaiAIGC 开源工具的安装、API 配置、模型选择、docx 与 txt 处理流程，并说明多轮改写、切块校验和常见报错排查。
 - [2026最新AI名词全解读｜小白也能秒懂的AI世界入门指南](../articles/ai-beginner-guide.md)：🔗 配套图文教程详见博客 AI入门 AI名词解释 ChatGPT Claude Gemini 大模型 Token Agent 2026最新
 - [真香！AI订阅、支付卡，Bybit Card 国内身份证秒开，0开卡费，USDT 支付宝/微信随便刷](../articles/ai-payment-card-bybit-0-usdt.md)：中国身份证就能秒开虚拟卡 + 实体卡，支付宝、微信、Apple Pay 随便绑，日常买咖啡、付房租都能直接刷 [USDT]
