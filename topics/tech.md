@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 170 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 171 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -10,6 +10,7 @@
 - [2026最新！5分钟速创美区Apple ID教程 免绑卡0成本，App Store无验证码秒切账号！](../articles/20265apple-idtutorial-card0-app-store.md)：2026年最新5分钟速创美区Apple ID保姆级教程，全程0成本免绑卡，分享无验证码切换技巧及解决自动跳回国区Bug方案
 - [2026最新免费域名！免绑信用卡，初始给10年还可无限续期，手把手教你托管Cloudflare全流程](../articles/2026freedomaincard-10-cloudflare.md)：DNSHE免费域名注册教程，ccwu.cc后缀初始10年有效期可无限续期，手把手教你托管到Cloudflare，适合VPS面板、NAS远程访问、自建博客。
 - [3分钟解锁欧洲交易所！Neverless注册出入金全教程，0手续费+送20USD](../articles/3-neverless-register-0-20usd-tutorial.md)：介绍 Neverless 的账户注册、身份验证、入金、交易与出金流程，并提示奖励、费用、地区资格和监管信息需在操作前核对官方页面。
+- [每天白嫖 30GB 纯净静态住宅IP流量：URnetwork 去中心化网络与全球住宅 IP 全平台上手](../articles/30gb-ip-urnetwork.md)：每天白嫖 30GB 纯净静态住宅IP流量：URnetwork 去中心化网络与全球住宅 IP 全平台上手 本期重点 又挖到一个免费福利：URnetwork，一款开源的去中心化网络应用。
 - [5分钟搭建0成本完全免费VPN节点-手把手喂饭级教程](../articles/5-0-free-vpn-tutorial.md)：因为是cloudflare的ip，如果一些对家庭宽带IP、纯净IP等有要求的，比如Claude、ChatGPT等软件，需要落地的，可以看评论区的链接开通，如果不会链式代理、落地IP配置等，可以看往期教程，或者访问博客链接 5分钟搭建0成本完全免费的VPN节点，手把手喂饭级教程
 - [60元小米遥控器变身Mac语音神器！Vibe Coding 开口即输入，手把手教程](../articles/60-mac-vibe-coding-tutorial.md)：用小米蓝牙遥控器 RC003 和 SayAll 实现 Mac 无线语音输入与快捷键控制，涵盖安装、配对、权限授权、按键映射和 Vibe Coding 使用方法。
 - [微信群二维码7天过期？用这个开源免费工具生成永久二维码，无需服务器，3分钟搞定！](../articles/7-free-tools-server-3.md)：众所周知，微信群二维码只有 7天有效期，对于一些玩私域的朋友，稳住一个二维码使用完全没招，要么只能忍受，要么市面上有付费使用的，要么免费的总有弹窗广告来维持不变的二维码。

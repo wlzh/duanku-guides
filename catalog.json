@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-14T14:03:13.000Z",
+  "sourceUpdatedAt": "2026-11-16T14:46:08.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 250,
+  "count": 251,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -259,8 +259,9 @@
       "blogUrl": "https://869hr.uk/series/overseas-network/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/overseas-network.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 27,
+      "itemCount": 28,
       "videoIds": [
+        "ORtblo6zBYc",
         "JQPfi9BSFy8",
         "GM-kNpYAUVI",
         "qUU4B33XmJs",
@@ -619,6 +620,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/3-neverless-register-0-20usd-tutorial/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/3-neverless-register-0-20usd-tutorial.md",
       "videoUrl": "https://www.youtube.com/watch?v=4aFwSHXv090"
+    },
+    {
+      "id": "30gb-ip-urnetwork",
+      "title": "每天白嫖 30GB 纯净静态住宅IP流量：URnetwork 去中心化网络与全球住宅 IP 全平台上手",
+      "description": "每天白嫖 30GB 纯净静态住宅IP流量：URnetwork 去中心化网络与全球住宅 IP 全平台上手 本期重点 又挖到一个免费福利：URnetwork，一款开源的去中心化网络应用。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "URnetwork",
+        "免费VPN",
+        "住宅IP",
+        "静态住宅IP",
+        "纯净IP"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYh3kMT-egNWr8Bba0jdyttw"
+      ],
+      "publishedAt": "2026-11-16T14:46:08.000Z",
+      "updatedAt": "2026-11-16T14:46:08.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/30gb-ip-urnetwork/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/30gb-ip-urnetwork.md",
+      "videoUrl": "https://www.youtube.com/watch?v=ORtblo6zBYc"
     },
     {
       "id": "5-0-free-vpn-tutorial",
