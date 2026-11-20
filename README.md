@@ -11,7 +11,7 @@
 - Telegram：[M.Share AI 社群](https://t.me/tgmShareAI)
 - 微信群：[AI 技术交流群](https://qr.869hr.uk/aitech)
 - RSS：[订阅最新文章](https://869hr.uk/atom.xml)
-- 当前收录：251 篇
+- 当前收录：252 篇
 
 ## 专题导航
 
@@ -24,7 +24,7 @@
 - [软件](topics/software.md)：7 篇
 - [学习](topics/study.md)：1 篇
 - [技术支持](topics/support.md)：2 篇
-- [技术](topics/tech.md)：171 篇
+- [技术](topics/tech.md)：172 篇
 - [工具](topics/tools.md)：13 篇
 - [教程](topics/tutorial.md)：44 篇
 - [视频教程](topics/video-tutorials.md)：1 篇
@@ -33,16 +33,17 @@
 
 - [美国云居民系列](series/american-cloud-resident.md)：9 个视频
 - [英国 Giffgaff 保号系列](series/giffgaff.md)：11 个视频
-- [基础软件与效率工具](series/software-and-tools.md)：19 个视频
+- [基础软件与效率工具](series/software-and-tools.md)：18 个视频
 - [Claude Code 小白课程](series/claude-code-course.md)：4 个视频
 - [AI 产品与技术](series/ai-products-and-technology.md)：52 个视频
 - [出海手机号](series/overseas-mobile.md)：30 个视频
 - [出海网络搭建](series/overseas-network.md)：28 个视频
-- [出海 VPS](series/vps.md)：15 个视频
+- [出海 VPS](series/vps.md)：16 个视频
 - [出海支付、银行卡与金融](series/global-payments-and-finance.md)：31 个视频
 
 ## 最近更新
 
+- [免费！中国电信送4核8G云电脑：免绑卡免实名申请+防休眠保活设置，限时领取](articles/free-4-8g-desktop-card-apply-setup.md)：中国电信直接送一台 4 核 8G 的云电脑，免绑卡免实名申请及防休眠保活设置，限时开放领取，抓紧冲 看配置 先看配置，如图 云电脑显示运行中，磁盘约 140GB，权益页面还写着 「免费权益，长期有效」。
 - [每天白嫖 30GB 纯净静态住宅IP流量：URnetwork 去中心化网络与全球住宅 IP 全平台上手](articles/30gb-ip-urnetwork.md)：每天白嫖 30GB 纯净静态住宅IP流量：URnetwork 去中心化网络与全球住宅 IP 全平台上手 本期重点 又挖到一个免费福利：URnetwork，一款开源的去中心化网络应用。
 - [AdsPower 指纹浏览器自动化实战：Local API+MCP+CLI 告别环境配置重复劳动，多账号隔离｜账号星球 AccountBoy 批量账号一站解决](articles/adspower-local-api-mcp-cli-config-accountboy.md)：AdsPower Local API 提供了比较完整的环境管理接口，可以通过代码批量完成：创建、修改、删除、查询浏览器环境；启动、关闭和检查环境运行状态；配置浏览器指纹、User-Agent、代理 IP 等参数；创建和管理环境分组，调整环境归属；批量读取环境信息，维护已有配置。
 - [魔搭×AMD免费领100小时MI300X GPU教程｜单卡192GB显存跑27B大模型，6步领取+避坑指南](articles/amd-free-100-mi300x-gpu-card-192gb-27b-6-tutorial.md)：魔搭 × AMD 开发者计划：免费领 100 小时 MI300X GPU 完整教程 本期重点 魔搭（ModelScope）和 AMD 开发者计划（ADP）联合推出了新用户权益：完成注册就能免费领 100 小时 AMD GPU Notebook 时长，硬件是 MI300X 或 MI308X，单卡 192GB 显存。
@@ -72,7 +73,6 @@
 - [无需KYC，1U开美国虚拟卡！Claude/GPT订阅+广告投放，5个卡段保姆级教程](articles/kyc-1u-virtual-card-claude-gpt-5-step-by-tutorial.md)：美国AI电商卡 卡段：532113｜Mastercard｜美国 这张卡的网站链接： 这张同样支持 ChatGPT、Claude、OpenAI、Gemini 等 AI 场景，也支持微信、支付宝、Apple Pay 和 Google Pay。
 - [华为云2核4G服务器36元买1年，200元券免费续到2028 手把手教程](articles/2-4g-server-36-1-200-free-2028-tutorial.md)：花36元拿下华为云2核4G云服务器18个月，再用200元无门槛代金券免费续费6个月，薅到2028年，手把手保姆级教程附避坑指南。
 - [免费云服务器！InstaBox 最高20核+40GB内存，1秒启动 白嫖教程](articles/free-server-instabox-20-40gb-1-tutorial.md)：InstaBox 的云服务 发现一个叫 InstaBox 的云服务，目前正在邀请制内测，主打给 AI Agent 提供云端运行环境。
-- [Tello 月租$5被扣$6.85？改账单地址到免税州，每月立省$1.85 手把手教程](articles/tello-5-6-85-1-tutorial.md)：Tello 月租$5被扣$6.85？多出的 $1.85 全是销售税。手把手教你把账单地址改到免税州或爱达荷低税州，每月立省 $1.85、一年省 $22 的完整教程。
 
 ## 使用说明
 

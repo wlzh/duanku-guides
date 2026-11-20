@@ -12,7 +12,6 @@ AdsPower Local API 提供了比较完整的环境管理接口，可以通过代�
 - 专题：技术、AI
 - 关键词：AdsPower、指纹浏览器、浏览器自动化、Selenium、Puppeteer
 - 视频：https://www.youtube.com/watch?v=s8huUBAJwQ4
-- 系列：[基础软件与效率工具](../series/software-and-tools.md)
 
 ## 正文
 

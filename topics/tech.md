@@ -1,6 +1,6 @@
 # 技术
 
-本专题收录 171 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
+本专题收录 172 篇公开内容。完整文章持续更新于 [869hr.uk](https://869hr.uk)。
 
 - [0月租英国神卡Giffgaff保号助手 每次仅0.03英镑 由保号20年免费升到保号200年](../articles/0-card-giffgaff-03-20-free-200.md)：介绍 Giffgaff 低成本保号助手的安装、移动数据权限设置、自动保号流程和费用核对方法，并说明适用设备与使用限制。
 - [1分钟免费领取1年 Atomesus Prime：无限图片生成与聊天保姆教程](../articles/1-free-atomesus-prime-tutorial.md)：手把手演示免费领取 1 年 Atomesus Prime 的完整流程，说明活动入口、注册步骤、权益确认方法及领取失败时的排查要点。
@@ -72,6 +72,7 @@
 - [Firsty免费eSIM保姆级教程：每天最多340MB免费，概率家宽！看广告换流量0月租免绑卡](../articles/firsty-free-esim-step-by-340mb-0-card-tutorial.md)：先看IP测试结果 通过ping0.cc测试 Firsty Free介绍 又一张免费 eSIM，看广告换流量。
 - [文件夹加密保护指南2025：保护您的敏感数据安全 | 完整教程](../articles/folder-enp.md)：详细介绍如何使用各种工具和方法对文件夹进行加密保护，确保您的敏感数据安全。包含Windows、Mac和Linux系统的加密方案，以及最佳实践建议。
 - [免费领取价值20美元Kiro Pro会员 一分钟用上Claude Opus 4.7](../articles/free-20-kiro-pro-claude-opus-4-7.md)：手把手教你免费领取价值20美元的Kiro Pro会员，一分钟即可用上最强Claude Opus 4.7模型！
+- [免费！中国电信送4核8G云电脑：免绑卡免实名申请+防休眠保活设置，限时领取](../articles/free-4-8g-desktop-card-apply-setup.md)：中国电信直接送一台 4 核 8G 的云电脑，免绑卡免实名申请及防休眠保活设置，限时开放领取，抓紧冲 看配置 先看配置，如图 云电脑显示运行中，磁盘约 140GB，权益页面还写着 「免费权益，长期有效」。
 - [免费领Cursor Pro教程：MLH Global Hack Week兑换码全流程价值20美元/月](../articles/free-cursor-pro-mlh-global-hack-week-20-tutorial.md)："（记得去 Billings & Invoices 手动升级到 Pro） What to Submit："A screenshot of your Cursor Dashboard showing Cursor Pro was redeemed。
 - [薅羊毛新姿势！DNSHE 永久免费域名申请和cloudflare 手把手接入教程](../articles/free-domain-d53.md)：DNSHE 免费域名申请与 Cloudflare 接入教程：涵盖域名注册、DNS 记录配置、域名托管、CDN 加速和解析结果验证。
 - [2026最新免费.edu教育邮箱！帕克大学申请保姆教程，手慢无](../articles/free-edu-apply-tutorial.md)：整理帕克大学 .edu 教育邮箱的申请入口、资料填写、邮箱激活和结果验证步骤，并提示活动资格与开放状态可能随时调整。

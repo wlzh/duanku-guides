@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "sourceUpdatedAt": "2026-11-16T14:46:08.000Z",
+  "sourceUpdatedAt": "2026-11-20T14:44:43.000Z",
   "source": "https://869hr.uk",
   "channels": [
     {
@@ -39,7 +39,7 @@
       "url": "https://869hr.uk/atom.xml"
     }
   ],
-  "count": 251,
+  "count": 252,
   "youtubeChannel": {
     "channelId": "UCTV6P0kK8rx6UlEjOJF-poA",
     "title": "短裤AI分享",
@@ -102,9 +102,8 @@
       "blogUrl": "https://869hr.uk/series/software-and-tools/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/software-and-tools.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 19,
+      "itemCount": 18,
       "videoIds": [
-        "s8huUBAJwQ4",
         "sNyanTFLSPo",
         "DnOKC9uBw00",
         "1e8gXx3c56w",
@@ -300,8 +299,9 @@
       "blogUrl": "https://869hr.uk/series/vps/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/series/vps.md",
       "resourceUrl": "https://doc.869hr.uk/tools/",
-      "itemCount": 15,
+      "itemCount": 16,
       "videoIds": [
+        "HPEKM4JW3es",
         "bUWjU0yn5M0",
         "hfMZWnzcARM",
         "spuxWoqv2A8",
@@ -797,9 +797,7 @@
         "tech",
         "ai"
       ],
-      "playlistIds": [
-        "PLpBi3Wpk7OYj6r0d5AhVJXVwwA_Y0AZiu"
-      ],
+      "playlistIds": [],
       "publishedAt": "2026-11-14T14:03:13.000Z",
       "updatedAt": "2026-11-14T14:03:13.000Z",
       "blogUrl": "https://869hr.uk/2026/tech/adspower-local-api-mcp-cli-config-accountboy/",
@@ -2893,6 +2891,32 @@
       "blogUrl": "https://869hr.uk/2026/tech/free-20-kiro-pro-claude-opus-4-7/",
       "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-20-kiro-pro-claude-opus-4-7.md",
       "videoUrl": "https://www.youtube.com/watch?v=NlYVZjOBkOw"
+    },
+    {
+      "id": "free-4-8g-desktop-card-apply-setup",
+      "title": "免费！中国电信送4核8G云电脑：免绑卡免实名申请+防休眠保活设置，限时领取",
+      "description": "中国电信直接送一台 4 核 8G 的云电脑，免绑卡免实名申请及防休眠保活设置，限时开放领取，抓紧冲 看配置 先看配置，如图 云电脑显示运行中，磁盘约 140GB，权益页面还写着 「免费权益，长期有效」。",
+      "category": [
+        "技术"
+      ],
+      "tags": [
+        "中国电信",
+        "云电脑",
+        "免费云电脑",
+        "TeleAgent",
+        "免费服务器"
+      ],
+      "topics": [
+        "tech"
+      ],
+      "playlistIds": [
+        "PLpBi3Wpk7OYjYV-Mz64Bzv3FxADmyKcsC"
+      ],
+      "publishedAt": "2026-11-20T14:44:43.000Z",
+      "updatedAt": "2026-11-20T14:44:43.000Z",
+      "blogUrl": "https://869hr.uk/2026/tech/free-4-8g-desktop-card-apply-setup/",
+      "githubUrl": "https://github.com/wlzh/duanku-guides/blob/main/articles/free-4-8g-desktop-card-apply-setup.md",
+      "videoUrl": "https://www.youtube.com/watch?v=HPEKM4JW3es"
     },
     {
       "id": "free-cursor-pro-mlh-global-hack-week-20-tutorial",
